@@ -256,7 +256,24 @@ ${untranslated.map((g, i) => `${i}: ${g.t}`).join("\n")}`);
 }
 
 // ——— uitslagenkaart (dagelijks vernieuwd; OK verbergt hem tot morgen) ———
-const pcsRows = await fetchPCSResults();
+let pcsRows = await fetchPCSResults();
+if (!pcsRows.length) {
+  // PCS blokkeert GitHub-servers soms; haal uitslagen dan uit de nieuwskoppen zelf
+  try {
+    const heads = data.groups.filter((g) => !g.type).slice(0, 50).map((g) => "- " + g.t).join("\n");
+    const raw = await askClaude(`From these cycling headlines, extract explicit race RESULTS only (a rider winning a named race/stage). Respond ONLY with valid JSON, no markdown:
+{"res":[{"race":"Race or stage","winner":"Rider"}]}
+Max 10. Skip anything uncertain.
+Headlines:
+${heads}`);
+    const res = extractJSON(raw, "res")?.res || [];
+    pcsRows = res.filter((r) => r?.race && r?.winner).map((r) => ({
+      race: r.race, winner: r.winner,
+      url: "https://www.procyclingstats.com/search.php?term=" + encodeURIComponent(r.race),
+    }));
+    console.log(pcsRows.length ? `✓ uitslagen uit nieuwskoppen: ${pcsRows.length}` : "✗ ook geen uitslagen in de koppen gevonden");
+  } catch (e) { console.log(`✗ uitslagen-vangnet: ${e.message}`); }
+}
 data.groups = data.groups.filter((g) => g.type !== "results");
 if (pcsRows.length) {
   data.groups.push({
@@ -304,6 +321,8 @@ Respond ONLY with valid JSON, no markdown:
         sources: [{ n: "PCS form ranking", u: "https://www.procyclingstats.com/rankings.php?p=form", l: "en" }],
       });
       console.log(`✓ Scorito-tips: ${picks.length} picks`);
+    } else {
+      console.log("✗ Scorito-tips: geen bruikbare picks in het antwoord");
     }
   } catch (e) {
     console.log(`✗ Scorito-tips: ${e.message}`);
@@ -314,3 +333,4 @@ data.groups.sort((a, b) => new Date(b.date) - new Date(a.date));
 data.updated = new Date().toISOString();
 fs.writeFileSync(DATA_FILE, JSON.stringify(data, null, 1));
 console.log(`Klaar: ${data.groups.length} nieuwsgroepen in ${DATA_FILE}.`);
+process.exit(0); // expliciet afsluiten: open verbindingen kunnen het proces anders laten hangen
