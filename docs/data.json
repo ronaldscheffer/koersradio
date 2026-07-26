@@ -1,6 +1,63 @@
 {
- "updated": "2026-07-26T20:34:07.796Z",
+ "updated": "2026-07-26T21:36:23.230Z",
  "groups": [
+  {
+   "id": "e1c07d97d418",
+   "t": "Tears instead of triumph: Kanter fourth on the Champs-Élysées",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-26T21:42:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146277.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "results-2026-07-26",
+   "type": "results",
+   "t": "Latest results — ProCyclingStats",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-26T21:36:20.375Z",
+   "rows": [
+    {
+     "race": "Tour de France 2026",
+     "winner": "Tadej Pogacar",
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20France%202026"
+    },
+    {
+     "race": "Tour de France Stage 21",
+     "winner": "Mathieu van der Poel",
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20France%20Stage%2021"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ProCyclingStats",
+     "u": "https://www.procyclingstats.com/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "25822806654c",
+   "t": "The art of the bike throw",
+   "s": "",
+   "c": "gear",
+   "date": "2026-07-26T21:15:14.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/the-art-of-the-bike-throw/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "ac03c92c6599",
    "t": "The new Pogacar: At this Tour more than just a serial winner",
@@ -17,6 +74,36 @@
    "tr": 1
   },
   {
+   "id": "24ac9fee42e1",
+   "t": "Pogačar's light blinds an unsettled Tour de France below",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-26T20:52:56.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/pogacars-light-blinds-an-unsettled-tour-de-france-below/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "e852ac5655b5",
+   "t": "History Maker Tadej Pogačar Needs to Find a New Goal",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-26T20:49:19.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/history-maker-tadej-pogacar-find-new-goal/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
    "id": "4066ece0a382",
    "t": "Prize Money Ranking: How much the Tour teams fought for",
    "s": "",
@@ -27,6 +114,21 @@
      "n": "Radsport-News",
      "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146275.htm",
      "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "a97cefe248f3",
+   "t": "Adrie van der Poel proud of son Mathieu van der Poel: \"Enjoying him and Tadej Pogacar immensely\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-26T20:28:51.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/adrie-van-der-poel-supertrots-op-zoon-mathieu-van-der-poel-geniet-enorm-van-hem-en-tadej-pogacar/",
+     "l": "nl"
     }
    ],
    "tr": 1
@@ -72,6 +174,21 @@
      "n": "Velo",
      "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/tour-de-france-prize-money-how-much-did-tadej-pogacar-win/",
      "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "7e738d6d6af3",
+   "t": "The highlight videos of the Tour de France",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-26T19:55:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_145997.htm",
+     "l": "de"
     }
    ],
    "tr": 1
@@ -552,6 +669,21 @@
      "n": "Feltet.dk",
      "u": "https://feltet.dk/landevej/officielt-pogacar-har-slaaet-fartrekorden-igen/11242746",
      "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "c3b3f273c42d",
+   "t": "The penalty register of the Tour de France / Stage 21",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-26T17:54:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146111.htm",
+     "l": "de"
     }
    ],
    "tr": 1
@@ -3462,21 +3594,6 @@
      "n": "Cyclingnews",
      "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/unpopular-opinion-alpe-dhuez-is-on-the-limit-and-it-wasnt-even-the-best-atmosphere-at-this-tour-de-france/",
      "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "ff5d06a1acdd",
-   "t": "\"The organization falls far short\": 'Congé Payé' takes ASO to task after Alpe d'Huez chaos",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-24T20:41:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/tour-de-france/de-organisatie-schiet-zwaar-tekort-conge-paye-neemt-aso-op-de-korrel-na-alpe-dhuez-heisa~af3ea9f4/",
-     "l": "be"
     }
    ],
    "tr": 1
