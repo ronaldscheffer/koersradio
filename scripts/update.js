@@ -234,24 +234,25 @@ Every N-index appears exactly once. "m" holds N-indices as numbers.`;
   });
 }
 
-// ——— vertaalpas: items die buiten de clustering vielen houden hun originele
-// (bijv. Spaanse) titel; die worden hier alsnog naar het Engels vertaald ———
-const untranslated = data.groups.filter((g) => !g.type && !g.s && !g.tr).slice(0, 40);
-if (untranslated.length) {
+// ——— vertaalpas: alle anderstalige titels in batches naar het Engels,
+// inclusief een passende categorie (haalt ook de oude achterstand weg) ———
+for (let batch = 0; batch < 6; batch++) {
+  const todo = data.groups.filter((g) => !g.type && !g.s && !g.tr).slice(0, 40);
+  if (!todo.length) break;
   try {
-    const raw = await askClaude(`Translate these cycling headlines to natural English. Respond ONLY with valid JSON, no markdown, same count and order:
-{"t":["...","..."]}
+    const raw = await askClaude(`Translate these cycling headlines to natural English and assign a category (race|transfer|gear|health|other). Respond ONLY with valid JSON, no markdown, same count and order:
+{"t":[{"t":"English headline","c":"race"}]}
 Headlines:
-${untranslated.map((g, i) => `${i}: ${g.t}`).join("\n")}`);
+${todo.map((g, i) => `${i}: ${g.t}`).join("\n")}`);
     const t = extractJSON(raw, "t")?.t;
-    if (Array.isArray(t)) {
-      untranslated.forEach((g, i) => {
-        if (t[i]) { g.t = String(t[i]); g.tr = 1; }
-      });
-      console.log(`✓ vertaalpas: ${untranslated.length} titels`);
-    }
+    if (!Array.isArray(t)) break;
+    todo.forEach((g, i) => {
+      if (t[i]?.t) { g.t = String(t[i].t); g.c = t[i].c || g.c; g.tr = 1; }
+    });
+    console.log(`✓ vertaalpas batch ${batch + 1}: ${todo.length} titels`);
   } catch (e) {
     console.log(`✗ vertaalpas: ${e.message}`);
+    break;
   }
 }
 
