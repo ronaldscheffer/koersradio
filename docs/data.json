@@ -1,6 +1,89 @@
 {
- "updated": "2026-07-26T21:36:23.230Z",
+ "updated": "2026-07-26T22:40:51.751Z",
  "groups": [
+  {
+   "id": "scorito-2026-07-26",
+   "type": "picks",
+   "t": "Scorito picks — riders in form",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-26T22:40:51.751Z",
+   "rows": [
+    {
+     "r": "Tadej Pogačar",
+     "w": "Just won Tour de France 2026 with fifth yellow jersey; dominant form and considering Vuelta participation"
+    },
+    {
+     "r": "Mathieu van der Poel",
+     "w": "Won final stage on Champs-Élysées after year-long preparation; peak form demonstrated"
+    },
+    {
+     "r": "Remco Evenepoel",
+     "w": "Second place at Tour de France 2026; ambitious for three Grand Tours and clearly in contention form"
+    },
+    {
+     "r": "Jasper Philipsen",
+     "w": "Second on final stage; strong sprint form at Tour de France and key teammate support role"
+    },
+    {
+     "r": "Mads Pedersen",
+     "w": "Confirmed for Vuelta 2026 after succeeding at Tour; building momentum toward Grand Tour goals"
+    },
+    {
+     "r": "Paul Seixas",
+     "w": "Selected for Tour de France at age 19 by Decathlon CMA CGM; emerging young talent gaining experience at highest level"
+    }
+   ],
+   "sources": [
+    {
+     "n": "PCS form ranking",
+     "u": "https://www.procyclingstats.com/rankings.php?p=form",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "results-2026-07-26",
+   "type": "results",
+   "t": "Latest results — ProCyclingStats",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-26T22:40:49.163Z",
+   "rows": [
+    {
+     "race": "Tour de France 2026 Stage 21",
+     "winner": "Mathieu van der Poel",
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20France%202026%20Stage%2021"
+    },
+    {
+     "race": "Tour de France 2026",
+     "winner": "Tadej Pogačar",
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20France%202026"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ProCyclingStats",
+     "u": "https://www.procyclingstats.com/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "aaf51384f8d9",
+   "t": "Fifth with five Tour wins, dominant Pogacar enjoys his own fairy tale",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-26T21:50:17.000Z",
+   "sources": [
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2624572",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "e1c07d97d418",
    "t": "Tears instead of triumph: Kanter fourth on the Champs-Élysées",
@@ -15,33 +98,6 @@
     }
    ],
    "tr": 1
-  },
-  {
-   "id": "results-2026-07-26",
-   "type": "results",
-   "t": "Latest results — ProCyclingStats",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T21:36:20.375Z",
-   "rows": [
-    {
-     "race": "Tour de France 2026",
-     "winner": "Tadej Pogacar",
-     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20France%202026"
-    },
-    {
-     "race": "Tour de France Stage 21",
-     "winner": "Mathieu van der Poel",
-     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20France%20Stage%2021"
-    }
-   ],
-   "sources": [
-    {
-     "n": "ProCyclingStats",
-     "u": "https://www.procyclingstats.com/",
-     "l": "en"
-    }
-   ]
   },
   {
    "id": "25822806654c",
@@ -3578,21 +3634,6 @@
     {
      "n": "Velo",
      "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/tense-kom-battle/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "1732c20cca52",
-   "t": "Unpopular opinion: Alpe d'Huez is on the limit, and it wasn't even the best atmosphere at this Tour de France",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-24T22:07:32.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/unpopular-opinion-alpe-dhuez-is-on-the-limit-and-it-wasnt-even-the-best-atmosphere-at-this-tour-de-france/",
      "l": "en"
     }
    ],
