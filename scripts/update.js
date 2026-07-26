@@ -19,6 +19,13 @@ if (!API_KEY) {
   process.exit(1);
 }
 
+// waakhond: kapt het script zelf af als iets ondanks alle time-outs toch blijft hangen
+const watchdog = setTimeout(() => {
+  console.error("WAAKHOND: script draaide 10 min — afgebroken. Kijk hierboven welke bron als laatste werd gelogd.");
+  process.exit(1);
+}, 10 * 60 * 1000);
+watchdog.unref();
+
 const feeds = JSON.parse(fs.readFileSync("feeds.json", "utf8"));
 const parser = new Parser({
   timeout: 20000,
@@ -37,7 +44,10 @@ async function fetchAll() {
   await Promise.all(
     feeds.map(async (f) => {
       try {
-        const feed = await parser.parseURL(f.url);
+        const feed = await Promise.race([
+          parser.parseURL(f.url),
+          new Promise((_, rej) => { const t = setTimeout(() => rej(new Error("feed-timeout 25s")), 25000); t.unref(); }),
+        ]);
         let n = 0;
         for (const it of feed.items || []) {
           const d = new Date(it.isoDate || it.pubDate || 0);
