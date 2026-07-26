@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-26T16:33:07.605Z",
+ "updated": "2026-07-26T16:44:37.428Z",
  "groups": [
   {
    "id": "results-2026-07-26",
@@ -7,22 +7,22 @@
    "t": "Latest results — ProCyclingStats",
    "s": "",
    "c": "race",
-   "date": "2026-07-26T16:33:04.831Z",
+   "date": "2026-07-26T16:44:33.746Z",
    "rows": [
-    {
-     "race": "Castilla y León",
-     "winner": "Thomas Silva",
-     "url": "https://www.procyclingstats.com/search.php?term=Castilla%20y%20Le%C3%B3n"
-    },
     {
      "race": "Tour of Poland",
      "winner": "Lorena Wiebes",
      "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Poland"
     },
     {
-     "race": "Tour de Poland Women Stage 3",
+     "race": "Tour of Poland stage 3",
      "winner": "Lorena Wiebes",
-     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20Poland%20Women%20Stage%203"
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Poland%20stage%203"
+    },
+    {
+     "race": "Castilla y León",
+     "winner": "Thomas Silva",
+     "url": "https://www.procyclingstats.com/search.php?term=Castilla%20y%20Le%C3%B3n"
     },
     {
      "race": "Tour de France",
@@ -39,10 +39,40 @@
    ]
   },
   {
+   "id": "44e078c6c986",
+   "t": "More fuel on the Danish Van Aert fire",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-26T16:38:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/mere-braende-paa-det-danske-van-aert-baal/11242859",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "dbe357c004d7",
+   "t": "LIVE. Enough photos and party scenes: shortened final stage truly gets going after traditional parade through Paris",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-26T16:32:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/tour-de-france/live-genoeg-fotos-en-feesttaferelen-ingekorte-slotrit-trekt-zich-echt-op-gang-na-traditionele-parade-doorheen-parijs~a1979bc3/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
    "id": "1794d1605ea0",
    "t": "GC times to be taken before Montmartre on Tour stage 21",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-26T16:26:20.000Z",
    "sources": [
     {
@@ -50,13 +80,14 @@
      "u": "https://escapecollective.com/gc-times-to-be-taken-before-montmartre-on-tour-stage-21/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "2e25a1ea2d81",
-   "t": "Met nog een knuffel van Oumi en z’n ouders voor de start: familie van Remco Evenepoel is erbij in Parijs om tweede plaats te vieren",
+   "t": "One last hug from Oumi and his parents before the start: Remco Evenepoel's family is there in Paris to celebrate second place",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-26T16:26:00.000Z",
    "sources": [
     {
@@ -64,7 +95,8 @@
      "u": "https://www.hln.be/tour-de-france/met-nog-een-knuffel-van-oumi-en-zn-ouders-voor-de-start-familie-van-remco-evenepoel-is-erbij-in-parijs-om-tweede-plaats-te-vieren~a867eaa9/",
      "l": "be"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "8311f9718a7f",
@@ -241,6 +273,21 @@
     {
      "n": "Feltet.dk",
      "u": "https://feltet.dk/landevej/tour-live-danskerne-koerer-frem-foran-feltet/11222900",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "23a3fb42fe30",
+   "t": "Tour live: Paris race is truly underway!",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-26T15:20:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/tour-live-paris-raeset-er-for-alvor-i-gang/11222900",
      "l": "da"
     }
    ],
@@ -1268,9 +1315,9 @@
   },
   {
    "id": "20cb6e4a0c0d",
-   "t": "Del Toro Battles Illness to Beat Seixas to Tour Podium: ‘Crying and Speechless’",
+   "t": "Del Toro Battles Illness to Beat Seixas to Tour Podium: 'Crying and Speechless'",
    "s": "",
-   "c": "other",
+   "c": "health",
    "date": "2026-07-25T23:14:23.000Z",
    "sources": [
     {
@@ -1278,13 +1325,14 @@
      "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/del-toro-siexas-pruhomme/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "1ce564002e7a",
-   "t": "Degenkolb: “5400 Höhenmeter sind einfach gestört“",
+   "t": "Degenkolb: '5400 meters of climbing are simply absurd'",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T22:51:00.000Z",
    "sources": [
     {
@@ -1292,13 +1340,14 @@
      "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146265.htm",
      "l": "de"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "8f690558aa57",
    "t": "Sepp Kuss tried",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T22:30:53.000Z",
    "sources": [
     {
@@ -1306,13 +1355,14 @@
      "u": "https://escapecollective.com/sepp-kuss-tried/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "7ef3c6cb9736",
-   "t": "Saftige Strafe für Pechvogel Kuss in Alpe d´Huez",
+   "t": "Heavy penalty for unlucky Kuss at Alpe d'Huez",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T22:03:00.000Z",
    "sources": [
     {
@@ -1320,13 +1370,14 @@
      "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146264.htm",
      "l": "de"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "23a33d1f4b0b",
-   "t": "“Edelhelfer“ Pogacar trainiert Del Toro im Umgang mit Druck",
+   "t": "'Super domestique' Pogacar trains Del Toro in handling pressure",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T21:44:00.000Z",
    "sources": [
     {
@@ -1334,13 +1385,14 @@
      "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146263.htm",
      "l": "de"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "6a4feaf414e5",
-   "t": "De Tour in 15 minuten: “Mads Pedersen geeft Mathieu van der Poel een vrijgeleide in Parijs”",
+   "t": "The Tour in 15 minutes: 'Mads Pedersen gives Mathieu van der Poel a free pass in Paris'",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T20:51:56.000Z",
    "sources": [
     {
@@ -1348,13 +1400,14 @@
      "u": "https://www.wielerflits.nl/nieuws/de-tour-in-15-minuten-mads-pedersen-geeft-mathieu-van-der-poel-een-vrijgeleide-in-parijs/",
      "l": "nl"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "633c9512faba",
-   "t": "Evenepoels Frust über verpassten Huez-Sieg währte nur kurz",
+   "t": "Evenepoel's frustration over missed Huez win was short-lived",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T20:34:00.000Z",
    "sources": [
     {
@@ -1362,13 +1415,14 @@
      "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146262.htm",
      "l": "de"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "003c81b8c327",
    "t": "'Not easy to finish on the podium being ill' - Isaac del Toro set to bring home third place in Tour de France and clear youth classification victory despite last-week struggles",
    "s": "",
-   "c": "other",
+   "c": "health",
    "date": "2026-07-25T19:55:20.000Z",
    "sources": [
     {
@@ -1376,13 +1430,14 @@
      "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/not-easy-to-finish-on-the-podium-being-ill-isaac-del-toro-set-to-bring-home-third-place-in-tour-de-france-and-clear-youth-classification-victory-despite-last-week-struggles/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "f56c151784fb",
-   "t": "Kuss sorgt nach Vingegaard-Aus fürs nächste Visma-Drama",
+   "t": "Kuss causes next Visma drama after Vingegaard's exit",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T19:28:00.000Z",
    "sources": [
     {
@@ -1390,13 +1445,14 @@
      "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146260.htm",
      "l": "de"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "4723f4b9cb46",
-   "t": "Evenepoel raser efter målstregen: - Stop dit show",
+   "t": "Evenepoel rages after the finish line: - Stop this show",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T19:23:19.000Z",
    "sources": [
     {
@@ -1404,13 +1460,14 @@
      "u": "https://feltet.dk/landevej/evenepoel-raser-efter-maalstregen-stop-dit-show/11242347",
      "l": "da"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "5bc0f1660405",
    "t": "Preview: 2026 Tour de France, stage 21",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T19:18:02.000Z",
    "sources": [
     {
@@ -1418,13 +1475,14 @@
      "u": "https://escapecollective.com/preview-2026-tour-de-france-stage-21/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "5204d1d678a1",
-   "t": "Pizzas, música, series y 'Torito hermano' en el 'tren bala' a Versalles para la fiesta final en París",
+   "t": "Pizzas, music, series and 'little brother' on the bullet train to Versailles for the final party in Paris",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T19:11:56.000Z",
    "sources": [
     {
@@ -1432,13 +1490,14 @@
      "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/25/pizzas-musica-series-torito-hermano-tren-bala-versalles-fiesta-final-paris.html",
      "l": "es"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "66d4a879acab",
    "t": "In praise of getting the job done",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T19:09:49.000Z",
    "sources": [
     {
@@ -1446,13 +1505,14 @@
      "u": "https://escapecollective.com/in-praise-of-getting-the-job-done/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "07f23df2e6b8",
-   "t": "Lo de Kuss pudo ser mucho peor, quedarse sin victoria fue un 'mal menor': \"Menos mal que había redes\"",
+   "t": "Kuss's situation could have been much worse, not winning was a 'minor evil': 'Thank goodness there were barriers'",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T19:06:09.000Z",
    "sources": [
     {
@@ -1460,13 +1520,14 @@
      "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/25/kuss-pudo-peor-quedarse-victoria-mal-menor-mal-habia-redes.html",
      "l": "es"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "80f0df78fe12",
-   "t": "Riis roser Pogacar: - Det viser ydmyghed og respekt",
+   "t": "Riis praises Pogacar: - It shows humility and respect",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T19:00:00.000Z",
    "sources": [
     {
@@ -1474,11 +1535,12 @@
      "u": "https://feltet.dk/landevej/riis-roser-pogacar-det-viser-ydmyghed-og-respekt/11242299",
      "l": "da"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "d252e56ec56a",
-   "t": "Na pijnlijke blunder met Chris Froome: daarom trekt ook Remco Evenepoel na bergritten in Tour dit opvallende hesje aan",
+   "t": "After painful blunder with Chris Froome: why Remco Evenepoel also puts on this striking vest after mountain stages in the Tour",
    "s": "",
    "c": "other",
    "date": "2026-07-25T18:59:00.000Z",
@@ -1488,13 +1550,14 @@
      "u": "https://www.hln.be/tour-de-france/na-pijnlijke-blunder-met-chris-froome-daarom-trekt-ook-remco-evenepoel-na-bergritten-in-tour-dit-opvallende-hesje-aan~aafafda7/",
      "l": "be"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "6983868aa199",
    "t": "Evenepoel Misses Tour Queen Stage Win with Delayed Attack, but Makes a Big Statement",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T18:43:04.000Z",
    "sources": [
     {
@@ -1502,13 +1565,14 @@
      "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/evenepoel-misses-tour-queen-stage-win-with-delayed-attack-but-makes-an-important-point/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "88ea0fb2f9d3",
    "t": "'We gambled it all on the third week' - Richard Carapaz fights back from tough summer of recovery to claim maximum climbing honours at Tour de France",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T18:31:10.000Z",
    "sources": [
     {
@@ -1516,13 +1580,14 @@
      "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/we-gambled-it-all-on-the-third-week-richard-carapaz-fights-back-from-tough-summer-of-recovery-to-claim-maximum-climbing-honours-at-tour-de-france/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "f3f30d3efb93",
-   "t": "Sepp Kuss Fined $1800 and Penalized a Minute for Littering After Alpe d’Huez Pain",
+   "t": "Sepp Kuss Fined $1800 and Penalized a Minute for Littering After Alpe d'Huez Pain",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T18:29:54.000Z",
    "sources": [
     {
@@ -1530,13 +1595,14 @@
      "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/sepp-kuss-fined-1800-penalized-minute-for-littering-after-alpe-d-huez-pain/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "714d295dbeea",
-   "t": "Pogacar måber over Mads P.: - Vanvittigt",
+   "t": "Pogacar stunned by Mads P.: - Insane",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T18:24:19.000Z",
    "sources": [
     {
@@ -1544,13 +1610,14 @@
      "u": "https://feltet.dk/landevej/pogacar-maaber-over-mads-p.-vanvittigt/11242329",
      "l": "da"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "1f3a4598f211",
-   "t": "Hoezo, egocentrisch? Hoe Tadej Pogacar zich ontfermde over ‘kleine broer’ Isaac Del Toro: “Getoond dat hij een vriend is”",
+   "t": "What do you mean, egocentric? How Tadej Pogacar took care of 'little brother' Isaac Del Toro: 'Shown that he is a friend'",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T18:17:00.000Z",
    "sources": [
     {
@@ -1558,13 +1625,14 @@
      "u": "https://www.hln.be/tour-de-france/hoezo-egocentrisch-hoe-tadej-pogacar-zich-ontfermde-over-kleine-broer-isaac-del-toro-getoond-dat-hij-een-vriend-is~a57f1356/",
      "l": "be"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "1c365c4b45dc",
-   "t": "Seixas ville risikere det hele",
+   "t": "Seixas wanted to risk it all",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T18:03:09.000Z",
    "sources": [
     {
@@ -1572,13 +1640,14 @@
      "u": "https://feltet.dk/landevej/seixas-ville-risikere-det-hele/11242302",
      "l": "da"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "fb4772922797",
    "t": "Sepp Kuss hit with big fine, time loss and points deduction for littering at Tour de France",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T17:57:01.000Z",
    "sources": [
     {
@@ -1586,13 +1655,14 @@
      "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/sepp-kuss-hit-with-big-fine-time-loss-and-points-deduction-for-littering-at-tour-de-france/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "4c0760fa1d9d",
    "t": "'Proof that the disbelief in me is unfounded' – Remco Evenepoel hits back at critics as Tour de France second place overall is all but secured",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T17:42:28.000Z",
    "sources": [
     {
@@ -1600,13 +1670,14 @@
      "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/proof-that-the-disbelief-in-me-is-unfounded-remco-evenepoel-hits-back-at-critics-as-tour-de-france-second-place-overall-is-all-but-secured/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "1eb178082fa0",
    "t": "'Don't expect to see me back' – Alaphilippe is racing his last Tour de France",
    "s": "",
-   "c": "other",
+   "c": "transfer",
    "date": "2026-07-25T17:33:40.000Z",
    "sources": [
     {
@@ -1614,13 +1685,14 @@
      "u": "https://escapecollective.com/dont-expect-to-see-me-back-alaphilippe-may-be-racing-his-last-tour-de-france/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "a9a96861fa62",
-   "t": "‘There’s no enjoyment anymore’ - Julian Alaphilippe says this is his final Tour de France",
+   "t": "'There's no enjoyment anymore' - Julian Alaphilippe says this is his final Tour de France",
    "s": "",
-   "c": "other",
+   "c": "transfer",
    "date": "2026-07-25T17:28:22.000Z",
    "sources": [
     {
@@ -1628,13 +1700,14 @@
      "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/theres-no-enjoyment-anymore-julian-alaphilippe-says-this-is-his-final-tour-de-france/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "7026f1ba74fb",
-   "t": "Skjelmose er superstolt - men har det ambivalent",
+   "t": "Skjelmose is super proud - but feels conflicted",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T16:59:20.000Z",
    "sources": [
     {
@@ -1642,13 +1715,14 @@
      "u": "https://feltet.dk/landevej/skjelmose-er-superstolt-men-har-det-ambivalent/11242242",
      "l": "da"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "4b1f6134da0a",
    "t": "'I'm impatient to get there' – Tadej Pogačar closes in on fifth overall victory in Tour de France after successful yellow jersey defence on Alpe d'Huez",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T16:48:39.000Z",
    "sources": [
     {
@@ -1656,13 +1730,14 @@
      "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/im-impatient-to-get-there-tadej-pogacar-closes-in-on-fifth-overall-victory-in-tour-de-france-after-successful-yellow-jersey-defence-on-alpe-dhuez/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "f36e842e4ee4",
    "t": "'We have only one goal: yellow' – FDJ United-Suez unveil stacked Tour de France Femmes team to support Demi Vollering's GC campaign",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T16:47:56.000Z",
    "sources": [
     {
@@ -1670,13 +1745,14 @@
      "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/we-have-only-one-goal-yellow-fdj-united-suez-unveil-stacked-tour-de-france-femmes-team-to-support-demi-vollerings-gc-campaign/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "cbe4c6e830c9",
    "t": "Pogačar relishes role as Del Toro's domestique on Tour's queen stage",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T16:23:30.000Z",
    "sources": [
     {
@@ -1684,13 +1760,14 @@
      "u": "https://escapecollective.com/pogacar-relishes-role-as-del-toros-domestique-on-tours-queen-stage/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "1b1681cea2a6",
    "t": "'I cracked' - Paul Seixas goes all-in for the Tour de France podium but comes up short at Alpe d'Huez",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T16:21:37.000Z",
    "sources": [
     {
@@ -1698,13 +1775,14 @@
      "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/i-cracked-paul-seixas-goes-all-in-for-the-tour-de-france-podium-but-comes-up-short-at-alpe-dhuez/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "2d6252e456b7",
    "t": "'Pogi not starting': Evenepoel jokes about what it will take to win the Tour",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T16:15:27.000Z",
    "sources": [
     {
@@ -1712,13 +1790,14 @@
      "u": "https://escapecollective.com/pogi-not-starting-evenepoel-jokes-about-what-it-will-take-to-win-the-tour/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "ff76a54b275d",
-   "t": "Pogacar lurer på sejr i Paris",
+   "t": "Pogacar wonders about winning in Paris",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T16:13:04.000Z",
    "sources": [
     {
@@ -1726,13 +1805,14 @@
      "u": "https://feltet.dk/incoming/pogacar-lurer-paa-sejr-i-paris/11242214",
      "l": "da"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "0c4002f00836",
-   "t": "“Sorry aan mijn vrouw en familie die keken”: Sepp Kuss ontsnapt in afdaling maar nét aan duik in ravijn",
+   "t": "'Sorry to my wife and family who were watching': Sepp Kuss escapes in the descent but narrowly avoids a plunge into a ravine",
    "s": "",
-   "c": "other",
+   "c": "health",
    "date": "2026-07-25T16:02:00.000Z",
    "sources": [
     {
@@ -1740,13 +1820,14 @@
      "u": "https://www.hln.be/tour-de-france/sorry-aan-mijn-vrouw-en-familie-die-keken-sepp-kuss-ontsnapt-in-afdaling-maar-net-aan-duik-in-ravijn~a09365a3/",
      "l": "be"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "f3d5ee8c4612",
-   "t": "Kuss undskylder til kone og familie: - Skræmmende",
+   "t": "Kuss apologizes to wife and family: - Scary",
    "s": "",
-   "c": "other",
+   "c": "health",
    "date": "2026-07-25T15:53:04.000Z",
    "sources": [
     {
@@ -1754,13 +1835,14 @@
      "u": "https://feltet.dk/landevej/kuss-undskylder-til-kone-og-familie-skraemmende/11242202",
      "l": "da"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "81d280f6f721",
-   "t": "Lykkelig Mads P. reagerer på grøn triumf",
+   "t": "Happy Mads P. reacts to green triumph",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T15:51:57.000Z",
    "sources": [
     {
@@ -1768,13 +1850,14 @@
      "u": "https://feltet.dk/landevej/lykkelig-mads-p.-reagerer-paa-groen-triumf/11242187",
      "l": "da"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "281e417eb042",
-   "t": "Tour Visma begon prachtig, maar eindigt in mineur: 'Blijven met heel zuur gevoel achter'",
+   "t": "Tour Visma began beautifully, but ends poorly: 'Left with a very bitter feeling'",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T15:40:21.000Z",
    "sources": [
     {
@@ -1782,13 +1865,14 @@
      "u": "https://nos.nl/l/2624431",
      "l": "nl"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "a062ee1c5023",
-   "t": "Thomas Silva sorprende a Igor Arrieta en la Clásica de Ordizia",
+   "t": "Thomas Silva surprises Igor Arrieta in the Clásica de Ordizia",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T15:35:57.000Z",
    "sources": [
     {
@@ -1796,13 +1880,14 @@
      "u": "https://www.marca.com/ciclismo/2026/07/25/thomas-silva-sorprende-igor-arrieta-clasica-ordizia.html",
      "l": "es"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "4022a7a38c25",
    "t": "Tour de France Stage 21 Preview: Montmartre Returns With a Twist",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T15:32:45.000Z",
    "sources": [
     {
@@ -1810,13 +1895,14 @@
      "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/tour-de-france-stage-21-preview-2026/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "9f3158eb666e",
-   "t": "Alaphilippe bekræfter: Min sidste Tour",
+   "t": "Alaphilippe confirms: My last Tour",
    "s": "",
-   "c": "other",
+   "c": "transfer",
    "date": "2026-07-25T15:30:05.000Z",
    "sources": [
     {
@@ -1824,13 +1910,14 @@
      "u": "https://feltet.dk/landevej/alaphilippe-bekraefter-min-sidste-tour/11242171",
      "l": "da"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "bcaac88a113c",
-   "t": "Slotrit slechts 89 kilometer lang door tekort aan politieagenten, Maxim Van Gils: “Ik zal nog een paar Red Bulls binnenkappen”",
+   "t": "Final stage only 89 kilometers long due to lack of police officers, Maxim Van Gils: \"I'll have a couple more Red Bulls\"",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T15:29:00.000Z",
    "sources": [
     {
@@ -1838,13 +1925,14 @@
      "u": "https://www.hln.be/tour-de-france/slotrit-slechts-89-kilometer-lang-door-tekort-aan-politieagenten-maxim-van-gils-ik-zal-nog-een-paar-red-bulls-binnenkappen~aa356960/",
      "l": "be"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "7c2221c41ee0",
-   "t": "Así está la clasificación general del Tour de Francia tras la etapa 20",
+   "t": "Here is the Tour de France general classification after stage 20",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T15:18:01.000Z",
    "sources": [
     {
@@ -1852,13 +1940,14 @@
      "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/25/asi-clasificacion-general-tour-francia-etapa-20.html",
      "l": "es"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "88f8e829f424",
-   "t": "“Het ongeloof in mij is toch weer onterecht”: na baalmoment om gemiste ritzege is Remco Evenepoel vooral trots op historische tweede plek in Tour",
+   "t": "\"The disbelief in me is still unjustified\": after disappointing moment over missed stage win, Remco Evenepoel is mainly proud of historic second place in Tour",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T15:14:00.000Z",
    "sources": [
     {
@@ -1866,13 +1955,14 @@
      "u": "https://www.hln.be/tour-de-france/het-ongeloof-in-mij-is-toch-weer-onterecht-na-baalmoment-om-gemiste-ritzege-is-remco-evenepoel-vooral-trots-op-historische-tweede-plek-in-tour~a9ecf725/",
      "l": "be"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "383ab1527a03",
-   "t": "Wát een weelde bij UAE: ‘meesterknecht’ Tadej Pogacar gidst ploegmakker Isaac Del Toro naar podiumplek én witte trui",
+   "t": "What a resource at UAE: 'master helper' Tadej Pogacar guides teammate Isaac Del Toro to podium place and white jersey",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T15:13:00.000Z",
    "sources": [
     {
@@ -1880,13 +1970,14 @@
      "u": "https://www.hln.be/tour-de-france/wat-een-weelde-bij-uae-meesterknecht-tadej-pogacar-gidst-ploegmakker-isaac-del-toro-naar-podiumplek-en-witte-trui~ae46c5632/",
      "l": "be"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "08d325ecf7b2",
-   "t": "Carapaz tog det hele: Jeg har fortjent det",
+   "t": "Carapaz took it all: I deserved it",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T15:11:34.000Z",
    "sources": [
     {
@@ -1894,13 +1985,14 @@
      "u": "https://feltet.dk/landevej/carapaz-tog-det-hele-jeg-har-fortjent-det/11242154",
      "l": "da"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "4250a2e2d2b2",
-   "t": "Ayuso elige morir matando; Pogacar, trabajando",
+   "t": "Ayuso chooses to die fighting; Pogacar, working",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T15:04:52.000Z",
    "sources": [
     {
@@ -1908,13 +2000,14 @@
      "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/25/ayuso-elige-morir-matando-pogacar-trabajando.html",
      "l": "es"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "a5f2009aff85",
    "t": "Tour stage 20: Carapaz takes revenge on Alpe d'Huez after attritional Queen Stage",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T15:00:53.000Z",
    "sources": [
     {
@@ -1922,13 +2015,14 @@
      "u": "https://escapecollective.com/tour-stage-20-carapaz-takes-revenge-on-alpe-dhuez-after-attritional-queen-stage/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "bb019569ed46",
-   "t": "Wiebes sprint naar tweede ritzege in de Ronde van Polen",
+   "t": "Wiebes sprints to second stage win in Tour of Poland",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T14:48:47.000Z",
    "sources": [
     {
@@ -1936,13 +2030,14 @@
      "u": "https://nos.nl/l/2624420",
      "l": "nl"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "072c7ed92ef2",
-   "t": "A qué hora es la etapa 21 del Tour de Francia: recorrido, horario, perfil y dónde ver en TV y online",
+   "t": "What time is stage 21 of the Tour de France: route, schedule, profile and where to watch on TV and online",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T14:46:31.000Z",
    "sources": [
     {
@@ -1950,13 +2045,14 @@
      "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/25/hora-etapa-21-tour-francia-recorrido-horario-perfil-ver-tv-online.html",
      "l": "es"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "3a1114f2cae2",
    "t": "Tour de France: Richard Carapaz wins breakaway epic on brutal stage 20 to Alpe d'Huez after late disaster by Sepp Kuss",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T14:45:18.000Z",
    "sources": [
     {
@@ -1964,13 +2060,14 @@
      "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-richard-carapaz-dominates-alpe-dhuez-with-second-win-in-as-many-days-after-late-disaster-by-sepp-kuss/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "a1dcf5eecb67",
-   "t": "Slotetappe Tour de France ingekort, hulpdiensten nodig bij bosbranden",
+   "t": "Tour de France final stage shortened, emergency services needed for wildfires",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T14:40:39.000Z",
    "sources": [
     {
@@ -1978,13 +2075,14 @@
      "u": "https://nos.nl/l/2624419",
      "l": "nl"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "143b29bd4f74",
-   "t": "Carapaz conquista el infierno en la desgracia de Kuss y Pogacar 'regala' el podio a Del Toro",
+   "t": "Carapaz conquers the inferno in Kuss's misfortune and Pogacar 'gifts' the podium to Del Toro",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T14:40:14.000Z",
    "sources": [
     {
@@ -1992,13 +2090,14 @@
      "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/25/carapaz-conquista-infierno-desgracia-kuss-pogacar-regala-podio-toro.html",
      "l": "es"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "0b9f99496c02",
    "t": "Tour de France Stage 20: Carapaz Wins after Kuss Heartbreak, Pogačar Pulls Del Toro to White Jersey",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T14:38:46.000Z",
    "sources": [
     {
@@ -2006,13 +2105,14 @@
      "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/tour-de-france-stage-20-report-results/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "47069ec99889",
    "t": "Sepp Kuss misses out on stage victory after crashing twice on descent while leading into stage 20 finale at Tour de France",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T14:37:51.000Z",
    "sources": [
     {
@@ -2020,13 +2120,14 @@
      "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/sepp-kuss-misses-out-on-stage-victory-after-crashing-twice-on-descent-while-leading-into-stage-20-finale-at-tour-de-france/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "f29f410bfd15",
-   "t": "Carapaz vinder i absurd afgørelse – ny triumf til Mads P.",
+   "t": "Carapaz wins in absurd decision – new triumph for Mads P.",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T14:34:54.000Z",
    "sources": [
     {
@@ -2034,13 +2135,14 @@
      "u": "https://feltet.dk/landevej/carapaz-vinder-i-absurd-afgoerelse-ny-triumf-til-mads-p./11242064",
      "l": "da"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "aaf993f9e919",
-   "t": "Carapaz profiteert van valpartijen Kuss en wint koninginnenrit van de Tour",
+   "t": "Carapaz profits from Kuss crashes and wins queen stage of the Tour",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T14:34:48.000Z",
    "sources": [
     {
@@ -2048,13 +2150,14 @@
      "u": "https://nos.nl/l/2624417",
      "l": "nl"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "8e3f73d72972",
    "t": "Distance Slashed and Route Changed for Stage 21 Conclusion of Tour de France around Paris",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T14:34:40.000Z",
    "sources": [
     {
@@ -2062,13 +2165,14 @@
      "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/distance-slashed-route-changed/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "1130445f2671",
    "t": "Safety Netting Saves Sepp Kuss After Double Crash Ends Tour de France Stage Bid",
    "s": "",
-   "c": "other",
+   "c": "health",
    "date": "2026-07-25T14:31:43.000Z",
    "sources": [
     {
@@ -2076,13 +2180,14 @@
      "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/sepp-kuss-crashes-twice-late-in-tour-de-france-queen-stage/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "ecd223483d32",
-   "t": "El colmo de la mala suerte: Kuss sobrevive a una doble caída cuando acariciaba la victoria en Alpe d’Huez",
+   "t": "The height of bad luck: Kuss survives a double crash while within reach of victory at Alpe d'Huez",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T14:29:30.000Z",
    "sources": [
     {
@@ -2090,13 +2195,14 @@
      "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/25/colmo-mala-suerte-kuss-sobrevive-doble-caida-acariciaba-victoria-alpe-d-huez.html",
      "l": "es"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "d02eefc45bbe",
    "t": "Final stage of 2026 Tour de France shortened due to exceptional circumstances caused by wildfires",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T14:11:22.000Z",
    "sources": [
     {
@@ -2104,13 +2210,14 @@
      "u": "https://www.cyclingnews.com/pro-cycling/racing/final-stage-of-2026-tour-de-france-shortened-due-to-exceptional-circumstances-caused-by-wildfires/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "25f4a093f831",
-   "t": "Los incendios obligan a transformar el último día del Tour: una etapa exprés en París",
+   "t": "Wildfires force transformation of Tour's final day: an express stage in Paris",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T14:10:12.000Z",
    "sources": [
     {
@@ -2118,13 +2225,14 @@
      "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/25/incendios-obligan-transformar-ultimo-dia-tour-etapa-expres-paris.html",
      "l": "es"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "e256eac42102",
    "t": "Tour's Champs-Élysées stage shortened to 89 km amid France wildfires",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T14:03:44.000Z",
    "sources": [
     {
@@ -2132,13 +2240,14 @@
      "u": "https://escapecollective.com/tours-champs-elysees-stage-shortened-to-89km-amid-france-wildfires/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "705aadec9a87",
-   "t": "La curva 10 de Alpe d'Huez será para Pogacar",
+   "t": "Turn 10 of Alpe d'Huez will be for Pogacar",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T14:02:03.000Z",
    "sources": [
     {
@@ -2146,13 +2255,14 @@
      "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/25/curva-10-alpe-d-huez-sera-pogacar.html",
      "l": "es"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "2698a6f25e95",
    "t": "Tour de Pologne Women: Lorena Wiebes storms to back-to-back victories on stage 2",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T13:38:57.000Z",
    "sources": [
     {
@@ -2160,13 +2270,14 @@
      "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/tour-de-pologne-women-lorena-wiebes-storms-to-back-to-back-victories-on-stage-2/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "7d7cfe8a1484",
-   "t": "Tour 2026: Wie is Yannis Voisard, de meest onbekende renner in de top van het klassement?",
+   "t": "Tour 2026: Who is Yannis Voisard, the most unknown rider at the top of the classification?",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T13:26:36.000Z",
    "sources": [
     {
@@ -2174,13 +2285,14 @@
      "u": "https://www.wielerflits.nl/nieuws/tour-2026-wie-is-yannis-voisard-de-meest-onbekende-renner-in-top-10/",
      "l": "nl"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "44bcbd1898dd",
-   "t": "Matxin, afectado por el accidente de Einer Rubio: \"Estoy jodido por lo que ha pasado\"",
+   "t": "Matxin, affected by Einer Rubio's accident: \"I'm frustrated about what happened\"",
    "s": "",
-   "c": "other",
+   "c": "health",
    "date": "2026-07-25T12:41:20.000Z",
    "sources": [
     {
@@ -2188,7 +2300,8 @@
      "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/25/matxin-afectado-accidente-einer-rubio-jodido-pasado.html",
      "l": "es"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "e079d3295200",
@@ -2202,13 +2315,14 @@
      "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/i-should-have-reacted-differently-uae-team-emirates-xrg-general-manager-mauro-gianetti-denies-any-responsibility-for-doping-affairs-in-former-team/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "db4fe2a299c5",
-   "t": "Tourorganisatie over harde val Rubio: 'Met oudere auto's zou dit niet gebeurd zijn'",
+   "t": "Tour organizer on Rubio's hard crash: 'With older cars this would not have happened'",
    "s": "",
-   "c": "other",
+   "c": "health",
    "date": "2026-07-25T12:30:45.000Z",
    "sources": [
     {
@@ -2216,13 +2330,14 @@
      "u": "https://nos.nl/l/2624407",
      "l": "nl"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "d0a50a74047d",
-   "t": "All of Unsafe Alpe D’Huez Should Have Barriers: Peloton Vents Shock and Frustration",
+   "t": "All of Unsafe Alpe D'Huez Should Have Barriers: Peloton Vents Shock and Frustration",
    "s": "",
-   "c": "other",
+   "c": "health",
    "date": "2026-07-25T12:27:58.000Z",
    "sources": [
     {
@@ -2230,13 +2345,14 @@
      "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/all-unsafe-alpe-d-huez-should-barriers-peloton-vents-shock-frustration/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "261518f2915f",
-   "t": "Reconstrucción desde dentro del duro accidente de Einer Rubio: \"Había una persona debajo del coche, literalmente debajo del coche",
+   "t": "Reconstruction of Einer Rubio's hard accident from inside: \"There was a person under the car, literally under the car\"",
    "s": "",
-   "c": "other",
+   "c": "health",
    "date": "2026-07-25T12:27:32.000Z",
    "sources": [
     {
@@ -2244,13 +2360,14 @@
      "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/25/reconstruccion-duro-accidente-einer-rubio-habia-persona-debajo-coche-literalmente-debajo-coche.html",
      "l": "es"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "a0cb22f46573",
-   "t": "Spijtige opgave met Parijs in zicht: op één na beste Belg Ilan Van Wilder ziet Tour-droom uiteenspatten na stevige val in afdaling",
+   "t": "Regrettable withdrawal with Paris in sight: second best Belgian Ilan Van Wilder sees Tour dream shattered after heavy crash on descent",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T12:14:00.000Z",
    "sources": [
     {
@@ -2258,11 +2375,12 @@
      "u": "https://www.hln.be/tour-de-france/spijtige-opgave-met-parijs-in-zicht-op-een-na-beste-belg-ilan-van-wilder-ziet-tour-droom-uiteenspatten-na-stevige-val-in-afdaling~a1a65bff/",
      "l": "be"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "8d8b8560b166",
-   "t": "Eusebio Unzué: \"La cantera española, la genética ibérica, antes o después no falla\"",
+   "t": "Eusebio Unzué: \"The Spanish youth academy, Iberian genetics, sooner or later never fails\"",
    "s": "",
    "c": "other",
    "date": "2026-07-25T12:09:37.000Z",
@@ -2272,13 +2390,14 @@
      "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/25/eusebio-unzue-cantera-espanola-genetica-iberica-despues-falla.html",
      "l": "es"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "21d23835cc28",
    "t": "'If we had had older cars, the accident would not have happened' – Tour de France organiser defends Alpe d'Huez crowd control as UAE manager apologises for Rubio car incident",
    "s": "",
-   "c": "other",
+   "c": "health",
    "date": "2026-07-25T12:07:23.000Z",
    "sources": [
     {
@@ -2286,13 +2405,14 @@
      "u": "https://www.cyclingnews.com/pro-cycling/racing/if-we-had-had-older-cars-the-accident-would-not-have-happened-tour-de-france-organiser-defends-alpe-dhuez-crowd-control-as-uae-manager-apologises-for-rubio-car-incident/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "a56dff4571db",
    "t": "Goochmageddon: The undercarriage havoc that divided the Tour de France",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T12:00:09.000Z",
    "sources": [
     {
@@ -2300,11 +2420,12 @@
      "u": "https://escapecollective.com/goochmageddon-the-seated-havoc-dividing-the-tour-de-france/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "5e0d14b91e1b",
-   "t": "La familia Verona conquista a pie el Alpe d’Huez: \"Fueron los 16 km más cortos de nuestra vida\"",
+   "t": "The Verona family conquers Alpe d'Huez on foot: \"Those were the shortest 16 km of our lives\"",
    "s": "",
    "c": "other",
    "date": "2026-07-25T11:53:47.000Z",
@@ -2314,13 +2435,14 @@
      "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/25/familia-verona-conquista-pie-alpe-d-huez-16-km-cortos-nuestra-vida.html",
      "l": "es"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "6697f678571a",
    "t": "Ilan Van Wilder crashes out of Tour de France on mountain descent one day from Paris",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T11:51:16.000Z",
    "sources": [
     {
@@ -2328,13 +2450,14 @@
      "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/ilan-van-wilder-crashes-out-of-tour-de-france-on-mountain-descent-one-day-from-paris/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "ad1e0bc1c8d6",
-   "t": "How Kuss and Co. Blew Their Best Chance to Beat Tadej Pogačar on Alpe d’Huez",
+   "t": "How Kuss and Co. Blew Their Best Chance to Beat Tadej Pogačar on Alpe d'Huez",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T11:38:19.000Z",
    "sources": [
     {
@@ -2342,13 +2465,14 @@
      "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/carapaz-martinez-kuss-blow-chance-beat-pogacar-alpe-dhuez-tactics-tour-de-france/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "6fabd9dfcf32",
-   "t": "Mads P. sikrer den grønne trøje",
+   "t": "Mads P. secures the green jersey",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T11:22:38.000Z",
    "sources": [
     {
@@ -2356,13 +2480,14 @@
      "u": "https://feltet.dk/landevej/mads-p.-sikrer-den-groenne-troeje/11241980",
      "l": "da"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "17dea7d6ce73",
    "t": "UAE's Matxin Fernández expresses horror for involvement in Rubio's Tour-ending crash",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T11:08:48.000Z",
    "sources": [
     {
@@ -2370,11 +2495,12 @@
      "u": "https://escapecollective.com/uaes-matxin-fernandez-expresses-horror-for-involvement-in-rubios-tour-ending-crash/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "9f1950c8367b",
-   "t": "UAE-boss med blakket fortid afviser ansvar: - Jeg er et offer",
+   "t": "UAE boss with troubled past denies responsibility: - I am a victim",
    "s": "",
    "c": "other",
    "date": "2026-07-25T10:59:52.000Z",
@@ -2384,13 +2510,14 @@
      "u": "https://feltet.dk/landevej/uae-boss-med-blakket-fortid-afviser-ansvar-jeg-er-et-offer/11241909",
      "l": "da"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "49ac8ce4b249",
    "t": "Wout van Aert expected to race for the first time since missing out on Tour de France due to elbow injury next Wednesday",
    "s": "",
-   "c": "other",
+   "c": "health",
    "date": "2026-07-25T10:34:16.000Z",
    "sources": [
     {
@@ -2398,13 +2525,14 @@
      "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/wout-van-aert-expected-to-race-for-the-first-time-since-missing-out-on-tour-de-france-due-to-elbow-injury-next-wednesday/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "794af2dbaf8e",
    "t": "'There was no discussion, I just went' – Pete Kennaugh, the last winner on Alpe d'Huez via Col de Sarenne, reflects on memorable day from the Team Sky era",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T09:55:07.000Z",
    "sources": [
     {
@@ -2412,13 +2540,14 @@
      "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/there-was-no-discussion-i-just-went-pete-kennaugh-the-last-winner-on-alpe-dhuez-via-col-de-sarenne-reflects-on-memorable-day-from-the-team-sky-era/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "7d8f9ba98836",
-   "t": "VIDEO: New Footage of Brutal Rubio Tour de France Crash Emerges amid Alpe d’Huez Safety Debate",
+   "t": "VIDEO: New Footage of Brutal Rubio Tour de France Crash Emerges amid Alpe d'Huez Safety Debate",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T09:23:42.000Z",
    "sources": [
     {
@@ -2426,13 +2555,14 @@
      "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/video-rubio-tour-de-france-alpe-dhuez-debate/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "fa30232ece66",
    "t": "As it happened: Late crash drama and GC podium remains unchanged on stage 20 of the Tour de France",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T09:00:33.000Z",
    "sources": [
     {
@@ -2440,13 +2570,14 @@
      "u": "https://www.cyclingnews.com/pro-cycling/live/tour-de-france-stage-20-live-tadej-pogacar-seeks-to-seal-yellow-as-peloton-returns-to-alpe-dhuez-for-races-queen-stage/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "d3d1687d8d70",
-   "t": "Oversigt: Disse ryttere er udgået af Tour de France",
+   "t": "Overview: These riders have withdrawn from Tour de France",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T08:13:00.000Z",
    "sources": [
     {
@@ -2454,11 +2585,12 @@
      "u": "https://feltet.dk/landevej/oversigt-disse-ryttere-er-udgaaet-af-tour-de-france/11229475",
      "l": "da"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "ca3a2cabd829",
-   "t": "- Organisationen lever ikke op til sit ansvar, siger Boonen efter vilde scener",
+   "t": "- The organization fails to live up to its responsibility, says Boonen after wild scenes",
    "s": "",
    "c": "other",
    "date": "2026-07-25T07:53:21.000Z",
@@ -2468,13 +2600,14 @@
      "u": "https://feltet.dk/landevej/organisationen-lever-ikke-op-til-sit-ansvar-siger-boonen-efter-vilde-scener/11241853",
      "l": "da"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "220bc90d9aa0",
-   "t": "Power Analysis: How Pogačar Wrote More History with Record-Breaking Climb of Alpe d’Huez",
+   "t": "Power Analysis: How Pogačar Wrote More History with Record-Breaking Climb of Alpe d'Huez",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T07:41:26.000Z",
    "sources": [
     {
@@ -2482,13 +2615,14 @@
      "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/power-analysis-pogacar-record-alpe-dhuez/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "e639afbd74d9",
    "t": "An altitude alibi: Does cycling's anti-doping system have a major loophole?",
    "s": "",
-   "c": "other",
+   "c": "health",
    "date": "2026-07-25T07:12:47.000Z",
    "sources": [
     {
@@ -2496,13 +2630,14 @@
      "u": "https://www.cyclingnews.com/pro-cycling/doping/an-altitude-alibi-does-cyclings-anti-doping-system-have-a-major-loophole/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "b8e2d0304448",
-   "t": "Medie: Van Aert gør comeback i Danmark",
+   "t": "Media: Van Aert makes comeback in Denmark",
    "s": "",
-   "c": "other",
+   "c": "health",
    "date": "2026-07-25T06:50:35.000Z",
    "sources": [
     {
@@ -2510,13 +2645,14 @@
      "u": "https://feltet.dk/landevej/medie-van-aert-goer-comeback-i-danmark/11241812",
      "l": "da"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "ccdf08f34bf6",
-   "t": "Het nieuwe goud in het peloton? Waarom Tadej Pogacar plots ‘lactaat’ als extra brandstof drinkt",
+   "t": "The new gold in the peloton? Why Tadej Pogacar suddenly drinks 'lactate' as extra fuel",
    "s": "",
-   "c": "other",
+   "c": "gear",
    "date": "2026-07-25T06:08:00.000Z",
    "sources": [
     {
@@ -2524,13 +2660,14 @@
      "u": "https://www.hln.be/tour-de-france/het-nieuwe-goud-in-het-peloton-waarom-tadej-pogacar-plots-lactaat-als-extra-brandstof-drinkt~a18dab4c/",
      "l": "be"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "e249f3696f60",
-   "t": "Back-to-Back Wins on Alpe d’Huez? Pogačar Sizing up Even More History Saturday",
+   "t": "Back-to-Back Wins on Alpe d'Huez? Pogačar Sizing up Even More History Saturday",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T06:06:17.000Z",
    "sources": [
     {
@@ -2538,13 +2675,14 @@
      "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/double-victory-alpe-huez-pogacar/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "241b57332d4f",
-   "t": "El Tour se juega en la cara oculta del Alpe d'Huez",
+   "t": "The Tour is played on the hidden face of Alpe d'Huez",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T04:45:38.000Z",
    "sources": [
     {
@@ -2552,11 +2690,12 @@
      "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/25/tour-juega-cara-oculta-alpe-d-huez.html",
      "l": "es"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "97ff4f70660a",
-   "t": "\"Se acabó: el ciclismo debe ser de pago\"",
+   "t": "\"It's over: cycling should be pay-per-view\"",
    "s": "",
    "c": "other",
    "date": "2026-07-25T04:35:46.000Z",
@@ -2566,13 +2705,14 @@
      "u": "https://www.marca.com/ciclismo/tour-francia/opinion/2026/07/25/acabo-ciclismo-debe-pago.html",
      "l": "es"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "c3228618f7a0",
-   "t": "Vilde scener på Alpe d'Huez: - Har ikke ører længere",
+   "t": "Wild scenes on Alpe d'Huez: - No longer have ears",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-25T04:30:00.000Z",
    "sources": [
     {
@@ -2580,13 +2720,14 @@
      "u": "https://feltet.dk/landevej/vilde-scener-paa-alpe-dhuez-har-ikke-oerer-laengere/11241704",
      "l": "da"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "5424098af1d1",
-   "t": "Wout van Aert hervat na problemen met ontstoken elleboog woensdag in Ronde van Denemarken",
+   "t": "Wout van Aert resumes after elbow inflammation problems Wednesday in Tour of Denmark",
    "s": "",
-   "c": "other",
+   "c": "health",
    "date": "2026-07-25T04:06:00.000Z",
    "sources": [
     {
@@ -2594,7 +2735,8 @@
      "u": "https://www.hln.be/wielrennen/wout-van-aert-hervat-na-problemen-met-ontstoken-elleboog-woensdag-in-ronde-van-denemarken~a5422abd/",
      "l": "be"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "e2bfa78d4bd3",
@@ -2608,13 +2750,14 @@
      "u": "https://escapecollective.com/why-has-the-performance-gap-between-tour-de-france-riders-and-top-amateurs-remained-stable/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "36e8305a5593",
    "t": "Tense Tour Mountains Battle Goes Right Down to the Wire Between Pogačar and Carapaz",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-24T23:02:39.000Z",
    "sources": [
     {
@@ -2622,7 +2765,8 @@
      "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/tense-kom-battle/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "1732c20cca52",
@@ -2636,11 +2780,12 @@
      "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/unpopular-opinion-alpe-dhuez-is-on-the-limit-and-it-wasnt-even-the-best-atmosphere-at-this-tour-de-france/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "ff5d06a1acdd",
-   "t": "“De organisatie schiet zwaar tekort”: ‘Congé Payé’ neemt ASO op de korrel na Alpe d’Huez-heisa",
+   "t": "\"The organization falls far short\": 'Congé Payé' takes ASO to task after Alpe d'Huez chaos",
    "s": "",
    "c": "other",
    "date": "2026-07-24T20:41:00.000Z",
@@ -2650,13 +2795,14 @@
      "u": "https://www.hln.be/tour-de-france/de-organisatie-schiet-zwaar-tekort-conge-paye-neemt-aso-op-de-korrel-na-alpe-dhuez-heisa~af3ea9f4/",
      "l": "be"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "b9c5a2b19bc4",
-   "t": "Pogacar snoert alle twijfelaars de mond met recordklim: 'Nu ga ik Del Toro helpen'",
+   "t": "Pogacar silences all doubters with record climb: 'Now I'll help Del Toro'",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-24T19:22:32.000Z",
    "sources": [
     {
@@ -2664,13 +2810,14 @@
      "u": "https://nos.nl/l/2624337",
      "l": "nl"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "1dfd534669bc",
-   "t": "Einer Rubio vliegt op Alpe d’Huez door achterruit UAE-volgwagen en houdt daar 20 hechtingen aan over",
+   "t": "Einer Rubio flies through rear window of UAE support car on Alpe d'Huez and suffers 20 stitches",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-24T19:05:00.000Z",
    "sources": [
     {
@@ -2678,11 +2825,12 @@
      "u": "https://www.hln.be/tour-de-france/einer-rubio-vliegt-op-alpe-dhuez-door-achterruit-uae-volgwagen-en-houdt-daar-20-hechtingen-aan-over~a9580781/",
      "l": "be"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "9cdb09672b87",
-   "t": "Riis brød sig ikke om menneskehav: - Ubehageligt",
+   "t": "Riis didn't approve of the crowds: - Unpleasant",
    "s": "",
    "c": "other",
    "date": "2026-07-24T19:00:00.000Z",
@@ -2692,13 +2840,14 @@
      "u": "https://feltet.dk/landevej/riis-broed-sig-ikke-om-menneskehav-ubehageligt/11241660",
      "l": "da"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "e25c50a903cc",
-   "t": "“Ik kreeg een klap op mijn hoofd”: Remco Evenepoel en acht andere debutanten getuigen over chaos en hallucinante taferelen op Alpe d’Huez",
+   "t": "\"I got hit on my head\": Remco Evenepoel and eight other debutants testify about chaos and hallucinating scenes on Alpe d'Huez",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-24T18:52:00.000Z",
    "sources": [
     {
@@ -2706,13 +2855,14 @@
      "u": "https://www.hln.be/tour-de-france/ik-kreeg-een-klap-op-mijn-hoofd-remco-evenepoel-en-acht-andere-debutanten-getuigen-over-chaos-en-hallucinante-taferelen-op-alpe-dhuez~a18e9c28/",
      "l": "be"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "17ec1a60c60e",
    "t": "'I was dead there' - 2022 Alpe d'Huez winner Tom Pidcock suffers badly on same ascent in 2026 Tour de France",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-24T18:49:06.000Z",
    "sources": [
     {
@@ -2720,13 +2870,14 @@
      "u": "https://www.cyclingnews.com/pro-cycling/racing/i-was-dead-there-2022-alpe-dhuez-winner-tom-pidcock-suffers-badly-on-same-ascent-in-2026-tour-de-france/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "0e5b0a78dbdd",
    "t": "'With all those people, something was bound to go wrong' - Remco Evenepoel strengthens his Tour de France position despite being blocked by fans and motorbikes on Alpe d'Huez",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-24T18:18:50.000Z",
    "sources": [
     {
@@ -2734,13 +2885,14 @@
      "u": "https://www.cyclingnews.com/pro-cycling/racing/with-all-those-people-something-was-bound-to-go-wrong-remco-evenepoel-strengthens-his-tour-de-france-position-despite-being-blocked-by-fans-and-motorbikes-on-alpe-dhuez/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "58f60a1ed918",
-   "t": "Sepp Kuss Rides Agonizingly Close to Alpe d’Huez Glory",
+   "t": "Sepp Kuss Rides Agonizingly Close to Alpe d'Huez Glory",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-24T18:14:55.000Z",
    "sources": [
     {
@@ -2748,13 +2900,14 @@
      "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/sepp-kuss-alpe-d-huez-heartbreak/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "7aa850e6cf01",
-   "t": "\"En Alpe d’Huez parece que corres dentro de una discoteca\"",
+   "t": "\"On Alpe d'Huez it feels like you're racing inside a nightclub\"",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-24T18:07:29.000Z",
    "sources": [
     {
@@ -2762,13 +2915,14 @@
      "u": "https://www.marca.com/ciclismo/tour-francia/opinion/2026/07/24/alpe-d-huez-parece-corres-discoteca.html",
      "l": "es"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "4d19ba9b6f24",
    "t": "Sepp Kuss still aiming for Tour de France stage win on Alpe d'Huez after being denied by Tadej Pogačar on stage 19",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-24T18:05:08.000Z",
    "sources": [
     {
@@ -2776,11 +2930,12 @@
      "u": "https://www.cyclingnews.com/pro-cycling/racing/sepp-kuss-still-aiming-for-tour-de-france-stage-win-on-alpe-dhuez-after-being-denied-by-tadej-pogacar-on-stage-19/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "7a444aaf557f",
-   "t": "A tumba abierta by AMIX: \"Hay que buscar soluciones para ofrecer seguridad a los corredores\"",
+   "t": "At full speed by AMIX: \"Solutions must be sought to provide safety to riders\"",
    "s": "",
    "c": "other",
    "date": "2026-07-24T18:03:49.000Z",
@@ -2790,13 +2945,14 @@
      "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/24/tumba-abierta-by-amix-hay-buscar-soluciones-ofrecer-seguridad-corredores.html",
      "l": "es"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "e69f71a45af8",
-   "t": "Evenepoel forklarer motorcykeldrama",
+   "t": "Evenepoel explains motorcycle drama",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-24T17:42:44.000Z",
    "sources": [
     {
@@ -2804,13 +2960,14 @@
      "u": "https://feltet.dk/landevej/evenepoel-forklarer-motorcykeldrama/11241606",
      "l": "da"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "18b8a0bf4a28",
    "t": "'We've kept motivating each other' - Isaac del Toro tightens grip on Tour de France podium as UAE Team Emirates bounce back from illness",
    "s": "",
-   "c": "other",
+   "c": "health",
    "date": "2026-07-24T17:39:58.000Z",
    "sources": [
     {
@@ -2818,13 +2975,14 @@
      "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/weve-kept-motivating-each-other-isaac-del-toro-tightens-grip-on-tour-de-france-podium-as-uae-team-emirates-bounce-back-from-illness/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "d67f4c8bd3a9",
-   "t": "Tour de France Stage 20 Preview: Deja Vu, It’s Alpe d’Huez Again",
+   "t": "Tour de France Stage 20 Preview: Deja Vu, It's Alpe d'Huez Again",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-24T17:37:08.000Z",
    "sources": [
     {
@@ -2832,13 +2990,14 @@
      "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/tour-de-france-stage-20-preview-deja-vu-its-alpe-dhuez-again/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "76e7dda0db50",
    "t": "Remco Evenepoel Says Crowds Blocked His Move in Tour de France Podium Battle",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-24T17:34:58.000Z",
    "sources": [
     {
@@ -2846,13 +3005,14 @@
      "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/remco-evenepoel-crowds-delayed-alpe-dhuez-attack-tour-de-france/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "65ab15cc2c44",
-   "t": "Tadej Pogačar Destroys Alpe d’Huez Record with One of the Best Climbing Performances in History",
+   "t": "Tadej Pogačar Destroys Alpe d'Huez Record with One of the Best Climbing Performances in History",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-24T17:17:42.000Z",
    "sources": [
     {
@@ -2860,13 +3020,14 @@
      "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/pogacar-alpe-dhuez-best-performance-history/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "c701f74a2244",
-   "t": "Ayuso aprende a sufrir en el Tour: “Este año toca remar contra corriente”",
+   "t": "Ayuso learns to suffer at the Tour: \"This year we have to row against the current\"",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-24T17:12:41.000Z",
    "sources": [
     {
@@ -2874,13 +3035,14 @@
      "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/24/ayuso-aprende-sufrir-tour-ano-toca-remar-corriente.html",
      "l": "es"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "ca135b9c8f2b",
-   "t": "Rytter udgår med blod i hovedet og 20 sting - kørte ind i UAE-bil",
+   "t": "Rider withdraws with blood on head and 20 stitches - crashed into UAE car",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-24T17:11:24.000Z",
    "sources": [
     {
@@ -2888,13 +3050,14 @@
      "u": "https://feltet.dk/landevej/rytter-udgaar-med-blod-i-hovedet-og-20-sting-koerte-ind-i-uae-bil/11241580",
      "l": "da"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "5f4b0c399cbd",
-   "t": "Carapaz explota y con razón",
+   "t": "Carapaz explodes and with reason",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-24T17:05:46.000Z",
    "sources": [
     {
@@ -2902,13 +3065,14 @@
      "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/24/carapaz-explota-razon.html",
      "l": "es"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "8c17b6b60ba0",
-   "t": "Carapaz stikker til Martinez: - Gal på ham",
+   "t": "Carapaz takes a dig at Martinez: - Mad at him",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-24T16:58:25.000Z",
    "sources": [
     {
@@ -2916,11 +3080,12 @@
      "u": "https://feltet.dk/landevej/carapaz-stikker-til-martinez-gal-paa-ham/11241565",
      "l": "da"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "d1254830b04c",
-   "t": "Mads P.s optimistiske plan virkede: - Stolt af mig selv",
+   "t": "Mads P.'s optimistic plan worked: - Proud of myself",
    "s": "",
    "c": "other",
    "date": "2026-07-24T16:52:19.000Z",
@@ -2930,13 +3095,14 @@
      "u": "https://feltet.dk/landevej/mads-p.s-optimistiske-plan-virkede-stolt-af-mig-selv/11241550",
      "l": "da"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "89593933f0bb",
-   "t": "Einer Rubio abandona el Tour tras impactar con el coche de UAE en el Alpe d'Huez",
+   "t": "Einer Rubio abandons Tour after hitting UAE team car at Alpe d'Huez",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-24T16:50:42.000Z",
    "sources": [
     {
@@ -2944,35 +3110,8 @@
      "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/24/einer-rubio-abandona-tour-impactar-coche-uae-alpe-d-huez.html",
      "l": "es"
     }
-   ]
-  },
-  {
-   "id": "c999a2e540c3",
-   "t": "“Getoond dat ik beter ben dan concurrenten voor podium”: Remco Evenepoel “supertevreden”, al baalt hij wel om oponthoud door fans",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-24T16:35:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/tour-de-france/getoond-dat-ik-beter-ben-dan-concurrenten-voor-podium-remco-evenepoel-supertevreden-al-baalt-hij-wel-om-oponthoud-door-fans~a4a151b3/",
-     "l": "be"
-    }
-   ]
-  },
-  {
-   "id": "13793dd442ff",
-   "t": "FDJ United-Suez reveal special new kit for Tour de France Femmes and 2027 season",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-24T16:34:28.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/fdj-united-suez-reveal-special-new-kit-for-tour-de-france-femmes-and-2027-season/",
-     "l": "en"
-    }
-   ]
+   ],
+   "tr": 1
   }
  ]
 }
