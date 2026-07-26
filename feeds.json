@@ -11,7 +11,7 @@
   },
   {
     "name": "In de Leiderstrui",
-    "url": "https://www.indeleiderstrui.nl/feed/",
+    "url": "https://www.indeleiderstrui.nl/rss",
     "lang": "nl"
   },
   {
@@ -22,11 +22,6 @@
   {
     "name": "HLN Wielrennen",
     "url": "https://www.hln.be/wielrennen/rss.xml",
-    "lang": "be"
-  },
-  {
-    "name": "Het Nieuwsblad",
-    "url": "https://www.nieuwsblad.be/rss/section/8f693cea-dba8-46e4-8575-807d1dc2bcb7",
     "lang": "be"
   },
   {
@@ -76,27 +71,12 @@
   },
   {
     "name": "Feltet.dk",
-    "url": "https://feltet.dk/rss/nyheder/",
+    "url": "https://feltet.dk/rss",
     "lang": "da"
   },
   {
     "name": "Radsport-News",
     "url": "https://www.radsport-news.com/rss.xml",
     "lang": "de"
-  },
-  {
-    "name": "RTV Slovenija Šport",
-    "url": "https://www.rtvslo.si/feeds/07.xml",
-    "lang": "sl"
-  },
-  {
-    "name": "Scorito Nieuws",
-    "url": "https://www.scorito.com/rss",
-    "lang": "nl"
-  },
-  {
-    "name": "Wielerorakel (Scorito-tips)",
-    "url": "https://www.wielerorakel.nl/feed/",
-    "lang": "nl"
   }
 ]
