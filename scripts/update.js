@@ -25,6 +25,9 @@ const parser = new Parser({
   headers: { "User-Agent": "Mozilla/5.0 (compatible; KoersRadio/1.0)" },
 });
 
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+// fetch met harde time-out; voorkomt dat één hangende verbinding de hele run blokkeert
+const tfetch = (url, opts = {}, ms = 60000) => fetch(url, { ...opts, signal: AbortSignal.timeout(ms) });
 const hash = (s) => crypto.createHash("sha1").update(s).digest("hex").slice(0, 12);
 const cutoff = Date.now() - HOURS * 3600 * 1000;
 
@@ -60,7 +63,7 @@ async function fetchAll() {
 // ——— Claude API ———
 async function askClaude(prompt) {
   for (let a = 0; a < 3; a++) {
-    const res = await fetch("https://api.anthropic.com/v1/messages", {
+    const res = await tfetch("https://api.anthropic.com/v1/messages", {
       method: "POST",
       headers: {
         "content-type": "application/json",
@@ -72,7 +75,7 @@ async function askClaude(prompt) {
         max_tokens: 4000,
         messages: [{ role: "user", content: prompt }],
       }),
-    });
+    }, 90000);
     const data = await res.json();
     if (data.error) {
       if (/overload|rate|529/i.test(data.error.type + data.error.message) && a < 2) {
@@ -89,9 +92,9 @@ async function askClaude(prompt) {
 // ——— ProCyclingStats: laatste uitslagen van de homepage ———
 async function fetchPCSResults() {
   try {
-    const res = await fetch("https://www.procyclingstats.com/", {
+    const res = await tfetch("https://www.procyclingstats.com/", {
       headers: { "User-Agent": "Mozilla/5.0 (compatible; KoersRadio/1.0)" },
-    });
+    }, 30000);
     const html = await res.text();
     const rows = [];
     const push = (race, winner, link) => {
@@ -118,9 +121,9 @@ async function fetchPCSResults() {
 // ——— ProCyclingStats: actuele vormranking (basis voor Scorito-tips) ———
 async function fetchPCSForm() {
   try {
-    const res = await fetch("https://www.procyclingstats.com/rankings.php?p=form", {
+    const res = await tfetch("https://www.procyclingstats.com/rankings.php?p=form", {
       headers: { "User-Agent": "Mozilla/5.0 (compatible; KoersRadio/1.0)" },
-    });
+    }, 30000);
     const html = await res.text();
     const riders = [];
     const re = /href="(rider\/[^"]+)"[^>]*>([^<]{3,40})<\/a>[\s\S]{0,250}?>(\d{2,5})</g;
