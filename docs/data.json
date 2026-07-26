@@ -1,6 +1,81 @@
 {
- "updated": "2026-07-26T19:32:20.675Z",
+ "updated": "2026-07-26T20:34:07.796Z",
  "groups": [
+  {
+   "id": "ac03c92c6599",
+   "t": "The new Pogacar: At this Tour more than just a serial winner",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-26T21:02:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146276.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "4066ece0a382",
+   "t": "Prize Money Ranking: How much the Tour teams fought for",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-26T20:46:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146275.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "4ceb18383da8",
+   "t": "Mads P. did it after several failed attempts: - Fantastic",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-26T20:22:14.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/mads-p.-gjorde-det-efter-flere-mislykkede-forsoeg-fantastisk/11243066",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "d15edde02f61",
+   "t": "A Tour full of milestones and records, but Tadej Pogacar isn't focused on that: 'I just want to enjoy the moment'",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-26T20:14:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/tour-de-france/een-tour-vol-mijlpalen-en-records-maar-daar-is-tadej-pogacar-niet-mee-bezig-wil-gewoon-genieten-van-het-moment~a1979bc3/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "ffb949f8db01",
+   "t": "Tour de France Prize Money: How Much Did Tadej Pogačar Win?",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-26T19:56:54.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/tour-de-france-prize-money-how-much-did-tadej-pogacar-win/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "7c8a36403b7b",
    "t": "Philipsen: 'Mathieu has done so much for me!'",
@@ -12,6 +87,51 @@
      "n": "Radsport-News",
      "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146270.htm",
      "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "b3b4a093af29",
+   "t": "'Without them I wouldn't be standing here five times' - Tadej Pogačar pays tribute to family and friends in Tour de France winner's speech",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-26T19:52:22.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/without-them-i-wouldnt-be-standing-here-five-times-tadej-pogacar-pays-tribute-to-family-and-friends-in-tour-de-france-winners-speech/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "9791061b888a",
+   "t": "'Dream of winning three Grand Tours, I shouldn't just give that up': Remco Evenepoel shines alongside Oumi and remains ambitious after second place",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-26T19:50:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/tour-de-france/droom-om-drie-grote-rondes-te-winnen-moet-ik-niet-zomaar-laten-schieten-remco-evenepoel-straalt-naast-oumi-en-blijft-ambitieus-na-tweede-plek~a0a1cd78/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "b190d52339f9",
+   "t": "Pogacar hopes for Vingegaard duel next year",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-26T19:37:32.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/pogacar-haaber-paa-vingegaard-duel-naeste-aar/11243044",
+     "l": "da"
     }
    ],
    "tr": 1
