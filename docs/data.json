@@ -1,13 +1,28 @@
 {
- "updated": "2026-07-26T16:44:37.428Z",
+ "updated": "2026-07-26T17:40:29.741Z",
  "groups": [
+  {
+   "id": "24e813a424fb",
+   "t": "Germans on the Champs-Élysées ahead of the field across the finish line",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-26T17:42:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146273.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "results-2026-07-26",
    "type": "results",
    "t": "Latest results — ProCyclingStats",
    "s": "",
    "c": "race",
-   "date": "2026-07-26T16:44:33.746Z",
+   "date": "2026-07-26T17:40:27.170Z",
    "rows": [
     {
      "race": "Tour of Poland",
@@ -15,18 +30,18 @@
      "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Poland"
     },
     {
-     "race": "Tour of Poland stage 3",
+     "race": "Tour of Poland Stage 3",
      "winner": "Lorena Wiebes",
-     "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Poland%20stage%203"
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Poland%20Stage%203"
     },
     {
-     "race": "Castilla y León",
+     "race": "Clasica Castilla y Leon",
      "winner": "Thomas Silva",
-     "url": "https://www.procyclingstats.com/search.php?term=Castilla%20y%20Le%C3%B3n"
+     "url": "https://www.procyclingstats.com/search.php?term=Clasica%20Castilla%20y%20Leon"
     },
     {
      "race": "Tour de France",
-     "winner": "Tadej Pogačar",
+     "winner": "Tadej Pogacar",
      "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20France"
     }
    ],
@@ -37,6 +52,96 @@
      "l": "en"
     }
    ]
+  },
+  {
+   "id": "32d30c0883a7",
+   "t": "Merckx hands over the future of the Tour to Pogacar and points out a challenge never seen before",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-26T17:32:21.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/26/merckx-entrega-futuro-tour-pogacar-le-senala-reto-nunca-visto.html",
+     "l": "es"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "a31fa6f0fa49",
+   "t": "LIVE. The song of Remco Evenepoel and co is not going through (for now): sprinter Olav Kooij's team causes regrouping",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-26T17:32:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/tour-de-france/live-het-liedje-van-remco-evenepoel-en-co-gaat-voorlopig-niet-door-ploeg-van-sprinter-olav-kooij-zorgt-voor-hergroepering~a1979bc3/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "f4246a3f3d1c",
+   "t": "Waiting for Results of Anti-Doping Tests at the Tour de France? Don't Hold Your Breath",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-26T17:29:34.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/anti-doping-test-results/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "e4e934b7c8c0",
+   "t": "GC times to be taken before Montmartre climbs on Tour de France final stage for second year in a row due to safety concerns",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-26T17:01:23.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/gc-times-to-be-taken-before-montmartre-climbs-on-tour-de-france-final-stage-for-second-year-in-a-row-due-to-safety-concerns/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "fad7bbf4e917",
+   "t": "Mathieu van der Poel looks forward to final stage with Montmartre: 'Painful to see last year'",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-26T16:46:17.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/mathieu-van-der-poel-kijkt-uit-naar-slotrit-met-montmartre-pijnlijk-om-vorig-jaar-te-zien/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "d00ec87b5a43",
+   "t": "Remco Evenepoel goes all out for final stage: 'Course change not bad for me'",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-26T16:40:44.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/remco-evenepoel-gaat-vol-voor-slotrit-parcourswijziging-niet-slecht-voor-mij/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
   },
   {
    "id": "44e078c6c986",
@@ -94,6 +199,21 @@
      "n": "HLN Wielrennen",
      "u": "https://www.hln.be/tour-de-france/met-nog-een-knuffel-van-oumi-en-zn-ouders-voor-de-start-familie-van-remco-evenepoel-is-erbij-in-parijs-om-tweede-plaats-te-vieren~a867eaa9/",
      "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "4258b7a6bb56",
+   "t": "Tour 2026: Quinn Simmons named best helper again",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-26T16:25:36.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tour-2026-quinn-simmons-opnieuw-uitgeroepen-tot-beste-helper/",
+     "l": "nl"
     }
    ],
    "tr": 1
@@ -288,6 +408,21 @@
     {
      "n": "Feltet.dk",
      "u": "https://feltet.dk/landevej/tour-live-paris-raeset-er-for-alvor-i-gang/11222900",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "77ca700de0d7",
+   "t": "Tour live: Now it will be decided on Montmartre!",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-26T15:20:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/tour-live-nu-skal-det-afgoeres-paa-montmartre/11222900",
      "l": "da"
     }
    ],
@@ -2959,156 +3094,6 @@
      "n": "Feltet.dk",
      "u": "https://feltet.dk/landevej/evenepoel-forklarer-motorcykeldrama/11241606",
      "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "18b8a0bf4a28",
-   "t": "'We've kept motivating each other' - Isaac del Toro tightens grip on Tour de France podium as UAE Team Emirates bounce back from illness",
-   "s": "",
-   "c": "health",
-   "date": "2026-07-24T17:39:58.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/weve-kept-motivating-each-other-isaac-del-toro-tightens-grip-on-tour-de-france-podium-as-uae-team-emirates-bounce-back-from-illness/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "d67f4c8bd3a9",
-   "t": "Tour de France Stage 20 Preview: Deja Vu, It's Alpe d'Huez Again",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-24T17:37:08.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/tour-de-france-stage-20-preview-deja-vu-its-alpe-dhuez-again/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "76e7dda0db50",
-   "t": "Remco Evenepoel Says Crowds Blocked His Move in Tour de France Podium Battle",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-24T17:34:58.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/remco-evenepoel-crowds-delayed-alpe-dhuez-attack-tour-de-france/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "65ab15cc2c44",
-   "t": "Tadej Pogačar Destroys Alpe d'Huez Record with One of the Best Climbing Performances in History",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-24T17:17:42.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/pogacar-alpe-dhuez-best-performance-history/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "c701f74a2244",
-   "t": "Ayuso learns to suffer at the Tour: \"This year we have to row against the current\"",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-24T17:12:41.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/24/ayuso-aprende-sufrir-tour-ano-toca-remar-corriente.html",
-     "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "ca135b9c8f2b",
-   "t": "Rider withdraws with blood on head and 20 stitches - crashed into UAE car",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-24T17:11:24.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/rytter-udgaar-med-blod-i-hovedet-og-20-sting-koerte-ind-i-uae-bil/11241580",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "5f4b0c399cbd",
-   "t": "Carapaz explodes and with reason",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-24T17:05:46.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/24/carapaz-explota-razon.html",
-     "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "8c17b6b60ba0",
-   "t": "Carapaz takes a dig at Martinez: - Mad at him",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-24T16:58:25.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/carapaz-stikker-til-martinez-gal-paa-ham/11241565",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "d1254830b04c",
-   "t": "Mads P.'s optimistic plan worked: - Proud of myself",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-24T16:52:19.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/mads-p.s-optimistiske-plan-virkede-stolt-af-mig-selv/11241550",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "89593933f0bb",
-   "t": "Einer Rubio abandons Tour after hitting UAE team car at Alpe d'Huez",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-24T16:50:42.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/24/einer-rubio-abandona-tour-impactar-coche-uae-alpe-d-huez.html",
-     "l": "es"
     }
    ],
    "tr": 1
