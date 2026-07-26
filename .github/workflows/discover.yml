@@ -23,7 +23,7 @@ jobs:
         run: |
           git config user.name "koersradio-bot"
           git config user.email "bot@users.noreply.github.com"
-          git pull --rebase
           git add feeds.json feeds-rejected.json
           git diff --cached --quiet || git commit -m "Discover new sources $(date -u +'%Y-%m-%d')"
+          git pull --rebase
           git push
