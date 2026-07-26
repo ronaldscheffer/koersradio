@@ -221,6 +221,27 @@ Every N-index appears exactly once. "m" holds N-indices as numbers.`;
   });
 }
 
+// ——— vertaalpas: items die buiten de clustering vielen houden hun originele
+// (bijv. Spaanse) titel; die worden hier alsnog naar het Engels vertaald ———
+const untranslated = data.groups.filter((g) => !g.type && !g.s && !g.tr).slice(0, 40);
+if (untranslated.length) {
+  try {
+    const raw = await askClaude(`Translate these cycling headlines to natural English. Respond ONLY with valid JSON, no markdown, same count and order:
+{"t":["...","..."]}
+Headlines:
+${untranslated.map((g, i) => `${i}: ${g.t}`).join("\n")}`);
+    const t = extractJSON(raw, "t")?.t;
+    if (Array.isArray(t)) {
+      untranslated.forEach((g, i) => {
+        if (t[i]) { g.t = String(t[i]); g.tr = 1; }
+      });
+      console.log(`✓ vertaalpas: ${untranslated.length} titels`);
+    }
+  } catch (e) {
+    console.log(`✗ vertaalpas: ${e.message}`);
+  }
+}
+
 // ——— uitslagenkaart (dagelijks vernieuwd; OK verbergt hem tot morgen) ———
 const pcsRows = await fetchPCSResults();
 data.groups = data.groups.filter((g) => g.type !== "results");
