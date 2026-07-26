@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Koers. — Radio Koers</title>
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="theme-color" content="#131C26">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;800&family=Inter:wght@400;600&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
+<style>
+  :root { --bg:#EDF0F3; --ink:#131C26; --sub:#5B6772; --card:#fff; --line:#D8DEE4; --yellow:#FFCC00; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font-family:'Inter',system-ui,sans-serif; }
+  header { border-top:6px solid var(--yellow); background:var(--ink); color:#fff;
+    padding:calc(16px + env(safe-area-inset-top)) 18px 16px; }
+  .wrap { max-width:640px; margin:0 auto; }
+  .eyebrow { font-family:'JetBrains Mono',monospace; font-size:11px; letter-spacing:.22em; color:var(--yellow); }
+  h1 { font-family:'Barlow Condensed',sans-serif; font-weight:800; font-size:38px; line-height:1; margin:6px 0 4px; text-transform:uppercase; }
+  h1 span { color:var(--yellow); }
+  header p { font-size:13px; color:#B9C2CC; margin:0; }
+  main { max-width:640px; margin:0 auto; padding:14px 16px calc(60px + env(safe-area-inset-bottom)); }
+  .meta { display:flex; justify-content:space-between; align-items:center; font-family:'JetBrains Mono',monospace; font-size:11px; color:var(--sub); margin-bottom:8px; }
+  .meta button { background:none; border:1px solid var(--line); border-radius:999px; padding:5px 12px; font:inherit; color:var(--ink); cursor:pointer; }
+  article { background:var(--card); border-radius:12px; box-shadow:0 1px 3px rgba(19,28,38,.08); overflow:hidden; margin-top:12px; border-left:6px solid var(--yellow); }
+  .row { display:flex; align-items:stretch; }
+  .main-btn { flex:1; text-align:left; background:none; border:none; padding:13px 12px 13px 15px; cursor:pointer; color:var(--ink); font-family:inherit; }
+  .tag { font-family:'JetBrains Mono',monospace; font-size:10px; letter-spacing:.16em; color:var(--sub); text-transform:uppercase; margin-bottom:6px; }
+  h2 { font-family:'Barlow Condensed',sans-serif; font-weight:600; font-size:21px; line-height:1.15; margin:0; }
+  .ok { border:none; border-left:1px solid var(--line); background:#F5F7F9; color:#1D9E5F; font-weight:700; font-size:13px; padding:0 15px; cursor:pointer; font-family:'JetBrains Mono',monospace; }
+  .detail { border-top:1px solid var(--line); padding:11px 15px 13px; }
+  .detail p { font-size:14px; line-height:1.55; color:#33404C; margin:0 0 10px; }
+  .chips { display:flex; flex-wrap:wrap; gap:8px; }
+  .chips a { display:inline-flex; align-items:center; gap:6px; font-size:12px; font-weight:600; color:var(--ink); background:var(--bg); border:1px solid var(--line); border-radius:999px; padding:6px 12px; text-decoration:none; }
+  .resrow { font-size:14px; margin:0 0 8px; color:#33404C; } .resrow a { color:var(--ink); }
+  .empty { text-align:center; color:var(--sub); font-size:14px; margin-top:44px; line-height:1.6; }
+  .hidden { display:none; }
+  button:focus-visible, a:focus-visible { outline:3px solid var(--yellow); outline-offset:2px; }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="eyebrow">RADIO KOERS</div>
+    <h1>Koers<span>.</span></h1>
+    <p>All cycling news, every language, one story each. Tap OK when read.</p>
+  </div>
+</header>
+<main>
+  <div class="meta">
+    <span id="updated">loading…</span>
+    <button id="reload">↻ Reload</button>
+  </div>
+  <div id="feed"></div>
+  <p class="empty hidden" id="empty">All caught up 🏁<br>New stories appear automatically every 30 minutes.</p>
+</main>
+<script>
+const CAT = { race:"#FFCC00", transfer:"#1D9E5F", gear:"#4C7DD9", health:"#D9534C", other:"#8A5BC4" };
+const FLAG = { nl:"🇳🇱", be:"🇧🇪", en:"🇬🇧", fr:"🇫🇷", da:"🇩🇰", sl:"🇸🇮", it:"🇮🇹", es:"🇪🇸", de:"🇩🇪" };
+const READ_KEY = "koersradio_read";
+const esc = (s) => (s||"").replace(/[&<>"]/g, (c)=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const getRead = () => { try { return new Set(JSON.parse(localStorage.getItem(READ_KEY)||"[]")); } catch { return new Set(); } };
+const saveRead = (s) => localStorage.setItem(READ_KEY, JSON.stringify([...s].slice(-600)));
+
+let groups = [];
+let openId = null;
+
+function ago(iso){
+  const m = Math.round((Date.now()-new Date(iso))/60000);
+  if (m < 60) return m + "m ago";
+  const h = Math.round(m/60);
+  return h < 48 ? h + "h ago" : Math.round(h/24) + "d ago";
+}
+
+function render(){
+  const read = getRead();
+  const feed = document.getElementById("feed");
+  const visible = groups.filter(g => !read.has(g.id));
+  document.getElementById("empty").classList.toggle("hidden", visible.length > 0);
+  feed.innerHTML = visible.map(g => {
+    const flags = (g.sources||[]).map(s => FLAG[s.l]||"").join(" ");
+    const open = g.id === openId;
+    return `<article style="border-left-color:${CAT[g.c]||CAT.other}">
+      <div class="row">
+        <button class="main-btn" data-open="${g.id}">
+          <div class="tag">${g.type==="picks" ? `🎯 scorito · ${ago(g.date)} · ${(g.rows||[]).length} picks` : g.type==="results" ? `🏆 results · ${ago(g.date)} · ${(g.rows||[]).length} races` : `${esc(g.c||"other")} · ${ago(g.date)} · ${(g.sources||[]).length} source${(g.sources||[]).length===1?"":"s"} ${flags}`}</div>
+          <h2>${esc(g.t)}</h2>
+        </button>
+        <button class="ok" data-ok="${g.id}" aria-label="Mark as read">OK ✓</button>
+      </div>
+      ${open ? `<div class="detail">
+        ${g.type === "picks" ? (g.rows||[]).map(r =>
+          `<p class="resrow"><strong>${esc(r.r)}</strong> — ${esc(r.w)}</p>`).join("") : ""}
+        ${g.type === "results" ? (g.rows||[]).map(r =>
+          `<p class="resrow"><a href="${esc(r.url)}" target="_blank" rel="noopener noreferrer">${esc(r.race)}</a> — <strong>${esc(r.winner)}</strong></p>`).join("") : ""}
+        ${g.s ? `<p>${esc(g.s)}</p>` : ""}
+        <div class="chips">${(g.sources||[]).map(s =>
+          `<a href="${esc(s.u)}" target="_blank" rel="noopener noreferrer">${FLAG[s.l]||"🌐"} ${esc(s.n)} →</a>`).join("")}
+        </div>
+      </div>` : ""}
+    </article>`;
+  }).join("");
+}
+
+document.addEventListener("click", (e) => {
+  const okId = e.target.closest("[data-ok]")?.dataset.ok;
+  if (okId) {
+    const read = getRead(); read.add(okId); saveRead(read);
+    if (openId === okId) openId = null;
+    render(); return;
+  }
+  const opId = e.target.closest("[data-open]")?.dataset.open;
+  if (opId) { openId = openId === opId ? null : opId; render(); }
+});
+
+async function load(){
+  document.getElementById("updated").textContent = "loading…";
+  try {
+    const res = await fetch("data.json?t=" + Date.now(), { cache: "no-store" });
+    const data = await res.json();
+    groups = data.groups || [];
+    document.getElementById("updated").textContent = "updated " + ago(data.updated);
+  } catch {
+    document.getElementById("updated").textContent = "no data yet — run the Action first";
+    groups = [];
+  }
+  render();
+}
+document.getElementById("reload").addEventListener("click", load);
+document.addEventListener("visibilitychange", () => { if (!document.hidden) load(); });
+load();
+</script>
+</body>
+</html>

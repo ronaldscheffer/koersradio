@@ -1,0 +1,9 @@
+{
+  "name": "Koers. — Radio Koers",
+  "short_name": "Koers.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#131C26",
+  "theme_color": "#131C26",
+  "icons": [{ "src": "icon.png", "sizes": "512x512", "type": "image/png" }]
+}
