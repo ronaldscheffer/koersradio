@@ -1,6 +1,21 @@
 {
- "updated": "2026-07-27T22:15:40.297Z",
+ "updated": "2026-07-27T23:41:43.874Z",
  "groups": [
+  {
+   "id": "c88ee14b016d",
+   "t": "Riders still raving about Van der Poel the day after final stage: 'He's incredible'",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T22:23:54.000Z",
+   "sources": [
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2624671",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "6e6507d6d876",
    "t": "Wiebes in top form and with revenge feelings towards Tour de France Femmes",
@@ -4642,51 +4657,6 @@
     {
      "n": "Escape Collective",
      "u": "https://escapecollective.com/the-best-dog-of-the-2026-tour-de-france-is-a-shared-honour/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "20cb6e4a0c0d",
-   "t": "Del Toro Battles Illness to Beat Seixas to Tour Podium: 'Crying and Speechless'",
-   "s": "",
-   "c": "health",
-   "date": "2026-07-25T23:14:23.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/del-toro-siexas-pruhomme/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "1ce564002e7a",
-   "t": "Degenkolb: '5400 meters of climbing are simply absurd'",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T22:51:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146265.htm",
-     "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "8f690558aa57",
-   "t": "Sepp Kuss tried",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T22:30:53.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/sepp-kuss-tried/",
      "l": "en"
     }
    ],
