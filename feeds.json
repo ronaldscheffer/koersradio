@@ -78,5 +78,20 @@
     "name": "Radsport-News",
     "url": "https://www.radsport-news.com/rss.xml",
     "lang": "de"
+  },
+  {
+    "name": "The Inner Ring (inrng.com)",
+    "url": "https://inrng.com/feed/",
+    "lang": "en"
+  },
+  {
+    "name": "TuttoBiciWeb",
+    "url": "https://www.tuttobiciweb.it/rss.php",
+    "lang": "it"
+  },
+  {
+    "name": "Vélo 101",
+    "url": "https://www.velo101.com/feed",
+    "lang": "fr"
   }
 ]
