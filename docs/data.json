@@ -1,18 +1,48 @@
 {
- "updated": "2026-07-27T17:21:09.266Z",
+ "updated": "2026-07-27T19:01:22.137Z",
  "groups": [
+  {
+   "id": "b8750e1601fc",
+   "t": "Evenepoel wants to become San Sebastian record winner on Saturday",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T19:11:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146284.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "results-2026-07-27",
    "type": "results",
    "t": "Latest results — ProCyclingStats",
    "s": "",
    "c": "race",
-   "date": "2026-07-27T17:21:06.689Z",
+   "date": "2026-07-27T19:01:19.481Z",
    "rows": [
     {
-     "race": "Tour de France 2026",
-     "winner": "Mathieu van der Poel",
-     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20France%202026"
+     "race": "Italian National Championships - elite women's scratch race",
+     "winner": "Sanarini",
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20National%20Championships%20-%20elite%20women's%20scratch%20race"
+    },
+    {
+     "race": "Italian National Championships - elite scratch race",
+     "winner": "Magagnotti",
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20National%20Championships%20-%20elite%20scratch%20race"
+    },
+    {
+     "race": "Italian National Championships - junior women's scratch race",
+     "winner": "Elisa Bianchi",
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20National%20Championships%20-%20junior%20women's%20scratch%20race"
+    },
+    {
+     "race": "Italian National Championships - junior scratch race",
+     "winner": "Arnoldi",
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20National%20Championships%20-%20junior%20scratch%20race"
     }
    ],
    "sources": [
@@ -24,10 +54,235 @@
    ]
   },
   {
-   "id": "aeebfa83e939",
-   "t": "Slechts derde keer ooit: Frankrijk blijft zonder ritzege in de Tour de France",
+   "id": "d0b34f79337c",
+   "t": "Pedersen announces Vuelta start",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T18:50:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146285.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "9632375eee87",
+   "t": "Italian National Championships. Alzini, Barbieri, Cenci, Fidanza: golden quartet",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T18:47:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/27/1785178097/ciclismo-inseguimento-a-squadre-campionati-italiani-pista-donne",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "2cabdaa1aaed",
+   "t": "Ex-Pro Danilo Napolitano Banned 20 Years in Doping Case Linked to Italian Junior Team",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-27T18:31:34.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/news/ex-pro-cyclsit-danilo-napolitano-banned-20-years-doping-case-linked-italian-junior-team/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "04bbdf94d325",
+   "t": "Italian National Championships. Junior quartet: Veneto dominance, Tuscany silver",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T18:23:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/27/1785176669/ciclismo-inseguimento-a-squadre-juniores-campionati-italiani-veneto",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "53cee7689276",
+   "t": "It's about devotion",
    "s": "",
    "c": "other",
+   "date": "2026-07-27T18:15:13.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/its-about-devotion/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "65ea95147a20",
+   "t": "Reinforcement for the classics? Anthony Turgis possibly heading to Netcompany INEOS",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-27T17:54:11.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/versterking-voor-de-klassiekers-anthony-turgis-mogelijk-op-weg-naar-netcompany-ineos/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "b75c14bceaf7",
+   "t": "2026 Tour was the fastest in history",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T17:52:32.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/2026-tour-was-the-fastest-in-history/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "8dc4b8857511",
+   "t": "Pogacar also takes the big prize of the Tour: 612,000 euros",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T17:50:24.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/27/pogacar-lleva-tambien-gran-premio-tour-612-000-euros.html",
+     "l": "es"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "ad63c192ff05",
+   "t": "Visma's Plugge says overnight tests 'not a sign of suspicion'",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-27T17:48:01.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/vismas-plugge-says-overnight-tests-not-a-sign-of-suspicion/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "26a9c8f4310d",
+   "t": "Italian National Championships. Elite team sprint: gold for the Army and Fiamme Oro girls",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T17:43:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/27/1785174283/ciclismo-velocita-a-squadre-campionati-italiani-inseguimento-a-squadre-pista",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "33519429eea1",
+   "t": "Vingegaard was missed - will break Pogacar dominance with change",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-27T17:40:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/vingegaard-var-savnet-vil-bryde-pogacar-dominans-med-aendring/11211905",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "7372b670dd7f",
+   "t": "After short night, hero's welcome and fun moment with Lucien Van Impe, Remco Evenepoel entertains masses of fans at Aalst criterium",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T17:36:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/tour-de-france/na-korte-nacht-heldenonthaal-en-leuk-moment-met-lucien-van-impe-vermaakt-remco-evenepoel-massa-fans-in-criterium-van-aalst~ade080b1/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "e370c03e7cdf",
+   "t": "\"He will want to win all the big tours next season\": Eddy Merckx praises Tadej Pogacar after fifth Tour win and was also amazed by Paul Seixas",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T17:30:04.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/hij-zal-volgend-seizoen-alle-grote-rondes-willen-winnen-eddy-merckx-looft-tadej-pogacar-na-vijfde-tourzege-en-keek-ook-met-grote-ogen-naar-paul-seixas~a8d59ea3/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "bdf980f0b321",
+   "t": "Italian National Championships. Piedmont and Lombardy dominate junior team speed",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T17:27:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/27/1785173245/ciclismo-campionati-italiani-juniores-velocita-squadre-piemonte-lombardia",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "25ef2543d108",
+   "t": "From Mûr-de-Bretagne to Paris: what was Van der Poel's most beautiful stage win in the Tour?",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T17:19:01.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/van-mur-de-bretagne-tot-parijs-wat-was-de-mooiste-ritzege-van-van-der-poel-in-de-tour/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "aeebfa83e939",
+   "t": "Only third time ever: France left without a stage win in the Tour de France",
+   "s": "",
+   "c": "race",
    "date": "2026-07-27T16:56:54.000Z",
    "sources": [
     {
@@ -35,13 +290,14 @@
      "u": "https://www.wielerflits.nl/nieuws/slechts-derde-keer-ooit-frankrijk-blijft-zonder-ritzege-in-de-tour-de-france/",
      "l": "nl"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "9b4cffd2b4cb",
-   "t": "Uno-X tager dansk sponsornavn",
+   "t": "Uno-X takes Danish sponsor name",
    "s": "",
-   "c": "other",
+   "c": "transfer",
    "date": "2026-07-27T16:56:34.000Z",
    "sources": [
     {
@@ -49,11 +305,12 @@
      "u": "https://feltet.dk/landevej/uno-x-tager-dansk-sponsornavn/11243734",
      "l": "da"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "d32ef9d2720b",
-   "t": "Muscle Milan wint Tourspel Wielerflits Ploegleider, El Aguila de Toledo de beste in Voorspelgame",
+   "t": "Muscle Milan wins Tourspel Wielerflits team manager game, El Aguila de Toledo best in prediction game",
    "s": "",
    "c": "other",
    "date": "2026-07-27T16:38:04.000Z",
@@ -63,13 +320,14 @@
      "u": "https://www.wielerflits.nl/nieuws/muscle-milan-wint-tourspel-wielerflits-ploegleider-el-aguila-de-toledo-de-beste-in-voorspelgame/",
      "l": "nl"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "1481888364d3",
    "t": "Rating every Tour de France team's performance – The good, the great and the downright disappointing",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-27T16:34:18.000Z",
    "sources": [
     {
@@ -77,13 +335,14 @@
      "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/rating-every-tour-de-france-teams-performance-the-good-the-great-and-the-downright-disappointing/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "4cee24139ee4",
-   "t": "Remco Evenepoel, die om 2.30 uur in bed lag en souvenir vroeg aan Pogacar, onthaald door pak fans: “Besef nog niet dat ik tweede werd in Tour”",
+   "t": "Remco Evenepoel, who went to bed at 2:30 AM and asked Pogacar for a souvenir, welcomed by pack of fans: \"Still don't realize I came second in Tour\"",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-27T16:33:00.000Z",
    "sources": [
     {
@@ -91,13 +350,14 @@
      "u": "https://www.hln.be/tour-de-france/remco-evenepoel-die-om-2-30-uur-in-bed-lag-en-souvenir-vroeg-aan-pogacar-onthaald-door-pak-fans-besef-nog-niet-dat-ik-tweede-werd-in-tour~ade080b1/",
      "l": "be"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "5770f15d04dd",
-   "t": "Tadej Pogacar : « Je ne sais pas comment je fais »",
+   "t": "Tadej Pogacar: \"I don't know how I do it\"",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-27T16:31:13.000Z",
    "sources": [
     {
@@ -105,11 +365,12 @@
      "u": "https://www.velo101.com/courses/tour-de-france/tadej-pogacar-je-ne-sais-pas-comment-je-fais/",
      "l": "fr"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "212484b05344",
-   "t": "Remco og Red Bull tæller dagene til Pogacar svækkes",
+   "t": "Remco and Red Bull counting down the days until Pogacar weakens",
    "s": "",
    "c": "other",
    "date": "2026-07-27T16:30:00.000Z",
@@ -119,13 +380,14 @@
      "u": "https://feltet.dk/landevej/remco-og-red-bull-taeller-dagene-til-pogacar-svaekkes/11243701",
      "l": "da"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "f23fbf052283",
-   "t": "Nach dieser Tour träumen Evenepoel und Denk von mehr",
+   "t": "After this Tour, Evenepoel and Denk dream of more",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-27T16:16:00.000Z",
    "sources": [
     {
@@ -133,13 +395,14 @@
      "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146283.htm",
      "l": "de"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "b677b80f8c2c",
-   "t": "Mathieu van der Poel : « Le scénario de la course a été digne d’un rêve »",
+   "t": "Mathieu van der Poel: \"The race scenario was worthy of a dream\"",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-27T16:08:29.000Z",
    "sources": [
     {
@@ -147,13 +410,14 @@
      "u": "https://www.velo101.com/courses/tour-de-france/mathieu-van-der-poel-le-scenario-de-la-course-a-ete-digne-dun-reve/",
      "l": "fr"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "15a34a62ebde",
-   "t": "TRICOLORI ASSOLUTI. SANARINI REGINA DELLO SCRATCH DONNE ELITE",
+   "t": "Italian National Championships. Sanarini queen of elite women's scratch race",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-27T16:08:00.000Z",
    "sources": [
     {
@@ -161,13 +425,14 @@
      "u": "https://www.tuttobiciweb.it/article/2026/07/27/1785168500/ciclismo-pista-campionati-italiani-scratch-elite-linda-sanarini",
      "l": "it"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "5984691ccfc7",
-   "t": "Van Renewi Tour tot Guangxi? Het beoogde najaarsprogramma van Tiesj Benoot",
+   "t": "From Van Renewi Tour to Guangxi? The planned autumn program of Tiesj Benoot",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-27T15:55:39.000Z",
    "sources": [
     {
@@ -175,13 +440,14 @@
      "u": "https://www.wielerflits.nl/nieuws/van-renewi-tour-tot-guangxi-het-beoogde-najaarsprogramma-van-tiesj-benoot/",
      "l": "nl"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "e9be630fc16d",
-   "t": "Moet Remco Evenepoel blijven focussen op de Tour? “Wellicht wel. Maar als er een buitenkans is in de Giro, waarom niet?”",
+   "t": "Should Remco Evenepoel continue to focus on the Tour? \"Perhaps. But if there's a chance in the Giro, why not?\"",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-27T15:50:38.000Z",
    "sources": [
     {
@@ -189,13 +455,14 @@
      "u": "https://www.hln.be/wielrennen/moet-remco-evenepoel-blijven-focussen-op-de-tour-wellicht-wel-maar-als-er-een-buitenkans-is-in-de-giro-waarom-niet~a9fbe84d7/",
      "l": "be"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "0d6c6dc3773d",
    "t": "Argon 18 Anti Matter review: Tested in the wind tunnel and on the trail",
    "s": "",
-   "c": "other",
+   "c": "gear",
    "date": "2026-07-27T15:47:29.000Z",
    "sources": [
     {
@@ -203,13 +470,14 @@
      "u": "https://www.cyclingnews.com/argon-18-anti-matter-gravel-bike-review/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "f22aa537115e",
-   "t": "TRICOLORI ASSOLUTI. MAGAGNOTTI E' CAMPIONE D'ITALIA: SPRINT DI POTENZA NELLO SCRATCH ELITE",
+   "t": "Italian National Championships. Magagnotti is Italian champion: power sprint in elite scratch race",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-27T15:39:00.000Z",
    "sources": [
     {
@@ -217,13 +485,14 @@
      "u": "https://www.tuttobiciweb.it/article/2026/07/27/1785166957/ciclismo-pista-campionati-italiani-magagnotti-scratch-elite",
      "l": "it"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "ae3d1c1a27ee",
-   "t": "TRICOLORI ASSOLUTI. ELISA BIANCHI CONQUISTA IL TITOLO DELLO SCRATCH DONNE JUNIORES",
+   "t": "Italian National Championships. Elisa Bianchi wins junior women's scratch title",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-27T15:31:00.000Z",
    "sources": [
     {
@@ -231,13 +500,14 @@
      "u": "https://www.tuttobiciweb.it/article/2026/07/27/1785166385/ciclismo-pista-juniores-campionati-italiani-lombardia",
      "l": "it"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "f260e831b372",
-   "t": "Mads P. skrev historie – men ingen hyldest er planlagt",
+   "t": "Mads P. made history – but no celebration is planned",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-27T15:30:44.000Z",
    "sources": [
     {
@@ -245,11 +515,12 @@
      "u": "https://feltet.dk/landevej/mads-p.-skrev-historie-men-ingen-hyldest-er-planlagt/11243674",
      "l": "da"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "eb0d7361675b",
-   "t": "Waarom Tadej Pogacar hard to get speelt en 100.000 euro vraagt, maar Remco Evenepoel voor ongeveer de helft wel naar criterium Aalst komt",
+   "t": "Why Tadej Pogacar plays hard to get and asks for 100,000 euros, but Remco Evenepoel comes to the Aalst criterium for about half that",
    "s": "",
    "c": "other",
    "date": "2026-07-27T15:20:00.000Z",
@@ -259,7 +530,8 @@
      "u": "https://www.hln.be/wielrennen/waarom-tadej-pogacar-hard-to-get-speelt-en-100-000-euro-vraagt-maar-remco-evenepoel-voor-ongeveer-de-helft-wel-naar-criterium-aalst-komt~af21e3e4/",
      "l": "be"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "3a5ccc4fa38d",
@@ -278,9 +550,9 @@
   },
   {
    "id": "821da228219a",
-   "t": "TRICOLORI ASSOLUTI. ORO DI ARNOLDI NELLO SCRATCH JUNIORES. GALLERY",
+   "t": "Italian National Championships. Arnoldi gold in junior scratch race",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-27T15:05:00.000Z",
    "sources": [
     {
@@ -288,13 +560,14 @@
      "u": "https://www.tuttobiciweb.it/article/2026/07/27/1785164723/ciclismo-pista-campionati-italiani-juniores-mattia-arnoldi",
      "l": "it"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "d090fb03786e",
-   "t": "Deelnemers Tour de France Femmes 2026",
+   "t": "Participants Tour de France Femmes 2026",
    "s": "",
-   "c": "other",
+   "c": "race",
    "date": "2026-07-27T15:00:23.000Z",
    "sources": [
     {
@@ -302,7 +575,8 @@
      "u": "https://www.wielerflits.nl/nieuws/deelnemers-tour-de-france-femmes-2026/",
      "l": "nl"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "c768789bd277",
@@ -4250,6 +4524,21 @@
    "tr": 1
   },
   {
+   "id": "5aab96f75470",
+   "t": "Tour de France Stage 21 Preview",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-25T22:10:20.000Z",
+   "sources": [
+    {
+     "n": "The Inner Ring (inrng.com)",
+     "u": "https://inrng.com/2026/07/tour-de-france-stage-21/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
    "id": "7ef3c6cb9736",
    "t": "Heavy penalty for unlucky Kuss at Alpe d'Huez",
    "s": "",
@@ -4410,201 +4699,6 @@
      "n": "Marca Ciclismo",
      "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/25/kuss-pudo-peor-quedarse-victoria-mal-menor-mal-habia-redes.html",
      "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "80f0df78fe12",
-   "t": "Riis praises Pogacar: - It shows humility and respect",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T19:00:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/riis-roser-pogacar-det-viser-ydmyghed-og-respekt/11242299",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "d252e56ec56a",
-   "t": "After painful blunder with Chris Froome: why Remco Evenepoel also puts on this striking vest after mountain stages in the Tour",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-25T18:59:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/tour-de-france/na-pijnlijke-blunder-met-chris-froome-daarom-trekt-ook-remco-evenepoel-na-bergritten-in-tour-dit-opvallende-hesje-aan~aafafda7/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "6983868aa199",
-   "t": "Evenepoel Misses Tour Queen Stage Win with Delayed Attack, but Makes a Big Statement",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T18:43:04.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/evenepoel-misses-tour-queen-stage-win-with-delayed-attack-but-makes-an-important-point/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "88ea0fb2f9d3",
-   "t": "'We gambled it all on the third week' - Richard Carapaz fights back from tough summer of recovery to claim maximum climbing honours at Tour de France",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T18:31:10.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/we-gambled-it-all-on-the-third-week-richard-carapaz-fights-back-from-tough-summer-of-recovery-to-claim-maximum-climbing-honours-at-tour-de-france/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "f3f30d3efb93",
-   "t": "Sepp Kuss Fined $1800 and Penalized a Minute for Littering After Alpe d'Huez Pain",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T18:29:54.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/sepp-kuss-fined-1800-penalized-minute-for-littering-after-alpe-d-huez-pain/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "714d295dbeea",
-   "t": "Pogacar stunned by Mads P.: - Insane",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T18:24:19.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/pogacar-maaber-over-mads-p.-vanvittigt/11242329",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "1f3a4598f211",
-   "t": "What do you mean, egocentric? How Tadej Pogacar took care of 'little brother' Isaac Del Toro: 'Shown that he is a friend'",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T18:17:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/tour-de-france/hoezo-egocentrisch-hoe-tadej-pogacar-zich-ontfermde-over-kleine-broer-isaac-del-toro-getoond-dat-hij-een-vriend-is~a57f1356/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "1c365c4b45dc",
-   "t": "Seixas wanted to risk it all",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T18:03:09.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/seixas-ville-risikere-det-hele/11242302",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "fb4772922797",
-   "t": "Sepp Kuss hit with big fine, time loss and points deduction for littering at Tour de France",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T17:57:01.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/sepp-kuss-hit-with-big-fine-time-loss-and-points-deduction-for-littering-at-tour-de-france/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "4c0760fa1d9d",
-   "t": "'Proof that the disbelief in me is unfounded' – Remco Evenepoel hits back at critics as Tour de France second place overall is all but secured",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T17:42:28.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/proof-that-the-disbelief-in-me-is-unfounded-remco-evenepoel-hits-back-at-critics-as-tour-de-france-second-place-overall-is-all-but-secured/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "1eb178082fa0",
-   "t": "'Don't expect to see me back' – Alaphilippe is racing his last Tour de France",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-25T17:33:40.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/dont-expect-to-see-me-back-alaphilippe-may-be-racing-his-last-tour-de-france/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "a9a96861fa62",
-   "t": "'There's no enjoyment anymore' - Julian Alaphilippe says this is his final Tour de France",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-25T17:28:22.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/theres-no-enjoyment-anymore-julian-alaphilippe-says-this-is-his-final-tour-de-france/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "97c05edbc009",
-   "t": "Presentation of the 21st stage of the 2026 Tour de France",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T17:27:45.000Z",
-   "sources": [
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/courses/tour-de-france/presentation-de-la-21eme-etape-du-tour-de-france-2026/",
-     "l": "fr"
     }
    ],
    "tr": 1
