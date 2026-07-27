@@ -1,6 +1,66 @@
 {
- "updated": "2026-07-27T20:41:24.645Z",
+ "updated": "2026-07-27T22:15:40.297Z",
  "groups": [
+  {
+   "id": "6e6507d6d876",
+   "t": "Wiebes in top form and with revenge feelings towards Tour de France Femmes",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T21:51:08.000Z",
+   "sources": [
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2624669",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "d89611917253",
+   "t": "Rottmann shines with six top-ten finishes, Litlere fifth overall",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T21:43:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146287.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "dd39831ad558",
+   "t": "Preview: The hardest Tour de France Femmes route yet?",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T21:35:01.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/2026-tour-de-france-femmes-route-preview/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "b0801e7f8132",
+   "t": "Australian national champion Mackenzie Coupland debuts in varied Liv AlUla Jayco line-up for Tour de France Femmes",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-27T20:48:59.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/australian-national-champion-mackenzie-coupland-debuts-in-varied-liv-alula-jayco-line-up-for-tour-de-france-femmes/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "scorito-2026-07-27",
    "type": "picks",
@@ -43,48 +103,6 @@
    ]
   },
   {
-   "id": "results-2026-07-27",
-   "type": "results",
-   "t": "Latest results — ProCyclingStats",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T20:41:21.605Z",
-   "rows": [
-    {
-     "race": "Italian National Championships Elite Team Sprint",
-     "winner": "Army and Fiamme Oro girls",
-     "url": "https://www.procyclingstats.com/search.php?term=Italian%20National%20Championships%20Elite%20Team%20Sprint"
-    },
-    {
-     "race": "Italian National Championships Elite Women's Scratch Race",
-     "winner": "Sanarini",
-     "url": "https://www.procyclingstats.com/search.php?term=Italian%20National%20Championships%20Elite%20Women's%20Scratch%20Race"
-    },
-    {
-     "race": "Italian National Championships Elite Scratch Race",
-     "winner": "Magagnotti",
-     "url": "https://www.procyclingstats.com/search.php?term=Italian%20National%20Championships%20Elite%20Scratch%20Race"
-    },
-    {
-     "race": "Italian National Championships Junior Women's Scratch",
-     "winner": "Elisa Bianchi",
-     "url": "https://www.procyclingstats.com/search.php?term=Italian%20National%20Championships%20Junior%20Women's%20Scratch"
-    },
-    {
-     "race": "Italian National Championships Junior Scratch Race",
-     "winner": "Arnoldi",
-     "url": "https://www.procyclingstats.com/search.php?term=Italian%20National%20Championships%20Junior%20Scratch%20Race"
-    }
-   ],
-   "sources": [
-    {
-     "n": "ProCyclingStats",
-     "u": "https://www.procyclingstats.com/",
-     "l": "en"
-    }
-   ]
-  },
-  {
    "id": "cc62ad21b334",
    "t": "'It was a tough race' - Netcompany Ineos kick-off Tour de France review after failing to win a stage",
    "s": "",
@@ -109,6 +127,21 @@
     {
      "n": "HLN Wielrennen",
      "u": "https://www.hln.be/tour-de-france/makkelijk-terug-neerdalen-op-aarde-tuurlijk-ik-ben-nooit-opgestegen-aalst-eert-zijn-grote-belgische-tourheld-remco-evenepoel-in-stijl-die-criterium-wint~ade080b1/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "ae580c7f924d",
+   "t": "\"Easy to come back down to earth? Of course, I never took off\": Aalst honors Remco Evenepoel, who wins criterium, in style",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T19:50:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/tour-de-france/makkelijk-terug-neerdalen-op-aarde-tuurlijk-ik-ben-nooit-opgestegen-aalst-eert-remco-evenepoel-die-criterium-wint-in-stijl~ade080b1/",
      "l": "be"
     }
    ],
@@ -4655,66 +4688,6 @@
      "n": "Escape Collective",
      "u": "https://escapecollective.com/sepp-kuss-tried/",
      "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "5aab96f75470",
-   "t": "Tour de France Stage 21 Preview",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T22:10:20.000Z",
-   "sources": [
-    {
-     "n": "The Inner Ring (inrng.com)",
-     "u": "https://inrng.com/2026/07/tour-de-france-stage-21/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "7ef3c6cb9736",
-   "t": "Heavy penalty for unlucky Kuss at Alpe d'Huez",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T22:03:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146264.htm",
-     "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "23a33d1f4b0b",
-   "t": "'Super domestique' Pogacar trains Del Toro in handling pressure",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T21:44:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146263.htm",
-     "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "6a4feaf414e5",
-   "t": "The Tour in 15 minutes: 'Mads Pedersen gives Mathieu van der Poel a free pass in Paris'",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T20:51:56.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/de-tour-in-15-minuten-mads-pedersen-geeft-mathieu-van-der-poel-een-vrijgeleide-in-parijs/",
-     "l": "nl"
     }
    ],
    "tr": 1
