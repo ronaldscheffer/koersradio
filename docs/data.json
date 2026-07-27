@@ -1,6 +1,96 @@
 {
- "updated": "2026-07-27T00:10:03.564Z",
+ "updated": "2026-07-27T04:26:27.599Z",
  "groups": [
+  {
+   "id": "5a623d41a25b",
+   "t": "Lighter, better, faster, stronger... How Remco Evenepoel landed on the podium in Paris, but also at a crossroads: 'It can always be better'",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T04:06:08.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/tour-de-france/lighter-better-faster-stronger-hoe-remco-evenepoel-in-parijs-op-het-podium-maar-ook-op-een-kruispunt-is-beland-het-kan-altijd-nog-beter~ac9f416e/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "5858c8a43bab",
+   "t": "The Tour in 15 minutes: 'Crazy Mathieu van der Poel and the new generation is coming'",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T04:00:41.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/de-tour-in-15-minuten-krankzinnige-mathieu-van-der-poel-en-de-nieuwe-generatie-komt-eraan/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "9a32130ed657",
+   "t": "No OnlyFans, but calling and surfing with Wout: 'grand' reveal of Wout van Aert turns out to be his own 'WVA Mobile' with 'exclusive extras'",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-27T04:00:20.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/geen-onlyfans-wel-bellen-en-surfen-met-wout-grootse-onthulling-van-wout-van-aert-blijkt-eigen-wva-mobile-met-exclusieve-extras~ace630f0/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "c00d8e63a6a2",
+   "t": "Tadej Pogacar speaks to MARCA and 'celebrates' his fifth Tour: 'Achieved'",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T02:55:14.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/27/tadej-pogacar-marca-celebra-quinto-tour-conseguido.html",
+     "l": "es"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "7471fc051846",
+   "t": "'Two years ago I already said he's going to surpass Eddy Merckx' - Former Tour de France winner Cadel Evans pays tribute to Tadej Pogačar",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T02:41:34.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/two-years-ago-i-already-said-hes-going-to-surpass-eddy-merckx-former-tour-de-france-winner-cadel-evans-pays-tribute-to-tadej-pogacar/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "0955aa42219e",
+   "t": "'A year I was thinking about this' – Mathieu van der Poel moves from pneumonia-spoiled run to Tour de France Paris stage dream",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-27T01:30:39.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/a-year-i-was-thinking-about-this-mathieu-van-der-poel-moves-from-pneumonia-spoiled-run-to-tour-de-france-paris-stage-dream/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "c7b3e9a121ed",
    "t": "I'm not thinking about any history, clubbing, or whatever - Tour de France winner Tadej Pogačar has his name in lights but keeps his feet on the ground",
@@ -3552,36 +3642,6 @@
      "n": "Feltet.dk",
      "u": "https://feltet.dk/landevej/vilde-scener-paa-alpe-dhuez-har-ikke-oerer-laengere/11241704",
      "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "5424098af1d1",
-   "t": "Wout van Aert resumes after elbow inflammation problems Wednesday in Tour of Denmark",
-   "s": "",
-   "c": "health",
-   "date": "2026-07-25T04:06:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/wout-van-aert-hervat-na-problemen-met-ontstoken-elleboog-woensdag-in-ronde-van-denemarken~a5422abd/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e2bfa78d4bd3",
-   "t": "Why has the performance gap between Tour de France riders and top amateurs remained stable?",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-25T03:53:46.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/why-has-the-performance-gap-between-tour-de-france-riders-and-top-amateurs-remained-stable/",
-     "l": "en"
     }
    ],
    "tr": 1
