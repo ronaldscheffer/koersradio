@@ -1,6 +1,351 @@
 {
- "updated": "2026-07-27T11:38:13.850Z",
+ "updated": "2026-07-27T15:09:53.848Z",
  "groups": [
+  {
+   "id": "3a5ccc4fa38d",
+   "t": "Waiting for Belgian Tour hero: some fans already standing by for hours ahead of Remco Evenepoel's arrival in Aalst",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T15:05:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/tour-de-france/wachten-op-belgische-tourheld-enkele-fans-staan-al-uren-paraat-voor-aankomst-van-remco-evenepoel-in-aalst~ade080b1/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "c768789bd277",
+   "t": "Did Decathlon show Seixas he should stay?",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-27T14:57:36.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/did-decathlon-show-seixas-he-should-stay/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "157b8fbc94a6",
+   "t": "'Why can't this happen every Sunday at the Tour?': Jan Bakelants comes up with striking proposal in 'Congé Payé' after new cycling spectacle in Paris",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T14:45:41.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/tour-de-france/waarom-kan-dit-niet-elke-zondag-in-de-tour-jan-bakelants-komt-in-conge-paye-met-opvallend-voorstel-na-nieuw-wielerspektakel-in-parijs~a0bf5c40/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "3b6e6e6713b8",
+   "t": "Bauke Mollema calls for six-rider teams at the Tour: 'Against the dominance of UAE'",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T14:39:16.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/bauke-mollema-pleit-voor-teams-van-zes-renners-in-de-tour-tegen-overmacht-van-uae/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "aeae8bdfbb84",
+   "t": "Spin Cycle: Vive le Tour",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-27T14:38:42.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/spin-cycle-vive-le-tour/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "783c321cd741",
+   "t": "A big name on the start list: Wout van Aert makes debut at national gravel championships",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T14:21:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/een-grote-naam-op-de-startlijst-wout-van-aert-maakt-debuut-op-bk-gravel~a98ef736/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "d528bccba7f4",
+   "t": "Severed thumbs, smashed faces, lots of fractured collarbones: All the Tour de France DNFs",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-27T14:12:32.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/2026-tour-de-france-abandons/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "f91da329b52d",
+   "t": "Del Toro points to particular challenge: One day you will understand",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T14:10:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/del-toro-peger-paa-saerlig-udfordring-en-dag-vil-i-forstaa/11243593",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "64a5275f2f67",
+   "t": "The Tour de France of Visma | Lease a Bike: 'They had one plan, and it's fallen away'",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T13:54:12.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/de-tour-de-france-van-visma-lease-a-bike-ze-hadden-een-plan-en-dat-is-weggevallen/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "10112adf787c",
+   "t": "Sepp Kuss hoping to ride Vuelta a España for Grand Tour treble after 'crazy fast' but 'enjoyable' Tour de France",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T13:52:57.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/sepp-kuss-hoping-to-ride-vuelta-a-espana-for-grand-tour-treble-after-crazy-fast-but-enjoyable-tour-de-france/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "31706b4d04d6",
+   "t": "Remco Evenepoel leaves Paris reborn: I was in control of myself during the whole Tour",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T13:39:50.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/remco-evenepoel-leaves-paris-reborn/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "bab969a09098",
+   "t": "Richard Plugge: 'Nighttime doping controls were not a sign of suspicion'",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-27T13:11:51.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/richard-plugge-nachtelijke-dopingcontroles-waren-geen-teken-van-verdenking/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "caf890e7e744",
+   "t": "Evenepoel chasing record already Saturday",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T13:10:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/evenepoel-jagter-rekord-allerede-loerdag/11243528",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "2dacb2c87228",
+   "t": "Tour de l'Avenir 2026: From Normandy to the peaks of Gran Paradiso towards the Nivolet Pass. Gallery",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T12:53:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/27/1785157226/ciclismo-tour-de-l-avenir-giovani-talenti-alpi-lago-serru",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "b95bc4bdd961",
+   "t": "The five revelations of the Tour de France 2026",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T12:45:27.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/de-vijf-revelaties-van-de-tour-de-france-2026/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "039f401bbd5b",
+   "t": "Tour de France 2026 roadside gallery: The fans contain multitudes",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-27T12:27:43.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/tour-de-france-2026-roadside-gallery-the-fans-contain-multitudes/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "f7dda65751ff",
+   "t": "Nearly 1.2 million viewers see memorable victory by Mathieu van der Poel on NOS",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T12:22:13.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/bijna-12-miljoen-kijkers-zien-gedenkwaardige-zege-mathieu-van-der-poel-bij-de-nos/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "c989c4eb119f",
+   "t": "'He's going to win at least seven Tours' – Greg LeMond refutes any comparison between Tadej Pogačar and Lance Armstrong",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-27T12:20:53.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/hes-going-to-win-at-least-seven-tours-greg-lemond-refutes-any-comparison-between-tadej-pogacar-and-lance-armstrong/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "be63186a051e",
+   "t": "Riis wants to keep new Tour show: Why go back?",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T12:15:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/riis-vil-beholde-nyt-tour-show-hvorfor-gaa-tilbage/11243440",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "515b7aa7c984",
+   "t": "Is Tadej Pogacar really the greatest of all time, as Lance Armstrong claims? Here's what the numbers say compared to Eddy Merckx",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-27T11:58:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/tour-de-france/is-tadej-pogacar-echt-de-allergrootste-zoals-lance-armstrong-beweert-dit-zeggen-de-cijfers-ten-opzichte-van-eddy-merckx~a303e871/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "56c5e0e76de9",
+   "t": "A new goal awaits Remco Evenepoel next weekend",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T11:54:48.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/voor-remco-evenepoel-wacht-komend-weekend-al-nieuw-doel/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "1b265b9775d2",
+   "t": "Pogacar confirmed ready for Vuelta: Let's see, he says himself",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T11:42:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/pogacar-meldes-klar-til-vueltaen-lad-os-se-siger-han-selv/11243242",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "26aee749bfbd",
+   "t": "First time ever: Three superpowers without a victory",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T11:40:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/foerste-gang-nogensinde-tre-stormagter-uden-sejr/11243417",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "d599914d1c79",
    "t": "Tadej Pogačar's five-star Tour de France performance was his least stressful yet, and paved the way for his very promising successor - Philippa York analysis",
@@ -57,6 +402,21 @@
      "n": "Cyclingnews",
      "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/even-the-biggest-champions-dont-last-forever-red-bull-bora-hansgrohe-prepare-remco-evenepoel-for-tour-de-france-victory-challenge-when-pogacar-begins-to-struggle/",
      "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "8c5eb4e21db2",
+   "t": "Mads Pedersen carries top form into Vuelta, but sees points jersey as closed chapter",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T11:17:54.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/mads-pedersen-trekt-topvorm-door-in-vuelta-maar-ziet-puntenklassement-als-afgesloten-hoofdstuk/",
+     "l": "nl"
     }
    ],
    "tr": 1
@@ -732,6 +1092,21 @@
      "n": "Wielerflits",
      "u": "https://www.wielerflits.nl/nieuws/tadej-pogacar-stelt-vuelta-beslissing-nog-even-uit-omdat-hij-burn-out-wil-vermijden/",
      "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "226be2f12ec3",
+   "t": "Chamois Butt'r, total protection and comfort for the saddle area",
+   "s": "",
+   "c": "gear",
+   "date": "2026-07-27T06:36:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/27/1785162220/creme-fondello-comfort-in-sella-chamois-butt-r-abbigliamento-ciclismo",
+     "l": "it"
     }
    ],
    "tr": 1
@@ -4242,516 +4617,6 @@
      "n": "Feltet.dk",
      "u": "https://feltet.dk/landevej/carapaz-tog-det-hele-jeg-har-fortjent-det/11242154",
      "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "4250a2e2d2b2",
-   "t": "Ayuso chooses to die fighting; Pogacar, working",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T15:04:52.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/25/ayuso-elige-morir-matando-pogacar-trabajando.html",
-     "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "a5f2009aff85",
-   "t": "Tour stage 20: Carapaz takes revenge on Alpe d'Huez after attritional Queen Stage",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T15:00:53.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/tour-stage-20-carapaz-takes-revenge-on-alpe-dhuez-after-attritional-queen-stage/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "bb019569ed46",
-   "t": "Wiebes sprints to second stage win in Tour of Poland",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T14:48:47.000Z",
-   "sources": [
-    {
-     "n": "NOS Wielrennen",
-     "u": "https://nos.nl/l/2624420",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "726e7c505518",
-   "t": "Richard Carapaz wins the queen stage of the 2026 Tour de France",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T14:47:07.000Z",
-   "sources": [
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/courses/tour-de-france/richard-carapaz-remporte-letape-reine-du-tour-de-france-2026/",
-     "l": "fr"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "072c7ed92ef2",
-   "t": "What time is stage 21 of the Tour de France: route, schedule, profile and where to watch on TV and online",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T14:46:31.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/25/hora-etapa-21-tour-francia-recorrido-horario-perfil-ver-tv-online.html",
-     "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "3a1114f2cae2",
-   "t": "Tour de France: Richard Carapaz wins breakaway epic on brutal stage 20 to Alpe d'Huez after late disaster by Sepp Kuss",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T14:45:18.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-richard-carapaz-dominates-alpe-dhuez-with-second-win-in-as-many-days-after-late-disaster-by-sepp-kuss/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "a1dcf5eecb67",
-   "t": "Tour de France final stage shortened, emergency services needed for wildfires",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T14:40:39.000Z",
-   "sources": [
-    {
-     "n": "NOS Wielrennen",
-     "u": "https://nos.nl/l/2624419",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "143b29bd4f74",
-   "t": "Carapaz conquers the inferno in Kuss's misfortune and Pogacar 'gifts' the podium to Del Toro",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T14:40:14.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/25/carapaz-conquista-infierno-desgracia-kuss-pogacar-regala-podio-toro.html",
-     "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "0b9f99496c02",
-   "t": "Tour de France Stage 20: Carapaz Wins after Kuss Heartbreak, Pogačar Pulls Del Toro to White Jersey",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T14:38:46.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/tour-de-france-stage-20-report-results/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "47069ec99889",
-   "t": "Sepp Kuss misses out on stage victory after crashing twice on descent while leading into stage 20 finale at Tour de France",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T14:37:51.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/sepp-kuss-misses-out-on-stage-victory-after-crashing-twice-on-descent-while-leading-into-stage-20-finale-at-tour-de-france/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "f29f410bfd15",
-   "t": "Carapaz wins in absurd decision – new triumph for Mads P.",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T14:34:54.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/carapaz-vinder-i-absurd-afgoerelse-ny-triumf-til-mads-p./11242064",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "aaf993f9e919",
-   "t": "Carapaz profits from Kuss crashes and wins queen stage of the Tour",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T14:34:48.000Z",
-   "sources": [
-    {
-     "n": "NOS Wielrennen",
-     "u": "https://nos.nl/l/2624417",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "8e3f73d72972",
-   "t": "Distance Slashed and Route Changed for Stage 21 Conclusion of Tour de France around Paris",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T14:34:40.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/distance-slashed-route-changed/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "1130445f2671",
-   "t": "Safety Netting Saves Sepp Kuss After Double Crash Ends Tour de France Stage Bid",
-   "s": "",
-   "c": "health",
-   "date": "2026-07-25T14:31:43.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/sepp-kuss-crashes-twice-late-in-tour-de-france-queen-stage/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "ecd223483d32",
-   "t": "The height of bad luck: Kuss survives a double crash while within reach of victory at Alpe d'Huez",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T14:29:30.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/25/colmo-mala-suerte-kuss-sobrevive-doble-caida-acariciaba-victoria-alpe-d-huez.html",
-     "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "d02eefc45bbe",
-   "t": "Final stage of 2026 Tour de France shortened due to exceptional circumstances caused by wildfires",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T14:11:22.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/final-stage-of-2026-tour-de-france-shortened-due-to-exceptional-circumstances-caused-by-wildfires/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "25f4a093f831",
-   "t": "Wildfires force transformation of Tour's final day: an express stage in Paris",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T14:10:12.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/25/incendios-obligan-transformar-ultimo-dia-tour-etapa-expres-paris.html",
-     "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e256eac42102",
-   "t": "Tour's Champs-Élysées stage shortened to 89 km amid France wildfires",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T14:03:44.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/tours-champs-elysees-stage-shortened-to-89km-amid-france-wildfires/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "705aadec9a87",
-   "t": "Turn 10 of Alpe d'Huez will be for Pogacar",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T14:02:03.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/25/curva-10-alpe-d-huez-sera-pogacar.html",
-     "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "84fa55a3b1e0",
-   "t": "Tour de France: adjustment of the 21st stage route",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T14:00:08.000Z",
-   "sources": [
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/courses/tour-de-france/tour-de-france-adaptation-du-parcours-de-la-21eme-etape/",
-     "l": "fr"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "2698a6f25e95",
-   "t": "Tour de Pologne Women: Lorena Wiebes storms to back-to-back victories on stage 2",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T13:38:57.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/tour-de-pologne-women-lorena-wiebes-storms-to-back-to-back-victories-on-stage-2/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "7d7cfe8a1484",
-   "t": "Tour 2026: Who is Yannis Voisard, the most unknown rider at the top of the classification?",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T13:26:36.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/tour-2026-wie-is-yannis-voisard-de-meest-onbekende-renner-in-top-10/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "44bcbd1898dd",
-   "t": "Matxin, affected by Einer Rubio's accident: \"I'm frustrated about what happened\"",
-   "s": "",
-   "c": "health",
-   "date": "2026-07-25T12:41:20.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/25/matxin-afectado-accidente-einer-rubio-jodido-pasado.html",
-     "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e079d3295200",
-   "t": "'I should have reacted differently' – UAE Team Emirates-XRG general manager Mauro Gianetti denies any responsibility for doping affairs in former team",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-25T12:39:01.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/i-should-have-reacted-differently-uae-team-emirates-xrg-general-manager-mauro-gianetti-denies-any-responsibility-for-doping-affairs-in-former-team/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "db4fe2a299c5",
-   "t": "Tour organizer on Rubio's hard crash: 'With older cars this would not have happened'",
-   "s": "",
-   "c": "health",
-   "date": "2026-07-25T12:30:45.000Z",
-   "sources": [
-    {
-     "n": "NOS Wielrennen",
-     "u": "https://nos.nl/l/2624407",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "d0a50a74047d",
-   "t": "All of Unsafe Alpe D'Huez Should Have Barriers: Peloton Vents Shock and Frustration",
-   "s": "",
-   "c": "health",
-   "date": "2026-07-25T12:27:58.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/all-unsafe-alpe-d-huez-should-barriers-peloton-vents-shock-frustration/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "261518f2915f",
-   "t": "Reconstruction of Einer Rubio's hard accident from inside: \"There was a person under the car, literally under the car\"",
-   "s": "",
-   "c": "health",
-   "date": "2026-07-25T12:27:32.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/25/reconstruccion-duro-accidente-einer-rubio-habia-persona-debajo-coche-literalmente-debajo-coche.html",
-     "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "a0cb22f46573",
-   "t": "Regrettable withdrawal with Paris in sight: second best Belgian Ilan Van Wilder sees Tour dream shattered after heavy crash on descent",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T12:14:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/tour-de-france/spijtige-opgave-met-parijs-in-zicht-op-een-na-beste-belg-ilan-van-wilder-ziet-tour-droom-uiteenspatten-na-stevige-val-in-afdaling~a1a65bff/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "8d8b8560b166",
-   "t": "Eusebio Unzué: \"The Spanish youth academy, Iberian genetics, sooner or later never fails\"",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-25T12:09:37.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/25/eusebio-unzue-cantera-espanola-genetica-iberica-despues-falla.html",
-     "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "21d23835cc28",
-   "t": "'If we had had older cars, the accident would not have happened' – Tour de France organiser defends Alpe d'Huez crowd control as UAE manager apologises for Rubio car incident",
-   "s": "",
-   "c": "health",
-   "date": "2026-07-25T12:07:23.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/if-we-had-had-older-cars-the-accident-would-not-have-happened-tour-de-france-organiser-defends-alpe-dhuez-crowd-control-as-uae-manager-apologises-for-rubio-car-incident/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "a56dff4571db",
-   "t": "Goochmageddon: The undercarriage havoc that divided the Tour de France",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T12:00:09.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/goochmageddon-the-seated-havoc-dividing-the-tour-de-france/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "5e0d14b91e1b",
-   "t": "The Verona family conquers Alpe d'Huez on foot: \"Those were the shortest 16 km of our lives\"",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-25T11:53:47.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/25/familia-verona-conquista-pie-alpe-d-huez-16-km-cortos-nuestra-vida.html",
-     "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "6697f678571a",
-   "t": "Ilan Van Wilder crashes out of Tour de France on mountain descent one day from Paris",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T11:51:16.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/ilan-van-wilder-crashes-out-of-tour-de-france-on-mountain-descent-one-day-from-paris/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "ad1e0bc1c8d6",
-   "t": "How Kuss and Co. Blew Their Best Chance to Beat Tadej Pogačar on Alpe d'Huez",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T11:38:19.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/carapaz-martinez-kuss-blow-chance-beat-pogacar-alpe-dhuez-tactics-tour-de-france/",
-     "l": "en"
     }
    ],
    "tr": 1
