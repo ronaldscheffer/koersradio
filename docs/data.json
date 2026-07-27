@@ -1,6 +1,186 @@
 {
- "updated": "2026-07-27T04:26:27.599Z",
+ "updated": "2026-07-27T08:05:36.160Z",
  "groups": [
+  {
+   "id": "d91119958ef5",
+   "t": "Extreme heat and lightning-fast climbs: the dizzying Tour figures of 2026",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T08:02:35.000Z",
+   "sources": [
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2624593",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "3d3ad541db45",
+   "t": "\"He would wipe the floor with me\": Lance Armstrong calls Tadej Pogacar \"the greatest of all time\" and goes even further than racing alone",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T07:55:46.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/tour-de-france/hij-zou-de-vloer-aanvegen-met-mij-lance-armstrong-noemt-tadej-pogacar-de-beste-aller-tijden-en-gaat-zelfs-verder-dan-de-koers-alleen~a4ee9f7d/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "bd0b2b6b3e3d",
+   "t": "Tadej Pogačar's winning time sees 2026 Tour de France set new record for fastest-ever edition",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T07:53:44.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/tadej-pogacars-winning-time-sees-2026-tour-de-france-set-new-record-for-fastest-ever-edition/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "95e12ad001c3",
+   "t": "\"Besides Remco Evenepoel, several other compatriots deserve credit\": our analyst Jan Bakelants dissects the Belgians' Tour",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T07:09:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/tour-de-france/naast-remco-evenepoel-verdienen-nog-enkele-andere-landgenoten-een-dikke-pluim-onze-analist-jan-bakelants-fileert-de-tour-van-de-belgen~a35bf9fca/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "c29a613d49c7",
+   "t": "Official: Van Aert to race Post Nord Danmark Rundt",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-27T07:08:23.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/officielt-van-aert-koerer-post-nord-danmark-rundt/11243197",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "e8be3ae62e9e",
+   "t": "Here are the Tour's prize money kings",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T07:04:51.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/incoming/her-er-tourens-praemiekonger/11243193",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "ea68e4abee84",
+   "t": "Remco Evenepoel doubts whether he can ever beat Tadej Pogacar in the Tour: \"Exceptional talent\"",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T06:35:59.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/remco-evenepoel-twijfelt-of-hij-tadej-pogacar-ooit-kan-kloppen-in-tour-uitzonderlijk-talent/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "90ebdaac5dd1",
+   "t": "Satisfied Evenepoel still dreams of Tour victory",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T06:34:59.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/tilfreds-evenepoel-droemmer-stadig-om-tour-sejren/11243170",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "0f618593913f",
+   "t": "Seixas: My dream has come true",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T06:19:01.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/seixas-min-droem-er-gaaet-i-opfyldelse/11243162",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "576891355ed7",
+   "t": "Supertalent and debutant Paul Seixas does almost everything perfectly in Tour de France 2026",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T06:04:53.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/supertalent-en-debutant-paul-seixas-doet-bijna-alles-perfect-in-tour-de-france-2026/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "0433f967b1ff",
+   "t": "Tour Femmes 2026: Preview of general classification favorites — Grand duel between Ferrand-Prévot and Vollering?",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T06:00:53.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-voorbeschouwing-favorieten-algemeen-klassement-grootse-tweestrijd-ferrand-prevot-en-vollering/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "cd4c54b45ff9",
+   "t": "\"Mathieu is the only one who could push Tadej Pogacar to the limit uphill, like Wout van Aert\": analysts 'Congé Payé' tip their hat to Van der Poel",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-27T05:31:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/tour-de-france/mathieu-is-de-enige-die-tadej-pogacar-bergop-tot-het-uiterste-kon-drijven-zoals-wout-van-aert-analisten-conge-paye-doen-petje-af-voor-van-der-poel~a890f03b/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "5a623d41a25b",
    "t": "Lighter, better, faster, stronger... How Remco Evenepoel landed on the podium in Paris, but also at a crossroads: 'It can always be better'",
@@ -41,6 +221,21 @@
     {
      "n": "HLN Wielrennen",
      "u": "https://www.hln.be/wielrennen/geen-onlyfans-wel-bellen-en-surfen-met-wout-grootse-onthulling-van-wout-van-aert-blijkt-eigen-wva-mobile-met-exclusieve-extras~ace630f0/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "e1a99cfd0fd5",
+   "t": "No OnlyFans, but calling and surfing with Wout: \"grand\" revelation of Wout van Aert turns out to be his own mobile subscription with \"exclusive extras\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-27T04:00:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/geen-onlyfans-wel-bellen-en-surfen-met-wout-grootse-onthulling-van-wout-van-aert-blijkt-eigen-gsm-abonnement-met-exclusieve-extras~ace630f0/",
      "l": "be"
     }
    ],
@@ -107,6 +302,21 @@
    "tr": 1
   },
   {
+   "id": "e51b8525d75c",
+   "t": "Philipsen holds back so van der Poel wins safely",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-26T23:17:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146279.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
    "id": "a4e7be16fc89",
    "t": "I've shown I deserve to dream - Remco Evenepoel says second place in Tour de France confirms belief as he pursues future Grand Tour victories",
    "s": "",
@@ -117,6 +327,21 @@
      "n": "Cyclingnews",
      "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/ive-shown-i-deserve-to-dream-remco-evenepoel-says-second-place-in-tour-de-france-confirms-belief-as-he-pursues-future-grand-tour-victories/",
      "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "36616c3f0c71",
+   "t": "Morang triumphs at the Bundesliga race at the Nürburgring",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-26T21:53:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146278.htm",
+     "l": "de"
     }
    ],
    "tr": 1
@@ -3506,141 +3731,6 @@
     {
      "n": "Feltet.dk",
      "u": "https://feltet.dk/landevej/oversigt-disse-ryttere-er-udgaaet-af-tour-de-france/11229475",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "ca3a2cabd829",
-   "t": "- The organization fails to live up to its responsibility, says Boonen after wild scenes",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-25T07:53:21.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/organisationen-lever-ikke-op-til-sit-ansvar-siger-boonen-efter-vilde-scener/11241853",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "220bc90d9aa0",
-   "t": "Power Analysis: How Pogačar Wrote More History with Record-Breaking Climb of Alpe d'Huez",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T07:41:26.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/power-analysis-pogacar-record-alpe-dhuez/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e639afbd74d9",
-   "t": "An altitude alibi: Does cycling's anti-doping system have a major loophole?",
-   "s": "",
-   "c": "health",
-   "date": "2026-07-25T07:12:47.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/doping/an-altitude-alibi-does-cyclings-anti-doping-system-have-a-major-loophole/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "b8e2d0304448",
-   "t": "Media: Van Aert makes comeback in Denmark",
-   "s": "",
-   "c": "health",
-   "date": "2026-07-25T06:50:35.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/medie-van-aert-goer-comeback-i-danmark/11241812",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "ccdf08f34bf6",
-   "t": "The new gold in the peloton? Why Tadej Pogacar suddenly drinks 'lactate' as extra fuel",
-   "s": "",
-   "c": "gear",
-   "date": "2026-07-25T06:08:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/tour-de-france/het-nieuwe-goud-in-het-peloton-waarom-tadej-pogacar-plots-lactaat-als-extra-brandstof-drinkt~a18dab4c/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e249f3696f60",
-   "t": "Back-to-Back Wins on Alpe d'Huez? Pogačar Sizing up Even More History Saturday",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T06:06:17.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/double-victory-alpe-huez-pogacar/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "241b57332d4f",
-   "t": "The Tour is played on the hidden face of Alpe d'Huez",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T04:45:38.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/25/tour-juega-cara-oculta-alpe-d-huez.html",
-     "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "97ff4f70660a",
-   "t": "\"It's over: cycling should be pay-per-view\"",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-25T04:35:46.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/tour-francia/opinion/2026/07/25/acabo-ciclismo-debe-pago.html",
-     "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "c3228618f7a0",
-   "t": "Wild scenes on Alpe d'Huez: - No longer have ears",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-25T04:30:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/vilde-scener-paa-alpe-dhuez-har-ikke-oerer-laengere/11241704",
      "l": "da"
     }
    ],
