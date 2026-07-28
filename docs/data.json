@@ -1,6 +1,293 @@
 {
- "updated": "2026-07-28T09:21:37.779Z",
+ "updated": "2026-07-28T11:38:02.468Z",
  "groups": [
+  {
+   "id": "results-2026-07-28",
+   "type": "results",
+   "t": "Latest results — ProCyclingStats",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T11:37:59.603Z",
+   "rows": [
+    {
+     "race": "Post-Tour criterium in Boxmeer",
+     "winner": "Richard Carapaz",
+     "url": "https://www.procyclingstats.com/search.php?term=Post-Tour%20criterium%20in%20Boxmeer"
+    },
+    {
+     "race": "Post-Tour criterium in Aalst",
+     "winner": "Remco Evenepoel",
+     "url": "https://www.procyclingstats.com/search.php?term=Post-Tour%20criterium%20in%20Aalst"
+    },
+    {
+     "race": "Ronde de Saône-et-Loire",
+     "winner": "Giussanesi",
+     "url": "https://www.procyclingstats.com/search.php?term=Ronde%20de%20Sa%C3%B4ne-et-Loire"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ProCyclingStats",
+     "u": "https://www.procyclingstats.com/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "c4a859a8109a",
+   "t": "Anthony Turgis linked to Netcompany-Ineos for 2027",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-28T11:15:52.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/anthony-turgis-linked-to-netcompany-ineos-for-2027/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "0246a923faf0",
+   "t": "Former Giro stage winner banned for 20 years",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-28T11:15:38.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/tidligere-giro-etapevinder-udelukkes-i-20-aar/11244253",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "8abe4f8e9a4f",
+   "t": "Eddy Merckx predicts new absurd goal for Pogacar: 'I believe him capable of it'",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T11:04:26.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/eddy-merckx-voorspelt-nieuw-absurd-doel-van-pogacar-alle-grote-rondes-in-een-jaar-winnen/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "a24b7c6a3171",
+   "t": "Seixas takes a break – Decathlon contract talks expected late August or September",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-28T11:01:03.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/seixas-takes-a-break-decathlon-contract-talks-expected-late-august-or-september/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "3c026018f17a",
+   "t": "2026 Was the Fastest Tour de France in History. 600 Calorie Fueling and a $60M Arms Race Made It Happen",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T10:51:49.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/2026-fastest-ever-tour-de-france/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "e9365ae97637",
+   "t": "Pedersen and Skjelmose head to Vuelta a España after successful Tour de France",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T10:50:43.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/pedersen-and-skjelmose-head-to-vuelta-a-espana-after-successful-tour-de-france/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "a35f3ed84801",
+   "t": "'Senseless violence': Dewulf suffers fracture in left arm",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-28T10:50:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146290.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "8ac220c57aa0",
+   "t": "After difficult years at UAE, breakthrough at Lotto: who is fresh Belgian U23 champion Duarte Marivoet?",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-28T10:48:50.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/na-moeilijke-jaren-bij-uae-doorbraak-bij-lotto-wie-is-kersvers-belgisch-kampioen-u23-duarte-marivoet/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "da55beb50018",
+   "t": "Mollema advocates for six-rider Tour teams to 'do something about the force majeure of UAE'",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-28T10:43:32.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/mollema-advocates-for-six-rider-tour-teams-to-do-something-about-the-force-majeure-of-uae/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "0a608f116792",
+   "t": "Media: Red Bull sign Paris-Nice third-place finisher",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-28T10:31:04.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/medie-red-bull-henter-paris-nice-treer/11244213",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "51f980e7b430",
+   "t": "Red Bull-BORA-hansgrohe strengthen with Georg Steinhauser",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-28T10:22:10.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/red-bull-bora-hansgrohe-versterkt-zich-met-georg-steinhauser/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "df5f8157dac2",
+   "t": "VAL DI SOLE AWAITS PIDCOCK AND VAN DER POEL: 2026 MTB WORLDS PRESENTED IN TRENTO",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T10:21:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/28/1785235481/mondiali-mtb-val-di-sole-2026-percorsi-atleti",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "331361d38aa1",
+   "t": "'Dream bike for the cycling tourist, but also a grey mouse': our analyst tests and tames all-rounder with which Mathieu van der Poel scored a hat-trick",
+   "s": "",
+   "c": "gear",
+   "date": "2026-07-28T10:12:03.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/droomfiets-voor-de-wielertoerist-maar-ook-een-grijze-muis-onze-analist-test-en-temt-alleskunner-waarmee-mathieu-van-der-poel-een-hattrick-scoorde~aee851b4/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "0cb2018ac106",
+   "t": "'I never imagined it would happen' – What does it mean to win your first Tour de France Femmes stage? Two 2025 winners relive their victories",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T10:07:25.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/i-never-imagined-it-would-happen-what-does-it-mean-to-win-your-first-tour-de-france-femmes-stage-two-2025-winners-relive-their-victories/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "5c28111e03ce",
+   "t": "What next for Paul Seixas? Two weeks of rest, more training and racing, and the long-term picture post-Tour de France debut",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-28T09:58:33.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/what-next-for-paul-seixas-two-weeks-of-rest-more-training-and-racing-and-the-long-term-picture-post-tour-de-france-debut/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "23f1f478de3b",
+   "t": "Decathlon soon in talks with Paul Seixas about future: 'Building trust'",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-28T09:56:16.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/decathlon-binnenkort-in-gesprek-met-paul-seixas-over-toekomst-vertrouwen-wekken/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "bf34e7ad2b01",
+   "t": "The Best Quotes from the 2026 Tour de France",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T09:44:23.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/best-quotes-from-the-2026-tour-de-france/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "bf8d7f5a53b9",
    "t": "Plugge on night control: 'It damaged our team'",
@@ -162,6 +449,21 @@
      "n": "Feltet.dk",
      "u": "https://feltet.dk/landevej/legender-tror-paa-vanvittig-pogacar-bedrift/11244071",
      "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "7a75499bd163",
+   "t": "UCI TEAM RANKING, SITUATION UPDATED AFTER TOUR DE FRANCE: EF SURGE, BARDIANI IN TOP 30",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T08:15:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/28/1785226889/tour-de-france-2026-ranking-uci-squadre-ef-bardiani",
+     "l": "it"
     }
    ],
    "tr": 1
@@ -4406,306 +4708,6 @@
     {
      "n": "Wielerflits",
      "u": "https://www.wielerflits.nl/nieuws/tour-2026-bergkoning-richard-carapaz-uitgeroepen-tot-meest-strijdlustige-renner/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "c203dfc85531",
-   "t": "Julian Alaphilippe doesn't think he'll return to Tour again: \"I'm not enjoying it anymore\"",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T11:24:00.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/julian-alaphilippe-denkt-niet-meer-terug-te-keren-in-tour-geniet-er-niet-meer-van/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "fe6b4a3663f7",
-   "t": "'Nerve-wracking right to the end' – How Richard Carapaz and EF Education-EasyPost hit the Tour de France jackpot on Alpe d'Huez",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T11:21:05.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/nerve-wracking-right-to-the-end-how-richard-carapaz-and-ef-education-easypost-hit-the-tour-de-france-jackpot-on-alpe-dhuez/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "06e3b7668133",
-   "t": "Bassano-Montegrappa. Zumsteg king of the Grappa: solo success for the Swiss rider. Gallery",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T11:12:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/26/1785064429/ciclismo-classiche-dilettantistiche-monte-grappa-bassano-monte-grappa-biesse-carrera-premac",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "6a73d23f7728",
-   "t": "Seven yellows and one white: the custom Y1 Rs Colnago bikes for UAE Emirates XRG enchant Paris",
-   "s": "",
-   "c": "gear",
-   "date": "2026-07-26T11:01:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/26/1785059827/ciclismo-tour-de-france-colnago-pogaA�ar-uae-team-emirates-xrg",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e484e284096d",
-   "t": "Tadej Pogačar celebrates fifth Tour victory on bike full of hidden symbols: even his palmares is incorporated on the Colnago Y1Rs",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T11:00:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/tour-de-france/tadej-pogacar-viert-vijfde-tourzege-op-fiets-vol-verborgen-symbolen-zelfs-zijn-erelijst-is-verwerkt-op-de-colnago-y1rs~a99cba2e/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "ce9768e5cb78",
-   "t": "Quinn Simmons Didn't Win a Stage, But Won Over Tour de France Fans in 'Ricky Bobby' Style",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T10:58:03.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/quinn-simmons-didnt-win-a-stage-but-won-over-tour-de-france-fans-in-ricky-bobby-style/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "aa9fb9e951c1",
-   "t": "In shock after horrific crash: Most violent of his career",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T10:50:53.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/i-chok-efter-uhyggeligt-styrt-mest-voldsomme-i-karrieren/11242584",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "489723b6467e",
-   "t": "Mads Pedersen takes emotional farewell from Luca Guercilena: \"Most beautiful gift we could give\"",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T10:46:54.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/mads-pedersen-neemt-emotioneel-afscheid-van-luca-guercilena-mooiste-cadeau-dat-we-konden-geven/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "a6713e5db029",
-   "t": "'It's not the first try, and finally I succeeded' – Monster mountain effort seals Tour de France green points jersey for Mads Pedersen, and he'll join an elite club",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T10:42:27.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/its-not-the-first-try-and-finally-i-succeeded-monster-mountain-effort-seals-tour-de-france-green-points-jersey-for-mads-pedersen-and-hell-join-an-elite-club/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "21110df64a8f",
-   "t": "Zum großen Finale wieder drei Mal Montmartre",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T10:38:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_145971.htm",
-     "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "15ca4beeb8c7",
-   "t": "Mauro Gianetti takes no responsibility in Saunier Duval doping case: \"I felt like a victim\"",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T10:35:16.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/mauro-gianetti-neemt-geen-verantwoordelijkheid-in-dopingzaak-saunier-duval-voelde-me-slachtoffer/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "3b6b4c63eafe",
-   "t": "Fortune favours the French",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T10:30:33.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/fortune-favours-the-french/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "5456d539b18b",
-   "t": "WATCH. Like he was Michael Jackson: Remco Evenepoel goes wild on famous hit 'Billie Jean'",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T10:30:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/tour-de-france/kijk-alsof-hij-michael-jackson-was-remco-evenepoel-gaat-helemaal-los-op-bekende-hit-billie-jean~a1979bc3/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "5ab5663e6fc2",
-   "t": "Tadej Pogačar Might Be the Greatest Cyclist of All Time. New Estimates of His VO2 Max Prove It.",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T10:25:27.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/pogacar-highest-vo2-max/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "860d56cef365",
-   "t": "Mads P. overlooked: Carapaz crowned as winner",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T10:05:19.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/mads-p.-forbigaaet-carapaz-kaares-som-vinder/11242579",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "3a99205ab844",
-   "t": "Sidi. Shot 3: aerodynamics, comfort and power at maximum levels. And with Del Toro...",
-   "s": "",
-   "c": "gear",
-   "date": "2026-07-26T10:01:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/26/1785060623/ciclismo-sidi-shot-3-scarpe-da-strada-tour-de-france-isaac-del-toro-equipaggiamento-ciclismo",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "150da8c4215e",
-   "t": "Chris Froome now understands French booing much better",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T10:00:56.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/chris-froome-begrijpt-het-franse-boegeroep-nu-veel-beter/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "d39a2583379a",
-   "t": "Tour 2026 – Live blog stage 21: Will we get more spectacle in the shortened final stage?",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T10:00:00.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/live/tour-2026-liveblog-etappe-21",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "490bfccfcf7e",
-   "t": "Roads and walls of Vescovado. Iaconeta beats Armanasco: Balliana (third) completes the Ecotek triumph. Gallery",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T09:55:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/26/1785052642/ciclismo-juniores-team-ecotek-zero24-strade-e-muri-del-vescovado-bergamo",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e90727fb8d5a",
-   "t": "Maxim Van Gils surprises himself at Tour de France 2026: \"Feels like a victory\"",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T09:49:14.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/maxim-van-gils-verbaast-zichzelf-in-tour-de-france-2026-voelt-als-een-overwinning/",
      "l": "nl"
     }
    ],
