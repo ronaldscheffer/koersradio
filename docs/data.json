@@ -1,23 +1,38 @@
 {
- "updated": "2026-07-28T11:38:02.468Z",
+ "updated": "2026-07-28T14:31:48.152Z",
  "groups": [
+  {
+   "id": "3f591322011d",
+   "t": "Movistar with Reusser and Lippert for Tour de France Femmes",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-28T14:41:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146293.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "results-2026-07-28",
    "type": "results",
    "t": "Latest results — ProCyclingStats",
    "s": "",
    "c": "race",
-   "date": "2026-07-28T11:37:59.603Z",
+   "date": "2026-07-28T14:31:45.096Z",
    "rows": [
     {
-     "race": "Post-Tour criterium in Boxmeer",
+     "race": "Post-Tour criterium Boxmeer",
      "winner": "Richard Carapaz",
-     "url": "https://www.procyclingstats.com/search.php?term=Post-Tour%20criterium%20in%20Boxmeer"
+     "url": "https://www.procyclingstats.com/search.php?term=Post-Tour%20criterium%20Boxmeer"
     },
     {
-     "race": "Post-Tour criterium in Aalst",
+     "race": "Post-Tour criterium Aalst",
      "winner": "Remco Evenepoel",
-     "url": "https://www.procyclingstats.com/search.php?term=Post-Tour%20criterium%20in%20Aalst"
+     "url": "https://www.procyclingstats.com/search.php?term=Post-Tour%20criterium%20Aalst"
     },
     {
      "race": "Ronde de Saône-et-Loire",
@@ -32,6 +47,276 @@
      "l": "en"
     }
    ]
+  },
+  {
+   "id": "09508879250d",
+   "t": "Tour de l'Ain: Noah Hobbs claims opening stage win in Bourg-en-Bresse",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T14:25:19.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-lain-noah-hobbs-claims-opening-stage-win-in-bourg-en-bresse/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "c65415acd9d2",
+   "t": "Tour de l'Ain: Noah Hobbs winner of 1st stage",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T14:12:59.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/courses/tour-de-lain/tour-de-lain-noah-hobbs-vainqueur-de-la-1ere-etape/",
+     "l": "fr"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "bccbbb12021e",
+   "t": "\"It will be a beautiful day anyway\": Justine Ghekiere looks forward to riding with finish on Mont Ventoux, which has special meaning for her",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T14:02:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/tour-de-france/zal-hoe-dan-ook-mooie-dag-worden-justine-ghekiere-kijkt-uit-naar-rit-met-aankomst-op-mont-ventoux-die-speciale-betekenis-voor-haar-heeft~a792dedf7/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "fb0645fb6a7f",
+   "t": "Save $200 on the Wahoo Kickr V6 – our top choice for a smart trainer is at its lowest price of the year",
+   "s": "",
+   "c": "gear",
+   "date": "2026-07-28T14:01:34.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/bikes/save-usd200-on-the-wahoo-kickr-v6-our-top-choice-for-a-smart-trainer-is-at-its-lowest-price-of-the-year/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "08c6c24d5e00",
+   "t": "Tour de l'Ain, first stage to Hobbs: Dainese and Barillot defeated in sprint. 4th Milan, 5th Delle Vedove",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T14:01:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/28/1785247341/tour-de-l-ain-2026-prima-tappa-hobbs-dainese",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "5e33f33f0199",
+   "t": "Young talent Noah Hobbs denies Alberto Dainese first season victory in Tour de l'Ain",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T13:54:08.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/jong-talent-noah-hobbs-houdt-alberto-dainese-van-eerste-seizoenszege-in-tour-de-lain/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "edc0a4d62db8",
+   "t": "Young talent extends EF celebration",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T13:52:26.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/stortalent-forlaenger-ef-jubel/11244357",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "4adc3cc441a5",
+   "t": "Dideriksen again selected for Tour de France",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-28T13:50:11.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/dideriksen-er-igen-udtaget-til-tour-de-france/11244352",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "42f07fed583b",
+   "t": "Italian Championships. Vece gold in elite keirin: Bissolati and Cenci on podium",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T13:45:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/28/1785246401/ciclismo-su-pista-keirin-donne-campionati-italiani-miriam-vece-velocita",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "14a5489bc69f",
+   "t": "For Koch at the Tour, in the end only yellow for Vollering counts",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T13:43:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146292.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "bdf03023e7d5",
+   "t": "Tadej Pogačar and UAE Team Emirates meet to discuss and decide on targeting Vuelta a España",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-28T12:57:03.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/tadej-pogacar-and-uae-team-emirates-meet-to-discuss-and-decide-on-targeting-vuelta-a-espana/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "946b58123b48",
+   "t": "Remco Evenepoel rises above Jonas Vingegaard to second place on UCI ranking",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T12:47:01.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/remco-evenepoel-stijgt-voorbij-jonas-vingegaard-naar-tweede-plaats-op-uci-ranking/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "d6a709ca17d1",
+   "t": "Media: Granon can return to Tour de France",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-28T12:40:04.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/medie-granon-kan-vende-tilbage-til-tour-de-france/11244316",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "a41d30907a72",
+   "t": "Canyon – SRAM with new sponsor and three debutants for the Tour",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-28T12:36:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146291.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "a10b3b13569c",
+   "t": "'I'll stay focused until Saturday' – Remco Evenepoel's 24 hours of Tour de France celebrations end with a criterium win and a night at home",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T12:21:00.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/ill-stay-focused-until-saturday-remco-evenepoels-24-hours-of-tour-de-france-celebrations-end-with-a-criterium-win-and-a-night-at-home/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "fc548d3802cf",
+   "t": "LeMond to L'Equipe: \"Armstrong 'found' talent at 28 years old, Pogacar will get to at least 7 Tours\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-28T12:08:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/28/1785240503/lance-armstrong-tadej-pogacar-intervista-greg-lemond-tour-de-france",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "f7bddd1110fa",
+   "t": "Tour Femmes 2026: Lotto with Olympic speed skater Tas, Movistar and Picnic selections also finalized",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-28T11:52:04.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-lotto-intermarche-met-olympisch-schaatster-tas-movistar-rekent-op-reusser/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "3d84d2f48c5b",
+   "t": "Norwegian will undergo surgery: Definitely not on my bingo card",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-28T11:38:14.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/nordmand-skal-opereres-bestemt-ikke-paa-mit-bingokort/11244266",
+     "l": "da"
+    }
+   ],
+   "tr": 1
   },
   {
    "id": "c4a859a8109a",
@@ -4319,396 +4604,6 @@
      "n": "HLN Wielrennen",
      "u": "https://www.hln.be/wielrennen/helemaal-klaar-voor-tour-de-france-femmes-lotte-kopecky-loodst-lorena-wiebes-naar-derde-overwinning-en-eindzege-in-ronde-van-polen~a98ef736/",
      "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "5a5c0725e620",
-   "t": "Plenty of reasons why Tadej Pogacar will rise above the Club of Five",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T14:30:50.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/genoeg-redenen-waarom-tadej-pogacar-de-club-van-vijf-gaat-ontstijgen/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "9132e38da80c",
-   "t": "Decathlon CMA CGM stayed silent about Paul Seixas' crash leading up to Tour de France",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T14:25:23.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/decathlon-cma-cgm-zweeg-over-val-paul-seixas-in-aanloop-naar-tour-de-france/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "088ebd074a6e",
-   "t": "Isaac del Toro watches intently, Tadej Pogacar tinkers on his phone: UAE follows Formula 1 bus parade closely",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T14:24:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/tour-de-france/isaac-del-toro-kijkt-geboeid-tadej-pogacar-tokkelt-op-gsm-uae-volgt-tijdens-bussenparade-formule-1-op-de-voet~a1979bc3/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "79f1034e2186",
-   "t": "Tour de France. Carapaz super combative, Simmons super domestique",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T14:09:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/26/1785075370/tour-de-france-tdf2026-ciclismo-premi-speciali-gregari",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "2af24eea7a15",
-   "t": "Dominant Wiebes leaves nothing behind and wins Tour of Poland",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T14:06:51.000Z",
-   "sources": [
-    {
-     "n": "NOS Wielrennen",
-     "u": "https://nos.nl/l/2624508",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "c87f0f3c475a",
-   "t": "Here's what we know about Mathieu van der Poel's autumn schedule",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T14:06:05.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/contouren-programma-mathieu-van-der-poel-voor-tweede-seizoensdeel-zichtbaar/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "6af9e2f730d4",
-   "t": "Pogacar heading for new speed record",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T13:56:56.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/pogacar-staar-foran-ny-fartrekord/11242746",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e5d145771db5",
-   "t": "Vicenza. Moretti triumphs in his home race: first victory in the Neri Sottoli GP, Colella third. Gallery",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T13:56:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/26/1785081504/ciclismo-juniores-mattia-moretti-neri-sottoli-gran-premio",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "68dae28b9549",
-   "t": "Mads P.'s trainer: The stage suits him perfectly",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T13:48:23.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/mads-p.-traener-etapen-passer-ham-supergodt/11242741",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "0ad06c122216",
-   "t": "Superstar achieves perfect hat-trick",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T13:32:04.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/superstjerne-laver-perfekt-hattrick/11242734",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "077ae43cf8ac",
-   "t": "Tour de Pologne Women: Lorena Wiebes charges to stage 3 victory in three-day sweep for GC title",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T13:29:08.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/tour-de-pologne-women-lorena-wiebes-charges-to-stage-3-victory-in-three-day-sweep-for-gc-title/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e40b86dbd301",
-   "t": "Lorena Wiebes completes hat-trick and secures overall victory in Tour of Poland",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T13:19:20.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/lorena-wiebes-voltooit-hattrick-en-stelt-eindzege-veilig-in-ronde-van-polen/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "080c3171e1f2",
-   "t": "Tour de Poland. Wiebes wins three in a row ahead of Balsamo, Consonni fourth: the Dutch rider also wins the overall",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T13:16:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/26/1785071273/tour-de-pologne-tappa-3-vittoria-wiebes",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "c7f0792d61f8",
-   "t": "Tour de France Boss Prudhomme Says Cheating Exists Everywhere: In Sport, Business And Politics",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T13:15:14.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/tour-de-france-boss-talks-doping-and-how-the-race-will-adapt-to-climate-change/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "7da8e4a01dc0",
-   "t": "Bad day for Sepp Kuss complete: heavily penalized by UCI",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T13:00:42.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/pechdag-sepp-kuss-compleet-zwaar-gestraft-door-uci/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e467b92d4bfd",
-   "t": "Richard Carapaz super combative in the 2026 Tour de France",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T12:54:49.000Z",
-   "sources": [
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/courses/tour-de-france/richard-carapaz-super-combatif-du-tour-de-france-2026/",
-     "l": "fr"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "af3ddd87946d",
-   "t": "Van Wilder: At 75km/h the front tire burst",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T12:54:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146268.htm",
-     "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "ea903cc3882e",
-   "t": "Tour de France super combativity award goes to Richard Carapaz after lighting up final week with attacks, EF Education-EasyPost make it three in a row",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T12:53:05.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-super-combativity-award-goes-to-richard-carapaz-after-lighting-up-final-week-with-attacks-ef-education-easypost-make-it-three-in-a-row/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "5e04bf633f42",
-   "t": "Tudor 'fired' Scheidecker before the Tour. CEO Meyer: 'Different visions on future organization'",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-26T12:53:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/26/1785070429/tudor-2026-esonero-scheidecker-raphael-meyer-tour-de-france",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "3ee99a17e687",
-   "t": "Tour de France Femmes: the jersey and selection of FDJ United-Suez",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T12:44:06.000Z",
-   "sources": [
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/courses/tour-de-france-femmes/tour-de-france-femmes-le-maillot-et-la-selection-de-la-fdj-united-suez/",
-     "l": "fr"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "bc1aa65590af",
-   "t": "Carapaz named Most Combative Rider of the 2026 Tour",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T12:38:06.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/carapaz-named-most-combative-rider-of-the-2026-tour/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "4185b2ab566a",
-   "t": "Post-Tour criterium start lists take shape: Pedersen and Carapaz on display on Dutch soil",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T12:35:07.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/startlijsten-na-tourcriteriums-mads-pedersen-en-richard-carapaz-te-bewonderen-op-nederlandse-bodem/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "7d1e9532fd61",
-   "t": "Pogacar gives interesting insight into his numbers",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T12:31:43.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/pogacar-giver-interessant-indblik-i-sine-tal/11242692",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "0130ea88343b",
-   "t": "'Crazy': Martinez surpasses grandfather's Tour result",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T12:13:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146267.htm",
-     "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "6be163f16923",
-   "t": "'He was maybe surprised I did that'– Paul Seixas' teammate explains glare he received from Tadej Pogačar at Tour de France after trying to take over pacing",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T11:45:18.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/he-was-maybe-surprised-i-did-that-paul-sexias-teammate-explains-glare-he-received-from-tadej-pogacar-at-tour-de-france-after-trying-to-take-over-pacing/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "6991c7689522",
-   "t": "Tour 2026: King of the Mountains Richard Carapaz crowned most combative rider",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T11:43:49.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/tour-2026-bergkoning-richard-carapaz-uitgeroepen-tot-meest-strijdlustige-renner/",
-     "l": "nl"
     }
    ],
    "tr": 1
