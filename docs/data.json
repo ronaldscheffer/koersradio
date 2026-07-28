@@ -1,6 +1,81 @@
 {
- "updated": "2026-07-28T03:30:16.035Z",
+ "updated": "2026-07-28T06:13:01.113Z",
  "groups": [
+  {
+   "id": "7c9ea9f90d2e",
+   "t": "Tour Femmes 2026: Preview of points classification favorites — New clash between Vos and Wiebes?",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T06:00:38.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-voorbeschouwing-favorieten-puntenklassement-nieuw-duel-vos-en-wiebes/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "d7e82697641d",
+   "t": "Ronde de Saône-et-Loire: Giussanesi wins team classification and two stage podiums: Parianotti 6th overall",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T06:00:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/28/1785162319/saone-e-loire-2026-giovani-giussanesi",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "19b950ba16d2",
+   "t": "Lights and shadows in a national key: no victories but Spanish presence at the Tour",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T05:15:26.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/28/luces-sombras-clave-nacional-victorias-presencia-espanola-tour.html",
+     "l": "es"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "2a7044423a8e",
+   "t": "A prestigious (and expensive) hotel to end the Tour: in this palatial setting Remco Evenepoel and Oumi slept after the final stage in Paris",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-28T04:06:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/tour-de-france/een-prestigieus-en-peperduur-hotel-om-tour-af-te-sluiten-in-dit-vorstelijke-decor-sliepen-remco-evenepoel-en-oumi-na-slotrit-in-parijs~adf5c67c/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "4bfccef07345",
+   "t": "Why Tadej Pogacar plays hard to get and asks for 100,000 euros, but Remco Evenepoel rode the Aalst criterium for approximately half that",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-28T03:05:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/waarom-tadej-pogacar-hard-to-get-speelt-en-100-000-euro-vraagt-maar-remco-evenepoel-voor-ongeveer-de-helft-wel-criterium-van-aalst-reed~af21e3e4/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "c88ee14b016d",
    "t": "Riders still raving about Van der Poel the day after final stage: 'He's incredible'",
@@ -4467,141 +4542,6 @@
      "n": "Wielerflits",
      "u": "https://www.wielerflits.nl/nieuws/oud-rozetruidrager-thomas-silva-slaat-toe-in-ordiziako-klasikoa/",
      "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e03c1a97d5ba",
-   "t": "'He should stay true to himself. If it doesn't sound right, it will clash': father Patrick on Remco Evenepoel's strong second place in the Tour and online hate",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T06:08:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/tour-de-france/hij-moet-vooral-blijven-wie-hij-is-klinkt-het-niet-dan-botst-het-maar-vader-patrick-over-straffe-tweede-plek-van-remco-evenepoel-in-de-tour-en-online-haat~a5b353e2/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e2cb88503230",
-   "t": "Van Moorsel and Longo finally bury the hatchet: 'We seem quite alike'",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T05:43:05.000Z",
-   "sources": [
-    {
-     "n": "NOS Wielrennen",
-     "u": "https://nos.nl/l/2624474",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "a282fd6130ea",
-   "t": "Mathieu van der Poel takes rest and skips post-Tour criteriums",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T05:30:16.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/mathieu-van-der-poel-neemt-rust-en-slaat-na-tourcriteriums-over/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "309b1aee7e12",
-   "t": "A friendly affair between Pogacar and the 'successor' Del Toro: 'I won't race much longer and he has incredible potential to be the one'",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T05:17:05.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/26/faena-amigos-pogacar-sucesor-toro-correr-durante-potencial-increible-serlo.html",
-     "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "c39755779b43",
-   "t": "Luis Ángel Maté, the ears of the Tour: 'A cycling race is drama, emotions and fighting'",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T05:16:11.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/26/luis-angel-mate-oidos-tour-carrera-ciclista-drama-emociones-pelea.html",
-     "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "ceedf7c34a5e",
-   "t": "Tour Femmes 2026: FDJ United-SUEZ unveils selection around Demi Vollering and new kit",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T05:13:19.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-fdj-united-suez-onthult-selectie-rond-demi-vollering-en-nieuw-tenue/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "56903b8c5885",
-   "t": "Pello Ruiz Cabestany: 'The obligation to win destroys everything good about sport'",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T05:09:18.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/26/pello-ruiz-cabestany-obligacion-ganar-acaba-bueno-deporte.html",
-     "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "0a00801dd34a",
-   "t": "'The sprinters still have a chance' - Former Champs-Elysées winners give thumbs up to longer run-in from Butte Montmartre on Tour de France final stage",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T04:45:40.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/the-sprinters-still-have-a-chance-former-champs-elysees-winners-give-thumbs-up-to-longer-run-in-from-butte-montmartre-on-tour-de-france-final-stage/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "9d07592a5b83",
-   "t": "'A spectacular improvement': 'Congé Payé' heaps praise on Remco Evenepoel and comes up with striking idea for organizers",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T04:06:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/tour-de-france/een-spectaculaire-vooruitgang-conge-paye-haalt-loftrompet-boven-voor-remco-evenepoel-en-komt-met-opvallend-idee-voor-organisatie~af72c650/",
-     "l": "be"
     }
    ],
    "tr": 1
