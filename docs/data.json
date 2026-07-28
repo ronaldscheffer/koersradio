@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-27T23:41:43.874Z",
+ "updated": "2026-07-28T03:30:16.035Z",
  "groups": [
   {
    "id": "c88ee14b016d",
@@ -75,47 +75,6 @@
     }
    ],
    "tr": 1
-  },
-  {
-   "id": "scorito-2026-07-27",
-   "type": "picks",
-   "t": "Scorito picks — riders in form",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T20:41:24.644Z",
-   "rows": [
-    {
-     "r": "Remco Evenepoel",
-     "w": "Second in Tour de France, targeting San Sebastian Classic on Saturday with clear motivation"
-    },
-    {
-     "r": "Tadej Pogacar",
-     "w": "Won fifth Tour de France, dominant form and praised by Eddy Merckx for big tour potential"
-    },
-    {
-     "r": "Mathieu van der Poel",
-     "w": "Multiple stage wins at Tour de France, excellent recent form and race scenario success"
-    },
-    {
-     "r": "Mads Pedersen",
-     "w": "Announced Vuelta start, building toward Grand Tour racing after recent focus"
-    },
-    {
-     "r": "Anthony Turgis",
-     "w": "Potential reinforcement signing for classics, suggesting form and upcoming classics targets"
-    },
-    {
-     "r": "Tiesj Benoot",
-     "w": "Planning autumn program including potential Guangxi race, actively building toward late-season targets"
-    }
-   ],
-   "sources": [
-    {
-     "n": "PCS form ranking",
-     "u": "https://www.procyclingstats.com/rankings.php?p=form",
-     "l": "en"
-    }
-   ]
   },
   {
    "id": "cc62ad21b334",
@@ -4643,21 +4602,6 @@
      "n": "HLN Wielrennen",
      "u": "https://www.hln.be/tour-de-france/een-spectaculaire-vooruitgang-conge-paye-haalt-loftrompet-boven-voor-remco-evenepoel-en-komt-met-opvallend-idee-voor-organisatie~af72c650/",
      "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "664778d33e0a",
-   "t": "The Best Dog of the 2026 Tour de France is a shared honour",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T01:10:41.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/the-best-dog-of-the-2026-tour-de-france-is-a-shared-honour/",
-     "l": "en"
     }
    ],
    "tr": 1
