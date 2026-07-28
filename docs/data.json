@@ -1,6 +1,218 @@
 {
- "updated": "2026-07-28T14:31:48.152Z",
+ "updated": "2026-07-28T16:21:15.425Z",
  "groups": [
+  {
+   "id": "56beb8e424da",
+   "t": "Seixas: 'Proud of fourth place in overall standings'",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T16:34:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146294.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "results-2026-07-28",
+   "type": "results",
+   "t": "Latest results — ProCyclingStats",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T16:21:13.137Z",
+   "rows": [
+    {
+     "race": "Tour de l'Ain, Stage 1",
+     "winner": "Noah Hobbs",
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20l'Ain%2C%20Stage%201"
+    },
+    {
+     "race": "Italian Championships, Elite Keirin",
+     "winner": "Vece",
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Championships%2C%20Elite%20Keirin"
+    },
+    {
+     "race": "Criterium (Remco Evenepoel)",
+     "winner": "Remco Evenepoel",
+     "url": "https://www.procyclingstats.com/search.php?term=Criterium%20(Remco%20Evenepoel)"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ProCyclingStats",
+     "u": "https://www.procyclingstats.com/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "f4471f63f3b5",
+   "t": "'I've not reached my absolute potential yet' – Kim Le Court-Pienaar sets sights on Tour de France Femmes top five after 'shock to the system' success in 2025",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T16:09:56.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/ive-not-reached-my-absolute-potential-yet-kim-le-court-pienaar-sets-sights-on-tour-de-france-femmes-top-five-after-shock-to-the-system-success-in-2025/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "5b96c390b800",
+   "t": "National Championships: Marangon takes double, national title also in elimination",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T16:09:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/28/1785254969/ciclismo-pista-campionati-italiani-paolo-marangon-juniores",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "f25e3ed92c65",
+   "t": "How to watch Tour de France Femmes 2026 – Live streams and official broadcasters",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-28T15:57:52.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/cycling-culture/streaming/watch-tour-de-france-femmes-2026-free/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "6e07c46ce568",
+   "t": "Behind the lens: Shooting the 2026 Tour de France",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-28T15:39:00.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/behind-the-lens-shooting-the-2026-tour-de-france/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "1f94d16f9ff7",
+   "t": "National Championships: Gold performances in elimination: European title followed by national title",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T15:38:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/28/1785253201/ciclismo-pista-maria-acuti-campionati-italiani-juniores",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "2c9122870e18",
+   "t": "Steinhauser to Red Bull – Bora – hansgrohe?",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-28T15:35:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_145951.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "251ca52dd323",
+   "t": "2026 UCI team rankings",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-28T15:30:33.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/actualite/cyclisme/classement-uci-par-equipe-2026/",
+     "l": "fr"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "08d1d197dfa0",
+   "t": "Tour de France Femmes 2026: Route and favorites",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T15:30:16.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/courses/tour-de-france-femmes/tour-de-france-femmes-2026-le-parcours-et-les-favorites/",
+     "l": "fr"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "90be1068696d",
+   "t": "Violent incident: 'Senseless violence,' rages rider",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-28T15:23:41.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/voldsom-haendelse-meningsloes-vold-raser-rytter/11244432",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "9386b1a82fda",
+   "t": "Silca overhauls Super Secret wax drip lube",
+   "s": "",
+   "c": "gear",
+   "date": "2026-07-28T15:00:29.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/silca-overhauls-super-secret-wax-drip-lube/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "c308103e579e",
+   "t": "Greg LeMond corrects Armstrong on Tour record: 'Lance had no talent, he found it'",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T14:55:51.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/greg-lemond-wijst-armstrong-terecht-over-tour-record-lance-had-geen-talent-hij-vond-het/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "3f591322011d",
    "t": "Movistar with Reusser and Lippert for Tour de France Femmes",
@@ -17,36 +229,19 @@
    "tr": 1
   },
   {
-   "id": "results-2026-07-28",
-   "type": "results",
-   "t": "Latest results — ProCyclingStats",
+   "id": "fa924a7ffead",
+   "t": "National Championships: Italian title for Rachele Barbieri and Matteo Fiorin in omnium",
    "s": "",
    "c": "race",
-   "date": "2026-07-28T14:31:45.096Z",
-   "rows": [
-    {
-     "race": "Post-Tour criterium Boxmeer",
-     "winner": "Richard Carapaz",
-     "url": "https://www.procyclingstats.com/search.php?term=Post-Tour%20criterium%20Boxmeer"
-    },
-    {
-     "race": "Post-Tour criterium Aalst",
-     "winner": "Remco Evenepoel",
-     "url": "https://www.procyclingstats.com/search.php?term=Post-Tour%20criterium%20Aalst"
-    },
-    {
-     "race": "Ronde de Saône-et-Loire",
-     "winner": "Giussanesi",
-     "url": "https://www.procyclingstats.com/search.php?term=Ronde%20de%20Sa%C3%B4ne-et-Loire"
-    }
-   ],
+   "date": "2026-07-28T14:34:00.000Z",
    "sources": [
     {
-     "n": "ProCyclingStats",
-     "u": "https://www.procyclingstats.com/",
-     "l": "en"
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/28/1785249265/ciclismo-omnium-campionati-italiani-pista-velodromo",
+     "l": "it"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "09508879250d",
@@ -59,6 +254,36 @@
      "n": "Cyclingnews",
      "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-lain-noah-hobbs-claims-opening-stage-win-in-bourg-en-bresse/",
      "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "49abe2045cb8",
+   "t": "Tour Femmes 2026: AG Insurance Soudal without Sarah Gigante, Kim Le Court 'better than ever'",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-28T14:24:35.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-ag-insurance-soudal-zonder-sarah-gigante-kim-le-court-beter-dan-ooit/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "dcf2d552d706",
+   "t": "Night test of Vingegaard shocked Van Aert: 'Completely unacceptable'",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-28T14:21:56.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/nattetest-af-vingegaard-chokerede-van-aert-fuldstaendig-uacceptabelt/11244372",
+     "l": "da"
     }
    ],
    "tr": 1
@@ -4214,396 +4439,6 @@
      "n": "Wielerflits",
      "u": "https://www.wielerflits.nl/nieuws/tour-2026-quinn-simmons-opnieuw-uitgeroepen-tot-beste-helper/",
      "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "8311f9718a7f",
-   "t": "LIVE. Traditional parade through Paris in full swing: Tim Wellens and Florian Vermeersch join the celebration with UAE",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T16:15:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/tour-de-france/live-traditionele-parade-door-parijs-volop-aan-de-gang-tim-wellens-en-florian-vermeersch-mee-aan-het-feest-bij-uae~a1979bc3/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "c82b471ad69b",
-   "t": "'Tadej Pogačar can win all three Grand Tours in the same year' - Eddy Merckx predicts Tour de France champion could be first ever to take all three top stage racing titles",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T16:04:51.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/tadej-pogacar-can-win-all-three-grand-tours-in-the-same-year-eddy-merckx-predicts-tour-de-france-champion-could-be-first-ever-to-take-all-three-top-stage-racing-titles/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "194ca3341af1",
-   "t": "Van der Poel confirms participation in World Road Championships",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T15:59:23.000Z",
-   "sources": [
-    {
-     "n": "NOS Wielrennen",
-     "u": "https://nos.nl/l/2624523",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "5af056bfc4f1",
-   "t": "Mountain King Carapaz also most combative rider of the Tour",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T15:58:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146271.htm",
-     "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "851eb1512c4e",
-   "t": "Will Pogacar join the battle for stage win in Paris? 'Sprinters have more chance this year'",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T15:54:48.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/gaat-pogacar-zich-mengen-in-strijd-om-de-ritzege-in-parijs-sprinters-hebben-dit-jaar-meer-kans/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "9d9a1deca485",
-   "t": "Tour de France 2026 grades",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T15:52:48.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/26/notas-tour-francia-2026.html",
-     "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "a0ad0729ee7e",
-   "t": "US road champion Quinn Simmons named best teammate at the Tour de France for second year running",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T15:42:59.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/us-road-champion-quinn-simmons-named-best-teammate-at-the-tour-de-france-for-second-year-running/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "ddc67fc54e3d",
-   "t": "Roads and walls of Vescovado. Balliana wins time trial and combined: Ecotek Zero24 dominance. Gallery",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T15:40:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/26/1785080515/ciclismo-cronometro-juniores-balliana-bergamo",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "3e3f873d0e1d",
-   "t": "Pogacar seals another Tour de France and enters the exclusive 'club of five'",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T15:34:13.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/26/pogacar-abrocha-nuevo-tour-francia-entra-selecto-club-cinco.html",
-     "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "4c121e544d45",
-   "t": "Thomas Silva wins Castilla y León for back-to-back success in northern Spain on weekend",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T15:33:48.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/thomas-silva-wins-castilla-y-leon-for-back-to-back-success-in-northern-spain-on-weekend/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "a7e9323e7e25",
-   "t": "Tadej Pogacar, the emperor of the 'club of five' who still smiles like a child",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T15:29:52.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/26/tadej-pogacar-emperador-club-cinco-todavia-sonrie-nino.html",
-     "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "169ed6d6abde",
-   "t": "Coppa Bologna. Grechishkin wins at Montallese, Bonometti third. Gallery",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T15:22:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/26/1785081196/ciclismo-dilettanti-coppa-bologna-montallese-senese",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "1679c3a0a7c2",
-   "t": "The fortune Tadej Pogacar takes home after conquering his fifth Tour de France",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T15:20:06.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/26/dineral-lleva-tadej-pogacar-conquistar-quinto-tour-francia.html",
-     "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "6b98d1909be7",
-   "t": "Tour live: The Danes ride ahead of the peloton",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T15:20:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/tour-live-danskerne-koerer-frem-foran-feltet/11222900",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "23a3fb42fe30",
-   "t": "Tour live: Paris race is truly underway!",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T15:20:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/tour-live-paris-raeset-er-for-alvor-i-gang/11222900",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "77ca700de0d7",
-   "t": "Tour live: Now it will be decided on Montmartre!",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T15:20:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/tour-live-nu-skal-det-afgoeres-paa-montmartre/11222900",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "b93e4d19e0ba",
-   "t": "Full throttle by AMIX: 'UAE is the most dominant team in cycling history'",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T15:19:10.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/26/tumba-abierta-by-amix-uae-equipo-dominante-historia-ciclismo.html",
-     "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "2f3b7ba9e620",
-   "t": "Giro revelation Guillermo Thomas Silva triumphs in Clasica Castilla y Leon",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T15:12:12.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/rozetruidrager-guillermo-thomas-silva-zegeviert-in-classica-castilla-y-leon/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "8b9524a4f05f",
-   "t": "Seixas reveals pre-Tour reconnaissance crash and brief illness that his team kept under wraps",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T15:07:24.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/seixas-reveals-pre-tour-recon-crash-and-brief-illness-that-his-team-kept-under-wraps/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "b10bf5518457",
-   "t": "Tour 2026: Possible adjusted time trial again in Paris final stage",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T15:03:15.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/tour-2026-mogelijk-opnieuw-aangepaste-tijdsopname-in-slotrit-parijs/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "1a6a856d78c3",
-   "t": "Tour de France stage 21 LIVE: Shortened stage around Montmartre and Champs-Élysées brings race to a close",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T15:02:45.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/live/tour-de-france-stage-21-live-shortened-stage-around-montmartre-and-champs-elysees-brings-race-to-a-close/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e8d597eb81d6",
-   "t": "Stagi's ratings. UAE's absolute dominance with the absolute dominator, but Red Bull, Lidl-Trek and EF were not joking",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T15:01:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/26/1785078306/tdf2026-parigi-ultima-tappa-",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "d10154439197",
-   "t": "Silva doesn't stop and wins the Castilla y León Classic, Scaroni third and Ulissi eighth",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T14:51:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/26/1785078469/ciclismo-thomas-silva-xds-astana-classica-castilla-y-leon-corse-su-strada",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "459b9530cefd",
-   "t": "Tour 2026: UAE Emirates XRG celebrates Pogacar's fifth Tour victory with full white kit",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T14:46:52.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/tour-2026-uae-emirates-xrg-viert-vijfde-tourzege-pogacar-met-volledig-wit-tenue/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "2bf61e3ac403",
-   "t": "Lidl-Trek celebrates Guercilena this evening: Thank you Luca! Gallery",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T14:45:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/26/1785077368/tdf2026-luca-guercilena-lidl-trek-maglia-celebratica-grazie-luca-parigi-",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "9ac72cea2087",
-   "t": "Ready for Tour de France Femmes: Lotte Kopecky leads Lorena Wiebes to third victory and overall win in Tour of Poland",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T14:34:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/helemaal-klaar-voor-tour-de-france-femmes-lotte-kopecky-loodst-lorena-wiebes-naar-derde-overwinning-en-eindzege-in-ronde-van-polen~a98ef736/",
-     "l": "be"
     }
    ],
    "tr": 1
