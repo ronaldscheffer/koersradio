@@ -1,6 +1,158 @@
 {
- "updated": "2026-07-28T18:01:59.766Z",
+ "updated": "2026-07-28T19:49:31.451Z",
  "groups": [
+  {
+   "id": "results-2026-07-28",
+   "type": "results",
+   "t": "Latest results — ProCyclingStats",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T19:49:28.043Z",
+   "rows": [
+    {
+     "race": "Italian National Championships Points Race",
+     "winner": "Donà",
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20National%20Championships%20Points%20Race"
+    },
+    {
+     "race": "National Championships Elimination",
+     "winner": "Marangon",
+     "url": "https://www.procyclingstats.com/search.php?term=National%20Championships%20Elimination"
+    },
+    {
+     "race": "National Championships Elimination",
+     "winner": "Marangon",
+     "url": "https://www.procyclingstats.com/search.php?term=National%20Championships%20Elimination"
+    },
+    {
+     "race": "European Championships Elimination",
+     "winner": "Unknown",
+     "url": "https://www.procyclingstats.com/search.php?term=European%20Championships%20Elimination"
+    },
+    {
+     "race": "Italian National Championships Omnium",
+     "winner": "Rachele Barbieri",
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20National%20Championships%20Omnium"
+    },
+    {
+     "race": "Italian National Championships Omnium",
+     "winner": "Matteo Fiorin",
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20National%20Championships%20Omnium"
+    },
+    {
+     "race": "Tour de l'Ain Stage 1",
+     "winner": "Noah Hobbs",
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20l'Ain%20Stage%201"
+    },
+    {
+     "race": "Italian National Championships Elite Keirin",
+     "winner": "Vece",
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20National%20Championships%20Elite%20Keirin"
+    },
+    {
+     "race": "Criterium",
+     "winner": "Remco Evenepoel",
+     "url": "https://www.procyclingstats.com/search.php?term=Criterium"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ProCyclingStats",
+     "u": "https://www.procyclingstats.com/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "cad0e6bc7ed0",
+   "t": "How every team did in the 2026 Tour de France",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T19:32:41.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/how-every-team-did-in-the-2026-tour-de-france/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "c57731f51d97",
+   "t": "Second consecutive day of celebration: Remco Evenepoel wins Roeselare post-Tour criterium",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T19:29:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/voor-de-tweede-dag-op-rij-aan-het-feest-remco-evenepoel-wint-ook-na-tourcriterium-van-roeselare~a67dcef2/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "609779569e0a",
+   "t": "Debate: Does Montmartre kill the sprinters' World Championships?",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-28T19:00:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/incoming/debat-draeber-montmartre-sprinternes-vm/11244252",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "3287d5d551d1",
+   "t": "Italian National Championships. Bucciarelli queen of junior points: Petris and Sambi close the podium",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T18:48:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/28/1785264598/ciclismo-campionati-italiani-juniores-donne-corsa-a-punti-angelina-bucciarelli",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "23861caacefc",
+   "t": "Italian National Championships. Moro, Ghirelli, Ferrante: gold in junior keirin and sprint",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T18:17:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/28/1785262630/ciclismo-su-pista-campionati-italiani-keirin-velocita-juniores-ciclismo",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "e695699adb1c",
+   "t": "Photo Epic: Week 3 of the Tour de France — Évian-les-Bains to Paris",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T18:16:19.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/tour-de-france-photo-epic-week-3-2026/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "59916a6077f9",
    "t": "Cycling live in stream, TV and ticker: Today's races",
@@ -32,6 +184,36 @@
    "tr": 1
   },
   {
+   "id": "0ba3d505f1ab",
+   "t": "Jolien D'hoore puts everyone at AG Insurance Soudal in service of one goal: 'All in on Kim'",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T18:00:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/tour-de-france/jolien-dhoore-zet-iedereen-bij-ag-insurance-soudal-in-dienst-van-een-doel-alle-ballen-op-kim~a229698f/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "013c21eb21b4",
+   "t": "Clarity after eight years on Michael Goolaerts' death: investigation definitively concluded",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-28T17:56:02.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/na-acht-jaar-duidelijkheid-over-overlijden-michael-goolaerts-onderzoek-definitief-afgerond/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
    "id": "84bbb597875c",
    "t": "The Boutique Wheel is Evolving. Tune's New Nano Series Proves It.",
    "s": "",
@@ -42,6 +224,21 @@
      "n": "Velo",
      "u": "https://velo.outsideonline.com/road/road-gear/tune-nano-road-cs-wheelsets-hubs/",
      "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "0e5d9037f89c",
+   "t": "Well-known speaker Rien van Horik retires after fifty years",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-28T17:44:22.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/bekende-speaker-rien-van-horik-stopt-ermee-na-vijftig-jaar/",
+     "l": "nl"
     }
    ],
    "tr": 1
@@ -491,6 +688,21 @@
     {
      "n": "TuttoBiciWeb",
      "u": "https://www.tuttobiciweb.it/article/2026/07/28/1785247341/tour-de-l-ain-2026-prima-tappa-hobbs-dainese",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "1d1f6467fb7e",
+   "t": "Five times Tour: Bikone celebrates Pogacar's achievement with limited edition",
+   "s": "",
+   "c": "gear",
+   "date": "2026-07-28T14:00:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/28/1785265618/ciclismo-pogaA�ar-tour-de-france-componenti-bikone-edizione-limitata",
      "l": "it"
     }
    ],
@@ -3837,426 +4049,6 @@
      "n": "HLN Wielrennen",
      "u": "https://www.hln.be/tour-de-france/droom-om-drie-grote-rondes-te-winnen-moet-ik-niet-zomaar-laten-schieten-remco-evenepoel-straalt-naast-oumi-en-blijft-ambitieus-na-tweede-plek~a0a1cd78/",
      "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "b190d52339f9",
-   "t": "Pogacar hopes for Vingegaard duel next year",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T19:37:32.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/pogacar-haaber-paa-vingegaard-duel-naeste-aar/11243044",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "35f233e10094",
-   "t": "List of withdrawn riders / Stage 21",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T19:30:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_145996.htm",
-     "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "4f38869b1197",
-   "t": "Tour live: Mads P. to ride the Vuelta!",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T19:30:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/tour-live-mads-p.-skal-koere-vueltaen/11222900",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e9343f6e6245",
-   "t": "'Never felt such lactic acid in my life': Mathieu van der Poel had to dig deep for 'incredible' victory, Jasper Philipsen second",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T19:20:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/tour-de-france/nog-nooit-zon-verzuring-gevoeld-in-mn-leven-mathieu-van-der-poel-moest-erg-diep-gaan-voor-ongelofelijke-zege-jasper-philipsen-nog-tweede~a24816e5/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e0bf8febd735",
-   "t": "Pogacar: 'The Vuelta? We'll see, now we have to enjoy the moment'",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T19:12:29.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/26/pogacar-vuelta-veremos-hay-disfrutar-momento.html",
-     "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "6b4bffc636c4",
-   "t": "Jasper Philipsen delighted for 'friend' Van der Poel: 'That makes him a wonderful person'",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T19:01:39.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/jasper-philipsen-dolblij-voor-vriend-van-der-poel-dat-maakt-hem-een-prachtig-persoon/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "45bf1d361978",
-   "t": "'Had a speech in French ready, but was too sick to remember it': Tadej Pogacar hints at illness in final week",
-   "s": "",
-   "c": "health",
-   "date": "2026-07-26T19:01:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/tour-de-france/had-een-speech-in-het-frans-klaar-maar-was-te-ziek-om-hem-te-onthouden-tadej-pogacar-hint-op-ziekte-in-slotweek~a1979bc3/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "14646432dbfa",
-   "t": "This is what the teams earned at Tour de France 2026",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T19:00:21.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/det-tjente-holdene-ved-tour-de-france-2026/11243014",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "03e854b08b93",
-   "t": "Van der Poel gave everything for heroic victory in Paris: 'Very proud and happy'",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T18:57:46.000Z",
-   "sources": [
-    {
-     "n": "NOS Wielrennen",
-     "u": "https://nos.nl/l/2624555",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "907fd38b8d14",
-   "t": "'Mentally speaking, he's a monster' - No regrets for Decathlon CMA CGM management on bringing Paul Seixas to the Tour de France at age 19",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T18:53:54.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/mentally-speaking-hes-a-monster-no-regrets-for-decathlon-cma-cgm-management-on-bringing-paul-seixas-to-the-tour-de-france-at-age-19/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "dc9e8a55052c",
-   "t": "Tour 2026: These are the winners after three weeks of racing",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T18:45:11.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/tour-2026-dit-zijn-de-winnaars-na-drie-weken-koers/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "27df78a5ef9e",
-   "t": "Pogacar creates cycling magic with Van der Poel in Paris: 'I am speechless'",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T18:37:49.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/pogacar-maakt-samen-met-van-der-poel-wielermagie-in-parijs-ik-ben-sprakeloos/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "d8bfdb4d36a6",
-   "t": "Kooij and teammates created thrilling finale: 'We felt it was coming down to the very last moment'",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T18:37:48.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/kooij-en-ploeggenoten-zorgden-voor-spannende-finale-voelden-dat-het-ging-aankomen-op-allerlaatste-moment/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "6eae2ff2cb23",
-   "t": "Movistar puts everything into La Vuelta",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T18:35:38.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/26/movistar-fia-lavuelta.html",
-     "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "85ab0e771c0b",
-   "t": "This is how the general classification of the Tour de France looks after stage 21",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T18:35:16.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/26/asi-queda-clasificacion-general-tour-francia-etapa-21.html",
-     "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "2f239897e86c",
-   "t": "Van der Poel triumphs on the Champs-Élysées ahead of Philipsen",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T18:32:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146269.htm",
-     "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "408e97bd1103",
-   "t": "Tour de France: Mathieu van der Poel wins on the Champs-Élysées",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T18:21:28.000Z",
-   "sources": [
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/courses/tour-de-france/tour-de-france-mathieu-van-der-poel-simpose-sur-les-champs-elysees/",
-     "l": "fr"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "3e1f0405e2f6",
-   "t": "Van der Poel has been thinking about it for a year: - It means a lot",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T18:16:45.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/van-der-poel-har-taenkt-paa-det-i-et-aar-betyder-meget/11242986",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "b601eac28a35",
-   "t": "Mathieu van der Poel ticks off career goal in Paris: 'I've been working on this for a year'",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T18:16:40.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/mathieu-van-der-poel-vinkt-carrieredoel-af-in-parijs-was-hier-al-een-jaar-mee-bezig/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "860f125e1140",
-   "t": "Unseen! Relive Mathieu van der Poel's narrow victory after breathtaking final kilometre",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T18:16:29.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/ongezien-herbeleef-de-nipte-overwinning-van-mathieu-van-der-poel-na-een-bloedstollende-slotkilometer/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "d691618bfa34",
-   "t": "Report card: How the Tour teams performed in 2026",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T18:16:07.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/karakterbog-saadan-klarede-tour-holdene-sig-i-2026/11242883",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "b0135c842db2",
-   "t": "Van der Poel wins extraordinary Tour finale after yellow jersey rampage on stage 21",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T18:14:11.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/van-der-poel-wins-extraordinary-tour-finale-after-yellow-jersey-rampage-on-stage-21/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "368c7a0d3e4a",
-   "t": "Tadej Pogacar's Tour de France 2026 victory in numbers",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T18:12:33.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/tadej-pogacars-tour-de-france-sejr-2026-i-tal/11242851",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "60b5c4d9232b",
-   "t": "Van der Poel. \"I've been thinking about this stage for a year. Pogacar? I have enormous respect for him\"",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T18:10:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/26/1785091493/ciclismo-tour-de-france-mathieu-van-der-poel-tadej-pogacar-volata-finale",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "690741e55585",
-   "t": "Tour. For the first time in history France, Italy and Spain without stage victories",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T18:10:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/26/1785094924/tour-de-france-2026-francia-spagna-italia-grande-boucle",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "d6b82e26a7b0",
-   "t": "Tadej Pogacar wins his fifth Tour de France",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T18:09:12.000Z",
-   "sources": [
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/courses/tour-de-france/tadej-pogacar-remporte-son-cinquieme-tour-de-france/",
-     "l": "fr"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "c21117426c38",
-   "t": "Tour de France Stage 21: Van Der Poel Takes Electrifying Win After Fireworks on Montmartre Climb",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T18:02:57.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/tour-de-france-stage-21-van-der-poel-takes-electrifying-win-after-fireworks-on-montmartre-climb/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "1cb95015ffc8",
-   "t": "Tour de France: Tadej Pogačar equals record with fifth yellow jersey as Mathieu van der Poel wins thrilling stage 21",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T18:02:16.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-tadej-pogacar-equals-record-with-fifth-yellow-jersey-as-mathieu-van-der-poel-wins-stage-21/",
-     "l": "en"
     }
    ],
    "tr": 1
