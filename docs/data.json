@@ -1,6 +1,156 @@
 {
- "updated": "2026-07-28T16:21:15.425Z",
+ "updated": "2026-07-28T18:01:59.766Z",
  "groups": [
+  {
+   "id": "59916a6077f9",
+   "t": "Cycling live in stream, TV and ticker: Today's races",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T18:12:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_144508.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "46e0a2a50ce5",
+   "t": "\"We have one clear goal\": how Jolien D'hoore got everyone at AG Insurance Soudal on the same page",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-28T18:00:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/tour-de-france/we-hebben-een-duidelijk-doel-hoe-jolien-dhoore-bij-ag-insurance-soudal-iedereen-op-dezelfde-lijn-kreeg~a229698f/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "84bbb597875c",
+   "t": "The Boutique Wheel is Evolving. Tune's New Nano Series Proves It.",
+   "s": "",
+   "c": "gear",
+   "date": "2026-07-28T17:54:48.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-gear/tune-nano-road-cs-wheelsets-hubs/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "2899ded80c2a",
+   "t": "Wheel Talk Newsletter: Analyzing the Wheel Talk podcast Tour de France draft",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-28T17:39:53.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/wheel-talk-newsletter-analyzing-the-wheel-talk-podcast-tour-de-france-draft/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "557c69cc2bea",
+   "t": "Italian National Championships. Autozai celebrates: Donà is gold in the points race",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T17:29:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/28/1785259790/ciclismo-campionato-italiano-corsa-a-punti-juniores-autozai-contri",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "6fd1c7d1005d",
+   "t": "Legend Sabler Armstrong: - Lance did not have talent",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-28T17:18:29.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/legende-sabler-armstrong-lance-havde-ikke-talent/11244490",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "12053ea6a595",
+   "t": "Marlen Reusser to lead Movistar Team for Tour de France Femmes",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T17:05:37.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/marlen-reusser-to-lead-movistar-team-for-tour-de-france-femmes/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "897ea7baae47",
+   "t": "Como returns as finish location in Tour of Lombardy with new course",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T16:55:37.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/como-keert-terug-als-finishplaats-in-ronde-van-lombardije-met-nieuw-parcours/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "804de4053311",
+   "t": "Mørkøv on Van Aert: - I expect him to be supreme",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-28T16:42:01.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/moerkoev-om-van-aert-jeg-forventer-at-han-vil-vaere-suveraen/11244469",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "1907e261816a",
+   "t": "Elena Miglioranza has been discharged and returned home",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-28T16:39:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/28/1785257094/ciclismo-incidente-stradale-storie-di-speranza-giovani-ciclisti-recupero",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "56beb8e424da",
    "t": "Seixas: 'Proud of fourth place in overall standings'",
@@ -17,36 +167,19 @@
    "tr": 1
   },
   {
-   "id": "results-2026-07-28",
-   "type": "results",
-   "t": "Latest results — ProCyclingStats",
+   "id": "5e640aebc9e2",
+   "t": "Paula Blasi and UAE teammates head to Tour Femmes with new team name",
    "s": "",
-   "c": "race",
-   "date": "2026-07-28T16:21:13.137Z",
-   "rows": [
-    {
-     "race": "Tour de l'Ain, Stage 1",
-     "winner": "Noah Hobbs",
-     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20l'Ain%2C%20Stage%201"
-    },
-    {
-     "race": "Italian Championships, Elite Keirin",
-     "winner": "Vece",
-     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Championships%2C%20Elite%20Keirin"
-    },
-    {
-     "race": "Criterium (Remco Evenepoel)",
-     "winner": "Remco Evenepoel",
-     "url": "https://www.procyclingstats.com/search.php?term=Criterium%20(Remco%20Evenepoel)"
-    }
-   ],
+   "c": "transfer",
+   "date": "2026-07-28T16:25:03.000Z",
    "sources": [
     {
-     "n": "ProCyclingStats",
-     "u": "https://www.procyclingstats.com/",
-     "l": "en"
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/paula-blasi-en-uae-ploeggenoten-met-nieuwe-ploegnaam-naar-tour-femmes/",
+     "l": "nl"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "f4471f63f3b5",
@@ -89,6 +222,21 @@
      "n": "Cyclingnews",
      "u": "https://www.cyclingnews.com/cycling-culture/streaming/watch-tour-de-france-femmes-2026-free/",
      "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "5e2f32f6682c",
+   "t": "Farewell to Vittorio Marcon: He was a rider, director, president, talent scout...",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-28T15:46:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/28/1785257431/ciclismo-treviso-lutto-direttore-sportivo-alessandro-ballan",
+     "l": "it"
     }
    ],
    "tr": 1
@@ -4109,336 +4257,6 @@
      "n": "Cyclingnews",
      "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-tadej-pogacar-equals-record-with-fifth-yellow-jersey-as-mathieu-van-der-poel-wins-stage-21/",
      "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "ac337d396651",
-   "t": "Van der Poel takes the last major victory of the Tour: his teammate Philipsen stopped so he could achieve it!",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T18:00:40.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/26/der-poel-lleva-ultima-gran-victoria-tour-companero-philipsen-freno-consiguiera.html",
-     "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "02aab663952c",
-   "t": "Tour 2026: Van der Poel wins thrilling final stage after bizarre twist, Pogacar secures fifth overall victory",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T17:57:34.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/tour-2026-mathieu-van-der-poel-wint-bizarre-slotrit-na-zenuwslopende-ontknoping/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "3f35d56766e8",
-   "t": "Van der Poel wins thrilling final stage, fifth overall victory for Pogacar in Tour de France",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T17:57:13.000Z",
-   "sources": [
-    {
-     "n": "NOS Wielrennen",
-     "u": "https://nos.nl/l/2624544",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "d151afddb768",
-   "t": "Van der Poel wins absurd finale - Pogacar is five-time Tour winner",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T17:57:11.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/van-der-poel-vinder-absurd-finale-pogacar-er-femdobbelt-tour-vinder/11242960",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "d656cc5605a7",
-   "t": "Official: Pogacar has broken the speed record again",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T17:56:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/officielt-pogacar-har-slaaet-fartrekorden-igen/11242746",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "c3b3f273c42d",
-   "t": "The penalty register of the Tour de France / Stage 21",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T17:54:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146111.htm",
-     "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "4ec56e43192d",
-   "t": "Time check 48 kilometres before the finish for Tour classification",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T17:43:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146274.htm",
-     "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "24e813a424fb",
-   "t": "Germans on the Champs-Élysées ahead of the field across the finish line",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T17:42:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146273.htm",
-     "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "87eaddbf5803",
-   "t": "Watch! Mathieu van der Poel and Tadej Pogacar attack twice on Butte Montmartre",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T17:32:50.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/zien-mathieu-van-der-poel-en-tadej-pogacar-knallen-weg-op-butte-montmartre/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "32d30c0883a7",
-   "t": "Merckx hands over the future of the Tour to Pogacar and points out a challenge never seen before",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T17:32:21.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/26/merckx-entrega-futuro-tour-pogacar-le-senala-reto-nunca-visto.html",
-     "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "a31fa6f0fa49",
-   "t": "LIVE. The song of Remco Evenepoel and co is not going through (for now): sprinter Olav Kooij's team causes regrouping",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T17:32:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/tour-de-france/live-het-liedje-van-remco-evenepoel-en-co-gaat-voorlopig-niet-door-ploeg-van-sprinter-olav-kooij-zorgt-voor-hergroepering~a1979bc3/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "6da39b754fc5",
-   "t": "Tour de France. Spectacle in Paris, Van der Poel wins! Pogačar in history",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T17:32:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/26/1785088846/tour-france-2026-tappa-21-vittoria-mathieu-van-der-poel",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "f4246a3f3d1c",
-   "t": "Waiting for Results of Anti-Doping Tests at the Tour de France? Don't Hold Your Breath",
-   "s": "",
-   "c": "health",
-   "date": "2026-07-26T17:29:34.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/anti-doping-test-results/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "531060058b5a",
-   "t": "Clásica Castilla y León: Guillermo Thomas Silva continues his winning streak",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T17:26:17.000Z",
-   "sources": [
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/courses/vuelta-a-castilla-y-leon/clasica-castilla-y-leon-guillermo-thomas-silva-enchaine/",
-     "l": "fr"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e4e934b7c8c0",
-   "t": "GC times to be taken before Montmartre climbs on Tour de France final stage for second year in a row due to safety concerns",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T17:01:23.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/gc-times-to-be-taken-before-montmartre-climbs-on-tour-de-france-final-stage-for-second-year-in-a-row-due-to-safety-concerns/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "fad7bbf4e917",
-   "t": "Mathieu van der Poel looks forward to final stage with Montmartre: 'Painful to see last year'",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T16:46:17.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/mathieu-van-der-poel-kijkt-uit-naar-slotrit-met-montmartre-pijnlijk-om-vorig-jaar-te-zien/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "d00ec87b5a43",
-   "t": "Remco Evenepoel goes all out for final stage: 'Course change not bad for me'",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T16:40:44.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/remco-evenepoel-gaat-vol-voor-slotrit-parcourswijziging-niet-slecht-voor-mij/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "44e078c6c986",
-   "t": "More fuel on the Danish Van Aert fire",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-26T16:38:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/mere-braende-paa-det-danske-van-aert-baal/11242859",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "dbe357c004d7",
-   "t": "LIVE. Enough photos and party scenes: shortened final stage truly gets going after traditional parade through Paris",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T16:32:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/tour-de-france/live-genoeg-fotos-en-feesttaferelen-ingekorte-slotrit-trekt-zich-echt-op-gang-na-traditionele-parade-doorheen-parijs~a1979bc3/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "1794d1605ea0",
-   "t": "GC times to be taken before Montmartre on Tour stage 21",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T16:26:20.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/gc-times-to-be-taken-before-montmartre-on-tour-stage-21/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "2e25a1ea2d81",
-   "t": "One last hug from Oumi and his parents before the start: Remco Evenepoel's family is there in Paris to celebrate second place",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T16:26:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/tour-de-france/met-nog-een-knuffel-van-oumi-en-zn-ouders-voor-de-start-familie-van-remco-evenepoel-is-erbij-in-parijs-om-tweede-plaats-te-vieren~a867eaa9/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "4258b7a6bb56",
-   "t": "Tour 2026: Quinn Simmons named best helper again",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-26T16:25:36.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/tour-2026-quinn-simmons-opnieuw-uitgeroepen-tot-beste-helper/",
-     "l": "nl"
     }
    ],
    "tr": 1
