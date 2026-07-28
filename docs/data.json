@@ -1,6 +1,118 @@
 {
- "updated": "2026-07-28T21:19:07.469Z",
+ "updated": "2026-07-28T22:39:52.601Z",
  "groups": [
+  {
+   "id": "results-2026-07-28",
+   "type": "results",
+   "t": "Latest results — ProCyclingStats",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T22:39:49.673Z",
+   "rows": [
+    {
+     "race": "Roeselare post-Tour criterium",
+     "winner": "Remco Evenepoel",
+     "url": "https://www.procyclingstats.com/search.php?term=Roeselare%20post-Tour%20criterium"
+    },
+    {
+     "race": "Italian National Championships junior points",
+     "winner": "Bucciarelli",
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20National%20Championships%20junior%20points"
+    },
+    {
+     "race": "Italian National Championships junior keirin",
+     "winner": "Moro",
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20National%20Championships%20junior%20keirin"
+    },
+    {
+     "race": "Italian National Championships junior sprint",
+     "winner": "Ghirelli",
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20National%20Championships%20junior%20sprint"
+    },
+    {
+     "race": "Italian National Championships points race",
+     "winner": "Donà",
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20National%20Championships%20points%20race"
+    },
+    {
+     "race": "National Championships elimination",
+     "winner": "Marangon",
+     "url": "https://www.procyclingstats.com/search.php?term=National%20Championships%20elimination"
+    },
+    {
+     "race": "National Championships omnium",
+     "winner": "Rachele Barbieri",
+     "url": "https://www.procyclingstats.com/search.php?term=National%20Championships%20omnium"
+    },
+    {
+     "race": "National Championships omnium",
+     "winner": "Matteo Fiorin",
+     "url": "https://www.procyclingstats.com/search.php?term=National%20Championships%20omnium"
+    },
+    {
+     "race": "Tour de l'Ain stage 1",
+     "winner": "Noah Hobbs",
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20l'Ain%20stage%201"
+    },
+    {
+     "race": "Italian Championships elite keirin",
+     "winner": "Vece",
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Championships%20elite%20keirin"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ProCyclingStats",
+     "u": "https://www.procyclingstats.com/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "3f155b22140a",
+   "t": "The biggest winners, surprises, and storylines of the XC MTB World Series so far",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T22:16:34.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/the-biggest-winners-surprises-and-storylines-of-the-xc-mtb-world-series-so-far/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "ed9a5619fe3f",
+   "t": "How CADEX Shaved 70 Grams Off the Aero Integrated Handlebar",
+   "s": "",
+   "c": "gear",
+   "date": "2026-07-28T21:54:06.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-gear/updated-cadex-aero-integrated-handlebar/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "ddb79f0f8c3a",
+   "t": "Jasper Philipsen, Tim Merlier and Jasper Stuyven start Thursday in Herentals",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T21:33:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/jasper-philipsen-tim-merlier-en-jasper-stuyven-starten-donderdag-in-herentals~a98ef736/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "ac2e87d9013d",
    "t": "Why the Tour de France Never Stops Feeling Magical | Dropped Newsletter",
@@ -3777,51 +3889,6 @@
      "n": "Cyclingnews",
      "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/ive-shown-i-deserve-to-dream-remco-evenepoel-says-second-place-in-tour-de-france-confirms-belief-as-he-pursues-future-grand-tour-victories/",
      "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "36616c3f0c71",
-   "t": "Morang triumphs at the Bundesliga race at the Nürburgring",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T21:53:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146278.htm",
-     "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "aaf51384f8d9",
-   "t": "Fifth with five Tour wins, dominant Pogacar enjoys his own fairy tale",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T21:50:17.000Z",
-   "sources": [
-    {
-     "n": "NOS Wielrennen",
-     "u": "https://nos.nl/l/2624572",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e1c07d97d418",
-   "t": "Tears instead of triumph: Kanter fourth on the Champs-Élysées",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T21:42:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146277.htm",
-     "l": "de"
     }
    ],
    "tr": 1
