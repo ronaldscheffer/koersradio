@@ -1,6 +1,88 @@
 {
- "updated": "2026-07-29T21:10:59.021Z",
+ "updated": "2026-07-29T22:35:48.746Z",
  "groups": [
+  {
+   "id": "results-2026-07-29",
+   "type": "results",
+   "t": "Latest results — ProCyclingStats",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T22:35:45.877Z",
+   "rows": [
+    {
+     "race": "Tour of Denmark Stage 1",
+     "winner": "Wout van Aert",
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Denmark%20Stage%201"
+    },
+    {
+     "race": "Italian Nationals",
+     "winner": "Fantini",
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Nationals"
+    },
+    {
+     "race": "Italian Nationals Elite Speed",
+     "winner": "Moro",
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Nationals%20Elite%20Speed"
+    },
+    {
+     "race": "Italian Nationals Elite Speed",
+     "winner": "Vece",
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Nationals%20Elite%20Speed"
+    },
+    {
+     "race": "Italian Nationals Junior Keirin",
+     "winner": "Veglia",
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Nationals%20Junior%20Keirin"
+    },
+    {
+     "race": "Italian Nationals Junior Keirin",
+     "winner": "Ferrante",
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Nationals%20Junior%20Keirin"
+    },
+    {
+     "race": "Italian Nationals Elite Elimination",
+     "winner": "Fiorin",
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Nationals%20Elite%20Elimination"
+    },
+    {
+     "race": "Italian Nationals",
+     "winner": "Barbieri",
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Nationals"
+    },
+    {
+     "race": "Tour de l'Ain Stage 1",
+     "winner": "Markel Beloki",
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20l'Ain%20Stage%201"
+    },
+    {
+     "race": "Tour de l'Ain Stage 2",
+     "winner": "Markel Beloki",
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20l'Ain%20Stage%202"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ProCyclingStats",
+     "u": "https://www.procyclingstats.com/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "74631de7ac1d",
+   "t": "The laboratory that wants to change the way we ride bicycles",
+   "s": "",
+   "c": "gear",
+   "date": "2026-07-29T22:30:34.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/07/30/laboratorio-quiere-cambiar-forma-montar-bicicleta.html",
+     "l": "es"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "8b9ceffac3e6",
    "t": "Antonia Niedermaier loves life in the saddle",
@@ -767,6 +849,21 @@
    "tr": 1
   },
   {
+   "id": "959e744a616e",
+   "t": "Markel Beloki claims first pro victory in Tour de l'Ain, Wout Poels plays supporting role after Rockets domestique work",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T14:15:30.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/eerste-profzege-markel-beloki-in-tour-de-lain-wout-poels-speelt-bijrol-na-kopwerk-rockets/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
    "id": "de5741490c60",
    "t": "Tour de l'Ain. First as pro and leader's jersey for Beloki (EF), Isidore and Conci caught out.",
    "s": "",
@@ -941,6 +1038,21 @@
     {
      "n": "Wielerflits",
      "u": "https://www.wielerflits.nl/nieuws/shirin-van-anrooij-kiest-na-zes-jaar-voor-een-andere-ploeg/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "25c61ea189f6",
+   "t": "Shirin van Anrooij to switch from Lidl-Trek to Canyon//SRAM this winter",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-29T12:48:11.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/shirin-van-anrooij-stapt-komende-winter-over-van-lidl-trek-naar-canyon-sram/",
      "l": "nl"
     }
    ],
@@ -3552,66 +3664,6 @@
      "n": "HLN Wielrennen",
      "u": "https://www.hln.be/wielrennen/waarom-tadej-pogacar-hard-to-get-speelt-en-100-000-euro-vraagt-maar-remco-evenepoel-voor-ongeveer-de-helft-wel-criterium-van-aalst-reed~af21e3e4/",
      "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "c88ee14b016d",
-   "t": "Riders still raving about Van der Poel the day after final stage: 'He's incredible'",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T22:23:54.000Z",
-   "sources": [
-    {
-     "n": "NOS Wielrennen",
-     "u": "https://nos.nl/l/2624671",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "6e6507d6d876",
-   "t": "Wiebes in top form and with revenge feelings towards Tour de France Femmes",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T21:51:08.000Z",
-   "sources": [
-    {
-     "n": "NOS Wielrennen",
-     "u": "https://nos.nl/l/2624669",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "d89611917253",
-   "t": "Rottmann shines with six top-ten finishes, Litlere fifth overall",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T21:43:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146287.htm",
-     "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "dd39831ad558",
-   "t": "Preview: The hardest Tour de France Femmes route yet?",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T21:35:01.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/2026-tour-de-france-femmes-route-preview/",
-     "l": "en"
     }
    ],
    "tr": 1
