@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T22:35:48.746Z",
+ "updated": "2026-07-29T23:41:10.164Z",
  "groups": [
   {
    "id": "results-2026-07-29",
@@ -7,7 +7,7 @@
    "t": "Latest results — ProCyclingStats",
    "s": "",
    "c": "race",
-   "date": "2026-07-29T22:35:45.877Z",
+   "date": "2026-07-29T23:41:07.170Z",
    "rows": [
     {
      "race": "Tour of Denmark Stage 1",
@@ -64,6 +64,20 @@
     {
      "n": "ProCyclingStats",
      "u": "https://www.procyclingstats.com/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "3f538109cd83",
+   "t": "Brodie Chapman's Tour de France Femmes column",
+   "s": "A personal column reflecting on Brodie Chapman's Tour de France Femmes experience, describing a crash and the mental resilience required to continue racing at the highest level.",
+   "c": "other",
+   "date": "2026-07-29T22:53:09.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/lying-contorted-bleeding-shivering-on-a-flemish-footpath-i-was-already-thinking-about-that-next-big-race-brodie-chapmans-tour-de-france-femmes-column/",
      "l": "en"
     }
    ]
