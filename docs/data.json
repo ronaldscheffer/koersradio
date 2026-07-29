@@ -1,23 +1,43 @@
 {
- "updated": "2026-07-29T14:57:03.232Z",
+ "updated": "2026-07-29T16:37:57.382Z",
  "groups": [
+  {
+   "id": "3cbf76b3b546",
+   "t": "Van Aert celebrates comeback opening victory in Denmark",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T16:55:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146299.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "results-2026-07-29",
    "type": "results",
    "t": "Latest results — ProCyclingStats",
    "s": "",
    "c": "race",
-   "date": "2026-07-29T14:56:59.724Z",
+   "date": "2026-07-29T16:37:54.235Z",
    "rows": [
+    {
+     "race": "2nd stage Tour de l'Ain",
+     "winner": "Markel Beloki",
+     "url": "https://www.procyclingstats.com/search.php?term=2nd%20stage%20Tour%20de%20l'Ain"
+    },
+    {
+     "race": "Tour de l'Ain stage in Lagnieu",
+     "winner": "Markel Beloki",
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20l'Ain%20stage%20in%20Lagnieu"
+    },
     {
      "race": "XL Clásica Ciclista Castilla y León",
      "winner": "Thomas Silva",
      "url": "https://www.procyclingstats.com/search.php?term=XL%20Cl%C3%A1sica%20Ciclista%20Castilla%20y%20Le%C3%B3n"
-    },
-    {
-     "race": "Ezio Mannucci Memorial at Levane",
-     "winner": "Toscano Piccini",
-     "url": "https://www.procyclingstats.com/search.php?term=Ezio%20Mannucci%20Memorial%20at%20Levane"
     }
    ],
    "sources": [
@@ -27,6 +47,306 @@
      "l": "en"
     }
    ]
+  },
+  {
+   "id": "9ae42ebc296b",
+   "t": "WATCH. \"This gives great satisfaction\": Wout van Aert powers to victory despite crash on return to peloton",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T16:34:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/kijk-dit-geeft-veel-voldoening-wout-van-aert-knalt-ondanks-valpartij-naar-zege-bij-terugkeer-in-peloton~a436edbd/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "597d7799af3c",
+   "t": "Stage 1 Tour of Denmark: Wout van Aert succeeds in his return",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T16:31:16.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/courses/tour-du-danemark/1ere-etape-tour-du-danemark-wout-van-aert-reussit-son-retour/",
+     "l": "fr"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "bcd13f7d14e7",
+   "t": "Kim Cadzow announces retirement from pro cycling",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-29T16:20:49.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/kim-cadzow-announces-retirement-from-pro-cycling/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "b39a2af3dfa8",
+   "t": "Van Aert wins on return in Tour of Denmark",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T16:17:56.000Z",
+   "sources": [
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2624872",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "9440bf93f25a",
+   "t": "Wout van Aert leaves no room for surprise and starts leading the Tour of Denmark",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T16:16:03.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/07/29/wout-aert-deja-lugar-sorpresa-empieza-liderando-vuelta-dinamarca.html",
+     "l": "es"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "81eb9bc132c3",
+   "t": "Decathlon-CMA CGM to start pro women's team",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-29T16:12:33.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/decathlon-cma-cgm-to-start-pro-womens-team/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "14d76e0eb5f7",
+   "t": "Wout van Aert wins first race back after infected elbow kept him out of the Tour de France",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T16:09:18.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/wout-van-aert-wins-first-race-back-after-infected-elbow-kept-him-out-of-the-tour-de-france/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "ba1bec406bbb",
+   "t": "Tour of Denmark: Wout van Aert wins comeback race on stage 1 with powerful sprint from small group",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T16:06:10.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-of-denmark-wout-van-aert-wins-comeback-race-on-stage-1-with-powerful-sprint-from-small-group/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "b27dcb83f1bc",
+   "t": "Shirin van Anrooij linked to Canyon-SRAM transfer",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-29T16:03:34.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/shirin-van-anrooij-linked-to-canyon-sram-transfer/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "1abacabec3cb",
+   "t": "Garmin's New Tracker Has No Screen. Here is Why it Completes the Ecosystem for Cyclists.",
+   "s": "",
+   "c": "gear",
+   "date": "2026-07-29T15:55:46.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-gear/garmin-cirqa-screenless-ecosystem-analysis/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "54817e7a9822",
+   "t": "Tour of Denmark, Van Aert immediately strikes after Tour de France withdrawal: Kubis and Pedersen beaten in Aalborg",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T15:53:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/29/1785340706/tour-of-denmark-van-aert-kubis-pedersen",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "b0114da8e8c4",
+   "t": "He's back! Wout van Aert wins on comeback in Tour of Denmark, Lukas Kubis second",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T15:51:46.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/wout-van-aert-wint-meteen-bij-comeback-in-ronde-van-denemarken-lukas-kubis-tweede/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "19edc665b82c",
+   "t": "Danish talent impresses in Van Aert victory",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T15:50:25.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/dansk-stortalent-imponerer-i-van-aert-sejr/11245202",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "bb0cd9fdc9a9",
+   "t": "National Championships. Veglia and Ferrante Italian junior keirin champions",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T15:49:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/29/1785340170/ciclismo-pista-keirin-juniores-assoluti-alberto-veglia-maya-ferrante",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "064dfede8c8d",
+   "t": "National Championships. Fiorin signs triple national title in elite elimination",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T15:35:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/29/1785339434/ciclismo-su-pista-campionati-assoluti-matteo-fiorin-eliminazione-elite-inseguimento",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "d338e5ba79b5",
+   "t": "Title defender Pauline Ferrand-Prévot: \"Everyone starts from zero again\" - Lidl-Trek has artist back at work",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-29T15:22:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/tour-de-france/titelverdedigster-pauline-ferrand-prevot-iedereen-start-weer-vanaf-nul-lidl-trek-laat-kunstenaar-opnieuw-aan-het-werk~a792dedf7/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "408cfcb19bba",
+   "t": "Markel Beloki shines from the breakaway on the Col de Portes and takes the lead in Tour de l'Ain",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T15:20:37.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/07/29/markel-beloki-brilla-fuga-col-portes-pone-lider-tour-l-ain.html",
+     "l": "es"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "ebdac57f461a",
+   "t": "National Championships. Barbieri dominant, fourth title for the Modena rider",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T15:05:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/29/1785337563/ciclismo-su-pista-rachele-barbieri-campionati-italiani-fiamme-oro-ciclismo-femminile",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "bc010893235e",
+   "t": "Legend's son takes first professional victory",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T15:02:29.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/legendes-soen-tager-foerste-professionelle-sejr/11245199",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "8c3108af2a3e",
+   "t": "Tour Femmes 2026: Fenix-Premier Tech changes kit to colorful mosaic",
+   "s": "",
+   "c": "gear",
+   "date": "2026-07-29T14:59:01.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-fenix-premier-tech-wijzigt-tenue-naar-kleurrijk-mozaiek/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
   },
   {
    "id": "70c778c31e15",
@@ -39,6 +359,21 @@
      "n": "Radsport-News",
      "u": "\r\n      http://www.radsport-news.com/sport/sportnews_138994.htm",
      "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "fa8cfa410d18",
+   "t": "National Championships. Elisa Bianchi and Padovan win junior omnium. Gallery",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T14:44:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/29/1785336256/ciclismo-omnium-juniores-campionati-assoluti-nicola-padovan-elisa-bianchi",
+     "l": "it"
     }
    ],
    "tr": 1
@@ -129,6 +464,21 @@
      "n": "TuttoBiciWeb",
      "u": "https://www.tuttobiciweb.it/article/2026/07/29/1785334910/ciclismo-milano-sanremo-sanremo-classicissima-storia-del-ciclismo",
      "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "c58ba232a479",
+   "t": "Wout Poels plays supporting role after Rockets' leadout work, Markel Beloki's first pro victory in Tour de l'Ain",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T14:15:30.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/wout-poels-speelt-bijrol-na-kopwerk-rockets-eerste-profzege-markel-beloki-in-tour-de-lain/",
+     "l": "nl"
     }
    ],
    "tr": 1
@@ -578,6 +928,21 @@
     {
      "n": "Feltet.dk",
      "u": "https://feltet.dk/landevej/live-van-aert-og-kragh-tilbage-efter-kaempe-styrt/11244867",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "209b44a3b2a5",
+   "t": "LIVE: Breiner has bigger ambitions!",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-29T09:32:54.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/live-breiner-har-stoerre-ambitioner/11244867",
      "l": "da"
     }
    ],
@@ -3384,276 +3749,6 @@
      "n": "Wielerflits",
      "u": "https://www.wielerflits.nl/nieuws/muscle-milan-wint-tourspel-wielerflits-ploegleider-el-aguila-de-toledo-de-beste-in-voorspelgame/",
      "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "1481888364d3",
-   "t": "Rating every Tour de France team's performance – The good, the great and the downright disappointing",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T16:34:18.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/rating-every-tour-de-france-teams-performance-the-good-the-great-and-the-downright-disappointing/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "4cee24139ee4",
-   "t": "Remco Evenepoel, who went to bed at 2:30 AM and asked Pogacar for a souvenir, welcomed by pack of fans: \"Still don't realize I came second in Tour\"",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T16:33:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/tour-de-france/remco-evenepoel-die-om-2-30-uur-in-bed-lag-en-souvenir-vroeg-aan-pogacar-onthaald-door-pak-fans-besef-nog-niet-dat-ik-tweede-werd-in-tour~ade080b1/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "5770f15d04dd",
-   "t": "Tadej Pogacar: \"I don't know how I do it\"",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T16:31:13.000Z",
-   "sources": [
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/courses/tour-de-france/tadej-pogacar-je-ne-sais-pas-comment-je-fais/",
-     "l": "fr"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "212484b05344",
-   "t": "Remco and Red Bull counting down the days until Pogacar weakens",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-27T16:30:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/remco-og-red-bull-taeller-dagene-til-pogacar-svaekkes/11243701",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "f23fbf052283",
-   "t": "After this Tour, Evenepoel and Denk dream of more",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T16:16:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146283.htm",
-     "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "b677b80f8c2c",
-   "t": "Mathieu van der Poel: \"The race scenario was worthy of a dream\"",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T16:08:29.000Z",
-   "sources": [
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/courses/tour-de-france/mathieu-van-der-poel-le-scenario-de-la-course-a-ete-digne-dun-reve/",
-     "l": "fr"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "15a34a62ebde",
-   "t": "Italian National Championships. Sanarini queen of elite women's scratch race",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T16:08:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/27/1785168500/ciclismo-pista-campionati-italiani-scratch-elite-linda-sanarini",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "5984691ccfc7",
-   "t": "From Van Renewi Tour to Guangxi? The planned autumn program of Tiesj Benoot",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T15:55:39.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/van-renewi-tour-tot-guangxi-het-beoogde-najaarsprogramma-van-tiesj-benoot/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e9be630fc16d",
-   "t": "Should Remco Evenepoel continue to focus on the Tour? \"Perhaps. But if there's a chance in the Giro, why not?\"",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T15:50:38.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/moet-remco-evenepoel-blijven-focussen-op-de-tour-wellicht-wel-maar-als-er-een-buitenkans-is-in-de-giro-waarom-niet~a9fbe84d7/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "0d6c6dc3773d",
-   "t": "Argon 18 Anti Matter review: Tested in the wind tunnel and on the trail",
-   "s": "",
-   "c": "gear",
-   "date": "2026-07-27T15:47:29.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/argon-18-anti-matter-gravel-bike-review/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "f22aa537115e",
-   "t": "Italian National Championships. Magagnotti is Italian champion: power sprint in elite scratch race",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T15:39:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/27/1785166957/ciclismo-pista-campionati-italiani-magagnotti-scratch-elite",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "ae3d1c1a27ee",
-   "t": "Italian National Championships. Elisa Bianchi wins junior women's scratch title",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T15:31:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/27/1785166385/ciclismo-pista-juniores-campionati-italiani-lombardia",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "f260e831b372",
-   "t": "Mads P. made history – but no celebration is planned",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T15:30:44.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/mads-p.-skrev-historie-men-ingen-hyldest-er-planlagt/11243674",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "eb0d7361675b",
-   "t": "Why Tadej Pogacar plays hard to get and asks for 100,000 euros, but Remco Evenepoel comes to the Aalst criterium for about half that",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-27T15:20:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/waarom-tadej-pogacar-hard-to-get-speelt-en-100-000-euro-vraagt-maar-remco-evenepoel-voor-ongeveer-de-helft-wel-naar-criterium-aalst-komt~af21e3e4/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "3a5ccc4fa38d",
-   "t": "Waiting for Belgian Tour hero: some fans already standing by for hours ahead of Remco Evenepoel's arrival in Aalst",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T15:05:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/tour-de-france/wachten-op-belgische-tourheld-enkele-fans-staan-al-uren-paraat-voor-aankomst-van-remco-evenepoel-in-aalst~ade080b1/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "821da228219a",
-   "t": "Italian National Championships. Arnoldi gold in junior scratch race",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T15:05:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/27/1785164723/ciclismo-pista-campionati-italiani-juniores-mattia-arnoldi",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "d090fb03786e",
-   "t": "Participants Tour de France Femmes 2026",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T15:00:23.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/deelnemers-tour-de-france-femmes-2026/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "c768789bd277",
-   "t": "Did Decathlon show Seixas he should stay?",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-27T14:57:36.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/did-decathlon-show-seixas-he-should-stay/",
-     "l": "en"
     }
    ],
    "tr": 1
