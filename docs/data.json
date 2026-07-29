@@ -1,6 +1,126 @@
 {
- "updated": "2026-07-29T16:37:57.382Z",
+ "updated": "2026-07-29T18:14:55.175Z",
  "groups": [
+  {
+   "id": "999dea9923b8",
+   "t": "'There was a lot of chaos' - Roller coaster return for Wout van Aert ends in victory after being caught in mass crash in Tour of Denmark",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T18:05:42.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/there-was-a-lot-of-chaos-roller-coaster-return-for-wout-van-aert-ends-in-victory-after-being-caught-in-mass-crash-in-tour-of-denmark/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "b93abab35cc3",
+   "t": "Tour de France TV Coverage in the US Desperately Needs a Change. On Stage 21, We Saw What It Could Be.",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-29T17:40:37.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/nbc-usa-tour-de-france-tv-coverage-desperately-needs-change/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "dd1128c93065",
+   "t": "Van Aert fires back in his comeback: Drawing on his reserves",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T17:28:04.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/van-aert-fik-svar-i-sit-comeback-gemte-paa-sine-patroner/11245302",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "6ed8a04ccafe",
+   "t": "LIVE: Foldager frustrated about time loss!",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T17:28:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/live-foldager-aergrer-sig-over-tidstab/11244867",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "ff8851547a78",
+   "t": "No riders revealed but Decathlon CMA CGM confirm creation of women's team for 2027",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-29T17:22:55.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/no-riders-revealed-but-decathlon-cma-cgm-confirm-creation-of-womens-team-for-2027/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "91ca2c27678a",
+   "t": "Nielsen went all-in on solo attempt: Classification likely over now",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T17:18:31.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/nielsen-satsede-alt-i-solotogt-nu-er-klassementet-nok-koert/11245295",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "253e2d67709e",
+   "t": "Asia's emerging talents you should know about",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-29T17:06:30.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/asias-emerging-talents-you-should-know-about/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "2d34651924b7",
+   "t": "Wout van Aert immediately strikes after missing Tour: 'Explosiveness is good'",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T17:03:53.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/na-gemiste-tour-is-het-meteen-raak-voor-wout-van-aert-qua-explosiviteit-zit-het-goed/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "3cbf76b3b546",
    "t": "Van Aert celebrates comeback opening victory in Denmark",
@@ -17,36 +137,34 @@
    "tr": 1
   },
   {
-   "id": "results-2026-07-29",
-   "type": "results",
-   "t": "Latest results — ProCyclingStats",
+   "id": "ef429ed90933",
+   "t": "Michel Cornelisse becomes sporting director at SD Worx-Protime from next season",
    "s": "",
-   "c": "race",
-   "date": "2026-07-29T16:37:54.235Z",
-   "rows": [
-    {
-     "race": "2nd stage Tour de l'Ain",
-     "winner": "Markel Beloki",
-     "url": "https://www.procyclingstats.com/search.php?term=2nd%20stage%20Tour%20de%20l'Ain"
-    },
-    {
-     "race": "Tour de l'Ain stage in Lagnieu",
-     "winner": "Markel Beloki",
-     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20l'Ain%20stage%20in%20Lagnieu"
-    },
-    {
-     "race": "XL Clásica Ciclista Castilla y León",
-     "winner": "Thomas Silva",
-     "url": "https://www.procyclingstats.com/search.php?term=XL%20Cl%C3%A1sica%20Ciclista%20Castilla%20y%20Le%C3%B3n"
-    }
-   ],
+   "c": "transfer",
+   "date": "2026-07-29T16:44:13.000Z",
    "sources": [
     {
-     "n": "ProCyclingStats",
-     "u": "https://www.procyclingstats.com/",
-     "l": "en"
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/michel-cornelisse-vanaf-volgend-seizoen-ploegleider-bij-sd-worx-protime/",
+     "l": "nl"
     }
-   ]
+   ],
+   "tr": 1
+  },
+  {
+   "id": "98130f471f17",
+   "t": "Breiner rode on podium with Van Aert: Wants to race classification",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T16:34:57.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/breiner-koerte-paa-podiet-med-van-aert-vil-koere-klassement/11245248",
+     "l": "da"
+    }
+   ],
+   "tr": 1
   },
   {
    "id": "9ae42ebc296b",
@@ -59,6 +177,21 @@
      "n": "HLN Wielrennen",
      "u": "https://www.hln.be/wielrennen/kijk-dit-geeft-veel-voldoening-wout-van-aert-knalt-ondanks-valpartij-naar-zege-bij-terugkeer-in-peloton~a436edbd/",
      "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "c1796772e291",
+   "t": "Tour Femmes 2026: Lidl-Trek with three Dutch women and leaves Fleur Moors at home",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T16:33:04.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-lidl-trek-met-drie-nederlandse-vrouwen-en-laat-fleur-moors-thuis/",
+     "l": "nl"
     }
    ],
    "tr": 1
@@ -3539,216 +3672,6 @@
      "n": "Escape Collective",
      "u": "https://escapecollective.com/its-about-devotion/",
      "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "71847e0d8d51",
-   "t": "Decline in Sporza viewership: Flanders watches the Tour de France on TV less",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-27T18:14:14.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/daling-in-kijkcijfers-sporza-vlaanderen-kijkt-minder-naar-de-tour-de-france-op-tv/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "65ea95147a20",
-   "t": "Reinforcement for the classics? Anthony Turgis possibly heading to Netcompany INEOS",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-27T17:54:11.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/versterking-voor-de-klassiekers-anthony-turgis-mogelijk-op-weg-naar-netcompany-ineos/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "b75c14bceaf7",
-   "t": "2026 Tour was the fastest in history",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T17:52:32.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/2026-tour-was-the-fastest-in-history/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "8dc4b8857511",
-   "t": "Pogacar also takes the big prize of the Tour: 612,000 euros",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T17:50:24.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/27/pogacar-lleva-tambien-gran-premio-tour-612-000-euros.html",
-     "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "ad63c192ff05",
-   "t": "Visma's Plugge says overnight tests 'not a sign of suspicion'",
-   "s": "",
-   "c": "health",
-   "date": "2026-07-27T17:48:01.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/vismas-plugge-says-overnight-tests-not-a-sign-of-suspicion/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "26a9c8f4310d",
-   "t": "Italian National Championships. Elite team sprint: gold for the Army and Fiamme Oro girls",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T17:43:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/27/1785174283/ciclismo-velocita-a-squadre-campionati-italiani-inseguimento-a-squadre-pista",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "33519429eea1",
-   "t": "Vingegaard was missed - will break Pogacar dominance with change",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-27T17:40:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/vingegaard-var-savnet-vil-bryde-pogacar-dominans-med-aendring/11211905",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "7372b670dd7f",
-   "t": "After short night, hero's welcome and fun moment with Lucien Van Impe, Remco Evenepoel entertains masses of fans at Aalst criterium",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T17:36:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/tour-de-france/na-korte-nacht-heldenonthaal-en-leuk-moment-met-lucien-van-impe-vermaakt-remco-evenepoel-massa-fans-in-criterium-van-aalst~ade080b1/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e370c03e7cdf",
-   "t": "\"He will want to win all the big tours next season\": Eddy Merckx praises Tadej Pogacar after fifth Tour win and was also amazed by Paul Seixas",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T17:30:04.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/hij-zal-volgend-seizoen-alle-grote-rondes-willen-winnen-eddy-merckx-looft-tadej-pogacar-na-vijfde-tourzege-en-keek-ook-met-grote-ogen-naar-paul-seixas~a8d59ea3/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "bdf980f0b321",
-   "t": "Italian National Championships. Piedmont and Lombardy dominate junior team speed",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T17:27:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/27/1785173245/ciclismo-campionati-italiani-juniores-velocita-squadre-piemonte-lombardia",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "25ef2543d108",
-   "t": "From Mûr-de-Bretagne to Paris: what was Van der Poel's most beautiful stage win in the Tour?",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T17:19:01.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/van-mur-de-bretagne-tot-parijs-wat-was-de-mooiste-ritzege-van-van-der-poel-in-de-tour/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "aeebfa83e939",
-   "t": "Only third time ever: France left without a stage win in the Tour de France",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T16:56:54.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/slechts-derde-keer-ooit-frankrijk-blijft-zonder-ritzege-in-de-tour-de-france/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "9b4cffd2b4cb",
-   "t": "Uno-X takes Danish sponsor name",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-27T16:56:34.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/uno-x-tager-dansk-sponsornavn/11243734",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "d32ef9d2720b",
-   "t": "Muscle Milan wins Tourspel Wielerflits team manager game, El Aguila de Toledo best in prediction game",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-27T16:38:04.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/muscle-milan-wint-tourspel-wielerflits-ploegleider-el-aguila-de-toledo-de-beste-in-voorspelgame/",
-     "l": "nl"
     }
    ],
    "tr": 1
