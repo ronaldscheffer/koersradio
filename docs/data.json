@@ -1,13 +1,13 @@
 {
- "updated": "2026-07-28T22:39:52.601Z",
+ "updated": "2026-07-29T00:07:32.680Z",
  "groups": [
   {
-   "id": "results-2026-07-28",
+   "id": "results-2026-07-29",
    "type": "results",
    "t": "Latest results — ProCyclingStats",
    "s": "",
    "c": "race",
-   "date": "2026-07-28T22:39:49.673Z",
+   "date": "2026-07-29T00:07:30.599Z",
    "rows": [
     {
      "race": "Roeselare post-Tour criterium",
@@ -50,14 +50,9 @@
      "url": "https://www.procyclingstats.com/search.php?term=National%20Championships%20omnium"
     },
     {
-     "race": "Tour de l'Ain stage 1",
+     "race": "Tour de l'Ain Stage 1",
      "winner": "Noah Hobbs",
-     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20l'Ain%20stage%201"
-    },
-    {
-     "race": "Italian Championships elite keirin",
-     "winner": "Vece",
-     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Championships%20elite%20keirin"
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20l'Ain%20Stage%201"
     }
    ],
    "sources": [
@@ -3843,51 +3838,6 @@
     {
      "n": "Cyclingnews",
      "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/a-year-i-was-thinking-about-this-mathieu-van-der-poel-moves-from-pneumonia-spoiled-run-to-tour-de-france-paris-stage-dream/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "c7b3e9a121ed",
-   "t": "I'm not thinking about any history, clubbing, or whatever - Tour de France winner Tadej Pogačar has his name in lights but keeps his feet on the ground",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T23:19:16.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/im-not-thinking-about-any-history-clubbing-or-whatever-tour-de-france-winner-tadej-pogacar-has-his-name-in-lights-but-keeps-his-feet-on-the-ground/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e51b8525d75c",
-   "t": "Philipsen holds back so van der Poel wins safely",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T23:17:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146279.htm",
-     "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "a4e7be16fc89",
-   "t": "I've shown I deserve to dream - Remco Evenepoel says second place in Tour de France confirms belief as he pursues future Grand Tour victories",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-26T22:39:54.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/ive-shown-i-deserve-to-dream-remco-evenepoel-says-second-place-in-tour-de-france-confirms-belief-as-he-pursues-future-grand-tour-victories/",
      "l": "en"
     }
    ],
