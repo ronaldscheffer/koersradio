@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T03:54:11.545Z",
+ "updated": "2026-07-29T06:42:29.183Z",
  "groups": [
   {
    "id": "results-2026-07-29",
@@ -7,8 +7,18 @@
    "t": "Latest results — ProCyclingStats",
    "s": "",
    "c": "race",
-   "date": "2026-07-29T03:54:09.322Z",
+   "date": "2026-07-29T06:42:23.926Z",
    "rows": [
+    {
+     "race": "Fulton Market Grand Prix",
+     "winner": "Skylar Schneider",
+     "url": "https://www.procyclingstats.com/search.php?term=Fulton%20Market%20Grand%20Prix"
+    },
+    {
+     "race": "Fulton Market Grand Prix",
+     "winner": "Lucas Bourgoyne",
+     "url": "https://www.procyclingstats.com/search.php?term=Fulton%20Market%20Grand%20Prix"
+    },
     {
      "race": "Roeselare post-Tour criterium",
      "winner": "Remco Evenepoel",
@@ -45,11 +55,6 @@
      "url": "https://www.procyclingstats.com/search.php?term=National%20Championships%20omnium"
     },
     {
-     "race": "National Championships omnium",
-     "winner": "Matteo Fiorin",
-     "url": "https://www.procyclingstats.com/search.php?term=National%20Championships%20omnium"
-    },
-    {
      "race": "Tour de l'Ain stage 1",
      "winner": "Noah Hobbs",
      "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20l'Ain%20stage%201"
@@ -62,6 +67,171 @@
      "l": "en"
     }
    ]
+  },
+  {
+   "id": "51f2361c7362",
+   "t": "Merckx on BLABLABIKE: 'Pogacar? His strongest rival is on his team! Vuelta? If he hasn't spent everything at the Tour...'",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-29T06:20:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/29/1785178985/podcast-blablabike-eddy-merckx-pier-augusto-stagi-pogacar-tour-de-france",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "4aff633b367c",
+   "t": "Towards Tour de Femmes: Ciabocco as Picnic leader but without pressure, Massetti at her side and Griffin for sprints",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T06:18:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/29/1785253637/tour-de-france-femmes-picnic-postnl-eleonora-ciabocco-gaia-masetti",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "90b27fc9df86",
+   "t": "Uno-X Mobility changes name and face for Tour of Denmark. Video",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-29T06:10:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/29/1785253456/uno-x-faxe-kondi-tour-of-denmark",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "e80b5d85e4e2",
+   "t": "The Giro at Porcari, Sofidel and that jersey already smelling of history. Gallery",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T06:10:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/29/1785265479/giro-d-italia-ciclismo-porcari-amore-e-vita-storia-del-ciclismo",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "af7440a8e14e",
+   "t": "Doctor Benucci's championship, the Florentine doctor who loves gran fondos and climbs",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-29T06:07:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/29/1785264490/ciclismo-granfondo-cicloturismo-salite-maurizio-benucci",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "13532bb79ae6",
+   "t": "Tour Femmes 2026: Preview of mountain classification favorites — Open battle with many contenders",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T06:00:10.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-voorbeschouwing-favorieten-bergklassement-open-strijd-met-veel-kanshebbers/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "1a68a9b8020c",
+   "t": "Vallese di Oppeano. 'There's the prize ceremony, let's steal the bikes': 12 time trials (belonging to boys and families) take flight",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-29T06:00:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/29/1785264128/ciclismo-furto-sicurezza-giovani-ciclisti-veneto",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "8d86abbb0e72",
+   "t": "The Dario Acquaroli. Saturday in Iseo will be in the name of inclusion",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-29T06:00:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/29/1785264350/ciclismo-mtb-inclusione-disabilita-la-dario-acquaroli",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "66c463f3a14b",
+   "t": "Giant with gloomy Vingegaard update",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-29T06:00:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/kyllingen-med-dyster-vingegaard-melding/11244508",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "4230febb4ca1",
+   "t": "Del Toro, Pogacar's shadow: 'He has the quality to be my successor'",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-29T05:10:22.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/29/toro-sombra-pogacar-calidad-mi-sucesor.html",
+     "l": "es"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "f31401fa2d22",
+   "t": "From infection nightmare in Herentals to 46 km/h behind the motorbike: how Wout van Aert fought his way back to competition in 48 days",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-29T05:07:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/van-de-infectiehel-in-herentals-tot-46-km-u-achter-de-brommer-hoe-wout-van-aert-zich-in-48-dagen-terug-in-competitie-knokte~a380ac34/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
   },
   {
    "id": "d68b7e59a468",
@@ -359,6 +529,21 @@
      "n": "Escape Collective",
      "u": "https://escapecollective.com/wheel-talk-newsletter-analyzing-the-wheel-talk-podcast-tour-de-france-draft/",
      "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "0433f967b1ff",
+   "t": "Tour Femmes 2026: Preview of general classification favorites — Head-to-head between Ferrand-Prévot and Vollering?",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T17:30:53.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-voorbeschouwing-favorieten-algemeen-klassement-grootse-tweestrijd-ferrand-prevot-en-vollering/",
+     "l": "nl"
     }
    ],
    "tr": 1
@@ -3584,246 +3769,6 @@
      "n": "Wielerflits",
      "u": "https://www.wielerflits.nl/nieuws/tadej-pogacar-stelt-vuelta-beslissing-nog-even-uit-omdat-hij-burn-out-wil-vermijden/",
      "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "226be2f12ec3",
-   "t": "Chamois Butt'r, total protection and comfort for the saddle area",
-   "s": "",
-   "c": "gear",
-   "date": "2026-07-27T06:36:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/27/1785162220/creme-fondello-comfort-in-sella-chamois-butt-r-abbigliamento-ciclismo",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "ea68e4abee84",
-   "t": "Remco Evenepoel doubts whether he can ever beat Tadej Pogacar in the Tour: \"Exceptional talent\"",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T06:35:59.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/remco-evenepoel-twijfelt-of-hij-tadej-pogacar-ooit-kan-kloppen-in-tour-uitzonderlijk-talent/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "90ebdaac5dd1",
-   "t": "Satisfied Evenepoel still dreams of Tour victory",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T06:34:59.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/tilfreds-evenepoel-droemmer-stadig-om-tour-sejren/11243170",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "0f618593913f",
-   "t": "Seixas: My dream has come true",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T06:19:01.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/seixas-min-droem-er-gaaet-i-opfyldelse/11243162",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "60049309a610",
-   "t": "Pogacar. \"A beautiful Tour, now I must pursue new dreams\"",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T06:18:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/27/1785099818/tour-de-france-2026-tadej-pogacar-grande-boucle-storia-del-ciclismo",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e63bbe00426a",
-   "t": "The junior tricolor Balliana has signed with Red Bull Rookies",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-27T06:12:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/27/1785078696/enrico-balliana-juniores-red-bull-rookies",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "ed2ac63acd4f",
-   "t": "Towards Tour de Femmes. FDJ with Vollering and Gery ready for the challenge",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T06:08:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/27/1785095262/fdj-united-suze-tour-de-france-femmes-2026-presentazione",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "cd334aa4aed8",
-   "t": "Tour, the numbers of the last stage. Pogacar collects record after record, but Seixas...",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T06:06:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/27/1785100853/tour-de-france-2026-tadej-pogacar--record-grande-boucle",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "576891355ed7",
-   "t": "Supertalent and debutant Paul Seixas does almost everything perfectly in Tour de France 2026",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T06:04:53.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/supertalent-en-debutant-paul-seixas-doet-bijna-alles-perfect-in-tour-de-france-2026/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "0433f967b1ff",
-   "t": "Tour Femmes 2026: Preview of general classification favorites — Grand duel between Ferrand-Prévot and Vollering?",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T06:00:53.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-voorbeschouwing-favorieten-algemeen-klassement-grootse-tweestrijd-ferrand-prevot-en-vollering/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "44d8d71227b9",
-   "t": "Vini Fantini Bepink triumph with Arici at Trofeo Prealpi in Rosa",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T06:00:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/27/1785087780/bepink-vittoria-prealpi-in-rosa",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "cd4c54b45ff9",
-   "t": "\"Mathieu is the only one who could push Tadej Pogacar to the limit uphill, like Wout van Aert\": analysts 'Congé Payé' tip their hat to Van der Poel",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T05:31:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/tour-de-france/mathieu-is-de-enige-die-tadej-pogacar-bergop-tot-het-uiterste-kon-drijven-zoals-wout-van-aert-analisten-conge-paye-doen-petje-af-voor-van-der-poel~a890f03b/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "5a623d41a25b",
-   "t": "Lighter, better, faster, stronger... How Remco Evenepoel landed on the podium in Paris, but also at a crossroads: 'It can always be better'",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T04:06:08.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/tour-de-france/lighter-better-faster-stronger-hoe-remco-evenepoel-in-parijs-op-het-podium-maar-ook-op-een-kruispunt-is-beland-het-kan-altijd-nog-beter~ac9f416e/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "5858c8a43bab",
-   "t": "The Tour in 15 minutes: 'Crazy Mathieu van der Poel and the new generation is coming'",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T04:00:41.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/de-tour-in-15-minuten-krankzinnige-mathieu-van-der-poel-en-de-nieuwe-generatie-komt-eraan/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "9a32130ed657",
-   "t": "No OnlyFans, but calling and surfing with Wout: 'grand' reveal of Wout van Aert turns out to be his own 'WVA Mobile' with 'exclusive extras'",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-27T04:00:20.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/geen-onlyfans-wel-bellen-en-surfen-met-wout-grootse-onthulling-van-wout-van-aert-blijkt-eigen-wva-mobile-met-exclusieve-extras~ace630f0/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e1a99cfd0fd5",
-   "t": "No OnlyFans, but calling and surfing with Wout: \"grand\" revelation of Wout van Aert turns out to be his own mobile subscription with \"exclusive extras\"",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-27T04:00:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/geen-onlyfans-wel-bellen-en-surfen-met-wout-grootse-onthulling-van-wout-van-aert-blijkt-eigen-gsm-abonnement-met-exclusieve-extras~ace630f0/",
-     "l": "be"
     }
    ],
    "tr": 1
