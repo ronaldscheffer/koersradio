@@ -1,13 +1,43 @@
 {
- "updated": "2026-07-29T06:42:29.183Z",
+ "updated": "2026-07-29T09:47:26.676Z",
  "groups": [
+  {
+   "id": "385b767f881a",
+   "t": "Decathlon launches women's team in 2027",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-29T10:15:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146297.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "a7dd503786ce",
+   "t": "Klöser dances at three weddings",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-29T09:48:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146295.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "results-2026-07-29",
    "type": "results",
    "t": "Latest results — ProCyclingStats",
    "s": "",
    "c": "race",
-   "date": "2026-07-29T06:42:23.926Z",
+   "date": "2026-07-29T09:47:23.690Z",
    "rows": [
     {
      "race": "Fulton Market Grand Prix",
@@ -45,19 +75,9 @@
      "url": "https://www.procyclingstats.com/search.php?term=Italian%20National%20Championships%20points%20race"
     },
     {
-     "race": "National Championships elimination",
+     "race": "Italian National Championships elimination",
      "winner": "Marangon",
-     "url": "https://www.procyclingstats.com/search.php?term=National%20Championships%20elimination"
-    },
-    {
-     "race": "National Championships omnium",
-     "winner": "Rachele Barbieri",
-     "url": "https://www.procyclingstats.com/search.php?term=National%20Championships%20omnium"
-    },
-    {
-     "race": "Tour de l'Ain stage 1",
-     "winner": "Noah Hobbs",
-     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20l'Ain%20stage%201"
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20National%20Championships%20elimination"
     }
    ],
    "sources": [
@@ -67,6 +87,321 @@
      "l": "en"
     }
    ]
+  },
+  {
+   "id": "62f1be0b8ea4",
+   "t": "Follow PostNord Denmark Tour 2026",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T09:32:54.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/foelg-postnord-danmark-rundt-2026/11244867",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "f7a83db1e320",
+   "t": "How to Watch the 2026 Tour de France Femmes in the USA, Canada, and Worldwide",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T09:25:43.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/how-watch-the-tour-de-france-femmes-2026/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "14b1fed8733d",
+   "t": "Ullrich: Pogacar would have blown Pantani, Armstrong and me off the road",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-29T09:14:35.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/ullrich-pogacar-ville-have-blaest-pantani-armstrong-og-mig-af-banen/11244817",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "c40272be823e",
+   "t": "Delving beyond the Mont Ventoux showstopper: Analysing the key stages of the 2026 Tour de France Femmes",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T09:14:18.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/delving-beyond-the-mont-ventoux-showstopper-analysing-the-key-stages-of-the-2026-tour-de-france-femmes/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "c63b46997571",
+   "t": "Gran Canaria 365 kicks off with a quartet of world cycling stars",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T08:52:31.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/07/29/gran-canaria-365-arranca-poker-estrellas-ciclismo-mundial.html",
+     "l": "es"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "fb3e799f6217",
+   "t": "Decathlon launches professional women's team",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-29T08:48:48.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/decathlon-lancerer-professionelt-kvindehold/11244806",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "06a4555f445f",
+   "t": "Champagne, Parties and Criteriums: How Tour de France Riders Celebrate After Paris",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-29T08:39:22.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/how-tour-de-france-riders-celebrate-after-paris/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "a1532b369db1",
+   "t": "Thomas Silva (XDS Astana) conquers Lubián and wins the XL Clásica Ciclista Castilla y León",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T08:35:59.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/07/29/thomas-silva-xds-astana-conquista-lubian-impone-xl-clasica-ciclista-castilla-leon.html",
+     "l": "es"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "7f9f6e865fb2",
+   "t": "Van Aert leads Visma's comeback trio at Denmark Tour",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T08:29:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146296.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "fa6b2555c735",
+   "t": "Pregnant Roxanne Bertels declares love to Mathieu van der Poel after Tour de France: 'Every part of you fascinates me'",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-29T08:19:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/zwangere-roxanne-bertels-verklaart-liefde-aan-mathieu-van-der-poel-na-tour-de-france-elk-deel-van-jou-fascineert-mij~a2d4309b/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "6ef6ca41e98e",
+   "t": "Watch Wout van Aert's comeback in Denmark live on these TV channels",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T08:17:58.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/op-deze-tv-zenders-kijk-je-live-naar-de-rentree-van-wout-van-aert-in-denemarken/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "3de545120f04",
+   "t": "Starting list for PostNord Denmark Tour 2026",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T08:13:28.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/startlisten-til-postnord-danmark-rundt-2026/11244773",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "833feb8b4c7c",
+   "t": "'Five years ago I decided to take my own life. With support, I very narrowly avoided going through with it' – Why one cyclist is riding 4,000km after a stranger saved his life",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-29T07:34:42.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/cycling-culture/five-years-ago-i-decided-to-take-my-own-life-with-support-i-very-narrowly-avoided-going-through-with-it-why-one-cyclist-is-riding-4-000km-after-a-stranger-saved-his-life/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "d88782a5dc3f",
+   "t": "Is it immediate bingo for Wout van Aert in Denmark?",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T07:33:54.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/is-het-meteen-bingo-voor-wout-van-aert-in-denemarken~a436edbd/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "0f160cd0bc78",
+   "t": "Vuelta organizers themselves hint at Tadej Pogacar's Vuelta participation",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-29T07:32:24.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/vuelta-organisatie-hint-nu-ook-zelf-naar-vuelta-deelname-tadej-pogacar/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "699ef89d17b5",
+   "t": "Tour Femmes 2026: Preview stage 1 – Strong sprinters and puncheurs battle for yellow",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T07:00:48.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-voorbeschouwing-etappe-1-strijd-tussen-sprinters-met-punch-en-puncheurs-met-sprint-op-venijnige-aankomst/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "cdac01558da8",
+   "t": "Shimano's new Dura-Ace wheels get modernized",
+   "s": "",
+   "c": "gear",
+   "date": "2026-07-29T07:00:39.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/shimanos-new-dura-ace-wheels-get-modernized/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "b42515d3d328",
+   "t": "Shimano launches brand new Dura-Ace wheel range, does this mean a new groupset is imminent?",
+   "s": "",
+   "c": "gear",
+   "date": "2026-07-29T07:00:00.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/cycling-tech-components/wheels-tyres/shimano-launches-brand-new-dura-ace-wheel-range-does-this-mean-a-new-groupset-is-imminent/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "c6a4571461f2",
+   "t": "Former Visma talent Johannes Staune-Mittet struggles with narrowed pelvic arteries",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-29T06:55:04.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/voormalig-visma-talent-johannes-staune-mittet-kampt-met-vernauwde-bekkenslagaders/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "6dad5cd2e3f8",
+   "t": "Remco Evenepoel and Richard Carapaz do criterium tricks in Roeselare and Surhuisterveen",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T06:34:39.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/remco-evenepoel-en-richard-carapaz-doen-criterium-kunstje-over-in-roeselare-en-surhuisterveen/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "ade05a5ef719",
+   "t": "Toscano Piccini wins the Ezio Mannucci Memorial at Levane",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T06:27:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/29/1785313713/ciclismo-levane-mattia-piccini-gare-su-strada-valdarno",
+     "l": "it"
+    }
+   ],
+   "tr": 1
   },
   {
    "id": "51f2361c7362",
@@ -93,6 +428,21 @@
     {
      "n": "TuttoBiciWeb",
      "u": "https://www.tuttobiciweb.it/article/2026/07/29/1785253637/tour-de-france-femmes-picnic-postnl-eleonora-ciabocco-gaia-masetti",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "30871f3c6db4",
+   "t": "Towards Tour de Femmes. Movistar: Reusser wants to start strong, Barale supports her and Ostiz makes debut",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T06:11:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/29/1785253817/tour-de-france-femmes-2025-marlen-reusser-movistar",
      "l": "it"
     }
    ],
@@ -574,6 +924,21 @@
      "n": "Feltet.dk",
      "u": "https://feltet.dk/landevej/legende-sabler-armstrong-lance-havde-ikke-talent/11244490",
      "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "531e2e486e96",
+   "t": "Preview: PostNord Tour of Denmark 2026 – What can Wout van Aert achieve at comeback?",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-28T17:05:42.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/voorbeschouwing-postnord-tour-of-denmark-2026-wat-kan-wout-van-aert-bij-rentree/",
+     "l": "nl"
     }
    ],
    "tr": 1
@@ -3393,381 +3758,6 @@
     {
      "n": "Wielerflits",
      "u": "https://www.wielerflits.nl/nieuws/wout-van-aert-zoekt-koersritme-in-denemarken-en-voegt-extra-kampioenschap-toe/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e7df0fa74fd1",
-   "t": "Longo Borghini and Persico's team changes name: from August 1st, UAE Team L'Imad is born",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-27T09:25:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/27/1785145028/uae-cambio-nome-l-imad",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "3a2fbe687fe9",
-   "t": "Armstrong ends the debate: - Pogacar is the best ever",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-27T09:24:55.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/incoming/armstrong-lukker-debatten-pogacar-er-den-bedste-nogensinde/11243319",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "4204e6d030d1",
-   "t": "Tour 2026: Medical bulletin and jury report – No penalties and injuries on final day",
-   "s": "",
-   "c": "health",
-   "date": "2026-07-27T09:15:04.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/tour-2026-medisch-bulletin-en-juryrapport/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "36540ee625e8",
-   "t": "Van Aert launches 'WVA Mobile' and opens his world to fans",
-   "s": "",
-   "c": "gear",
-   "date": "2026-07-27T09:15:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/27/1785143846/wout-van-aert-ciclismo-wva-mobile-innovazione-lavuelta26",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "0295ef6174b8",
-   "t": "Tour 2026: UAE Emirates takes majority of prize money, Picnic PostNL closes the field",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T08:52:36.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/tour-2026-uae-emirates-slokt-merendeel-prijzengeld-op-picnic-postnl-sluit-de-rij/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "d9f4ec7f3750",
-   "t": "Glyngøre becomes start town: - I wonder if Vingegaard comes",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T08:40:27.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/glyngoere-bliver-startby-mon-ikke-vingegaard-kommer/11243245",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "d6937daf3785",
-   "t": "Our ups and downs of the 2026 Tour de France",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T08:33:42.000Z",
-   "sources": [
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/courses/tour-de-france/nos-tops-et-nos-flops-du-tour-de-france-2026/",
-     "l": "fr"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "67bbdc13cac8",
-   "t": "Pogačar Is Inevitable and Alpe d'Huez Is Awful: 21 Hot Takes from the 2026 Tour de France",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T08:27:22.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/21-takes-2026-tour-de-france/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "70e0373ee85e",
-   "t": "Remco Evenepoel is back in action this weekend and ends season at Chrono des Nations: this is his remaining program for 2026",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T08:23:02.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/remco-evenepoel-komt-dit-weekend-alweer-in-actie-en-sluit-seizoen-af-in-chrono-des-nations-dit-is-zijn-resterende-programma-van-2026~a50efe77/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "aa1fb771f4fd",
-   "t": "What was the most beautiful moment of the Tour de France 2026?",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-27T08:12:25.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/wat-was-het-mooiste-moment-van-de-tour-de-france-2026/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "0c43f5ec8802",
-   "t": "Great celebration: - Van Aert is a top-5 rider in the world",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-27T08:04:36.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/stor-jubel-van-aert-er-en-top-5-rytter-i-verden/11243235",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "d91119958ef5",
-   "t": "Extreme heat and lightning-fast climbs: the dizzying Tour figures of 2026",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T08:02:35.000Z",
-   "sources": [
-    {
-     "n": "NOS Wielrennen",
-     "u": "https://nos.nl/l/2624593",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "5d1b8c4805e1",
-   "t": "Pogacar could become part of exclusive club: - Let's see, he says himself",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-27T08:02:11.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/pogacar-kan-blive-en-del-af-eksklusiv-klub-lad-os-se-siger-han-selv/11243242",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "5a0282b9e267",
-   "t": "Lance Armstrong is certain: \"Tadej Pogacar is the most dominant athlete in the world\"",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-27T07:56:29.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/lance-armstrong-is-zeker-tadej-pogacar-is-de-meest-dominante-atleet-ter-wereld/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "3d3ad541db45",
-   "t": "\"He would wipe the floor with me\": Lance Armstrong calls Tadej Pogacar \"the greatest of all time\" and goes even further than racing alone",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T07:55:46.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/tour-de-france/hij-zou-de-vloer-aanvegen-met-mij-lance-armstrong-noemt-tadej-pogacar-de-beste-aller-tijden-en-gaat-zelfs-verder-dan-de-koers-alleen~a4ee9f7d/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "bd0b2b6b3e3d",
-   "t": "Tadej Pogačar's winning time sees 2026 Tour de France set new record for fastest-ever edition",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T07:53:44.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/tadej-pogacars-winning-time-sees-2026-tour-de-france-set-new-record-for-fastest-ever-edition/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "5374b80fa850",
-   "t": "Tour of Denmark, Bardiani-CSF 7 Saber ready for a new challenge",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T07:27:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/27/1785137397/ciclismo-giro-di-danimarca-bardiani-csf-7-saber-corse-a-tappe-2026",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "dadaee29fd22",
-   "t": "Wout van Aert launches 'WVA Mobile', his own mobile subscription",
-   "s": "",
-   "c": "gear",
-   "date": "2026-07-27T07:15:08.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/wout-van-aert-lanceert-wva-mobile-een-eigen-mobiel-abonnement/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "95e12ad001c3",
-   "t": "\"Besides Remco Evenepoel, several other compatriots deserve credit\": our analyst Jan Bakelants dissects the Belgians' Tour",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T07:09:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/tour-de-france/naast-remco-evenepoel-verdienen-nog-enkele-andere-landgenoten-een-dikke-pluim-onze-analist-jan-bakelants-fileert-de-tour-van-de-belgen~a35bf9fca/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "c29a613d49c7",
-   "t": "Official: Van Aert to race Post Nord Danmark Rundt",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-27T07:08:23.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/officielt-van-aert-koerer-post-nord-danmark-rundt/11243197",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "55f63d264ca7",
-   "t": "Official: Van Aert races PostNord Danmark Rundt",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T07:08:23.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/officielt-van-aert-koerer-postnord-danmark-rundt/11243197",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e8be3ae62e9e",
-   "t": "Here are the Tour's prize money kings",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T07:04:51.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/incoming/her-er-tourens-praemiekonger/11243193",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "531e2e486e96",
-   "t": "Preview: PostNord Tour of Denmark 2026 – What can Wout van Aert achieve at comeback?",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-27T07:00:42.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/voorbeschouwing-postnord-tour-of-denmark-2026-wat-kan-wout-van-aert-bij-rentree/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "8854c9f492ac",
-   "t": "Yellow pages, the Tour de France press review",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-27T07:00:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/27/1785137119/tadej-pogacar-tour-de-france-ciclismo-record-tdf2026",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "61247665a37b",
-   "t": "Tadej Pogacar postpones Vuelta decision for now, because he wants to avoid burn-out",
-   "s": "",
-   "c": "health",
-   "date": "2026-07-27T06:55:37.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/tadej-pogacar-stelt-vuelta-beslissing-nog-even-uit-omdat-hij-burn-out-wil-vermijden/",
      "l": "nl"
     }
    ],
