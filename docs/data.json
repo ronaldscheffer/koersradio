@@ -1,6 +1,246 @@
 {
- "updated": "2026-07-30T15:34:49.161Z",
+ "updated": "2026-07-30T17:08:29.015Z",
  "groups": [
+  {
+   "id": "fb4d572ceb34",
+   "t": "Vingegaard's return to racing is TBD on his collarbone recovery",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-30T17:02:11.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/vingegaards-return-to-racing-is-tbd-on-his-collarbone-recovery/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "dacbba9bf464",
+   "t": "Jordan Jegat linked to Lidl-Trek for 2027",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-30T16:57:05.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/jordan-jegat-linked-to-lidl-trek-for-2027/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "5cae8e08a3aa",
+   "t": "Race director reacts to wild finish",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T16:53:53.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/loebsboss-reagerer-paa-vild-afslutning/11246138",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "b3b4161c6111",
+   "t": "Van Aert goes two-for-two in Denmark photo finish",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T16:53:16.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/van-aert-goes-two-for-two-in-denmark-photo-finish/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "8c02cea5cb42",
+   "t": "Van Aert confirmed winner after photo finish in stage two Tour of Denmark",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T16:44:05.000Z",
+   "sources": [
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2624979",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "550f6f80cabc",
+   "t": "First Plowright, then van Aert: finish photo decides!",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T16:44:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146307.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "235794c4c249",
+   "t": "'Only when I saw the finish photo did I start to doubt': Wout van Aert wins photo finish after organization reviews footage",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T16:30:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/pas-toen-ik-finishfoto-zag-begon-ik-te-twijfelen-wout-van-aert-wint-dan-toch-millimetersprint-nadat-organisatie-beelden-herbekijkt~a0bf06d3/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "2c9122870e18",
+   "t": "Tour tenth-place finisher Jegat to Lidl-Trek?",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-30T16:30:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_145951.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "84af7d6d9ee3",
+   "t": "Stage two Tour of Denmark: Wout van Aert winner in photo finish",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T16:29:47.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/courses/tour-du-danemark/2eme-etape-tour-du-danemark-wout-van-aert-vainqueur-a-la-photo-finish/",
+     "l": "fr"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "17eefb52b503",
+   "t": "Australian denied victory: 'I really thought I had won'",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T16:27:46.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/australier-frataget-sejr-troede-virkelig-jeg-vandt/11246126",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "ed180e11ff6d",
+   "t": "'This is the best year for Tadej Pogačar to come'–Vuelta a España director confident in Tour de France champion's participation, with little concern over likely dominance",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T16:25:28.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/this-is-the-best-year-for-tadej-pogacar-to-come-vuelta-a-espana-director-confident-in-tour-de-france-champions-participation-with-little-concern-over-likely-dominance/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "621f639ce7e1",
+   "t": "Velo Poll: What Are Your Tour de France Femmes Predictions?",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-30T16:23:49.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/velo-poll-what-are-your-tour-de-france-femmes-predictions/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "b9df902150f0",
+   "t": "Wout van Aert declared winner after millimeter sprint in Tour of Denmark",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T16:17:16.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/jensen-plowright-verrast-en-klopt-wout-van-aert-in-ronde-van-denemarken/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "225c82161ae6",
+   "t": "SD Worx-Protime led by Lotte Kopecky, Lorena Wiebes and Anna van der Breggen at uncontrollable Tour de France Femmes with mixed ambitions",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T16:16:41.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/sd-worx-protime-led-by-lotte-kopecky-lorena-wiebes-and-anna-van-der-breggen-at-uncontrollable-tour-de-france-femmes-with-mixed-ambitions/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "f6263ef0bd67",
+   "t": "Niamh Fisher-Black is ready to take another step up at the Tour de France Femmes",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T16:09:15.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/niamh-fisher-black-is-ready-to-take-another-step-up-at-the-tour-de-france-femmes/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "81cf8be349b5",
+   "t": "Tour of Denmark: Wout van Aert deemed stage 2 winner after reversal of fortunes for Jensen Plowright in sprint photo finish",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T16:07:09.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-of-denmark-jensen-plowright-threads-a-needle-in-photo-finish-against-wout-van-aert-to-grab-sprint-victory-on-stage-2-from-race-leader/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "8d6aec07603c",
    "t": "An extra climb, but the familiar finale in the Basque Country",
@@ -17,41 +257,79 @@
    "tr": 1
   },
   {
-   "id": "results-2026-07-30",
-   "type": "results",
-   "t": "Latest results — ProCyclingStats",
+   "id": "933b659381d6",
+   "t": "Tour of Denmark, stage two van Aert photo finish: Plowright, Aerts and Lonardi beaten at Skive",
    "s": "",
    "c": "race",
-   "date": "2026-07-30T15:34:46.451Z",
-   "rows": [
-    {
-     "race": "Graz Old Town Criterium",
-     "winner": "Huys and Bettendorff",
-     "url": "https://www.procyclingstats.com/search.php?term=Graz%20Old%20Town%20Criterium"
-    },
-    {
-     "race": "Italian National Elite Time Trial",
-     "winner": "Bianchi and Vece",
-     "url": "https://www.procyclingstats.com/search.php?term=Italian%20National%20Elite%20Time%20Trial"
-    },
-    {
-     "race": "Italian National Elite Time Trial - Junior",
-     "winner": "Veglia",
-     "url": "https://www.procyclingstats.com/search.php?term=Italian%20National%20Elite%20Time%20Trial%20-%20Junior"
-    },
-    {
-     "race": "Italian Junior Time Trial",
-     "winner": "Sara Peruta",
-     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Junior%20Time%20Trial"
-    }
-   ],
+   "date": "2026-07-30T15:55:00.000Z",
    "sources": [
     {
-     "n": "ProCyclingStats",
-     "u": "https://www.procyclingstats.com/",
-     "l": "en"
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785427305/tour-of-denmark-2026-plowright-van-aert-fotofinish",
+     "l": "it"
     }
-   ]
+   ],
+   "tr": 1
+  },
+  {
+   "id": "8034018c1279",
+   "t": "Update: Van Aert wins after drama in Skive",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T15:51:27.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/opdatering-van-aert-vinder-efter-drama-i-skive/11246082",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "fcb8ff57d8dc",
+   "t": "Tour de France drew nearly 150 million viewers in Europe, rising figures in France",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T15:35:11.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tour-de-france-trok-in-europa-bijna-150-miljoen-kijkers-stijgende-cijfers-in-frankrijk/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "792ae76c743c",
+   "t": "National Championships. Veneto gold in junior women's madison with Ceccarello-Padovan",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T15:31:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785425556/ciclismo-madison-campionati-italiani-juniores-pista",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "f9e8c10c0360",
+   "t": "National Championships. Veneto takes another gold in junior women's madison with Luisotto-Pascut",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T15:24:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785427509/ciclismo-madison-juniores-donne-campionati-italiani-veneto",
+     "l": "it"
+    }
+   ],
+   "tr": 1
   },
   {
    "id": "6e22688a8a73",
@@ -768,6 +1046,21 @@
     {
      "n": "Feltet.dk",
      "u": "https://feltet.dk/landevej/live-angreb-i-udbruddet-og-splittelse-i-feltet/11244867",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "0ff406886d63",
+   "t": "LIVE: 'Must be a terrible feeling,' says Van Aert",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T09:28:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/live-maa-vaere-en-lortefoelelse-siger-van-aert/11244867",
      "l": "da"
     }
    ],
@@ -2528,6 +2821,21 @@
    "tr": 1
   },
   {
+   "id": "804de4053311",
+   "t": "Mørkøv on Van Aert: 'I expect him to be dominant'",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T10:42:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/moerkoev-om-van-aert-jeg-forventer-at-han-vil-vaere-suveraen/11244469",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
    "id": "911e5ab3c429",
    "t": "'I never wanted to walk away hating it' – Former New Zealand champion Kim Cadzow ends cycling career at 24",
    "s": "",
@@ -3558,216 +3866,6 @@
      "n": "Feltet.dk",
      "u": "https://feltet.dk/landevej/legende-sabler-armstrong-lance-havde-ikke-talent/11244490",
      "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "531e2e486e96",
-   "t": "Preview: PostNord Tour of Denmark 2026 – What can Wout van Aert achieve at comeback?",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T17:05:42.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/voorbeschouwing-postnord-tour-of-denmark-2026-wat-kan-wout-van-aert-bij-rentree/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "12053ea6a595",
-   "t": "Marlen Reusser to lead Movistar Team for Tour de France Femmes",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T17:05:37.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/marlen-reusser-to-lead-movistar-team-for-tour-de-france-femmes/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "897ea7baae47",
-   "t": "Como returns as finish location in Tour of Lombardy with new course",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T16:55:37.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/como-keert-terug-als-finishplaats-in-ronde-van-lombardije-met-nieuw-parcours/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "804de4053311",
-   "t": "Mørkøv on Van Aert: - I expect him to be supreme",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-28T16:42:01.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/moerkoev-om-van-aert-jeg-forventer-at-han-vil-vaere-suveraen/11244469",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "1907e261816a",
-   "t": "Elena Miglioranza has been discharged and returned home",
-   "s": "",
-   "c": "health",
-   "date": "2026-07-28T16:39:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/28/1785257094/ciclismo-incidente-stradale-storie-di-speranza-giovani-ciclisti-recupero",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "56beb8e424da",
-   "t": "Seixas: 'Proud of fourth place in overall standings'",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T16:34:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146294.htm",
-     "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "5e640aebc9e2",
-   "t": "Paula Blasi and UAE teammates head to Tour Femmes with new team name",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-28T16:25:03.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/paula-blasi-en-uae-ploeggenoten-met-nieuwe-ploegnaam-naar-tour-femmes/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "f4471f63f3b5",
-   "t": "'I've not reached my absolute potential yet' – Kim Le Court-Pienaar sets sights on Tour de France Femmes top five after 'shock to the system' success in 2025",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T16:09:56.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/ive-not-reached-my-absolute-potential-yet-kim-le-court-pienaar-sets-sights-on-tour-de-france-femmes-top-five-after-shock-to-the-system-success-in-2025/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "5b96c390b800",
-   "t": "National Championships: Marangon takes double, national title also in elimination",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T16:09:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/28/1785254969/ciclismo-pista-campionati-italiani-paolo-marangon-juniores",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "f25e3ed92c65",
-   "t": "How to watch Tour de France Femmes 2026 – Live streams and official broadcasters",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-28T15:57:52.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/cycling-culture/streaming/watch-tour-de-france-femmes-2026-free/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "5e2f32f6682c",
-   "t": "Farewell to Vittorio Marcon: He was a rider, director, president, talent scout...",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-28T15:46:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/28/1785257431/ciclismo-treviso-lutto-direttore-sportivo-alessandro-ballan",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "6e07c46ce568",
-   "t": "Behind the lens: Shooting the 2026 Tour de France",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-28T15:39:00.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/behind-the-lens-shooting-the-2026-tour-de-france/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "1f94d16f9ff7",
-   "t": "National Championships: Gold performances in elimination: European title followed by national title",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T15:38:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/28/1785253201/ciclismo-pista-maria-acuti-campionati-italiani-juniores",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "2c9122870e18",
-   "t": "Steinhauser to Red Bull – Bora – hansgrohe?",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-28T15:35:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_145951.htm",
-     "l": "de"
     }
    ],
    "tr": 1
