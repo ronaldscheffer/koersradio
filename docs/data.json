@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T06:11:21.062Z",
+ "updated": "2026-07-30T09:17:23.852Z",
  "groups": [
   {
    "id": "results-2026-07-30",
@@ -7,7 +7,7 @@
    "t": "Latest results — ProCyclingStats",
    "s": "",
    "c": "race",
-   "date": "2026-07-30T06:11:18.405Z",
+   "date": "2026-07-30T09:17:20.735Z",
    "rows": [
     {
      "race": "Tour of Denmark Stage 1",
@@ -30,34 +30,19 @@
      "url": "https://www.procyclingstats.com/search.php?term=Italian%20Nationals%20Elite%20Speed"
     },
     {
-     "race": "Italian Nationals",
-     "winner": "Barbieri",
-     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Nationals"
-    },
-    {
-     "race": "National Championships Junior Keirin",
+     "race": "Italian Nationals Junior Keirin",
      "winner": "Veglia",
-     "url": "https://www.procyclingstats.com/search.php?term=National%20Championships%20Junior%20Keirin"
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Nationals%20Junior%20Keirin"
     },
     {
-     "race": "National Championships Junior Keirin",
+     "race": "Italian Nationals Junior Keirin",
      "winner": "Ferrante",
-     "url": "https://www.procyclingstats.com/search.php?term=National%20Championships%20Junior%20Keirin"
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Nationals%20Junior%20Keirin"
     },
     {
-     "race": "National Championships Elite Elimination",
+     "race": "Italian Nationals Elite Elimination",
      "winner": "Fiorin",
-     "url": "https://www.procyclingstats.com/search.php?term=National%20Championships%20Elite%20Elimination"
-    },
-    {
-     "race": "Tour de l'Ain",
-     "winner": "Markel Beloki",
-     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20l'Ain"
-    },
-    {
-     "race": "Tour de l'Ain Stage 2",
-     "winner": "Markel Beloki",
-     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20l'Ain%20Stage%202"
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Nationals%20Elite%20Elimination"
     }
    ],
    "sources": [
@@ -67,6 +52,351 @@
      "l": "en"
     }
    ]
+  },
+  {
+   "id": "8eeee406a882",
+   "t": "Journalist learns: Uttrup switches to Uno-X",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-30T09:13:10.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/journalist-erfarer-uttrup-skifter-til-uno-x/11245654",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "d2a491e1d9a2",
+   "t": "Back-testing snags Chinese track cyclist Lin in decade-old doping case",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-30T08:54:10.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/news/chinese-cyclist-junhong-lin-banned-after-back-testing-ita-wada/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "1be993ac7af2",
+   "t": "24-year-old EF rider ends career",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-30T08:51:12.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/24-aarig-ef-rytter-stopper-karrieren/11245616",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "9be054bbe757",
+   "t": "Wout van Aert aims for back-to-back wins in blue leader's jersey, Jonas Vingegaard attends start in his hometown",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T08:44:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/wout-van-aert-gaat-in-blauwe-leiderstrui-voor-twee-op-twee-jonas-vingegaard-woont-start-in-thuishaven-bij~a0bf06d3/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "bb4757b88654",
+   "t": "Should I use a VPN to watch cycling? Explaining the benefits, costs, considerations, and the best VPN services for streaming the biggest races",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-30T08:39:06.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/cycling-culture/should-i-use-a-vpn-to-watch-cycling-explaining-the-benefits-costs-considerations-and-the-best-vpn-services-for-streaming-the-biggest-races/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "4bfbe754e3b2",
+   "t": "\"Day by day more like a punishment\": Cadzow ends career",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-30T08:29:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146301.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "088b8a550662",
+   "t": "Report: Visma signs strong helper from SD Worx",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-30T08:22:24.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/incoming/medie-visma-henter-staerk-hjaelper-hos-sd-worx/11245577",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "b020afa73cb7",
+   "t": "Patrick Lefevere: \"Remco Evenepoel has proven me wrong\"",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T07:51:11.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/patrick-lefevere-remco-evenepoel-heeft-mijn-ongelijk-bewezen/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "a17d0351a166",
+   "t": "Forest fire risk: Does the Ventoux stage need to be changed?",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T07:43:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146300.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "7fe960629a48",
+   "t": "Only another yellow jersey is good enough for Pauline Ferrand-Prévot at the Tour de France Femmes",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T07:39:17.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/ferrand-prevot-win-bust-tour-de-france-femmes/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "644967dac9d5",
+   "t": "Femke Markus switches from SD Worx-Protime to Visma | Lease a Bike",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-30T07:15:29.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/femke-markus-ruilt-sd-worx-protime-in-voor-visma-lease-a-bike/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "9301c431bd4e",
+   "t": "Signing talent up to the WorldTour team",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-30T07:00:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/henter-talent-op-paa-worldtour-holdet/11245330",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "3a61df6381e2",
+   "t": "Former Visma rider Kim Cadzow (24) retires: \"Cycling started to feel like a punishment\"",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-30T06:50:41.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/voormalig-visma-renster-kim-cadzow-24-stopt-fietsen-begon-als-een-straf-te-voelen/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "1600f28c41bb",
+   "t": "How much does quality oil matter? The role of fats in a cyclist's diet",
+   "s": "",
+   "c": "gear",
+   "date": "2026-07-30T06:35:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785342470/olio-ciclismo-dieta-laura-martinelli-redoro",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "46b3c962cd1a",
+   "t": "Meal vouchers. Those tours of Imerio Massignan",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-30T06:26:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785343563/ciclismo-tour-de-france-storia-del-ciclismo-pirenei-imerio-massignan",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "a5c3db3030d8",
+   "t": "Cycling. Analysis of the Tour, expectations for a big summer",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T06:23:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785355222/ciclismo-tour-de-france-pogaA�ar-velo-rete8",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "ac3b4c84f963",
+   "t": "Evenepoel doesn't stop: Saturday targeting San Sebastian with an eye on Montreal",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T06:22:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785355856/remco-evenepoel-ciclismo-tour-de-france-2026-mondiali-ciclismo-klasika-san-sebastian",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "571ef38f18d0",
+   "t": "Toward Tour de Femmes. Balsamo, Fisher-Black and Holmgren are the three leaders of Lidl Trek",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T06:20:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785337414/tour-de-france-femmes-2026-lidl-trek",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "7981d02568be",
+   "t": "UAE women's team was unaware of Napolitano's involvement in doping investigation",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-30T06:19:42.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/vrouwenploeg-uae-wist-niets-van-betrokkenheid-napolitano-bij-dopingonderzoek/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "0ded51f21c38",
+   "t": "The Gran Premio del Lazio by Terenzi will suit sprinters and finish in Anguillara",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T06:17:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785338854/gran-premio-lazio-2026-percorso-fiuggi-anguillara-bracciano-terenzi-sport-e-salute",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "701a01d5ce53",
+   "t": "Teletutto. The emotions of Castelnuovo d'Asola and that behind-the-scenes at Cicli Piton...",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-30T06:16:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785341900/teletutto-stasera-ciclismo-oggi-casrelnuovo-asola-cicli-piton-trofeo-donini",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "447bc42bf77f",
+   "t": "Van Aert. \"Winning is difficult, succeeding right away is impressive\"",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T06:16:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785355061/wout-van-aert-giro-di-danimarca-ciclismo-ritorno-alle-corse-visma-lease-a-bike",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "9e84bcf67185",
+   "t": "Tuscany and Sabatini, Pavel Tonkov godfather of the presentation",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-30T06:12:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785344912/ciclismo-giro-della-toscana-coppa-sabatini-pavel-tonkov-classiche-professionistiche",
+     "l": "it"
+    }
+   ],
+   "tr": 1
   },
   {
    "id": "10e9399f6f60",
@@ -94,6 +424,21 @@
      "n": "TuttoBiciWeb",
      "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785330534/ciclismo-gallina-lucchini-ecotek-colosio-memorial-mannucci-andrea-buti-giosue-crescioli",
      "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "4c3321ffd414",
+   "t": "Tour Femmes 2026: Preview of young classification favorites — Can anything be done about Paula Blasi?",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T06:00:37.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-voorbeschouwing-favorieten-jongerenklassement-is-er-iets-te-doen-aan-paula-blasi/",
+     "l": "nl"
     }
    ],
    "tr": 1
@@ -407,6 +752,21 @@
     {
      "n": "Feltet.dk",
      "u": "https://feltet.dk/landevej/live-foldager-aergrer-sig-over-tidstab/11244867",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "b1e60d3e150d",
+   "t": "LIVE: Vingegaard holds press conference",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T17:28:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/live-vingegaard-holder-pressemoede/11244867",
      "l": "da"
     }
    ],
@@ -768,6 +1128,21 @@
      "n": "TuttoBiciWeb",
      "u": "https://www.tuttobiciweb.it/article/2026/07/29/1785340170/ciclismo-pista-keirin-juniores-assoluti-alberto-veglia-maya-ferrante",
      "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "7a13e29efab8",
+   "t": "The lineups for the 5th Tour de France Femmes",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-29T15:42:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146288.htm",
+     "l": "de"
     }
    ],
    "tr": 1
@@ -3318,426 +3693,6 @@
      "n": "Radsport-News",
      "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146289.htm",
      "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e8d660973638",
-   "t": "Former pro Danilo Napolitano suspended for 20 years",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-28T09:08:35.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/oud-prof-danilo-napolitano-voor-20-jaar-geschorst/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e33d920a5527",
-   "t": "Canyon-SRAM reveal colourful kit for Tour de France Femmes backing ambitious new 'We Femmes' campaign",
-   "s": "",
-   "c": "gear",
-   "date": "2026-07-28T09:00:00.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/canyon-sram-reveal-colourful-kit-for-tour-de-france-femmes-backing-ambitious-new-we-femmes-campaign/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "5b2219ddbc9e",
-   "t": "Tour de France Femmes in retrospect: The first four years",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T08:58:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_142404.htm",
-     "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "f0d92f574bab",
-   "t": "The stories we didn't get around to writing at the Tour de France 2026",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-28T08:56:47.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/the-stories-we-didnt-get-around-to-writing-at-the-tour-de-france-2026/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "635e7f344243",
-   "t": "Battle of the brands: Which sponsors came out on top at the 2026 Tour de France?",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-28T08:50:53.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/battle-of-the-brands-which-sponsors-came-out-on-top-at-the-2026-tour-de-france/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "01582dbcfea9",
-   "t": "Merckx: 'Pogacar flies on the road, he's a cycling treasure'",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T08:50:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/28/1785185866/ciclismo-tour-de-france-tadej-pogacar-eddy-merckx-paul-seixas",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "5dea686ef8df",
-   "t": "Tadej Pogačar has proven he's the best of all time, I don't see anyone challenging him for another two years – Sean Kelly's Tour column",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T08:49:57.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/tadej-pogacar-has-proven-hes-the-best-of-all-time-i-dont-see-anyone-challenging-him-for-another-two-years-sean-kellys-tour-column/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "7a13e29efab8",
-   "t": "The rosters for the 5th Tour de France Femmes",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T08:49:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146288.htm",
-     "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "9e18fbdc5963",
-   "t": "Tour Femmes 2026: Fenix-Premier Tech brings Puck Pieterse and Charlotte Kool",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-28T08:39:07.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-fenix-premier-tech-neemt-puck-pieterse-en-charlotte-kool-mee/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "59f44b06b1c2",
-   "t": "Legend believes in crazy Pogacar feat",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T08:32:36.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/legender-tror-paa-vanvittig-pogacar-bedrift/11244071",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "7a75499bd163",
-   "t": "UCI TEAM RANKING, SITUATION UPDATED AFTER TOUR DE FRANCE: EF SURGE, BARDIANI IN TOP 30",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T08:15:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/28/1785226889/tour-de-france-2026-ranking-uci-squadre-ef-bardiani",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "ba50fa589186",
-   "t": "8 Tour de France stats that show why Tadej Pogačar is unlike anything we've seen",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T08:07:03.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/8-tour-de-france-stats-that-show-why-tadej-pogacar-is-unlike-anything-weve-seen/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "ba14dd931c9c",
-   "t": "Report: This is how much Pogacar demands to race criteriums",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-28T08:04:17.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/medie-saa-meget-kraever-pogacar-for-at-koere-gadeloeb/11244042",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "4185cf170b8a",
-   "t": "Tune's Nano Road CS hubs introduce a new patented angle",
-   "s": "",
-   "c": "gear",
-   "date": "2026-07-28T08:00:25.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/tunes-nano-road-cs-hubs-introduce-a-new-patented-angle/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "76820f6dab18",
-   "t": "Stan Dewulf breaks elbow after hit-and-run: 'This was pointless violence'",
-   "s": "",
-   "c": "health",
-   "date": "2026-07-28T07:42:49.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/stan-dewulf-breekt-elleboog-na-vluchtmisdrijf-dit-was-zinloos-geweld/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "3e382cd0a1b6",
-   "t": "Kuss hopes for repeat of wild project",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T07:37:50.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/kuss-haaber-paa-gentagelse-af-vildt-projekt/11244024",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "b0c6fdf318d9",
-   "t": "Vingegaard overtaken by Remco - boost for Skjelmose and Mads P.",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T07:21:38.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/vingegaard-overhalet-af-remco-optur-for-skjelmose-og-mads-p./11244006",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "9045e618b205",
-   "t": "Tour Femmes 2026: Canyon//SRAM, VolkerWessels and Uno-X complete their rosters",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-28T07:18:54.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-canyon-sram-volkerwessels-en-uno-x-hebben-teams-rond/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "7f9c08087800",
-   "t": "Farewell to Giovanni 'Mistero' Zonta: He was 87, loved cycling and discovered Faresin",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-28T07:13:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/28/1785230036/ciclismo-giovanni-zonta-veneto-storia-del-ciclismo-nove",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "92e645169fa3",
-   "t": "'My first big hit out against every single big rider' – Zoe Bäckstedt relishes star-studded time trial test at debut Tour de France Femmes",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T06:57:06.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/my-first-big-hit-out-against-every-single-big-rider-zoe-backstedt-relishes-star-studded-time-trial-test-at-debut-tour-de-france-femmes/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "7b8dd5aa4336",
-   "t": "Prudhomme: 'Pogacar is extraordinary, but for me Merckx remains the greatest'",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T06:40:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/28/1785185179/tadej-pogacar-tour-de-france-tdf2026-ciclismo-eddy-merckx",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "32ce61ca2769",
-   "t": "Tour statistics: 5, 61, 26, 7, 19 and 22 are the numbers of Pogacar's dominance",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T06:32:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/28/1785178639/tadej-pogacar-tour-de-france-ciclismo-record-storici-grandi-giri",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "8f86e299ead1",
-   "t": "Richard Carapaz wins post-Tour criterium in Boxmeer, Remco Evenepoel wins in Aalst",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T06:27:03.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/richard-carapaz-zegeviert-in-na-tourcriterium-boxmeer-remco-evenepoel-wint-in-aalst/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "64a8b36974c4",
-   "t": "Osasco: Put Jacopo as sports director and Elisa spotting during the race",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-28T06:26:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/28/1785178694/ciclismo-jacopo-mosca-giornata-azzurra-ciclismo-giovanile-piemonte",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "61498ffde10d",
-   "t": "A&J Sport and the balance of a fantastic Tour",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-28T06:22:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/28/1785178662/tour-de-france-ciclismo-pogacar-a&j-all-sports-podio",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "502437220bba",
-   "t": "Meal time: Those circular paths in the heart of Piedmont",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-28T06:18:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/28/1785178667/ciclismo-sentieri-piemonte-cicloturismo-itinerari",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "702004ddcaaf",
-   "t": "Hinault: 'Pogacar's superiority is good for cycling, so...'",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T06:15:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/28/1785178634/ciclismo-pogacar-hinault-tour-de-france-tdav26",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "6498c23e1fe1",
-   "t": "Paolo Slongo mourns the death of father Albano",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-28T06:14:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/28/1785185348/ciclismo-paolo-slongo-direttore-sportivo-vincenzo-nibali-michele-scarponi",
-     "l": "it"
     }
    ],
    "tr": 1
