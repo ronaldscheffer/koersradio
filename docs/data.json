@@ -1,23 +1,33 @@
 {
- "updated": "2026-07-30T09:17:23.852Z",
+ "updated": "2026-07-30T11:31:56.615Z",
  "groups": [
+  {
+   "id": "e4bb935adb51",
+   "t": "High temperatures beyond 30 degrees also at Tour de France Femmes",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-30T12:18:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146304.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "results-2026-07-30",
    "type": "results",
    "t": "Latest results — ProCyclingStats",
    "s": "",
    "c": "race",
-   "date": "2026-07-30T09:17:20.735Z",
+   "date": "2026-07-30T11:31:53.576Z",
    "rows": [
     {
-     "race": "Tour of Denmark Stage 1",
+     "race": "Tour of Denmark",
      "winner": "Wout van Aert",
-     "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Denmark%20Stage%201"
-    },
-    {
-     "race": "Italian Nationals",
-     "winner": "Fantini",
-     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Nationals"
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Denmark"
     },
     {
      "race": "Italian Nationals Elite Speed",
@@ -30,19 +40,14 @@
      "url": "https://www.procyclingstats.com/search.php?term=Italian%20Nationals%20Elite%20Speed"
     },
     {
-     "race": "Italian Nationals Junior Keirin",
-     "winner": "Veglia",
-     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Nationals%20Junior%20Keirin"
+     "race": "Italian Nationals",
+     "winner": "Fantini",
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Nationals"
     },
     {
-     "race": "Italian Nationals Junior Keirin",
-     "winner": "Ferrante",
-     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Nationals%20Junior%20Keirin"
-    },
-    {
-     "race": "Italian Nationals Elite Elimination",
-     "winner": "Fiorin",
-     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Nationals%20Elite%20Elimination"
+     "race": "Italian Nationals",
+     "winner": "Barbieri",
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Nationals"
     }
    ],
    "sources": [
@@ -52,6 +57,276 @@
      "l": "en"
     }
    ]
+  },
+  {
+   "id": "982f24479943",
+   "t": "'Main goal is defending the jersey': Wout van Aert gets chance at two in a row in similar stage",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T11:30:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/hoofddoel-is-de-trui-verdedigen-wout-van-aert-krijgt-kans-op-twee-op-twee-in-gelijkaardige-etappe~a0bf06d3/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "c980c03ebcaf",
+   "t": "National elite time trial champions: Bianchi and Vece crowned Italian champions",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T11:28:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785411029/campionati-italiani-ciclismo-km-da-fermo-matteo-bianchi-miriam-vece",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "f75aa883d550",
+   "t": "'I pick my battle, and I choose the Tour de France' – Forget year-long dominance, Pauline Ferrand-Prévot is all about delivering when it counts most",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T11:10:45.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/i-pick-my-battle-and-i-choose-the-tour-de-france-forget-year-long-dominance-pauline-ferrand-prevot-is-all-about-delivering-when-it-counts-most/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "8e27ae9235a2",
+   "t": "Tour riders stop to watch Mathieu van der Poel's sensational victory on big screen in Paris",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T11:04:05.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tourrenners-stoppen-om-zege-mathieu-van-der-poel-te-zien-op-groot-scherm-in-parijs/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "8056cea934ff",
+   "t": "French sports heroes fight the fire: Thibaut Pinot helps local firefighters with fires in his hometown",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-30T10:52:27.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/franse-sporthelden-bestrijden-het-vuur-thibaut-pinot-helpt-lokale-brandweer-bij-branden-in-thuisdorp~a1914cfd/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "1bc43a0bfcaf",
+   "t": "Lorena Wiebes launches own clothing brand",
+   "s": "",
+   "c": "gear",
+   "date": "2026-07-30T10:45:59.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/lorena-wiebes-komt-met-eigen-kledingmerk/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "1fbc2b699b7a",
+   "t": "Tadej Pogačar and Who? Here's What We Know About the Vuelta a España Startlist",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T10:45:18.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/tadej-pogacar-headlines-rumored-vuelta-a-espana-startlist/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "25c1fed347ea",
+   "t": "Vingegaard reveals Pogačar message: - Glad he's thinking of me",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-30T10:40:52.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/vingegaard-afsloerer-pogacar-besked-glad-for-at-han-taenker-paa-mig/11245715",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "4b056fdb8e14",
+   "t": "Relaxed Ferrand-Prévot targets second Tour victory with Visma",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T10:26:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146302.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "8d4d0e56d306",
+   "t": "Sharp Ferrand-Prévot no longer fears time trial: 'I've done my homework'",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T10:24:56.000Z",
+   "sources": [
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2624941",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "b27a3689ce37",
+   "t": "Mountain biking: Teocchi's condition improves: after much fear, the smile returns",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-30T10:12:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785405347/chiara-teocchi-operazione-complicazioni",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "663cdcf73508",
+   "t": "Ullrich has no doubt: 'This Pogačar in my era would have beaten everyone, me, Pantani and Armstrong included'",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-30T10:08:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785406854/pogacar-ullrich-tour-de-france-2026",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "8cbdaa3be1c1",
+   "t": "Trine switched channel when Jonas crashed",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-30T10:07:02.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/trine-skiftede-kanal-da-jonas-styrtede/11245690",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "6eb02b2a26cf",
+   "t": "Tough Tour Femmes is a challenge for Pauline Ferrand-Prévot: 'Absolutely won't be boring'",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T09:46:54.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/zware-tour-femmes-is-uitdaging-voor-pauline-ferrand-prevot-gaat-absoluut-niet-saai-worden/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "e7ff7f53ba78",
+   "t": "National elite champions: Hat-trick for Veglia: gold also in junior time trial, Marangon second",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T09:30:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785403922/ciclismo-pista-assoluti-alberto-veglia-velocita",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "2c5e2292dc91",
+   "t": "LIVE: - We may have misunderstood the Tour a bit, says Vingegaard",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T09:28:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/live-vi-har-maaske-misforstaaet-touren-lidt-siger-vingegaard/11244867",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "11fe648cd0f6",
+   "t": "Tour Femmes 2026: Women also start with high temperatures",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T09:21:36.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-ook-vrouwen-starten-met-hoge-temperaturen/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "ea6e5c7d03f6",
+   "t": "Sara Peruta Italian junior time trial champion",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T09:19:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785404962/ciclismo-pista-campionati-italiani-sara-peruta-juniores-donne",
+     "l": "it"
+    }
+   ],
+   "tr": 1
   },
   {
    "id": "8eeee406a882",
@@ -99,6 +374,21 @@
    "tr": 1
   },
   {
+   "id": "bd6f7fe8fd00",
+   "t": "KNWU announces junior and under-23 selections for World Championships and European Championships",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T08:48:38.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/knwu-maakt-selecties-junioren-en-beloften-bekend-voor-wk-en-ek/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
    "id": "9be054bbe757",
    "t": "Wout van Aert aims for back-to-back wins in blue leader's jersey, Jonas Vingegaard attends start in his hometown",
    "s": "",
@@ -139,6 +429,21 @@
      "n": "Radsport-News",
      "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146301.htm",
      "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "cfa9f8da6431",
+   "t": "NOS shares Tour de France online viewership: fewer livestream starts than in 2024",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-30T08:28:07.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/nos-deelt-online-kijkcijfers-tour-de-france-minder-livestream-starts-dan-in-2024/",
+     "l": "nl"
     }
    ],
    "tr": 1
@@ -3423,276 +3728,6 @@
      "n": "Feltet.dk",
      "u": "https://feltet.dk/landevej/nordmand-skal-opereres-bestemt-ikke-paa-mit-bingokort/11244266",
      "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "c4a859a8109a",
-   "t": "Anthony Turgis linked to Netcompany-Ineos for 2027",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-28T11:15:52.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/anthony-turgis-linked-to-netcompany-ineos-for-2027/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "0246a923faf0",
-   "t": "Former Giro stage winner banned for 20 years",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-28T11:15:38.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/tidligere-giro-etapevinder-udelukkes-i-20-aar/11244253",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "8abe4f8e9a4f",
-   "t": "Eddy Merckx predicts new absurd goal for Pogacar: 'I believe him capable of it'",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T11:04:26.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/eddy-merckx-voorspelt-nieuw-absurd-doel-van-pogacar-alle-grote-rondes-in-een-jaar-winnen/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "a24b7c6a3171",
-   "t": "Seixas takes a break – Decathlon contract talks expected late August or September",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-28T11:01:03.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/seixas-takes-a-break-decathlon-contract-talks-expected-late-august-or-september/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "3c026018f17a",
-   "t": "2026 Was the Fastest Tour de France in History. 600 Calorie Fueling and a $60M Arms Race Made It Happen",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T10:51:49.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/2026-fastest-ever-tour-de-france/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e9365ae97637",
-   "t": "Pedersen and Skjelmose head to Vuelta a España after successful Tour de France",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T10:50:43.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/pedersen-and-skjelmose-head-to-vuelta-a-espana-after-successful-tour-de-france/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "a35f3ed84801",
-   "t": "'Senseless violence': Dewulf suffers fracture in left arm",
-   "s": "",
-   "c": "health",
-   "date": "2026-07-28T10:50:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146290.htm",
-     "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "8ac220c57aa0",
-   "t": "After difficult years at UAE, breakthrough at Lotto: who is fresh Belgian U23 champion Duarte Marivoet?",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-28T10:48:50.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/na-moeilijke-jaren-bij-uae-doorbraak-bij-lotto-wie-is-kersvers-belgisch-kampioen-u23-duarte-marivoet/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "da55beb50018",
-   "t": "Mollema advocates for six-rider Tour teams to 'do something about the force majeure of UAE'",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-28T10:43:32.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/mollema-advocates-for-six-rider-tour-teams-to-do-something-about-the-force-majeure-of-uae/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "0a608f116792",
-   "t": "Media: Red Bull sign Paris-Nice third-place finisher",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-28T10:31:04.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/medie-red-bull-henter-paris-nice-treer/11244213",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "51f980e7b430",
-   "t": "Red Bull-BORA-hansgrohe strengthen with Georg Steinhauser",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-28T10:22:10.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/red-bull-bora-hansgrohe-versterkt-zich-met-georg-steinhauser/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "df5f8157dac2",
-   "t": "VAL DI SOLE AWAITS PIDCOCK AND VAN DER POEL: 2026 MTB WORLDS PRESENTED IN TRENTO",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T10:21:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/28/1785235481/mondiali-mtb-val-di-sole-2026-percorsi-atleti",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "331361d38aa1",
-   "t": "'Dream bike for the cycling tourist, but also a grey mouse': our analyst tests and tames all-rounder with which Mathieu van der Poel scored a hat-trick",
-   "s": "",
-   "c": "gear",
-   "date": "2026-07-28T10:12:03.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/droomfiets-voor-de-wielertoerist-maar-ook-een-grijze-muis-onze-analist-test-en-temt-alleskunner-waarmee-mathieu-van-der-poel-een-hattrick-scoorde~aee851b4/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "0cb2018ac106",
-   "t": "'I never imagined it would happen' – What does it mean to win your first Tour de France Femmes stage? Two 2025 winners relive their victories",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T10:07:25.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/i-never-imagined-it-would-happen-what-does-it-mean-to-win-your-first-tour-de-france-femmes-stage-two-2025-winners-relive-their-victories/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "5c28111e03ce",
-   "t": "What next for Paul Seixas? Two weeks of rest, more training and racing, and the long-term picture post-Tour de France debut",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-28T09:58:33.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/what-next-for-paul-seixas-two-weeks-of-rest-more-training-and-racing-and-the-long-term-picture-post-tour-de-france-debut/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "23f1f478de3b",
-   "t": "Decathlon soon in talks with Paul Seixas about future: 'Building trust'",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-28T09:56:16.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/decathlon-binnenkort-in-gesprek-met-paul-seixas-over-toekomst-vertrouwen-wekken/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "bf34e7ad2b01",
-   "t": "The Best Quotes from the 2026 Tour de France",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T09:44:23.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/best-quotes-from-the-2026-tour-de-france/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "bf8d7f5a53b9",
-   "t": "Plugge on night control: 'It damaged our team'",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-28T09:26:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146289.htm",
-     "l": "de"
     }
    ],
    "tr": 1
