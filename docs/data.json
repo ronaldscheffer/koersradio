@@ -1,6 +1,66 @@
 {
- "updated": "2026-07-30T18:59:47.711Z",
+ "updated": "2026-07-30T20:23:44.861Z",
  "groups": [
+  {
+   "id": "c898aa664bbd",
+   "t": "Are lactate gels already old news?",
+   "s": "",
+   "c": "gear",
+   "date": "2026-07-30T20:17:54.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/are-lactate-gels-already-old-news/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "59916a6077f9",
+   "t": "Cycling live in stream, TV and ticker: today's races",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T20:12:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_144508.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "7748d65fbcd9",
+   "t": "How brutal! This is what made me sick: the wrong chip registration that caused Plowright and not Van Aert to celebrate",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T19:28:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/hoe-brutaal-hier-ben-ik-ziek-van-de-foute-chipregistratie-die-ervoor-zorgde-dat-plowright-en-niet-van-aert-juichte~a46a7bfe/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "c0d48d1e8e48",
+   "t": "Wout van Aert adds his second victory in Denmark thanks to the photo finish",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T19:00:28.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/07/30/wout-aert-suma-segunda-victoria-dinamarca-gracias-foto-finish.html",
+     "l": "es"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "74dd5a59ce61",
    "t": "'I don't think other teams know our strategy' – UAE Team L'IMAD start Tour de France Femmes with strength in depth and Longo Borghini and Blasi at the helm",
@@ -3881,66 +3941,6 @@
      "n": "Velo",
      "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/why-tour-de-france-never-stops-feeling-magical/",
      "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "cad0e6bc7ed0",
-   "t": "How every team did in the 2026 Tour de France",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T19:32:41.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/how-every-team-did-in-the-2026-tour-de-france/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "c57731f51d97",
-   "t": "Second consecutive day of celebration: Remco Evenepoel wins Roeselare post-Tour criterium",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T19:29:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/voor-de-tweede-dag-op-rij-aan-het-feest-remco-evenepoel-wint-ook-na-tourcriterium-van-roeselare~a67dcef2/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "1a47f20cfbda",
-   "t": "He shook a solo out of his legs: Remco Evenepoel also wins post-Tour criterium of Roeselare",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T19:29:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/hij-schudde-een-solo-uit-zijn-benen-remco-evenepoel-wint-ook-na-tourcriterium-van-roeselare~a67dcef2/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "609779569e0a",
-   "t": "Debate: Does Montmartre kill the sprinters' World Championships?",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-28T19:00:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/incoming/debat-draeber-montmartre-sprinternes-vm/11244252",
-     "l": "da"
     }
    ],
    "tr": 1
