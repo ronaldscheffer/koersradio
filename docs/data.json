@@ -1,72 +1,20 @@
 {
- "updated": "2026-07-29T23:41:10.164Z",
+ "updated": "2026-07-30T03:22:14.476Z",
  "groups": [
   {
-   "id": "results-2026-07-29",
-   "type": "results",
-   "t": "Latest results — ProCyclingStats",
+   "id": "ff740a6dd9f8",
+   "t": "Q&A: USA Cycling's mountain bike director on building for the LA Olympics",
    "s": "",
    "c": "race",
-   "date": "2026-07-29T23:41:07.170Z",
-   "rows": [
-    {
-     "race": "Tour of Denmark Stage 1",
-     "winner": "Wout van Aert",
-     "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Denmark%20Stage%201"
-    },
-    {
-     "race": "Italian Nationals",
-     "winner": "Fantini",
-     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Nationals"
-    },
-    {
-     "race": "Italian Nationals Elite Speed",
-     "winner": "Moro",
-     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Nationals%20Elite%20Speed"
-    },
-    {
-     "race": "Italian Nationals Elite Speed",
-     "winner": "Vece",
-     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Nationals%20Elite%20Speed"
-    },
-    {
-     "race": "Italian Nationals Junior Keirin",
-     "winner": "Veglia",
-     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Nationals%20Junior%20Keirin"
-    },
-    {
-     "race": "Italian Nationals Junior Keirin",
-     "winner": "Ferrante",
-     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Nationals%20Junior%20Keirin"
-    },
-    {
-     "race": "Italian Nationals Elite Elimination",
-     "winner": "Fiorin",
-     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Nationals%20Elite%20Elimination"
-    },
-    {
-     "race": "Italian Nationals",
-     "winner": "Barbieri",
-     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Nationals"
-    },
-    {
-     "race": "Tour de l'Ain Stage 1",
-     "winner": "Markel Beloki",
-     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20l'Ain%20Stage%201"
-    },
-    {
-     "race": "Tour de l'Ain Stage 2",
-     "winner": "Markel Beloki",
-     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20l'Ain%20Stage%202"
-    }
-   ],
+   "date": "2026-07-30T02:02:20.000Z",
    "sources": [
     {
-     "n": "ProCyclingStats",
-     "u": "https://www.procyclingstats.com/",
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/q-a-usa-cyclings-mountain-bike-director-on-building-for-the-la-olympics/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "3f538109cd83",
@@ -3662,21 +3610,6 @@
     {
      "n": "HLN Wielrennen",
      "u": "https://www.hln.be/tour-de-france/een-prestigieus-en-peperduur-hotel-om-tour-af-te-sluiten-in-dit-vorstelijke-decor-sliepen-remco-evenepoel-en-oumi-na-slotrit-in-parijs~adf5c67c/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "4bfccef07345",
-   "t": "Why Tadej Pogacar plays hard to get and asks for 100,000 euros, but Remco Evenepoel rode the Aalst criterium for approximately half that",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-28T03:05:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/waarom-tadej-pogacar-hard-to-get-speelt-en-100-000-euro-vraagt-maar-remco-evenepoel-voor-ongeveer-de-helft-wel-criterium-van-aalst-reed~af21e3e4/",
      "l": "be"
     }
    ],
