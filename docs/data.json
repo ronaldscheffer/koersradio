@@ -1,6 +1,208 @@
 {
- "updated": "2026-07-30T03:22:14.476Z",
+ "updated": "2026-07-30T06:11:21.062Z",
  "groups": [
+  {
+   "id": "results-2026-07-30",
+   "type": "results",
+   "t": "Latest results — ProCyclingStats",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T06:11:18.405Z",
+   "rows": [
+    {
+     "race": "Tour of Denmark Stage 1",
+     "winner": "Wout van Aert",
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Denmark%20Stage%201"
+    },
+    {
+     "race": "Italian Nationals",
+     "winner": "Fantini",
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Nationals"
+    },
+    {
+     "race": "Italian Nationals Elite Speed",
+     "winner": "Moro",
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Nationals%20Elite%20Speed"
+    },
+    {
+     "race": "Italian Nationals Elite Speed",
+     "winner": "Vece",
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Nationals%20Elite%20Speed"
+    },
+    {
+     "race": "Italian Nationals",
+     "winner": "Barbieri",
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Nationals"
+    },
+    {
+     "race": "National Championships Junior Keirin",
+     "winner": "Veglia",
+     "url": "https://www.procyclingstats.com/search.php?term=National%20Championships%20Junior%20Keirin"
+    },
+    {
+     "race": "National Championships Junior Keirin",
+     "winner": "Ferrante",
+     "url": "https://www.procyclingstats.com/search.php?term=National%20Championships%20Junior%20Keirin"
+    },
+    {
+     "race": "National Championships Elite Elimination",
+     "winner": "Fiorin",
+     "url": "https://www.procyclingstats.com/search.php?term=National%20Championships%20Elite%20Elimination"
+    },
+    {
+     "race": "Tour de l'Ain",
+     "winner": "Markel Beloki",
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20l'Ain"
+    },
+    {
+     "race": "Tour de l'Ain Stage 2",
+     "winner": "Markel Beloki",
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20l'Ain%20Stage%202"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ProCyclingStats",
+     "u": "https://www.procyclingstats.com/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "10e9399f6f60",
+   "t": "Put a special day among friends, with the donkeys of Bruseghin... GALLERY",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-30T06:08:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785356987/ciclismo-ex-ciclisti-amicizia-ricordi-ciclismo-italiano",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "296ff2d99f24",
+   "t": "Gallina Lucchini Ecotek Colosio, 5 races in six days arrive",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T06:04:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785330534/ciclismo-gallina-lucchini-ecotek-colosio-memorial-mannucci-andrea-buti-giosue-crescioli",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "baf23176e016",
+   "t": "Sestriere bids to host a Tour de France stage finish (if there's also the Colle delle Finestre...)",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T06:00:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785342271/tour-de-france-ciclismo-sestriere-colle-delle-finestre-eventi-internazionali",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "c0cd13080ed4",
+   "t": "Super weekend in Veneto, Memorial Fornasiero stands out",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T06:00:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785344751/ciclismo-dilettanti-veneto-memorial-fornasiero-gare-su-strada",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "7da7f7736ba5",
+   "t": "Skovbrande threatens: Ventoux stage could be changed",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T06:00:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/skovbrande-truer-ventoux-etape-kan-blive-aendret/11245324",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "d0bac236b1ba",
+   "t": "Matxin: 'What Pogacar has done transcends cycling, it is sports history'",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-30T05:26:32.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/30/matxin-hecho-pogacar-trasciende-ciclismo-historia-deporte.html",
+     "l": "es"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "101aa8a20656",
+   "t": "Marianne Vos must now 'compete' with Mathieu van der Poel and Tadej Pogacar",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-30T05:06:46.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/marianne-vos-moet-nu-wedijveren-met-mathieu-van-der-poel-en-tadej-pogacar/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "275ce19e7f3e",
+   "t": "Preview: Clásica San Sebastián 2026 – Remco Evenepoel aims for record",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T05:00:25.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/voorbeschouwing-clasica-san-sebastian-2026-remco-evenepoel-mikt-op-record/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "152c3d2b798a",
+   "t": "Transfer list 2026-2027 - WorldTours",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-30T05:00:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/transferlisten-2026-2027-worldtouren/11244321",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "ff740a6dd9f8",
    "t": "Q&A: USA Cycling's mountain bike director on building for the LA Olympics",
@@ -3536,81 +3738,6 @@
      "n": "TuttoBiciWeb",
      "u": "https://www.tuttobiciweb.it/article/2026/07/28/1785185348/ciclismo-paolo-slongo-direttore-sportivo-vincenzo-nibali-michele-scarponi",
      "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "22160294a461",
-   "t": "Towards Tour de Femmes: Trinca Colonel and Paternoster for a complete and combative Liv Alula Jayco",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-28T06:10:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/28/1785183645/liv-alula-jayco-trica-colonel-paternoster-tour-de-femmes-2026",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "7c9ea9f90d2e",
-   "t": "Tour Femmes 2026: Preview of points classification favorites — New clash between Vos and Wiebes?",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T06:00:38.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-voorbeschouwing-favorieten-puntenklassement-nieuw-duel-vos-en-wiebes/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "d7e82697641d",
-   "t": "Ronde de Saône-et-Loire: Giussanesi wins team classification and two stage podiums: Parianotti 6th overall",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T06:00:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/28/1785162319/saone-e-loire-2026-giovani-giussanesi",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "19b950ba16d2",
-   "t": "Lights and shadows in a national key: no victories but Spanish presence at the Tour",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T05:15:26.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/28/luces-sombras-clave-nacional-victorias-presencia-espanola-tour.html",
-     "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "2a7044423a8e",
-   "t": "A prestigious (and expensive) hotel to end the Tour: in this palatial setting Remco Evenepoel and Oumi slept after the final stage in Paris",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-28T04:06:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/tour-de-france/een-prestigieus-en-peperduur-hotel-om-tour-af-te-sluiten-in-dit-vorstelijke-decor-sliepen-remco-evenepoel-en-oumi-na-slotrit-in-parijs~adf5c67c/",
-     "l": "be"
     }
    ],
    "tr": 1
