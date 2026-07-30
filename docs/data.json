@@ -1,6 +1,36 @@
 {
- "updated": "2026-07-30T20:23:44.861Z",
+ "updated": "2026-07-30T21:47:12.666Z",
  "groups": [
+  {
+   "id": "6525559cdd5f",
+   "t": "Tim Merlier and Jasper Stuyven allowed on the podium: Jasper Philipsen sprints to victory in post-Tour criterium of Herentals",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T21:45:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/tim-merlier-en-jasper-stuyven-mochten-mee-op-het-podium-jasper-philipsen-sprint-naar-zege-in-na-tourcriterium-van-herentals~a98ef736/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "37522815066c",
+   "t": "Will Tadej Pogačar win a sixth Tour de France? - What can we expect from the 2027 Grand Boucle",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T21:26:04.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/will-tadej-pogacar-win-a-sixth-tour-de-france-what-can-we-expect-from-the-2027-grand-boucle/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "c898aa664bbd",
    "t": "Are lactate gels already old news?",
@@ -3910,36 +3940,6 @@
     {
      "n": "Velo",
      "u": "https://velo.outsideonline.com/road/road-gear/updated-cadex-aero-integrated-handlebar/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "ddb79f0f8c3a",
-   "t": "Jasper Philipsen, Tim Merlier and Jasper Stuyven start Thursday in Herentals",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T21:33:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/jasper-philipsen-tim-merlier-en-jasper-stuyven-starten-donderdag-in-herentals~a98ef736/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "ac2e87d9013d",
-   "t": "Why the Tour de France Never Stops Feeling Magical | Dropped Newsletter",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-28T21:00:41.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/why-tour-de-france-never-stops-feeling-magical/",
      "l": "en"
     }
    ],
