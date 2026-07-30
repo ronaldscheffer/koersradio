@@ -1,6 +1,133 @@
 {
- "updated": "2026-07-30T11:31:56.615Z",
+ "updated": "2026-07-30T13:12:35.145Z",
  "groups": [
+  {
+   "id": "results-2026-07-30",
+   "type": "results",
+   "t": "Latest results — ProCyclingStats",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T13:12:32.321Z",
+   "rows": [
+    {
+     "race": "Italian National Elite Time Trial Championship",
+     "winner": "Bianchi",
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20National%20Elite%20Time%20Trial%20Championship"
+    },
+    {
+     "race": "Italian National Elite Time Trial Championship",
+     "winner": "Vece",
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20National%20Elite%20Time%20Trial%20Championship"
+    },
+    {
+     "race": "Italian National Junior Time Trial Championship",
+     "winner": "Veglia",
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20National%20Junior%20Time%20Trial%20Championship"
+    },
+    {
+     "race": "Italian Junior Time Trial Championship",
+     "winner": "Sara Peruta",
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Junior%20Time%20Trial%20Championship"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ProCyclingStats",
+     "u": "https://www.procyclingstats.com/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "00001b91ca6e",
+   "t": "COROS Finally Solved the Most Annoying Part of Live Tracking",
+   "s": "",
+   "c": "gear",
+   "date": "2026-07-30T13:00:45.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-gear/coros-firmware-update-live-tracking/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "734a367c8abc",
+   "t": "Cooke's Mont Ventoux masterclass and a Côte d'Azur classic – A history of the Tour de France Femmes' key climbs",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T12:59:07.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/cookes-mont-ventoux-masterclass-and-a-cote-dazur-classic-a-history-of-the-tour-de-france-femmes-key-climbs/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "c62dfce59478",
+   "t": "Vingegaard speculates over possible mistake at Tour de France",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-30T12:55:36.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/vingegaard-spekulerer-over-mulig-fejl-til-tour-de-france/11245935",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "e174509ba39e",
+   "t": "NATIONAL CHAMPIONS. FERRARI DOMINATES UNDER-23 PURSUIT: MARANGON AND CECCARELLO ON THE PODIUM",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T12:48:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785416036/ciclismo-pista-campionati-italiani-inseguimento-individuale-juniores",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "8891da385a02",
+   "t": "Seven breakaway riders given space by the peloton - Wout van Aert two for two: 'Main goal is defending the jersey'",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T12:35:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/zeven-vluchters-krijgen-ruimte-van-het-peloton-wout-van-aert-voor-twee-op-twee-hoofddoel-is-de-trui-verdedigen~a0bf06d3/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "63c8ae588576",
+   "t": "Huys and Bettendorff win at the Graz Old Town Criterium",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T12:24:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146305.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "e4bb935adb51",
    "t": "High temperatures beyond 30 degrees also at Tour de France Femmes",
@@ -17,46 +144,34 @@
    "tr": 1
   },
   {
-   "id": "results-2026-07-30",
-   "type": "results",
-   "t": "Latest results — ProCyclingStats",
+   "id": "2600b1992b60",
+   "t": "'That I would stop at the end of 2028? That hasn't been decided': eleven days after abandoning the Tour, Jonas Vingegaard shines with his daughter in his arms",
    "s": "",
-   "c": "race",
-   "date": "2026-07-30T11:31:53.576Z",
-   "rows": [
-    {
-     "race": "Tour of Denmark",
-     "winner": "Wout van Aert",
-     "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Denmark"
-    },
-    {
-     "race": "Italian Nationals Elite Speed",
-     "winner": "Moro",
-     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Nationals%20Elite%20Speed"
-    },
-    {
-     "race": "Italian Nationals Elite Speed",
-     "winner": "Vece",
-     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Nationals%20Elite%20Speed"
-    },
-    {
-     "race": "Italian Nationals",
-     "winner": "Fantini",
-     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Nationals"
-    },
-    {
-     "race": "Italian Nationals",
-     "winner": "Barbieri",
-     "url": "https://www.procyclingstats.com/search.php?term=Italian%20Nationals"
-    }
-   ],
+   "c": "other",
+   "date": "2026-07-30T12:11:00.000Z",
    "sources": [
     {
-     "n": "ProCyclingStats",
-     "u": "https://www.procyclingstats.com/",
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/dat-ik-eind-2028-zou-stoppen-dat-is-nog-niet-beslist-elf-dagen-na-opgave-in-tour-straalt-jonas-vingegaard-met-dochtertje-op-arm~ab4014d1/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "8a3002d94f17",
+   "t": "Jonas Vingegaard brushes off 2028 retirement rumours as he talks about Tour de France crash on visit to Tour of Denmark",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-30T11:44:10.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/jonas-vingegaard-brushes-off-2028-retirement-rumours-as-he-talks-about-tour-de-france-crash-on-visit-to-tour-of-denmark/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
   },
   {
    "id": "982f24479943",
@@ -84,6 +199,21 @@
      "n": "TuttoBiciWeb",
      "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785411029/campionati-italiani-ciclismo-km-da-fermo-matteo-bianchi-miriam-vece",
      "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "09bf28aef474",
+   "t": "Vingegaard visits Tour of Denmark: 'Whether I race again this year depends on my recovery'",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-30T11:25:32.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/jonas-vingegaard-op-bezoek-in-ronde-van-denemarken-het-gaat-steeds-beter/",
+     "l": "nl"
     }
    ],
    "tr": 1
@@ -293,6 +423,21 @@
     {
      "n": "Feltet.dk",
      "u": "https://feltet.dk/landevej/live-vi-har-maaske-misforstaaet-touren-lidt-siger-vingegaard/11244867",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "1640bf086cd9",
+   "t": "LIVE: Danish talents ride in breakaway",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T09:28:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/live-danske-talenter-koerer-i-udbrud/11244867",
      "l": "da"
     }
    ],
@@ -3608,126 +3753,6 @@
      "n": "Radsport-News",
      "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146292.htm",
      "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "bdf03023e7d5",
-   "t": "Tadej Pogačar and UAE Team Emirates meet to discuss and decide on targeting Vuelta a España",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-28T12:57:03.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/tadej-pogacar-and-uae-team-emirates-meet-to-discuss-and-decide-on-targeting-vuelta-a-espana/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "946b58123b48",
-   "t": "Remco Evenepoel rises above Jonas Vingegaard to second place on UCI ranking",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T12:47:01.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/remco-evenepoel-stijgt-voorbij-jonas-vingegaard-naar-tweede-plaats-op-uci-ranking/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "d6a709ca17d1",
-   "t": "Media: Granon can return to Tour de France",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-28T12:40:04.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/medie-granon-kan-vende-tilbage-til-tour-de-france/11244316",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "a41d30907a72",
-   "t": "Canyon – SRAM with new sponsor and three debutants for the Tour",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-28T12:36:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146291.htm",
-     "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "a10b3b13569c",
-   "t": "'I'll stay focused until Saturday' – Remco Evenepoel's 24 hours of Tour de France celebrations end with a criterium win and a night at home",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-28T12:21:00.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/ill-stay-focused-until-saturday-remco-evenepoels-24-hours-of-tour-de-france-celebrations-end-with-a-criterium-win-and-a-night-at-home/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "fc548d3802cf",
-   "t": "LeMond to L'Equipe: \"Armstrong 'found' talent at 28 years old, Pogacar will get to at least 7 Tours\"",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-28T12:08:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/28/1785240503/lance-armstrong-tadej-pogacar-intervista-greg-lemond-tour-de-france",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "f7bddd1110fa",
-   "t": "Tour Femmes 2026: Lotto with Olympic speed skater Tas, Movistar and Picnic selections also finalized",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-28T11:52:04.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-lotto-intermarche-met-olympisch-schaatster-tas-movistar-rekent-op-reusser/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "3d84d2f48c5b",
-   "t": "Norwegian will undergo surgery: Definitely not on my bingo card",
-   "s": "",
-   "c": "health",
-   "date": "2026-07-28T11:38:14.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/nordmand-skal-opereres-bestemt-ikke-paa-mit-bingokort/11244266",
-     "l": "da"
     }
    ],
    "tr": 1
