@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31T19:48:35.414Z",
+ "updated": "2026-07-31T21:17:46.788Z",
  "groups": [
   {
    "id": "results-2026-07-31",
@@ -7,12 +7,32 @@
    "t": "Latest results — ProCyclingStats",
    "s": "",
    "c": "race",
-   "date": "2026-07-31T19:48:32.688Z",
+   "date": "2026-07-31T21:17:43.714Z",
    "rows": [
     {
-     "race": "Tour of Denmark Stage 3",
+     "race": "UEC Mountain Bike European Championships short track",
+     "winner": "Charlie Aldridge",
+     "url": "https://www.procyclingstats.com/search.php?term=UEC%20Mountain%20Bike%20European%20Championships%20short%20track"
+    },
+    {
+     "race": "UEC Mountain Bike European Championships short track",
+     "winner": "Sina Frei",
+     "url": "https://www.procyclingstats.com/search.php?term=UEC%20Mountain%20Bike%20European%20Championships%20short%20track"
+    },
+    {
+     "race": "Tour of Denmark stage 1",
      "winner": "Wout van Aert",
-     "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Denmark%20Stage%203"
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Denmark%20stage%201"
+    },
+    {
+     "race": "Tour of Denmark stage 2",
+     "winner": "Wout van Aert",
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Denmark%20stage%202"
+    },
+    {
+     "race": "Tour of Denmark stage 3",
+     "winner": "Wout van Aert",
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Denmark%20stage%203"
     },
     {
      "race": "Transcontinental Race",
@@ -27,6 +47,36 @@
      "l": "en"
     }
    ]
+  },
+  {
+   "id": "74279ebf5e8e",
+   "t": "SpongeBob Meets Superbike: Factor Debuts a Unique Aero Frame at the Tour de France Femmes",
+   "s": "",
+   "c": "gear",
+   "date": "2026-07-31T20:52:33.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-gear/factor-one-spongebob-edition-tour-de-france-femmes/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "db204c25834e",
+   "t": "Every American, Canadian, and Mexican Rider in the Tour de France Femmes 2026",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T20:50:59.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/every-american-canadian-and-mexican-rider-in-the-tour-de-france-femmes-2026/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
   },
   {
    "id": "019fc0b58cec",
@@ -4058,36 +4108,6 @@
      "n": "Marca Ciclismo",
      "u": "https://www.marca.com/ciclismo/2026/07/30/laboratorio-quiere-cambiar-forma-montar-bicicleta.html",
      "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "8b9ceffac3e6",
-   "t": "Antonia Niedermaier loves life in the saddle",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-29T20:23:58.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/antonia-niedermaier-loves-life-in-the-saddle/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "8dd505d0137b",
-   "t": "Garmin reports 25% rise in Fitness sales in Q2",
-   "s": "",
-   "c": "gear",
-   "date": "2026-07-29T20:09:07.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/garmin-reports-25-rise-in-fitness-sales-in-q2/",
-     "l": "en"
     }
    ],
    "tr": 1
