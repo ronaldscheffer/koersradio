@@ -1,38 +1,79 @@
 {
- "updated": "2026-07-31T21:17:46.788Z",
+ "updated": "2026-07-31T22:39:55.620Z",
  "groups": [
+  {
+   "id": "scorito-2026-07-31",
+   "type": "picks",
+   "t": "Scorito picks — riders in form",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T22:39:55.620Z",
+   "rows": [
+    {
+     "r": "Wout van Aert",
+     "w": "Dominant form: hat-trick wins at Tour of Denmark including queen stage, clearly peaking"
+    },
+    {
+     "r": "Remco Evenepoel",
+     "w": "Preparing for record-holder goals; mentioned as having ideal winning scenario in mind for upcoming races"
+    },
+    {
+     "r": "Puck Pieterse",
+     "w": "Featured prominently in Tour de France Femmes 2026 Stage 1 preview as top contender for yellow jersey"
+    },
+    {
+     "r": "Marlen Reusser",
+     "w": "Building toward first major Tour de France Femmes GC campaign with confident pre-race mindset"
+    },
+    {
+     "r": "Vollering",
+     "w": "Named among biggest contenders quoted before 2026 Tour de France Femmes, major GC threat"
+    },
+    {
+     "r": "Ferrand-Prevot",
+     "w": "Listed as one of the biggest contenders quoted before 2026 Tour de France Femmes"
+    }
+   ],
+   "sources": [
+    {
+     "n": "PCS form ranking",
+     "u": "https://www.procyclingstats.com/rankings.php?p=form",
+     "l": "en"
+    }
+   ]
+  },
   {
    "id": "results-2026-07-31",
    "type": "results",
    "t": "Latest results — ProCyclingStats",
    "s": "",
    "c": "race",
-   "date": "2026-07-31T21:17:43.714Z",
+   "date": "2026-07-31T22:39:51.874Z",
    "rows": [
     {
-     "race": "UEC Mountain Bike European Championships short track",
+     "race": "UEC Mountain Bike European Championships",
      "winner": "Charlie Aldridge",
-     "url": "https://www.procyclingstats.com/search.php?term=UEC%20Mountain%20Bike%20European%20Championships%20short%20track"
+     "url": "https://www.procyclingstats.com/search.php?term=UEC%20Mountain%20Bike%20European%20Championships"
     },
     {
-     "race": "UEC Mountain Bike European Championships short track",
+     "race": "UEC Mountain Bike European Championships",
      "winner": "Sina Frei",
-     "url": "https://www.procyclingstats.com/search.php?term=UEC%20Mountain%20Bike%20European%20Championships%20short%20track"
+     "url": "https://www.procyclingstats.com/search.php?term=UEC%20Mountain%20Bike%20European%20Championships"
     },
     {
-     "race": "Tour of Denmark stage 1",
+     "race": "Tour of Denmark Stage 1",
      "winner": "Wout van Aert",
-     "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Denmark%20stage%201"
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Denmark%20Stage%201"
     },
     {
-     "race": "Tour of Denmark stage 2",
+     "race": "Tour of Denmark Stage 2",
      "winner": "Wout van Aert",
-     "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Denmark%20stage%202"
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Denmark%20Stage%202"
     },
     {
-     "race": "Tour of Denmark stage 3",
+     "race": "Tour of Denmark Stage 3",
      "winner": "Wout van Aert",
-     "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Denmark%20stage%203"
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Denmark%20Stage%203"
     },
     {
      "race": "Transcontinental Race",
@@ -4096,21 +4137,6 @@
      "l": "en"
     }
    ]
-  },
-  {
-   "id": "74631de7ac1d",
-   "t": "The laboratory that wants to change the way we ride bicycles",
-   "s": "",
-   "c": "gear",
-   "date": "2026-07-29T22:30:34.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/07/30/laboratorio-quiere-cambiar-forma-montar-bicicleta.html",
-     "l": "es"
-    }
-   ],
-   "tr": 1
   }
  ]
 }
