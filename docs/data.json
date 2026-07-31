@@ -1,6 +1,108 @@
 {
- "updated": "2026-07-31T17:50:05.908Z",
+ "updated": "2026-07-31T19:48:35.414Z",
  "groups": [
+  {
+   "id": "results-2026-07-31",
+   "type": "results",
+   "t": "Latest results — ProCyclingStats",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T19:48:32.688Z",
+   "rows": [
+    {
+     "race": "Tour of Denmark Stage 3",
+     "winner": "Wout van Aert",
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Denmark%20Stage%203"
+    },
+    {
+     "race": "Transcontinental Race",
+     "winner": "Robin Gemperle",
+     "url": "https://www.procyclingstats.com/search.php?term=Transcontinental%20Race"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ProCyclingStats",
+     "u": "https://www.procyclingstats.com/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "019fc0b58cec",
+   "t": "AUGUST TUTTOBICI IS READY: YOU CAN DOWNLOAD IT",
+   "s": "",
+   "c": "gear",
+   "date": "2026-07-31T19:03:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/31/1785507284/tuttobici-agosto-2026-pogacar-tour-de-france-2026-evenepoel-seixas-pedersen",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "4a94a08f0c96",
+   "t": "Charlie Aldridge and Sina Frei win short track titles in tight matchups in UEC Mountain Bike European Championships",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T18:30:36.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/charlie-aldridge-and-sina-frei-win-short-track-titles-in-tight-matchups-in-uec-mountain-bike-european-championships/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "a340747054c2",
+   "t": "LIVE: Historic stage awaits",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T18:19:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/live-historisk-etape-venter/11244867",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "e618eb835718",
+   "t": "Holm: Good for the race that Van Aert won",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T18:16:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/holm-godt-for-loebet-at-van-aert-vandt/11247021",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "56c824d75e3d",
+   "t": "\"Then I'm more at ease\": Remco Evenepoel wants to be record holder only and already has ideal winning scenario in mind",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T18:14:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/dan-ben-ik-wat-meer-op-mijn-gemak-remco-evenepoel-wil-alleen-recordhouder-worden-en-heeft-ideale-winstscenario-al-in-zn-hoofd~ad13362a/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "2513b0149025",
    "t": "Riedmann trusts her 'punchy sprint' in Lausanne",
@@ -17,31 +119,49 @@
    "tr": 1
   },
   {
-   "id": "results-2026-07-31",
-   "type": "results",
-   "t": "Latest results — ProCyclingStats",
+   "id": "fb5f4cd232a8",
+   "t": "Does Puck Pieterse believe in the first yellow jersey? \"Uncertain whether it will suit punchers or sprinters\"",
    "s": "",
    "c": "race",
-   "date": "2026-07-31T17:50:03.141Z",
-   "rows": [
-    {
-     "race": "Transcontinental Race",
-     "winner": "Robin Gemperle",
-     "url": "https://www.procyclingstats.com/search.php?term=Transcontinental%20Race"
-    },
-    {
-     "race": "Tour of Denmark sprint",
-     "winner": "Wout van Aert",
-     "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Denmark%20sprint"
-    }
-   ],
+   "date": "2026-07-31T17:58:38.000Z",
    "sources": [
     {
-     "n": "ProCyclingStats",
-     "u": "https://www.procyclingstats.com/",
-     "l": "en"
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/gelooft-puck-pieterse-in-eerste-gele-trui-onzeker-of-het-voor-puncheurs-of-sprinters-wordt/",
+     "l": "nl"
     }
-   ]
+   ],
+   "tr": 1
+  },
+  {
+   "id": "50dbd2287267",
+   "t": "Tour Femmes 2026: What time should you tune in for the key passages in stage 1?",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T17:45:00.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-hoe-laat-moet-je-inschakelen-voor-de-belangrijkste-passages-in-etappe-1/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "f90456ba0b30",
+   "t": "Mørkøv gives status update after Foldager's crash",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-31T17:42:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/moerkoev-giver-status-efter-foldagers-styrt/11247002",
+     "l": "da"
+    }
+   ],
+   "tr": 1
   },
   {
    "id": "1c50041276ab",
@@ -54,6 +174,21 @@
      "n": "Radsport-News",
      "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146323.htm",
      "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "699ef89d17b5",
+   "t": "Tour Femmes 2026: Stage 1 preview – Strong sprinters and punchers battle for yellow",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T17:37:48.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-voorbeschouwing-etappe-1-strijd-tussen-sprinters-met-punch-en-puncheurs-met-sprint-op-venijnige-aankomst/",
+     "l": "nl"
     }
    ],
    "tr": 1
@@ -1809,6 +1944,21 @@
      "n": "Feltet.dk",
      "u": "https://feltet.dk/landevej/vingegaardindikerer-maal-for-2027/11246061",
      "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "14a5489bc69f",
+   "t": "For Koch at the Tour, only yellow matters for Vollering in the end",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T03:43:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146292.htm",
+     "l": "de"
     }
    ],
    "tr": 1
@@ -3938,96 +4088,6 @@
      "n": "Escape Collective",
      "u": "https://escapecollective.com/garmin-reports-25-rise-in-fitness-sales-in-q2/",
      "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "94d643a0314b",
-   "t": "Veni, vidi, Wout: how Wout van Aert once again proved he is a master of comebacks in Denmark",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-29T19:13:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/veni-vidi-wout-hoe-wout-van-aert-in-denemarken-nogmaals-bewees-dat-hij-een-meester-in-comebacks-is~a0aef21f/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "b849fb774950",
-   "t": "Danish champion crashed out in chaotic pileup",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-29T18:30:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/dansk-mester-udgik-i-styrtkaos/11245309",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "452ea246715a",
-   "t": "ITALIAN NATIONALS. FANTINI GOLD BY ONE POINT, BARBIERI CLAIMS FIFTH TITLE",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-29T18:22:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/29/1785349368/campionati-italiani-corsa-a-punti-ciclismo-assoluti-2026-pista",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "8f2af1fc9c13",
-   "t": "ITALIAN NATIONALS. MORO AND VECE KING AND QUEEN OF ELITE SPEED",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-29T18:14:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/29/1785348909/ciclismo-assoluti-velocita-pista-miriam-vece-stefano-moro",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "999dea9923b8",
-   "t": "'There was a lot of chaos' - Roller coaster return for Wout van Aert ends in victory after being caught in mass crash in Tour of Denmark",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-29T18:05:42.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/there-was-a-lot-of-chaos-roller-coaster-return-for-wout-van-aert-ends-in-victory-after-being-caught-in-mass-crash-in-tour-of-denmark/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "d31b8aeaccc7",
-   "t": "Marianne Vos rides Tour in support: 'Ferrand-Prévot's general classification comes first'",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-29T17:52:14.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/marianne-vos-rijdt-tour-in-dienst-het-klassement-van-ferrand-prevot-komt-op-de-eerste-plaats/",
-     "l": "nl"
     }
    ],
    "tr": 1
