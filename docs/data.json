@@ -1,6 +1,81 @@
 {
- "updated": "2026-07-31T01:10:11.988Z",
+ "updated": "2026-07-31T05:06:04.002Z",
  "groups": [
+  {
+   "id": "83bc6d1c0799",
+   "t": "The roadside party bringing fans closer to the Tour de France Femmes",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-31T05:03:18.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/the-roadside-party-bringing-fans-closer-to-the-tour-de-france-femmes/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "8c5cba7c6615",
+   "t": "'Looking forward to simply following my feeling': Lotte Kopecky heads to Tour de France Femmes in free role",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T04:49:45.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/kijk-ernaar-uit-om-gewoon-mijn-gevoel-te-volgen-lotte-kopecky-trekt-in-vrije-rol-naar-tour-de-france-femmes~a56fed9c/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "7871b5c10d4e",
+   "t": "At the campsite, Vollering dreams big: 'Don't want to be just a selfish athlete'",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-31T04:27:08.000Z",
+   "sources": [
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2625015",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "d9a12a5b0829",
+   "t": "Vingegaard indicates goals for 2027",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-31T04:00:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/vingegaardindikerer-maal-for-2027/11246061",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "3df939e0d6a6",
+   "t": "The seven riders from Australia and New Zealand taking to the start line at the Tour de France Femmes",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T01:10:19.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/the-seven-riders-from-australia-and-new-zealand-taking-to-the-start-line-at-the-tour-de-france-femmes/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "6baf572ee263",
    "t": "Threaded #60: Dreaming up a new workshop, part one",
@@ -62,6 +137,21 @@
    "tr": 1
   },
   {
+   "id": "20188f64075c",
+   "t": "Sandrine Tas faces Tour debut: 'Super excited, it will be one big discovery'",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-30T20:13:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/tour-de-france/sandrine-tas-staat-voor-tour-debuut-superzot-het-wordt-een-grote-ontdekkingstocht~a792dedf7/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
    "id": "59916a6077f9",
    "t": "Cycling live in stream, TV and ticker: today's races",
    "s": "",
@@ -86,6 +176,21 @@
     {
      "n": "HLN Wielrennen",
      "u": "https://www.hln.be/wielrennen/hoe-brutaal-hier-ben-ik-ziek-van-de-foute-chipregistratie-die-ervoor-zorgde-dat-plowright-en-niet-van-aert-juichte~a46a7bfe/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "4cbbb8f3d5a3",
+   "t": "'How brutal! This makes me sick': the wrong chip registration that caused Jensen Plowright and not Wout van Aert to celebrate",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-30T19:28:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/hoe-brutaal-hier-ben-ik-ziek-van-de-foute-chipregistratie-die-ervoor-zorgde-dat-jensen-plowright-en-niet-wout-van-aert-juichte~a46a7bfe/",
      "l": "be"
     }
    ],
@@ -3881,21 +3986,6 @@
      "n": "HLN Wielrennen",
      "u": "https://www.hln.be/wielrennen/van-de-infectiehel-in-herentals-tot-46-km-u-achter-de-brommer-hoe-wout-van-aert-zich-in-48-dagen-terug-in-competitie-knokte~a380ac34/",
      "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "d68b7e59a468",
-   "t": "Alice Towers has found another level – now she's chasing her next win",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-29T01:49:11.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/alice-towers-has-found-another-level-now-shes-chasing-her-next-win/",
-     "l": "en"
     }
    ],
    "tr": 1
