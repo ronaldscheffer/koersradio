@@ -1,6 +1,468 @@
 {
- "updated": "2026-07-31T15:47:55.220Z",
+ "updated": "2026-07-31T17:50:05.908Z",
  "groups": [
+  {
+   "id": "2513b0149025",
+   "t": "Riedmann trusts her 'punchy sprint' in Lausanne",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T18:10:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146324.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "results-2026-07-31",
+   "type": "results",
+   "t": "Latest results — ProCyclingStats",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T17:50:03.141Z",
+   "rows": [
+    {
+     "race": "Transcontinental Race",
+     "winner": "Robin Gemperle",
+     "url": "https://www.procyclingstats.com/search.php?term=Transcontinental%20Race"
+    },
+    {
+     "race": "Tour of Denmark sprint",
+     "winner": "Wout van Aert",
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Denmark%20sprint"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ProCyclingStats",
+     "u": "https://www.procyclingstats.com/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "1c50041276ab",
+   "t": "Roglic hit by car while training",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-31T17:40:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146323.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "617b65e94b60",
+   "t": "Marketing vs. Engineering and the 32-Inch Bike Debate",
+   "s": "",
+   "c": "gear",
+   "date": "2026-07-31T17:28:40.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/gravel/gravel-gear/velo-podcast-aero-bikes-32-inch-wheels/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "743b1bae238b",
+   "t": "Presentation of the 1st stage of Tour de France Femmes 2026",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T17:27:01.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/courses/tour-de-france-femmes/presentation-de-la-1ere-etape-du-tour-de-france-femmes-2026/",
+     "l": "fr"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "2a47a2069705",
+   "t": "No Thibau Nys tomorrow at Clásica San Sebastián: Lidl-Trek rider is sick",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-31T17:25:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/geen-thibau-nys-morgen-in-clasica-san-sebastian-renner-van-lidl-trek-is-ziek~ad13362a/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "b44af3142658",
+   "t": "Tour of Denmark: Wout van Aert doubles down",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T17:24:38.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/courses/tour-du-danemark/tour-du-danemark-wout-van-aert-triple-la-mise/",
+     "l": "fr"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "1c12fcda78ce",
+   "t": "WATCH. Wout van Aert steals the show after third consecutive win and jokes about own phone subscription becoming 'increasingly unaffordable'",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T17:17:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/kijk-wout-van-aert-steelt-de-show-na-derde-overwinning-op-rij-en-grapt-over-eigen-gsm-abonnement-dat-stilaan-onbetaalbaar-wordt~a78402d4/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "4dbf9c302829",
+   "t": "The six German starters at the 5th Tour de France Femmes",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T17:14:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146321.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "663911ae2e14",
+   "t": "Van Aert also wins the third stage of the Tour of Denmark and consolidates the lead",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T17:02:47.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/07/31/aert-gana-tambien-tercera-etapa-vuelta-dinamarca-afianza-liderato.html",
+     "l": "es"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "e93668e0dc9a",
+   "t": "Wout van Aert surprises himself with third stage win in a row: 'It was actually for Laporte'",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T17:01:42.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/wout-van-aert-verrast-zichzelf-met-derde-ritzege-op-rij-het-was-eigenlijk-voor-laporte/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "02dddd65c3da",
+   "t": "Raced right up with the stars: - One of the biggest results",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T17:01:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/koerte-lige-op-med-stjernerne-et-af-de-stoerste-resultater/11246986",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "57fecec2eea3",
+   "t": "Vollering, Ferrand-Prevot, Niewiadoma-Phinney: The Biggest Quotes Before the 2026 Tour de France Femmes",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T16:59:29.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/vollering-ferrand-prevot-niewiadoma-phinney-biggest-quotes-before-2026-tour-de-france-femmes/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "31eb7eb91eee",
+   "t": "Roglič hit by car in training, will miss San Sebastian",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-31T16:55:08.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/roglic-hit-by-car-in-training-will-miss-san-sebastian/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "5ac22b1e9a93",
+   "t": "Primož Roglič Hit by Driver, Throwing Vuelta a España Preparations Into Chaos",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-31T16:50:23.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/vuelta-a-espana/primoz-roglic-hit-by-car-throwing-vuelta-a-espana-preparations-into-chaos/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "830db7c456ab",
+   "t": "Wout van Aert is the king of Denmark",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T16:49:45.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/wout-van-aert-is-the-king-of-denmark/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "2bdab84a9434",
+   "t": "Van Aert had a rough day: - Definitely not easy",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T16:39:07.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/van-aert-havde-en-grim-dag-bestemt-ikke-nemt/11246979",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "a0374214dfc8",
+   "t": "Roglic, hit by a car: goodbye San Sebastián and Tour of Burgos",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-31T16:33:43.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/07/31/roglic-atropellado-coche-adios-san-sebastian-vuelta-burgos.html",
+     "l": "es"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "eca5b548cd95",
+   "t": "'Every race in my life, I'm underestimated' – Marlen Reusser has no doubts ahead of first major Tour de France Femmes GC campaign",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T16:28:23.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/every-race-in-my-life-im-underestimated-marlen-reusser-has-no-doubts-ahead-of-first-major-tour-de-france-femmes-gc-campaign/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "052c446ba316",
+   "t": "Minute by minute: How the drama unfolded on Kiddesvej",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T16:28:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/minut-for-minut-saadan-gik-dramaet-paa-kiddesvej/11244867",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "822c080870fa",
+   "t": "Primoz Roglic hit by car, misses Clásica San Sebastián and Tour of Burgos",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-31T16:26:07.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/primoz-roglic-aangereden-door-auto-mist-clasica-san-sebastian-en-ronde-van-burgos/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "8efa68cbce14",
+   "t": "Van Aert achieves sovereign hat-trick in Danish rain",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T16:22:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146319.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "aa7d40102e0b",
+   "t": "Spain, fifth in mixed relay at European Championships",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T16:12:34.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/07/31/espana-quinta-relevo-mixto-europeo.html",
+     "l": "es"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "7730556971e4",
+   "t": "Tour of Denmark: Wout van Aert scores hat-trick on stage 3 with a win on wet and wild queen stage",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T16:12:27.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-of-denmark-wout-van-aert-scores-hat-trick-on-stage-3-with-a-win-on-wet-and-wild-queen-stage/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "f5877105868d",
+   "t": "Three in a row for Van Aert: also wins hectic queen stage Tour of Denmark",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T16:10:32.000Z",
+   "sources": [
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2625083",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "876b72e466cf",
+   "t": "'Not the best scenario, but it's life' – Primož Roglič hit by car driver in training, forced to miss build-up races for Vuelta a España",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-31T16:08:14.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/not-the-best-scenario-but-its-life-primoz-roglic-hit-by-car-driver-in-training-forced-to-miss-build-up-races-for-vuelta-a-espana/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "893c6a7b8ea3",
+   "t": "Unstoppable: Third stage win in a row for Wout van Aert in queen stage Tour of Denmark",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T15:59:33.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/derde-ritzege-op-rij-voor-wout-van-aert-in-koninginnenrit-ronde-van-denemarken/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "214203eba2ab",
+   "t": "Tour of Denmark, magical Van Aert: Hat-trick at Vejle ahead of Kubis and Laporte",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T15:58:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/31/1785513990/tour-of-denmark-2026-van-aert-tripletta-kubis-laporte",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "a1a163e95e0f",
+   "t": "Van Aert completes hat-trick on Kiddesvej",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T15:57:49.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/van-aert-fuldender-hattrick-paa-kiddesvej/11246880",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "bd78cd590c25",
+   "t": "'Unexpected victory, as the legs didn't feel super': Wout van Aert wins tough queen stage in Denmark and completes hat-trick",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T15:57:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/onverwachte-zege-want-de-benen-voelden-niet-super-wout-van-aert-wint-ook-zware-koninginnenrit-in-denemarken-en-maakt-hattrick-compleet~a68a3414/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "16419be0ccc5",
    "t": "Van Aert and Kubis caught again: will our compatriot still complete his hat-trick?",
@@ -27,6 +489,36 @@
      "n": "Cyclingnews",
      "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/im-ready-to-break-the-ventoux-kom-kasia-niewiadoma-phinney-anticipates-another-iconic-mountain-showdown-at-the-tour-de-france-femmes/",
      "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "7e171b3c05cf",
+   "t": "Rune Herregodts likely to leave UAE: 'Own chances are scarce'",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-31T15:37:09.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/rune-herregodts-gaat-uae-waarschijnlijk-verlaten-eigen-kansen-zijn-schaars/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "9f03f89536af",
+   "t": "Red Bull Bora Hansgrohe. Roglic hit in training, no Burgos and San Sebastian for the Slovenian",
+   "s": "",
+   "c": "health",
+   "date": "2026-07-31T15:33:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/07/31/1785516372/roglic-red-bull-bora-hansgrohe-incidente-investito",
+     "l": "it"
     }
    ],
    "tr": 1
@@ -3536,426 +4028,6 @@
      "n": "Wielerflits",
      "u": "https://www.wielerflits.nl/nieuws/marianne-vos-rijdt-tour-in-dienst-het-klassement-van-ferrand-prevot-komt-op-de-eerste-plaats/",
      "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "b93abab35cc3",
-   "t": "Tour de France TV Coverage in the US Desperately Needs a Change. On Stage 21, We Saw What It Could Be.",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-29T17:40:37.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/nbc-usa-tour-de-france-tv-coverage-desperately-needs-change/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "dd1128c93065",
-   "t": "Van Aert fires back in his comeback: Drawing on his reserves",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-29T17:28:04.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/van-aert-fik-svar-i-sit-comeback-gemte-paa-sine-patroner/11245302",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "6ed8a04ccafe",
-   "t": "LIVE: Foldager frustrated about time loss!",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-29T17:28:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/live-foldager-aergrer-sig-over-tidstab/11244867",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "b1e60d3e150d",
-   "t": "LIVE: Vingegaard holds press conference",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-29T17:28:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/live-vingegaard-holder-pressemoede/11244867",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "2640e8e26e8a",
-   "t": "Risk of forest fires could lead to modification of Tour Femmes stage to Mont Ventoux",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-29T17:26:04.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/bosbranden-zorgen-mogelijk-voor-wijziging-tour-femmes-etappe-naar-mont-ventoux/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "ff8851547a78",
-   "t": "No riders revealed but Decathlon CMA CGM confirm creation of women's team for 2027",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-29T17:22:55.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/no-riders-revealed-but-decathlon-cma-cgm-confirm-creation-of-womens-team-for-2027/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "91ca2c27678a",
-   "t": "Nielsen went all-in on solo attempt: Classification likely over now",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-29T17:18:31.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/nielsen-satsede-alt-i-solotogt-nu-er-klassementet-nok-koert/11245295",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "253e2d67709e",
-   "t": "Asia's emerging talents you should know about",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-29T17:06:30.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/asias-emerging-talents-you-should-know-about/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "2d34651924b7",
-   "t": "Wout van Aert immediately strikes after missing Tour: 'Explosiveness is good'",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-29T17:03:53.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/na-gemiste-tour-is-het-meteen-raak-voor-wout-van-aert-qua-explosiviteit-zit-het-goed/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "3cbf76b3b546",
-   "t": "Van Aert celebrates comeback opening victory in Denmark",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-29T16:55:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146299.htm",
-     "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "ef429ed90933",
-   "t": "Michel Cornelisse becomes sporting director at SD Worx-Protime from next season",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-29T16:44:13.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/michel-cornelisse-vanaf-volgend-seizoen-ploegleider-bij-sd-worx-protime/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "98130f471f17",
-   "t": "Breiner rode on podium with Van Aert: Wants to race classification",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-29T16:34:57.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/breiner-koerte-paa-podiet-med-van-aert-vil-koere-klassement/11245248",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "9ae42ebc296b",
-   "t": "WATCH. \"This gives great satisfaction\": Wout van Aert powers to victory despite crash on return to peloton",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-29T16:34:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/kijk-dit-geeft-veel-voldoening-wout-van-aert-knalt-ondanks-valpartij-naar-zege-bij-terugkeer-in-peloton~a436edbd/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e385ac7fbad4",
-   "t": "WATCH. A return through the big door: Wout van Aert crashes to victory in opening stage despite crash",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-29T16:34:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/kijk-een-terugkeer-door-de-grote-poort-wout-van-aert-knalt-ondanks-valpartij-naar-zege-in-openingsrit~a436edbd/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "c1796772e291",
-   "t": "Tour Femmes 2026: Lidl-Trek with three Dutch women and leaves Fleur Moors at home",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-29T16:33:04.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-lidl-trek-met-drie-nederlandse-vrouwen-en-laat-fleur-moors-thuis/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "597d7799af3c",
-   "t": "Stage 1 Tour of Denmark: Wout van Aert succeeds in his return",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-29T16:31:16.000Z",
-   "sources": [
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/courses/tour-du-danemark/1ere-etape-tour-du-danemark-wout-van-aert-reussit-son-retour/",
-     "l": "fr"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "bcd13f7d14e7",
-   "t": "Kim Cadzow announces retirement from pro cycling",
-   "s": "",
-   "c": "health",
-   "date": "2026-07-29T16:20:49.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/kim-cadzow-announces-retirement-from-pro-cycling/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "b39a2af3dfa8",
-   "t": "Van Aert wins on return in Tour of Denmark",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-29T16:17:56.000Z",
-   "sources": [
-    {
-     "n": "NOS Wielrennen",
-     "u": "https://nos.nl/l/2624872",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "9440bf93f25a",
-   "t": "Wout van Aert leaves no room for surprise and starts leading the Tour of Denmark",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-29T16:16:03.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/07/29/wout-aert-deja-lugar-sorpresa-empieza-liderando-vuelta-dinamarca.html",
-     "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "81eb9bc132c3",
-   "t": "Decathlon-CMA CGM to start pro women's team",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-29T16:12:33.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/decathlon-cma-cgm-to-start-pro-womens-team/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "14d76e0eb5f7",
-   "t": "Wout van Aert wins first race back after infected elbow kept him out of the Tour de France",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-29T16:09:18.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/wout-van-aert-wins-first-race-back-after-infected-elbow-kept-him-out-of-the-tour-de-france/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "ba1bec406bbb",
-   "t": "Tour of Denmark: Wout van Aert wins comeback race on stage 1 with powerful sprint from small group",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-29T16:06:10.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-of-denmark-wout-van-aert-wins-comeback-race-on-stage-1-with-powerful-sprint-from-small-group/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "b27dcb83f1bc",
-   "t": "Shirin van Anrooij linked to Canyon-SRAM transfer",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-29T16:03:34.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/shirin-van-anrooij-linked-to-canyon-sram-transfer/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "1abacabec3cb",
-   "t": "Garmin's New Tracker Has No Screen. Here is Why it Completes the Ecosystem for Cyclists.",
-   "s": "",
-   "c": "gear",
-   "date": "2026-07-29T15:55:46.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-gear/garmin-cirqa-screenless-ecosystem-analysis/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "54817e7a9822",
-   "t": "Tour of Denmark, Van Aert immediately strikes after Tour de France withdrawal: Kubis and Pedersen beaten in Aalborg",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-29T15:53:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/29/1785340706/tour-of-denmark-van-aert-kubis-pedersen",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "b0114da8e8c4",
-   "t": "He's back! Wout van Aert wins on comeback in Tour of Denmark, Lukas Kubis second",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-29T15:51:46.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/wout-van-aert-wint-meteen-bij-comeback-in-ronde-van-denemarken-lukas-kubis-tweede/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "19edc665b82c",
-   "t": "Danish talent impresses in Van Aert victory",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-29T15:50:25.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/dansk-stortalent-imponerer-i-van-aert-sejr/11245202",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "bb0cd9fdc9a9",
-   "t": "National Championships. Veglia and Ferrante Italian junior keirin champions",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-29T15:49:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/29/1785340170/ciclismo-pista-keirin-juniores-assoluti-alberto-veglia-maya-ferrante",
-     "l": "it"
     }
    ],
    "tr": 1
