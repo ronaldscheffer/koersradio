@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31T11:10:44.303Z",
+ "updated": "2026-07-31T13:17:43.160Z",
  "groups": [
   {
    "id": "results-2026-07-31",
@@ -7,27 +7,22 @@
    "t": "Latest results — ProCyclingStats",
    "s": "",
    "c": "race",
-   "date": "2026-07-31T11:10:40.393Z",
+   "date": "2026-07-31T13:17:40.512Z",
    "rows": [
     {
-     "race": "Herentals post-Tour criterium",
-     "winner": "Jasper Philipsen",
-     "url": "https://www.procyclingstats.com/search.php?term=Herentals%20post-Tour%20criterium"
-    },
-    {
-     "race": "Denmark race",
+     "race": "Tour of Denmark sprint",
      "winner": "Wout van Aert",
-     "url": "https://www.procyclingstats.com/search.php?term=Denmark%20race"
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Denmark%20sprint"
     },
     {
-     "race": "European MTB Championships XCC",
-     "winner": "Juri Zanotti",
-     "url": "https://www.procyclingstats.com/search.php?term=European%20MTB%20Championships%20XCC"
+     "race": "Na-Tour criterium in Herentals",
+     "winner": "Jasper Philipsen",
+     "url": "https://www.procyclingstats.com/search.php?term=Na-Tour%20criterium%20in%20Herentals"
     },
     {
-     "race": "Italian National Championships Madison Elite",
-     "winner": "Fiorin-Galli",
-     "url": "https://www.procyclingstats.com/search.php?term=Italian%20National%20Championships%20Madison%20Elite"
+     "race": "Na-Tour criterium in Wateringen",
+     "winner": "Olav Kooij",
+     "url": "https://www.procyclingstats.com/search.php?term=Na-Tour%20criterium%20in%20Wateringen"
     }
    ],
    "sources": [
@@ -37,6 +32,231 @@
      "l": "en"
     }
    ]
+  },
+  {
+   "id": "d614e59df25e",
+   "t": "Preview: World's best vie for yellow at Tour de France Femmes",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T13:06:05.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/preview-worlds-best-vie-for-yellow-at-tour-de-france-femmes/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "5c7b803da587",
+   "t": "Rising star extends with Lotto",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-31T12:55:50.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/stjernefroe-forlaenger-med-lotto/11246836",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "9519ce999f9e",
+   "t": "Race director after controversy: 'Pressed the button one second too quickly'",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-31T12:47:53.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/loebsdirektoer-efter-kontrovers-trykkede-et-sekund-for-hurtigt/11246582",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "4cfd182be8aa",
+   "t": "Incolour SSR review: Lightweight, aero, and shockingly uncomfortable",
+   "s": "",
+   "c": "gear",
+   "date": "2026-07-31T12:42:16.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/bikes/road/incolour-ssr-review/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "c840c6e98b59",
+   "t": "Design UAE Team Emirates-XRG's next helmet and you could win a trip to the 2027 UAE Tour",
+   "s": "",
+   "c": "gear",
+   "date": "2026-07-31T12:37:11.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/cycling-kit-accessories/helmets/design-uae-team-emirates-xrgs-next-helmet-and-you-could-win-a-trip-to-the-2027-uae-tour/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "e899f1c3ad54",
+   "t": "Cycling: August 2026 race calendar",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-31T12:36:43.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/courses/cyclisme/cyclisme-le-calendrier-des-courses-daout-2026/",
+     "l": "fr"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "6e4f21828c94",
+   "t": "Thought the contract was done - but Mads A. has heard nothing",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-31T12:19:08.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/troede-kontrakten-var-hjemme-men-mads-a.-har-intet-hoert/11246786",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "c3d784e14091",
+   "t": "Jarno Widar stays at Lotto-Intermarché",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-31T12:04:24.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/actualite/cyclisme/jarno-widar-reste-chez-lotto-intermarche/",
+     "l": "fr"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "6da680956f52",
+   "t": "Four Danes color the breakaway in the queen stage, Wout van Aert: 'There will be a lot of racing against us'",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T11:58:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/vier-denen-kleuren-de-kopgroep-in-koninginnenrit-wout-van-aert-er-zal-vooral-veel-tegen-ons-gekoerst-worden~a68a3414/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "ccc30568e3c7",
+   "t": "Wout van Aert expects difficult queen stage in Denmark: 'There will be many attacks'",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T11:54:30.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/wout-van-aert-verwacht-lastige-koninginnenrit-in-denemarken-er-zullen-veel-aanvallen-komen/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "4916d5217a37",
+   "t": "Paula Blasi reveals she has yet to decide on her future",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-31T11:47:49.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/paula-blasi-reveals-she-has-yet-to-decide-on-her-future/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "388c04db569c",
+   "t": "Belgian wants away from UAE",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-31T11:28:17.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/belgier-vil-vaek-fra-uae/11246633",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "62650c3f4bc8",
+   "t": "Lotte Kopecky not going for personal gain in Tour Femmes: 'First lead out, then follow feeling'",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T11:14:04.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/lotte-kopecky-gaat-niet-voor-eigen-gewin-in-tour-femmes-eerst-lead-out-doen-dan-gevoel-volgen/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "2de2da15c92f",
+   "t": "Clasica San Sebastian 2026: the route and the favorites",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T11:11:45.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/courses/clasica-san-sebastian/clasica-san-sebastian-2026-le-parcours-et-les-favoris/",
+     "l": "fr"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "3a8817f8a40c",
+   "t": "Revenue Sharing Re-Revisited",
+   "s": "",
+   "c": "other",
+   "date": "2026-07-31T11:09:47.000Z",
+   "sources": [
+    {
+     "n": "The Inner Ring (inrng.com)",
+     "u": "https://inrng.com/2026/07/revenue-sharing-re-revisited/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
   },
   {
    "id": "2c5865f9ff1f",
@@ -64,6 +284,21 @@
      "n": "Radsport-News",
      "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146318.htm",
      "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "5b40567dd92c",
+   "t": "Top talent Jarno Widar chooses longer stay at Lotto-Intermarché",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-07-31T10:34:35.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/toptalent-jarno-widar-kiest-voor-langer-verblijf-bij-lotto-intermarche/",
+     "l": "nl"
     }
    ],
    "tr": 1
@@ -273,6 +508,21 @@
     {
      "n": "Feltet.dk",
      "u": "https://feltet.dk/landevej/live-norsgaard-med-spaendende-haab-nu-starter-kongeetapen/11244867",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "3d37ec8afd1a",
+   "t": "LIVE: Rain pours down on Danish breakaway on Vejle stage",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T08:28:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/live-regnen-vaelter-ned-over-dansk-udbrud-paa-vejle-etapen/11244867",
      "l": "da"
     }
    ],
@@ -3798,231 +4048,6 @@
      "n": "Feltet.dk",
      "u": "https://feltet.dk/landevej/van-aert-har-skrevet-til-vingegaard/11245126",
      "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "183f81ee3906",
-   "t": "Décathlon CMA CGM will have a women's team from 2027",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-29T13:12:02.000Z",
-   "sources": [
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/actualite/cyclisme/decathlon-cma-cgm-aura-une-equipe-feminine-des-2027/",
-     "l": "fr"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "9891b04dc439",
-   "t": "KNWU files report of physical misconduct against staff and volunteers",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-29T13:05:06.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/knwu-maakt-melding-van-fysiek-wangedrag-tegen-medewerkers-en-vrijwilligers/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "65a9f9954f15",
-   "t": "Win contest: Chance to win duo tickets for participation in Heathland Gravel 2026 (worth €209.90)",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-29T13:00:02.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/winactie-maak-kans-op-een-duo-ticket-voor-deelname-aan-heathland-gravel-2026-t-w-v-e20990/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "dca310450e5d",
-   "t": "In 2027 Decathlon CMA CGM will open the women's team",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-29T12:59:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/29/1785330732/ciclismo-squadre-femminili-decathlon-cma-cgm-ciclismo-professionistico-sviluppo-talenti",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "7e18ea158710",
-   "t": "Shirin van Anrooij chooses different team after six years",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-29T12:48:11.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/shirin-van-anrooij-kiest-na-zes-jaar-voor-een-andere-ploeg/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "25c61ea189f6",
-   "t": "Shirin van Anrooij to switch from Lidl-Trek to Canyon//SRAM this winter",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-29T12:48:11.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/shirin-van-anrooij-stapt-komende-winter-over-van-lidl-trek-naar-canyon-sram/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "2d4ae0724355",
-   "t": "40 years after fall of Berlin Wall: Germany wants to host Tour de France 2029 start",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-29T12:32:00.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/40-jaar-na-val-van-berlijnse-muur-duitsland-wil-start-tour-de-france-2029-organiseren/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "ce1c1ee4a690",
-   "t": "ENGWE E26 3.0 PRO, the test of the smartest SUV-style e-bike",
-   "s": "",
-   "c": "gear",
-   "date": "2026-07-29T12:32:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/29/1785328478/engwe-e26-3-pro-ebike-recensione",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "c988de600073",
-   "t": "Tour de France Femmes 2026 Cheat Sheet: Route, Stages, Climbs, Jerseys, Prize Money, and Favorites",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-29T12:18:32.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/tour-de-france-femmes-2026-cheat-sheet-route-stages-climbs-jerseys-prize-money-and-favorites/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "06132b852559",
-   "t": "'Pauline will be on the same level or better; we are only focused on ourselves' – Inside FDJ United-Suez and Demi Vollering's preparation, mindset and ambitions for the Tour de France Femmes",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-29T11:59:19.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/pauline-will-be-on-the-same-level-or-better-we-are-only-focused-on-ourselves-inside-fdj-united-suez-and-demi-vollerings-preparation-mindset-and-ambitions-for-the-tour-de-france-femmes/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "bdc927affacc",
-   "t": "Wout van Aert: \"I'm looking for answers in Tour of Denmark\"",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-29T11:50:52.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/wout-van-aert-ik-zoek-antwoorden-in-ronde-van-denemarken/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "c4152ce67034",
-   "t": "'Paul will win with us' – Decathlon CMA CGM hope Tour de France performance will convince Seixas to stay with French team beyond 2027",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-29T11:32:32.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/paul-will-win-with-us-decathlon-cma-cgm-hope-tour-de-france-performance-will-convince-seixas-to-stay-with-french-team-beyond-2027/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "4e011c85cfb1",
-   "t": "Decathlon CMA CGM launches women's team, initially without big names",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-29T11:21:03.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/decathlon-cma-cgm-richt-vrouwenploeg-op-voorlopig-zonder-grote-namen/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e68f993e8a11",
-   "t": "The Moment The Tour de France Was Won",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-29T11:15:50.000Z",
-   "sources": [
-    {
-     "n": "The Inner Ring (inrng.com)",
-     "u": "https://inrng.com/2026/07/tour-de-france-2026-review/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "9991988387fd",
-   "t": "Wout van Aert, who is also very popular in Denmark, feels fit: \"Training went well, I hope to find answers here\"",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-29T11:11:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/wout-van-aert-die-ook-in-denemarken-erg-populair-is-voelt-zich-fit-op-training-ging-het-goed-ik-hoop-hier-antwoorden-te-vinden~a436edbd/",
-     "l": "be"
     }
    ],
    "tr": 1
