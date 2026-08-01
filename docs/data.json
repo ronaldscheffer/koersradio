@@ -1,53 +1,6 @@
 {
- "updated": "2026-08-01T00:10:10.726Z",
+ "updated": "2026-08-01T04:04:03.025Z",
  "groups": [
-  {
-   "id": "results-2026-08-01",
-   "type": "results",
-   "t": "Latest results — ProCyclingStats",
-   "s": "",
-   "c": "race",
-   "date": "2026-08-01T00:10:08.095Z",
-   "rows": [
-    {
-     "race": "UEC Mountain Bike European Championships",
-     "winner": "Charlie Aldridge",
-     "url": "https://www.procyclingstats.com/search.php?term=UEC%20Mountain%20Bike%20European%20Championships"
-    },
-    {
-     "race": "UEC Mountain Bike European Championships",
-     "winner": "Sina Frei",
-     "url": "https://www.procyclingstats.com/search.php?term=UEC%20Mountain%20Bike%20European%20Championships"
-    },
-    {
-     "race": "Tour of Denmark Stage 1",
-     "winner": "Wout van Aert",
-     "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Denmark%20Stage%201"
-    },
-    {
-     "race": "Tour of Denmark Stage 2",
-     "winner": "Wout van Aert",
-     "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Denmark%20Stage%202"
-    },
-    {
-     "race": "Tour of Denmark Stage 3",
-     "winner": "Wout van Aert",
-     "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Denmark%20Stage%203"
-    },
-    {
-     "race": "Transcontinental Race",
-     "winner": "Robin Gemperle",
-     "url": "https://www.procyclingstats.com/search.php?term=Transcontinental%20Race"
-    }
-   ],
-   "sources": [
-    {
-     "n": "ProCyclingStats",
-     "u": "https://www.procyclingstats.com/",
-     "l": "en"
-    }
-   ]
-  },
   {
    "id": "74279ebf5e8e",
    "t": "SpongeBob Meets Superbike: Factor Debuts a Unique Aero Frame at the Tour de France Femmes",
@@ -4064,21 +4017,6 @@
      "n": "Feltet.dk",
      "u": "https://feltet.dk/landevej/transferlisten-2026-2027-worldtouren/11244321",
      "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "ff740a6dd9f8",
-   "t": "Q&A: USA Cycling's mountain bike director on building for the LA Olympics",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T02:02:20.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/q-a-usa-cyclings-mountain-bike-director-on-building-for-the-la-olympics/",
-     "l": "en"
     }
    ],
    "tr": 1
