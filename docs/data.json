@@ -1,38 +1,6 @@
 {
- "updated": "2026-08-01T19:43:52.128Z",
+ "updated": "2026-08-01T19:53:28.542Z",
  "groups": [
-  {
-   "id": "results-2026-08-01",
-   "type": "results",
-   "t": "Latest results — ProCyclingStats",
-   "s": "",
-   "c": "race",
-   "date": "2026-08-01T19:43:49.200Z",
-   "rows": [
-    {
-     "race": "Tour de France Femmes Stage 1",
-     "winner": "Lorena Wiebes",
-     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20France%20Femmes%20Stage%201"
-    },
-    {
-     "race": "Tour of Denmark Stage 4",
-     "winner": "Storm Ingebrigtsen",
-     "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Denmark%20Stage%204"
-    },
-    {
-     "race": "San Sebastian",
-     "winner": "Remco Evenepoel",
-     "url": "https://www.procyclingstats.com/search.php?term=San%20Sebastian"
-    }
-   ],
-   "sources": [
-    {
-     "n": "ProCyclingStats",
-     "u": "https://www.procyclingstats.com/",
-     "l": "en"
-    }
-   ]
-  },
   {
    "id": "2d5b9e5eafd2",
    "t": "Klöser satisfied all around with her Tour debut",
