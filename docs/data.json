@@ -1,6 +1,33 @@
 {
- "updated": "2026-08-01T19:53:28.542Z",
+ "updated": "2026-08-01T20:05:13.611Z",
  "groups": [
+  {
+   "id": "results-2026-08-01",
+   "type": "results",
+   "t": "Latest results — ProCyclingStats",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T20:05:10.469Z",
+   "rows": [
+    {
+     "race": "Tour de France Femmes Stage 1",
+     "winner": "Lorena Wiebes",
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20France%20Femmes%20Stage%201"
+    },
+    {
+     "race": "Tour of Denmark Stage 4",
+     "winner": "Storm Ingebrigtsen",
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Denmark%20Stage%204"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ProCyclingStats",
+     "u": "https://www.procyclingstats.com/",
+     "l": "en"
+    }
+   ]
+  },
   {
    "id": "2d5b9e5eafd2",
    "t": "Klöser satisfied all around with her Tour debut",
@@ -207,6 +234,96 @@
      "n": "Feltet.dk",
      "u": "https://feltet.dk/landevej/dansker-tager-spotlightet-med-ro-vil-have-hele-danmark-til-at-kende-ham/11247578",
      "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "005dedfa3922",
+   "t": "\"And now try to become world champion\": Remco Evenepoel looks ahead again after record win in Clásica San Sebastián",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T18:06:11.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/en-nu-proberen-wereldkampioen-te-worden-remco-evenepoel-kijkt-na-recordzege-in-clasica-san-sebastian-opnieuw-vooruit~ad13362a/",
+     "l": "nl"
+    },
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/evenepoel-rekent-na-inhaalrace-af-met-carapaz-en-boekt-recordzege-in-clasica-san-sebastian/",
+     "l": "nl"
+    },
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/evenepoel-slaar-rekord-tager-sejren-i-san-sebastian/11247483",
+     "l": "da"
+    },
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785593705/clasica-san-sebastian-san-sebastian-remco-evenepoel",
+     "l": "it"
+    },
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2625181",
+     "l": "nl"
+    },
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/donostia-san-sebastian-klasikoa-remco-evenepoel-wins-spanish-classic-for-a-fourth-time-in-a-two-up-sprint-with-richard-carapaz/",
+     "l": "en"
+    },
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/evenepoel-wins-record-fourth-clasica-san-sebastian/",
+     "l": "en"
+    },
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/evenepoel-denkt-na-baskische-recordzege-al-aan-wk-proberen-wereldkampioen-te-worden/",
+     "l": "nl"
+    },
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/08/01/remco-evenepoel-firma-remontada-memorable-conquista-cuarta-clasica-san-sebastian.html",
+     "l": "es"
+    },
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/courses/clasica-san-sebastian/remporte-la-clasica-san-sebastian-2026/",
+     "l": "fr"
+    },
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146327.htm",
+     "l": "de"
+    },
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/punktering-truede-evenepoels-rekordjagt-dommerne-var-ikke-venlige/11247646",
+     "l": "da"
+    },
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/daar-rijden-we-12-rondjes-zeker-he-of-hoe-remco-evenepoel-minuten-na-zijn-zegerecord-in-san-sebastian-al-aan-het-wk-in-canada-denkt~a39fb8d7/",
+     "l": "nl"
+    },
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785604068/remco-evenepoel-clA�sica-san-sebastiA�n-ciclismo-record-red-bull-bora-hansgrohe",
+     "l": "it"
+    },
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/en-nu-proberen-wereldkampioen-te-worden-remco-evenepoel-kijkt-na-recordzege-in-clasica-san-sebastian-en-dikke-knuffel-met-oumi-weer-vooruit~ad13362a/",
+     "l": "nl"
+    },
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/na-lekke-band-en-inhaalrace-remco-evenepoel-boekt-recordzege-in-clasica-san-sebastian~ad13362a/",
+     "l": "nl"
     }
    ],
    "tr": 1
@@ -776,96 +893,6 @@
     {
      "n": "Wielerflits",
      "u": "https://www.wielerflits.nl/nieuws/indrukwekkende-storm-ingebrigtsen-doorbreekt-zegereeks-wout-van-aert-in-ronde-van-denemarken/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "005dedfa3922",
-   "t": "\"And now try to become world champion\": Remco Evenepoel looks ahead again after record win in Clásica San Sebastián",
-   "s": "",
-   "c": "race",
-   "date": "2026-08-01T18:06:11.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/en-nu-proberen-wereldkampioen-te-worden-remco-evenepoel-kijkt-na-recordzege-in-clasica-san-sebastian-opnieuw-vooruit~ad13362a/",
-     "l": "nl"
-    },
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/evenepoel-rekent-na-inhaalrace-af-met-carapaz-en-boekt-recordzege-in-clasica-san-sebastian/",
-     "l": "nl"
-    },
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/evenepoel-slaar-rekord-tager-sejren-i-san-sebastian/11247483",
-     "l": "da"
-    },
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785593705/clasica-san-sebastian-san-sebastian-remco-evenepoel",
-     "l": "it"
-    },
-    {
-     "n": "NOS Wielrennen",
-     "u": "https://nos.nl/l/2625181",
-     "l": "nl"
-    },
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/donostia-san-sebastian-klasikoa-remco-evenepoel-wins-spanish-classic-for-a-fourth-time-in-a-two-up-sprint-with-richard-carapaz/",
-     "l": "en"
-    },
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/evenepoel-wins-record-fourth-clasica-san-sebastian/",
-     "l": "en"
-    },
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/evenepoel-denkt-na-baskische-recordzege-al-aan-wk-proberen-wereldkampioen-te-worden/",
-     "l": "nl"
-    },
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/08/01/remco-evenepoel-firma-remontada-memorable-conquista-cuarta-clasica-san-sebastian.html",
-     "l": "es"
-    },
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/courses/clasica-san-sebastian/remporte-la-clasica-san-sebastian-2026/",
-     "l": "fr"
-    },
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146327.htm",
-     "l": "de"
-    },
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/punktering-truede-evenepoels-rekordjagt-dommerne-var-ikke-venlige/11247646",
-     "l": "da"
-    },
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/daar-rijden-we-12-rondjes-zeker-he-of-hoe-remco-evenepoel-minuten-na-zijn-zegerecord-in-san-sebastian-al-aan-het-wk-in-canada-denkt~a39fb8d7/",
-     "l": "nl"
-    },
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785604068/remco-evenepoel-clA�sica-san-sebastiA�n-ciclismo-record-red-bull-bora-hansgrohe",
-     "l": "it"
-    },
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/en-nu-proberen-wereldkampioen-te-worden-remco-evenepoel-kijkt-na-recordzege-in-clasica-san-sebastian-en-dikke-knuffel-met-oumi-weer-vooruit~ad13362a/",
-     "l": "nl"
-    },
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/na-lekke-band-en-inhaalrace-remco-evenepoel-boekt-recordzege-in-clasica-san-sebastian~ad13362a/",
      "l": "nl"
     }
    ],
