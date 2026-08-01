@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-01T09:17:33.856Z",
+ "updated": "2026-08-01T09:19:32.928Z",
  "groups": [
   {
    "id": "results-2026-08-01",
@@ -7,17 +7,17 @@
    "t": "Latest results — ProCyclingStats",
    "s": "",
    "c": "race",
-   "date": "2026-08-01T09:17:31.470Z",
+   "date": "2026-08-01T09:19:30.642Z",
    "rows": [
-    {
-     "race": "Transcontinental Race",
-     "winner": "Robin Gemperle",
-     "url": "https://www.procyclingstats.com/search.php?term=Transcontinental%20Race"
-    },
     {
      "race": "National team time trial championships",
      "winner": "Vangi Ladies",
      "url": "https://www.procyclingstats.com/search.php?term=National%20team%20time%20trial%20championships"
+    },
+    {
+     "race": "Transcontinental Race",
+     "winner": "Robin Gemperle",
+     "url": "https://www.procyclingstats.com/search.php?term=Transcontinental%20Race"
     }
    ],
    "sources": [
@@ -3374,21 +3374,6 @@
      "n": "Wielerflits",
      "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-ook-vrouwen-starten-met-hoge-temperaturen/",
      "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "ea6e5c7d03f6",
-   "t": "Sara Peruta Italian junior time trial champion",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T09:19:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785404962/ciclismo-pista-campionati-italiani-sara-peruta-juniores-donne",
-     "l": "it"
     }
    ],
    "tr": 1
