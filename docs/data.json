@@ -1,6 +1,223 @@
 {
- "updated": "2026-08-01T12:11:43.319Z",
+ "updated": "2026-08-01T14:09:56.094Z",
  "groups": [
+  {
+   "id": "results-2026-08-01",
+   "type": "results",
+   "t": "Latest results — ProCyclingStats",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T14:09:53.127Z",
+   "rows": [
+    {
+     "race": "Tour of Poland",
+     "winner": "Wout van Aert",
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Poland"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ProCyclingStats",
+     "u": "https://www.procyclingstats.com/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "ef739a89f8b5",
+   "t": "Italian national team time trial championships. Vini Fantini BepiNk triumph among elite women",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T14:02:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785593317/ciclismo-campionato-italiano-cronosquadre-donne-vini-fantini-bepink-codroipo",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "e1c0b816755b",
+   "t": "LIVE. Remco Evenepoel sluit na stevige inhaalrace opnieuw aan bij kop van de koers, wat brengt slotklim straks?",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T14:01:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/live-remco-evenepoel-sluit-na-stevige-inhaalrace-opnieuw-aan-bij-kop-van-de-koers-wat-brengt-slotklim-straks~ad13362a/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "b933add9d69a",
+   "t": "Red Bull joins FDJ United – SUEZ",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-08-01T13:56:42.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/actualite/cyclisme/red-bull-rejoint-fdj-united-suez/",
+     "l": "fr"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "5eb07715862c",
+   "t": "Pogačar will announce Vuelta decision on Monday (3rd August)",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-01T13:55:19.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/pogacar-will-announce-vuelta-decision-on-monday/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "e6ae2320b56c",
+   "t": "Italian national team time trial championships. Title to BFT Burzoni VO2 Pink ahead of Biesse Carrera Zambelli",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T13:50:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785592441/ciclismo-cronometro-a-squadre-juniores-campionati-italiani-bft-burzoni",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "25e854580f57",
+   "t": "'I haven't reached my full potential' - Tour de France stage winner Mauro Schmid signs for Pinarello-Q36.5",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-08-01T13:45:01.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/transfers/i-havent-reached-my-full-potential-tour-de-france-stage-winner-mauro-schmid-signs-for-pinarello-q36-5/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "631a730e2c53",
+   "t": "Del Toro's camp is carefully watching the Seixas situation",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-01T13:42:02.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/del-toros-camp-is-carefully-watching-the-seixas-situation/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "5bed1c3ed173",
+   "t": "LIVE. Vier koploopsters hebben mooie voorsprong, Lotte Kopecky lijkt niet voor gele trui mee te strijden: \"Ik ben niet plan-A vandaag\"",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T13:35:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/tour-de-france/live-vier-koploopsters-hebben-mooie-voorsprong-lotte-kopecky-lijkt-niet-voor-gele-trui-mee-te-strijden-ik-ben-niet-plan-a-vandaag~a792dedf7/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "e76d5fa97d79",
+   "t": "LIVE. Halfweg koers is er eindelijk een kopgroep weg: mogen zij voor de overwinning strijden in vlakke rit?",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T13:22:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/live-halfweg-koers-is-er-eindelijk-een-kopgroep-weg-mogen-zij-voor-de-overwinning-strijden-in-vlakke-rit~ae42b5e7/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "dc920e31d9a0",
+   "t": "'We're all really united'–After much speculation, UAE Team L'IMAD confirm dual leadership strategy at Tour de France Femmes",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T13:21:49.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/were-all-really-united-after-much-speculation-uae-team-limad-confirm-dual-leadership-strategy-at-tour-de-france-femmes/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "cad29add96ad",
+   "t": "Vollering vindt thuisstart in 'haar' Zwitserland heel speciaal: \"Maar kon naar Rotterdam met de fiets\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-01T12:55:16.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/vollering-vindt-thuisstart-in-haar-zwitserland-heel-speciaal-maar-kon-naar-rotterdam-met-de-fiets/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "c98fb3366ac7",
+   "t": "Marianne Vos ziet kansen in openingsrit Tour: \"Maar finale interessant voor veel types\"",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T12:36:33.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/marianne-vos-ziet-kansen-in-openingsrit-tour-maar-finale-interessant-voor-veel-types/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "7985973faefd",
+   "t": "Red Bull joins FDJ United – SUEZ",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-08-01T12:31:13.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/red-bull-partners-with-fdj-united-suez/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "0903dd14308e",
    "t": "Tour stage winner switches to Pinarello - Q36.5",
@@ -17,41 +234,94 @@
    "tr": 1
   },
   {
-   "id": "results-2026-08-01",
-   "type": "results",
-   "t": "Latest results — ProCyclingStats",
+   "id": "9c49a131fe8d",
+   "t": "Lorena Wiebes aast op eerste gele trui: \"Verwacht hectische dag en heel zware finish\"",
    "s": "",
    "c": "race",
-   "date": "2026-08-01T12:11:39.524Z",
-   "rows": [
-    {
-     "race": "Tour of Poland",
-     "winner": "Wout van Aert",
-     "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Poland"
-    },
-    {
-     "race": "Italian National Team Time Trial Championships",
-     "winner": "Alba Orobia Biassono",
-     "url": "https://www.procyclingstats.com/search.php?term=Italian%20National%20Team%20Time%20Trial%20Championships"
-    },
-    {
-     "race": "Vangi Ladies National Team Time Trial Championships",
-     "winner": "Vangi Ladies",
-     "url": "https://www.procyclingstats.com/search.php?term=Vangi%20Ladies%20National%20Team%20Time%20Trial%20Championships"
-    },
-    {
-     "race": "European MTB Championships XCC",
-     "winner": "Juri Zanotti",
-     "url": "https://www.procyclingstats.com/search.php?term=European%20MTB%20Championships%20XCC"
-    }
-   ],
+   "date": "2026-08-01T12:28:54.000Z",
    "sources": [
     {
-     "n": "ProCyclingStats",
-     "u": "https://www.procyclingstats.com/",
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/lorena-wiebes-aast-op-eerste-gele-trui-verwacht-hectische-dag-en-heel-zware-finish/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "c463fe874a04",
+   "t": "FDJ United-Suez welcome Red Bull as new major partner in milestone move for team and brand",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-08-01T12:17:17.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/red-bull-set-to-partner-with-fdj-united-suez-as-riders-wear-branded-helmets-at-tour-de-france-femmes-grand-depart/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
+  },
+  {
+   "id": "9fd494659257",
+   "t": "Red Bull stapt als grote partner in bij FDJ United-SUEZ van Demi Vollering",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-08-01T12:10:26.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/red-bull-stapt-als-grote-partner-in-bij-fdj-united-suez-van-demi-vollering/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "b0de9045ddb1",
+   "t": "Visma mannen rijden San Sebastian in hetzelfde shirt als de Tour-vrouwen",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-01T12:01:44.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/visma-mannen-rijden-san-sebastian-in-hetzelfde-shirt-als-de-tour-vrouwen/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "0433f967b1ff",
+   "t": "Tour Femmes 2026: Voorbeschouwing favorieten algemeen klassement – Tweestrijd Ferrand-Prévot en Vollering?",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T12:00:53.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-voorbeschouwing-favorieten-algemeen-klassement-grootse-tweestrijd-ferrand-prevot-en-vollering/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "3e8cbea7fa20",
+   "t": "Tour Femmes 2026: Dit zijn de commentatoren van de NOS, Sporza en Eurosport",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-01T12:00:38.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-dit-zijn-de-commentatoren-van-de-nos-sporza-en-eurosport/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
   },
   {
    "id": "747ca1b5525d",
@@ -124,6 +394,21 @@
      "n": "Radsport-News",
      "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146325.htm",
      "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "7fba46a31027",
+   "t": "Pinarello Q36.5. Schmid arrives from 2027 with a three-year contract",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-08-01T11:00:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785588453/ciclismo-mercato-ciclismo-mauro-schmid-pinarello-q36.5-corridori-svizzeri",
+     "l": "it"
     }
    ],
    "tr": 1
@@ -878,6 +1163,21 @@
     {
      "n": "Feltet.dk",
      "u": "https://feltet.dk/landevej/live-soeren-kragh-er-ikke-tilfreds-spaendende-etape-er-i-gang/11244867",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "547b91041271",
+   "t": "LIVE: New mistake - changes sprint result again!",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T08:00:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/live-ny-broeler-aendrer-resultat-af-spurt-igen/11244867",
      "l": "da"
     }
    ],
@@ -2509,246 +2809,6 @@
      "n": "Cyclingnews",
      "u": "https://www.cyclingnews.com/cycling-tech-components/wheels-tyres/what-are-the-fastest-uci-legal-road-wheels-wind-tunnel-testing-the-big-name-brands-and-chinese-contenders/",
      "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "15e6dc206d95",
-   "t": "Tour de l'Ain: Markel Beloki seals overall victory on stage 3",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T14:02:20.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-lain-markel-beloki-seals-overall-victory-on-stage-3/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "2f27022f8ec3",
-   "t": "TOUR DE L'AIN. MARIAULT (CIC ACADEMY) WINS FINAL STAGE AHEAD OF BELOKI, 6TH FOR CONCI: OVERALL GOES TO THE SPANIARD",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T14:02:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785420285/tour-de-l-ain-2026-tappa-3-vittoria-mariault",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "bd1591c1cc56",
-   "t": "Markel Beloki secures overall victory in final stage of Tour de l'Ain, stage win for Frenchman Mariault",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T13:59:30.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/markel-beloki-stelt-eindzege-veilig-in-slotrit-tour-de-lain-ritwinst-voor-fransman-mariault/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "f91a7281c7ad",
-   "t": "Fuglsang's biggest regret: - I was completely out of it",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-30T13:53:30.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/fuglsangs-stoerste-fortrydelse-jeg-var-stiktosset/11245914",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "b7cc34602b96",
-   "t": "ITALIAN NATIONALS. ACUTI DOUBLES: GOLD IN PURSUIT AHEAD OF RAPPORTI AND BALLAN",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T13:46:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785419316/ciclismo-pista-inseguimento-individuale-maria-acuti-juniores-donne",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "c2db99bf9b71",
-   "t": "For Nienke Vinke, the white jersey from Tour de France Femmes is a springboard for more",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T13:45:49.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/voor-nienke-vinke-is-de-witte-trui-uit-tour-de-france-femmes-springplank-naar-meer/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "0433f967b1ff",
-   "t": "Tour Femmes 2026: Preview of general classification favorites – Two-way battle between Ferrand-Prévot and Vollering?",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T13:40:53.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-voorbeschouwing-favorieten-algemeen-klassement-grootse-tweestrijd-ferrand-prevot-en-vollering/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "ac085862affe",
-   "t": "Update: Journalist learns: Uttrup switches to Uno-X",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-30T13:13:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/opdatering-journalist-erfarer-uttrup-skifter-til-uno-x/11245654",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "00001b91ca6e",
-   "t": "COROS Finally Solved the Most Annoying Part of Live Tracking",
-   "s": "",
-   "c": "gear",
-   "date": "2026-07-30T13:00:45.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-gear/coros-firmware-update-live-tracking/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "734a367c8abc",
-   "t": "Cooke's Mont Ventoux masterclass and a Côte d'Azur classic – A history of the Tour de France Femmes' key climbs",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T12:59:07.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/cookes-mont-ventoux-masterclass-and-a-cote-dazur-classic-a-history-of-the-tour-de-france-femmes-key-climbs/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "c62dfce59478",
-   "t": "Vingegaard speculates over possible mistake at Tour de France",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-30T12:55:36.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/vingegaard-spekulerer-over-mulig-fejl-til-tour-de-france/11245935",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e174509ba39e",
-   "t": "NATIONAL CHAMPIONS. FERRARI DOMINATES UNDER-23 PURSUIT: MARANGON AND CECCARELLO ON THE PODIUM",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T12:48:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785416036/ciclismo-pista-campionati-italiani-inseguimento-individuale-juniores",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "86a8782fffdb",
-   "t": "Wout van Aert wants to defend the leader's jersey in Denmark: \"Need to be careful\"",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T12:42:41.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/wout-van-aert-wil-leiderstrui-verdedigen-in-denemarken-zaak-om-aandachtig-te-zijn/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "8891da385a02",
-   "t": "Seven breakaway riders given space by the peloton - Wout van Aert two for two: 'Main goal is defending the jersey'",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T12:35:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/zeven-vluchters-krijgen-ruimte-van-het-peloton-wout-van-aert-voor-twee-op-twee-hoofddoel-is-de-trui-verdedigen~a0bf06d3/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "63c8ae588576",
-   "t": "Huys and Bettendorff win at the Graz Old Town Criterium",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T12:24:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146305.htm",
-     "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e4bb935adb51",
-   "t": "High temperatures beyond 30 degrees also at Tour de France Femmes",
-   "s": "",
-   "c": "health",
-   "date": "2026-07-30T12:18:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146304.htm",
-     "l": "de"
     }
    ],
    "tr": 1
