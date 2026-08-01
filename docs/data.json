@@ -1,6 +1,261 @@
 {
- "updated": "2026-08-01T04:04:03.025Z",
+ "updated": "2026-08-01T06:39:21.314Z",
  "groups": [
+  {
+   "id": "42aa4346a212",
+   "t": "Tour de France prepares another 'revenge' for Pogacar: possible return of his worst memory",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T06:34:32.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/tour-francia/2026/08/01/tour-francia-prepara-venganza-pogacar-posible-regreso-peor-recuerdo.html",
+     "l": "es"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "5ff4054f90e4",
+   "t": "Elisa Longo Borghini racing at the Tour... thinking about tomorrow's champions",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T06:30:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785526989/trofeo-santuario-madonna-del-boden-longo-borghini",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "7abfe909a73f",
+   "t": "Pogacar and that party in Komenda... that seemed like being at the Tour. Gallery",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-01T06:20:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785534162/tadej-pogacar-tour-de-france-ciclismo-campione-del-mondo-festa",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "da30a95f9a72",
+   "t": "Meal vouchers, the first times of Giorgio Albani",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-01T06:16:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785505320/ciclismo-storia-del-ciclismo-giorgio-albani-ciclismo-italiano-fiorenzo-magni",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "fa57988031ef",
+   "t": "Transfer market. Dati and Bagioli close to XDS Astana, Roglic and Buitrago heading to NSN",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-08-01T06:15:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785510084/ciclomercato-calciomercato-ciclismo-trasferimenti-astana-nsn-cycling-team",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "df4d00f82dbe",
+   "t": "Marta Lach (SD Worx-Protime) transfers to Human Powered Health",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-08-01T06:12:36.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/marta-lach-sd-worx-protime-maakt-transfer-naar-human-powered-health/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "2198376bad00",
+   "t": "The New Zealander Cadzow calls it quits: 'Cycling had become like a punishment'",
+   "s": "",
+   "c": "health",
+   "date": "2026-08-01T06:12:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785511850/kim-cadzow-ritiro-burnout",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "a64dade9ad2d",
+   "t": "Tour de France Femmes. A great challenge between queens",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T06:10:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785422268/tour-de-france-femmes-ciclismo-tdff2026-ciclocross-femminile-grande-giro",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "387de9e7797f",
+   "t": "Even more popular than own hero Mads Pedersen: how Denmark falls as one block for 'big star' Wout van Aert",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-01T06:08:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/zelfs-populairder-dan-eigen-held-mads-pedersen-hoe-denemarken-als-een-blok-valt-voor-big-star-wout-van-aert~ab897aa1/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "d0efcefcfa2c",
+   "t": "Vini Fantini Bepink. Bonissi and Gottoli on the team as trainees",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-08-01T06:08:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785511449/vini-fantini-bepink-gottoli-bonissi-stagiste",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "4f3d6565d41c",
+   "t": "European MTB. The relay team signs the second Italian silver at Monteceneri",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T06:05:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785532396/mtb-europei-team-relay-ciclismo-mountain-bike",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "769c39ecc347",
+   "t": "Beautiful course, super strong field: high expectations at the start of Tour de France Femmes",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T06:04:10.000Z",
+   "sources": [
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2625134",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "303e4c94a4ef",
+   "t": "Preview: Tour of Poland 2026 – A chance for João Almeida and a strong sprinter field",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T06:00:35.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/voorbeschouwing-ronde-van-polen-2026-een-kans-voor-joao-almeida-en-sterk-sprintersveld/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "d6f0a177a6ba",
+   "t": "Track. Fifteen national titles for the athletes of the Marca Trevigiana",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T06:00:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785532579/ciclismo-su-pista-campionati-italiani-matteo-fiorin-nicola-padovan-velodromo",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "7af89e4f18dd",
+   "t": "From Paris to the Boulevard: the journey of Remco Evenepoel, in 'rocket mode'",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T05:39:08.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/08/01/paris-boulevard-viaje-remco-evenepoel-cohete.html",
+     "l": "es"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "7f67c03f949c",
+   "t": "Ferrand-Prévot's weight is back as a topic in the Tour: 'Then you will fly'",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-01T05:08:19.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/het-gewicht-van-ferrand-prevot-is-weer-een-topic-in-de-tour-dan-ga-je-vliegen/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "d522ca2db58c",
+   "t": "2026 Tour de France Femmes Start List: Every Rider in the Race",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T04:52:54.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/2026-tour-de-france-femmes-start-list/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "74279ebf5e8e",
    "t": "SpongeBob Meets Superbike: Factor Debuts a Unique Aero Frame at the Tour de France Femmes",
@@ -807,6 +1062,21 @@
      "n": "Cyclingnews",
      "u": "https://www.cyclingnews.com/bikes/pro-bikes/tour-de-france-femmes-bikes-2026/",
      "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "275ce19e7f3e",
+   "t": "Preview: Clásica San Sebastián 2026 – Remco Evenepoel aims for record",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T14:20:25.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/voorbeschouwing-clasica-san-sebastian-2026-remco-evenepoel-mikt-op-record/",
+     "l": "nl"
     }
    ],
    "tr": 1
@@ -3717,306 +3987,6 @@
      "n": "Wielerflits",
      "u": "https://www.wielerflits.nl/nieuws/voormalig-visma-renster-kim-cadzow-24-stopt-fietsen-begon-als-een-straf-te-voelen/",
      "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "1600f28c41bb",
-   "t": "How much does quality oil matter? The role of fats in a cyclist's diet",
-   "s": "",
-   "c": "gear",
-   "date": "2026-07-30T06:35:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785342470/olio-ciclismo-dieta-laura-martinelli-redoro",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "46b3c962cd1a",
-   "t": "Meal vouchers. Those tours of Imerio Massignan",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-30T06:26:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785343563/ciclismo-tour-de-france-storia-del-ciclismo-pirenei-imerio-massignan",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "a5c3db3030d8",
-   "t": "Cycling. Analysis of the Tour, expectations for a big summer",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T06:23:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785355222/ciclismo-tour-de-france-pogaA�ar-velo-rete8",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "ac3b4c84f963",
-   "t": "Evenepoel doesn't stop: Saturday targeting San Sebastian with an eye on Montreal",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T06:22:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785355856/remco-evenepoel-ciclismo-tour-de-france-2026-mondiali-ciclismo-klasika-san-sebastian",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "571ef38f18d0",
-   "t": "Toward Tour de Femmes. Balsamo, Fisher-Black and Holmgren are the three leaders of Lidl Trek",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T06:20:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785337414/tour-de-france-femmes-2026-lidl-trek",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "7981d02568be",
-   "t": "UAE women's team was unaware of Napolitano's involvement in doping investigation",
-   "s": "",
-   "c": "health",
-   "date": "2026-07-30T06:19:42.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/vrouwenploeg-uae-wist-niets-van-betrokkenheid-napolitano-bij-dopingonderzoek/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "0ded51f21c38",
-   "t": "The Gran Premio del Lazio by Terenzi will suit sprinters and finish in Anguillara",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T06:17:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785338854/gran-premio-lazio-2026-percorso-fiuggi-anguillara-bracciano-terenzi-sport-e-salute",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "701a01d5ce53",
-   "t": "Teletutto. The emotions of Castelnuovo d'Asola and that behind-the-scenes at Cicli Piton...",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-30T06:16:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785341900/teletutto-stasera-ciclismo-oggi-casrelnuovo-asola-cicli-piton-trofeo-donini",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "447bc42bf77f",
-   "t": "Van Aert. \"Winning is difficult, succeeding right away is impressive\"",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T06:16:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785355061/wout-van-aert-giro-di-danimarca-ciclismo-ritorno-alle-corse-visma-lease-a-bike",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "9e84bcf67185",
-   "t": "Tuscany and Sabatini, Pavel Tonkov godfather of the presentation",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-30T06:12:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785344912/ciclismo-giro-della-toscana-coppa-sabatini-pavel-tonkov-classiche-professionistiche",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "10e9399f6f60",
-   "t": "Put a special day among friends, with the donkeys of Bruseghin... GALLERY",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-30T06:08:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785356987/ciclismo-ex-ciclisti-amicizia-ricordi-ciclismo-italiano",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "296ff2d99f24",
-   "t": "Gallina Lucchini Ecotek Colosio, 5 races in six days arrive",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T06:04:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785330534/ciclismo-gallina-lucchini-ecotek-colosio-memorial-mannucci-andrea-buti-giosue-crescioli",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "4c3321ffd414",
-   "t": "Tour Femmes 2026: Preview of young classification favorites — Can anything be done about Paula Blasi?",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T06:00:37.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-voorbeschouwing-favorieten-jongerenklassement-is-er-iets-te-doen-aan-paula-blasi/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "baf23176e016",
-   "t": "Sestriere bids to host a Tour de France stage finish (if there's also the Colle delle Finestre...)",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T06:00:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785342271/tour-de-france-ciclismo-sestriere-colle-delle-finestre-eventi-internazionali",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "c0cd13080ed4",
-   "t": "Super weekend in Veneto, Memorial Fornasiero stands out",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T06:00:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785344751/ciclismo-dilettanti-veneto-memorial-fornasiero-gare-su-strada",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "7da7f7736ba5",
-   "t": "Skovbrande threatens: Ventoux stage could be changed",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T06:00:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/skovbrande-truer-ventoux-etape-kan-blive-aendret/11245324",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "d0bac236b1ba",
-   "t": "Matxin: 'What Pogacar has done transcends cycling, it is sports history'",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-30T05:26:32.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/30/matxin-hecho-pogacar-trasciende-ciclismo-historia-deporte.html",
-     "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "101aa8a20656",
-   "t": "Marianne Vos must now 'compete' with Mathieu van der Poel and Tadej Pogacar",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-30T05:06:46.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/marianne-vos-moet-nu-wedijveren-met-mathieu-van-der-poel-en-tadej-pogacar/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "275ce19e7f3e",
-   "t": "Preview: Clásica San Sebastián 2026 – Remco Evenepoel aims for record",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T05:00:25.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/voorbeschouwing-clasica-san-sebastian-2026-remco-evenepoel-mikt-op-record/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "152c3d2b798a",
-   "t": "Transfer list 2026-2027 - WorldTours",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-30T05:00:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/transferlisten-2026-2027-worldtouren/11244321",
-     "l": "da"
     }
    ],
    "tr": 1
