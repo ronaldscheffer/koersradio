@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-01T09:13:22.607Z",
+ "updated": "2026-08-01T09:17:33.856Z",
  "groups": [
   {
    "id": "results-2026-08-01",
@@ -7,22 +7,17 @@
    "t": "Latest results — ProCyclingStats",
    "s": "",
    "c": "race",
-   "date": "2026-08-01T09:13:19.803Z",
+   "date": "2026-08-01T09:17:31.470Z",
    "rows": [
-    {
-     "race": "National team time trial championships",
-     "winner": "Vangi Ladies",
-     "url": "https://www.procyclingstats.com/search.php?term=National%20team%20time%20trial%20championships"
-    },
     {
      "race": "Transcontinental Race",
      "winner": "Robin Gemperle",
      "url": "https://www.procyclingstats.com/search.php?term=Transcontinental%20Race"
     },
     {
-     "race": "Tour of Denmark sprint",
-     "winner": "Wout van Aert",
-     "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Denmark%20sprint"
+     "race": "National team time trial championships",
+     "winner": "Vangi Ladies",
+     "url": "https://www.procyclingstats.com/search.php?term=National%20team%20time%20trial%20championships"
     }
    ],
    "sources": [
@@ -3394,21 +3389,6 @@
      "n": "TuttoBiciWeb",
      "u": "https://www.tuttobiciweb.it/article/2026/07/30/1785404962/ciclismo-pista-campionati-italiani-sara-peruta-juniores-donne",
      "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "8eeee406a882",
-   "t": "Journalist learns: Uttrup switches to Uno-X",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-30T09:13:10.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/journalist-erfarer-uttrup-skifter-til-uno-x/11245654",
-     "l": "da"
     }
    ],
    "tr": 1
