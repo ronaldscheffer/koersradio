@@ -176,6 +176,8 @@ if (fresh.length) {
   const fresh_list = fresh.map((a, i) => `N${i} [${a.lang}] ${a.title} (${a.source})`).join("\n");
   const prompt = `You cluster cycling news. Headlines are in several languages; the same story across languages belongs in ONE group.
 
+Headlines about the same race, same rider(s), and same result/event are ONE story — merge them even if they cover different angles (the result itself, a post-race quote, a record/stat note, a recap, a preview) or are phrased very differently. Live races produce bursts of headlines like this within minutes of each other; treat that as the normal case to merge, not the exception. Only keep headlines apart when they are about genuinely different races, riders, or events.
+
 EXISTING groups:
 ${existing}
 
@@ -260,13 +262,13 @@ ${todo.map((g, i) => `${i} [${g.sources?.[0]?.l || "?"}]: ${g.t}`).join("\n")}`)
 const newsGroups = data.groups.filter((g) => !g.type).slice(0, 150);
 if (newsGroups.length > 1) {
   try {
-    const raw = await askClaude(`These are cycling news items. Different items about the SAME underlying story (e.g. "Pogacar wins the Tour" reported by several outlets or languages, previews of the same stage, the same transfer rumour) must be grouped.
+    const raw = await askClaude(`These are cycling news items, sometimes in different languages. Different items about the SAME underlying story — the same race, the same rider(s), the same result or event (e.g. "Pogacar wins the Tour" reported by several outlets or languages, previews of the same stage, the same transfer rumour) — must be grouped, even if they cover different angles (the result itself, a post-race quote, a record/stat note, a recap, a preview) or are phrased very differently. Live races produce bursts of near-duplicate headlines about the same result within minutes of each other — merge those aggressively.
 
 Items:
 ${newsGroups.map((g, i) => `${i}: ${g.t}`).join("\n")}
 
 Respond ONLY with valid JSON, no markdown: {"g":[[0,5,12],[3,7]]}
-List ONLY groups with 2 or more members. Each index at most once. When unsure, do NOT group.`);
+List ONLY groups with 2 or more members. Each index at most once. Only skip grouping when you are unsure whether two items are about different races, riders, or events entirely.`);
     const g = extractJSON(raw, "g")?.g || [];
     const removed = new Set();
     for (const grp of g) {
