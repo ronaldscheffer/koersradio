@@ -56,6 +56,7 @@ Search the web for cycling news sites in any language (Dutch, French, Italian, S
 
 Respond ONLY with valid JSON, no markdown:
 {"candidates":[{"name":"Site name","url":"https://direct-rss-feed-url","lang":"two-letter language code"}]}
+"lang" must reflect the LANGUAGE the articles are written in, not the country: e.g. a Flemish/Belgian site (like Sporza, HLN) is "nl", a French-Canadian site is "fr" — never a country code like "be".
 Max 10 candidates. Only include URLs you have strong reason to believe are real feed endpoints.`;
 
 console.log(`Bekende bronnen: ${feeds.length}. Op zoek naar nieuwe…`);
