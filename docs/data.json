@@ -1,6 +1,246 @@
 {
- "updated": "2026-08-01T17:11:55.854Z",
+ "updated": "2026-08-01T18:35:52.321Z",
  "groups": [
+  {
+   "id": "4132596dcdae",
+   "t": "The highlight videos of the Tour de France Femmes",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T19:19:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146334.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "f4ea68a5e49c",
+   "t": "1:52! Pieterse wants to break her own ancient record on the Ventoux",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T18:39:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146333.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "806d829ef9df",
+   "t": "'A little personal win for me' – Kim Le Court-Pienaar's Tour de France Femmes GC quest off to a good start as 'best of the rest' behind unbeatable Wiebes",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T18:30:58.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/a-little-personal-win-for-me-kim-le-court-pienaars-tour-de-france-femmes-gc-quest-off-to-a-good-start-as-best-of-the-rest-behind-unbeatable-wiebes/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "33eac7eb376d",
+   "t": "Le Court efter andenplads: Ingen har en chance, når Wiebes er der",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T18:29:22.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/le-court-efter-andenplads-ingen-har-en-chance-naar-wiebes-er-der/11247664",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "4523c86946a8",
+   "t": "Ludwig suffers from stomach problems at the Tour start",
+   "s": "",
+   "c": "health",
+   "date": "2026-08-01T18:18:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146332.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "b6d5db9adfb2",
+   "t": "Presentation of the 2nd stage of the Tour de France Femmes 2026",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T18:14:52.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/courses/tour-de-france-femmes/presentation-de-la-2eme-etape-du-tour-de-france-femmes-2026/",
+     "l": "fr"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "5e96636011c6",
+   "t": "Danish cyclist takes the spotlight with composure: Wants all of Denmark to know him",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-01T18:07:38.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/dansker-tager-spotlightet-med-ro-vil-have-hele-danmark-til-at-kende-ham/11247578",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "f8b1bcd5da55",
+   "t": "Puncture threatened Evenepoel's record attempt: The judges were not kind",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T18:06:11.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/punktering-truede-evenepoels-rekordjagt-dommerne-var-ikke-venlige/11247646",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "4d50948f4657",
+   "t": "'I think this whole Tour is going to be like this' – Demi Vollering's less intense Tour de France Femmes preparation already paying dividends with opening stage time gain",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T17:56:59.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/i-think-this-whole-tour-is-going-to-be-like-this-demi-vollerings-less-intense-tour-de-france-femmes-preparation-already-paying-dividends-with-opening-stage-time-gain/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "507a5ae3426c",
+   "t": "Rüegg: \"It was brutal brutal and super fast\"",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T17:55:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146331.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "cd92f9ad2db0",
+   "t": "'We never panicked' – Well-gelled Movistar avoid any repeat of first-day drama for Marlen Reusser at Tour de France Femmes after crash",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T17:49:09.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/we-never-panicked-well-gelled-movistar-avoid-any-repeat-of-first-day-drama-for-marlen-reusser-at-tour-de-france-femmes-after-crash/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "d7327306ba5c",
+   "t": "Tour Femmes 2026: Hoe laat moet je inschakelen voor de belangrijkste passages in etappe 2?",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T17:45:30.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-hoe-laat-moet-je-inschakelen-voor-de-belangrijkste-passages-in-etappe-2/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "7965536040b0",
+   "t": "Doe mee met de Voorspelgame tijdens de Tour de France Femmes: wie wint etappe 2?",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T17:39:19.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/doe-mee-met-de-voorspelgame-tijdens-de-tour-de-france-femmes-wie-wint-etappe-2/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "41cb7af515b7",
+   "t": "\"Daar rijden we 12 rondjes, zeker hé?\": of hoe Remco Evenepoel minuten na zijn zegerecord in San Sebastián al aan het WK in Canada denkt",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T17:36:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/daar-rijden-we-12-rondjes-zeker-he-of-hoe-remco-evenepoel-minuten-na-zijn-zegerecord-in-san-sebastian-al-aan-het-wk-in-canada-denkt~a39fb8d7/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "cbf0afd7b0f9",
+   "t": "Kopecky houdt gemengd gevoel over aan Tourstart: \"Als Wiebes de finish ruikt, is er weinig aan te doen\"",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T17:29:04.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/kopecky-houdt-gemengd-gevoel-over-aan-tourstart-als-wiebes-de-finish-ruikt-is-er-weinig-aan-te-doen/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "cade3e062dd0",
+   "t": "Race director defends Danmark Rundt route: - That's what Denmark's landscape is like",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T17:22:51.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/loebsdirektoer-forsvarer-danmark-rundt-rute-saadan-er-danmarks-landskab/11247609",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "08d9251b1dc6",
    "t": "Wiebes beats the GC favorites at the Tour start",
@@ -17,51 +257,34 @@
    "tr": 1
   },
   {
-   "id": "results-2026-08-01",
-   "type": "results",
-   "t": "Latest results — ProCyclingStats",
+   "id": "9e07cfefd77f",
+   "t": "Evenepoel sets record at San Sebastian. \"It wasn't easy but when I attacked I understood that I would win\"",
    "s": "",
    "c": "race",
-   "date": "2026-08-01T17:11:53.380Z",
-   "rows": [
-    {
-     "race": "Clásica San Sebastián",
-     "winner": "Remco Evenepoel",
-     "url": "https://www.procyclingstats.com/search.php?term=Cl%C3%A1sica%20San%20Sebasti%C3%A1n"
-    },
-    {
-     "race": "National Team Time Trial Championships Juniors",
-     "winner": "Vangi Tommasini",
-     "url": "https://www.procyclingstats.com/search.php?term=National%20Team%20Time%20Trial%20Championships%20Juniors"
-    },
-    {
-     "race": "Zanè-Monte Cengio",
-     "winner": "De Cassan",
-     "url": "https://www.procyclingstats.com/search.php?term=Zan%C3%A8-Monte%20Cengio"
-    },
-    {
-     "race": "Kreiz Breizh Elites",
-     "winner": "Dahl",
-     "url": "https://www.procyclingstats.com/search.php?term=Kreiz%20Breizh%20Elites"
-    },
-    {
-     "race": "Italian National Team Time Trial Championships Elite Women",
-     "winner": "Vini Fantini BepiNk",
-     "url": "https://www.procyclingstats.com/search.php?term=Italian%20National%20Team%20Time%20Trial%20Championships%20Elite%20Women"
-    },
-    {
-     "race": "Italian National Team Time Trial Championships",
-     "winner": "BFT Burzoni VO2 Pink",
-     "url": "https://www.procyclingstats.com/search.php?term=Italian%20National%20Team%20Time%20Trial%20Championships"
-    }
-   ],
+   "date": "2026-08-01T17:07:00.000Z",
    "sources": [
     {
-     "n": "ProCyclingStats",
-     "u": "https://www.procyclingstats.com/",
-     "l": "en"
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785604068/remco-evenepoel-clA�sica-san-sebastiA�n-ciclismo-record-red-bull-bora-hansgrohe",
+     "l": "it"
     }
-   ]
+   ],
+   "tr": 1
+  },
+  {
+   "id": "f1ea813c6c55",
+   "t": "Tour de France Femmes. Wiebes in yellow: \"Incredulous and very happy, super performance by the whole team\"",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T17:06:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785605742/tour-de-france-femmes-2026-ciclismo-lorena-wiebes-velociste-tdff2026",
+     "l": "it"
+    }
+   ],
+   "tr": 1
   },
   {
    "id": "9fc0f84724cc",
@@ -79,6 +302,21 @@
    "tr": 1
   },
   {
+   "id": "6189ccf5a124",
+   "t": "Tour Femmes 2026: Voorbeschouwing etappe 2 – Wint Wiebes in het geel?",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T17:00:10.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-voorbeschouwing-etappe-2/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
    "id": "6fa394d8b513",
    "t": "Lorena Wiebes, first leader of the Tour de France",
    "s": "",
@@ -89,6 +327,21 @@
      "n": "Marca Ciclismo",
      "u": "https://www.marca.com/ciclismo/tour-francia/2026/08/01/lorena-wiebes-primera-lider-tour-francia.html",
      "l": "es"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "1a39700c35b6",
+   "t": "Kim Le Court tweede achter Wiebes: \"Als Lorena erbij zit, heeft niemand een kans\"",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T16:55:12.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/kim-le-court-tweede-achter-wiebes-als-lorena-erbij-zit-heeft-niemand-een-kans/",
+     "l": "nl"
     }
    ],
    "tr": 1
@@ -118,6 +371,21 @@
     {
      "n": "NOS Wielrennen",
      "u": "https://nos.nl/l/2625196",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "c0416e1fa1b9",
+   "t": "Marianne Vos eerlijk na openingsrit: \"In de finale gaat het gewoon om de benen\"",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T16:47:04.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/marianne-vos-eerlijk-na-openingsrit-in-de-finale-gaat-het-gewoon-om-de-benen/",
      "l": "nl"
     }
    ],
@@ -208,6 +476,21 @@
     {
      "n": "HLN Wielrennen",
      "u": "https://www.hln.be/wielrennen/was-niet-aan-ons-om-kastanjes-uit-vuur-te-halen-wout-van-aert-baalt-allerminst-na-mislopen-vierde-zege-op-rij-en-is-tevreden-met-hoe-alles-loopt~ae42b5e7/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "79210f796ff6",
+   "t": "Lorena Wiebes vol ongeloof na zege in Lausanne: \"Had twijfels\"",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T16:28:52.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/lorena-wiebes-vol-ongeloof-na-zege-in-lausanne-had-twijfels/",
      "l": "nl"
     }
    ],
@@ -718,6 +1001,21 @@
     {
      "n": "HLN Wielrennen",
      "u": "https://www.hln.be/wielrennen/en-nu-proberen-wereldkampioen-te-worden-remco-evenepoel-kijkt-na-recordzege-in-clasica-san-sebastian-opnieuw-vooruit~ad13362a/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "2dce24b65257",
+   "t": "\"En nu proberen wereldkampioen te worden\": Remco Evenepoel kijkt na recordzege in Clásica San Sebastián en dikke knuffel met Oumi weer vooruit",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T14:41:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/en-nu-proberen-wereldkampioen-te-worden-remco-evenepoel-kijkt-na-recordzege-in-clasica-san-sebastian-en-dikke-knuffel-met-oumi-weer-vooruit~ad13362a/",
      "l": "nl"
     }
    ],
@@ -3434,51 +3732,6 @@
      "n": "Marca Ciclismo",
      "u": "https://www.marca.com/ciclismo/2026/07/30/wout-aert-suma-segunda-victoria-dinamarca-gracias-foto-finish.html",
      "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "9e3cc2c8a413",
-   "t": "Jonas Vingegaard reveals Tadej Pogačar messaged him after Tour de France crash, says rivalry has 'become a lot friendlier there in the last couple of years'",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-30T18:31:35.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/jonas-vingegaard-reveals-tadej-pogacar-messaged-him-after-tour-de-france-crash-says-rivalry-has-become-a-lot-friendlier-there-in-the-last-couple-of-years/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "2601f5aee0ad",
-   "t": "Talent takes overall victory in France",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T18:06:20.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/talent-tager-samlet-sejr-i-frankrig/11246198",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e16731c4145e",
-   "t": "Media: Lidl-Trek signs French climber",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-30T18:01:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/medier-lidl-trek-henter-fransk-klatrer/11246175",
-     "l": "da"
     }
    ],
    "tr": 1
