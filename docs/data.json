@@ -1,6 +1,113 @@
 {
- "updated": "2026-08-01T18:35:52.321Z",
+ "updated": "2026-08-01T19:43:52.128Z",
  "groups": [
+  {
+   "id": "results-2026-08-01",
+   "type": "results",
+   "t": "Latest results — ProCyclingStats",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T19:43:49.200Z",
+   "rows": [
+    {
+     "race": "Tour de France Femmes Stage 1",
+     "winner": "Lorena Wiebes",
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20France%20Femmes%20Stage%201"
+    },
+    {
+     "race": "Tour of Denmark Stage 4",
+     "winner": "Storm Ingebrigtsen",
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Denmark%20Stage%204"
+    },
+    {
+     "race": "San Sebastian",
+     "winner": "Remco Evenepoel",
+     "url": "https://www.procyclingstats.com/search.php?term=San%20Sebastian"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ProCyclingStats",
+     "u": "https://www.procyclingstats.com/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "2d5b9e5eafd2",
+   "t": "Klöser satisfied all around with her Tour debut",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T19:40:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146336.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "79732f60e02a",
+   "t": "Red Bull joins as partner at FDJ - Suez",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-01T19:31:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146335.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "726d304c464e",
+   "t": "'With the parcours, I want to race more to my strengths' – Niamh Fisher-Black adjusts expectations for Tour de France Femmes",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T19:30:00.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/with-the-parcours-i-want-to-race-more-to-my-strengths-niamh-fisher-black-adjusts-expectations-for-tour-de-france-femmes/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "d6da102ff73e",
+   "t": "The sprinter you should never write off writes herself back into yellow",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T19:27:01.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/the-sprinter-you-should-never-write-off-writes-herself-back-into-yellow/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "f842711fbbaa",
+   "t": "Movistar accelerates its revolution: adds more young talent",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-08-01T19:26:44.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/08/01/movistar-acelera-revolucion-suma-talento-joven.html",
+     "l": "es"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "4132596dcdae",
    "t": "The highlight videos of the Tour de France Femmes",
@@ -12,6 +119,36 @@
      "n": "Radsport-News",
      "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146334.htm",
      "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "773649eb4eef",
+   "t": "Preview: Tour de France Femmes stage 2",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T19:10:47.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/preview-tour-de-france-femmes-stage-2/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "4af5645e441b",
+   "t": "First yellow, but what about green? Lorena Wiebes cautious about points jersey ambitions in ultra tough Tour de France Femmes",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T18:51:20.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/first-yellow-but-what-about-green-lorena-wiebes-cautious-about-points-jersey-ambitions-in-ultra-tough-tour-de-france-femmes/",
+     "l": "en"
     }
    ],
    "tr": 1
@@ -722,6 +859,71 @@
    "tr": 1
   },
   {
+   "id": "005dedfa3922",
+   "t": "\"And now try to become world champion\": Remco Evenepoel looks ahead again after record win in Clásica San Sebastián",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T15:45:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/en-nu-proberen-wereldkampioen-te-worden-remco-evenepoel-kijkt-na-recordzege-in-clasica-san-sebastian-opnieuw-vooruit~ad13362a/",
+     "l": "nl"
+    },
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/evenepoel-rekent-na-inhaalrace-af-met-carapaz-en-boekt-recordzege-in-clasica-san-sebastian/",
+     "l": "nl"
+    },
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/evenepoel-slaar-rekord-tager-sejren-i-san-sebastian/11247483",
+     "l": "da"
+    },
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785593705/clasica-san-sebastian-san-sebastian-remco-evenepoel",
+     "l": "it"
+    },
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2625181",
+     "l": "nl"
+    },
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/donostia-san-sebastian-klasikoa-remco-evenepoel-wins-spanish-classic-for-a-fourth-time-in-a-two-up-sprint-with-richard-carapaz/",
+     "l": "en"
+    },
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/evenepoel-wins-record-fourth-clasica-san-sebastian/",
+     "l": "en"
+    },
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/evenepoel-denkt-na-baskische-recordzege-al-aan-wk-proberen-wereldkampioen-te-worden/",
+     "l": "nl"
+    },
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/08/01/remco-evenepoel-firma-remontada-memorable-conquista-cuarta-clasica-san-sebastian.html",
+     "l": "es"
+    },
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/courses/clasica-san-sebastian/remporte-la-clasica-san-sebastian-2026/",
+     "l": "fr"
+    },
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146327.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
    "id": "657886b89e1e",
    "t": "Red Bull Sponsors FDJ United – Suez Squad of Demi Vollering and Kate Courtney",
    "s": "",
@@ -842,71 +1044,6 @@
    "tr": 1
   },
   {
-   "id": "005dedfa3922",
-   "t": "\"And now try to become world champion\": Remco Evenepoel looks ahead again after record win in Clásica San Sebastián",
-   "s": "",
-   "c": "race",
-   "date": "2026-08-01T15:45:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/en-nu-proberen-wereldkampioen-te-worden-remco-evenepoel-kijkt-na-recordzege-in-clasica-san-sebastian-opnieuw-vooruit~ad13362a/",
-     "l": "nl"
-    },
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/evenepoel-rekent-na-inhaalrace-af-met-carapaz-en-boekt-recordzege-in-clasica-san-sebastian/",
-     "l": "nl"
-    },
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/evenepoel-slaar-rekord-tager-sejren-i-san-sebastian/11247483",
-     "l": "da"
-    },
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785593705/clasica-san-sebastian-san-sebastian-remco-evenepoel",
-     "l": "it"
-    },
-    {
-     "n": "NOS Wielrennen",
-     "u": "https://nos.nl/l/2625181",
-     "l": "nl"
-    },
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/donostia-san-sebastian-klasikoa-remco-evenepoel-wins-spanish-classic-for-a-fourth-time-in-a-two-up-sprint-with-richard-carapaz/",
-     "l": "en"
-    },
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/evenepoel-wins-record-fourth-clasica-san-sebastian/",
-     "l": "en"
-    },
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/evenepoel-denkt-na-baskische-recordzege-al-aan-wk-proberen-wereldkampioen-te-worden/",
-     "l": "nl"
-    },
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/08/01/remco-evenepoel-firma-remontada-memorable-conquista-cuarta-clasica-san-sebastian.html",
-     "l": "es"
-    },
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/courses/clasica-san-sebastian/remporte-la-clasica-san-sebastian-2026/",
-     "l": "fr"
-    },
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146327.htm",
-     "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
    "id": "2dce24b65257",
    "t": "\"En nu proberen wereldkampioen te worden\": Remco Evenepoel kijkt na recordzege in Clásica San Sebastián en dikke knuffel met Oumi weer vooruit",
    "s": "",
@@ -916,6 +1053,21 @@
     {
      "n": "HLN Wielrennen",
      "u": "https://www.hln.be/wielrennen/en-nu-proberen-wereldkampioen-te-worden-remco-evenepoel-kijkt-na-recordzege-in-clasica-san-sebastian-en-dikke-knuffel-met-oumi-weer-vooruit~ad13362a/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "64515ec700ca",
+   "t": "Na lekke band en inhaalrace: Remco Evenepoel boekt recordzege in Clásica San Sebastián",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T14:41:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/na-lekke-band-en-inhaalrace-remco-evenepoel-boekt-recordzege-in-clasica-san-sebastian~ad13362a/",
      "l": "nl"
     }
    ],
@@ -3617,21 +3769,6 @@
      "n": "Escape Collective",
      "u": "https://escapecollective.com/are-lactate-gels-already-old-news/",
      "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "c0d48d1e8e48",
-   "t": "Wout van Aert wins his second victory in Denmark thanks to photo finish",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T19:00:28.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/07/30/wout-aert-suma-segunda-victoria-dinamarca-gracias-foto-finish.html",
-     "l": "es"
     }
    ],
    "tr": 1
