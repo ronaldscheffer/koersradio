@@ -182,7 +182,7 @@ ${existing}
 NEW headlines:
 ${fresh_list}
 
-Assign every NEW headline: either to an existing group (if same story) or to a new group with the other new headlines about that story. For each NEW group write an English title (t), a 1-2 sentence English summary (s), and a category (c: race|transfer|gear|health|other).
+Assign every NEW headline: either to an existing group (if same story) or to a new group with the other new headlines about that story. For each NEW group write a title (t) and a 1-2 sentence summary (s): if the group's headlines are predominantly Dutch (lang nl), write t and s in natural Dutch; otherwise write natural English. Also assign a category (c: race|transfer|gear|health|other).
 
 Respond ONLY with valid JSON, no markdown:
 {"groups":[{"g":"G2","m":[0,4]},{"g":"new","m":[1,3],"t":"...","s":"...","c":"race"}]}
@@ -234,16 +234,16 @@ Every N-index appears exactly once. "m" holds N-indices as numbers.`;
   });
 }
 
-// ——— vertaalpas: alle anderstalige titels in batches naar het Engels,
+// ——— vertaalpas: anderstalige titels in batches naar het Engels, Nederlandse titels blijven Nederlands,
 // inclusief een passende categorie (haalt ook de oude achterstand weg) ———
 for (let batch = 0; batch < 6; batch++) {
   const todo = data.groups.filter((g) => !g.type && !g.s && !g.tr).slice(0, 40);
   if (!todo.length) break;
   try {
-    const raw = await askClaude(`Translate these cycling headlines to natural English and assign a category (race|transfer|gear|health|other). Respond ONLY with valid JSON, no markdown, same count and order:
-{"t":[{"t":"English headline","c":"race"}]}
+    const raw = await askClaude(`These cycling headlines are in various languages (lang shown in brackets). If a headline is already Dutch (nl), keep it in natural Dutch, unchanged in meaning. Otherwise translate it to natural English. Assign a category (race|transfer|gear|health|other) for every headline. Respond ONLY with valid JSON, no markdown, same count and order:
+{"t":[{"t":"headline (kept Dutch if already Dutch, else English)","c":"race"}]}
 Headlines:
-${todo.map((g, i) => `${i}: ${g.t}`).join("\n")}`);
+${todo.map((g, i) => `${i} [${g.sources?.[0]?.l || "?"}]: ${g.t}`).join("\n")}`);
     const t = extractJSON(raw, "t")?.t;
     if (!Array.isArray(t)) break;
     todo.forEach((g, i) => {
