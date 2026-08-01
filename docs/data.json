@@ -1,6 +1,53 @@
 {
- "updated": "2026-08-01T21:07:20.527Z",
+ "updated": "2026-08-01T22:10:42.132Z",
  "groups": [
+  {
+   "id": "results-2026-08-01",
+   "type": "results",
+   "t": "Laatste uitslagen — ProCyclingStats",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T22:10:39.289Z",
+   "rows": [
+    {
+     "race": "Tour de France Femmes Stage 1",
+     "winner": "Lorena Wiebes",
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20France%20Femmes%20Stage%201"
+    },
+    {
+     "race": "Danmark Rundt Stage 4",
+     "winner": "Storm Ingebrigtsen",
+     "url": "https://www.procyclingstats.com/search.php?term=Danmark%20Rundt%20Stage%204"
+    },
+    {
+     "race": "Clásica San Sebastián",
+     "winner": "Remco Evenepoel",
+     "url": "https://www.procyclingstats.com/search.php?term=Cl%C3%A1sica%20San%20Sebasti%C3%A1n"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ProCyclingStats",
+     "u": "https://www.procyclingstats.com/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "e8f36807c086",
+   "t": "Clásica San Sebastián: Een recordbreekend vierde voor Evenepoel, maar niet zonder drama",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T21:06:35.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/clasica-san-sebastian-fourth-win-evenepoel/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "2d5b9e5eafd2",
    "t": "Klöser tevreden met haar Tourontboeking",
