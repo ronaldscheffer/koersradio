@@ -5,7 +5,7 @@ Persoonlijke wielernieuws-PWA van Ronald. Live op https://ronaldscheffer.github.
 ## Architectuur
 - `scripts/update.js` — draait elke 30 min via GitHub Actions (`.github/workflows/update.yml`, timeout 15 min):
   haalt RSS-feeds uit `feeds.json` (48u-venster) → clustert nieuwe items met Claude API →
-  vertaalpas (batches, anderstalige titels → Engels + categorie) → samenvoegpas (bestaande dubbele
+  vertaalpas (batches, NL-titels blijven NL, andere talen → Engels + categorie) → samenvoegpas (bestaande dubbele
   verhalen fuseren, oudste id behouden i.v.m. gelezen-status) → uitslagenkaart (ProCyclingStats-scrape;
   bij blokkade vangnet: uitslagen uit nieuwskoppen via Claude) → dagelijkse Scorito-pickskaart
   (PCS-vormranking + nieuws) → schrijft `docs/data.json` → `process.exit(0)` (belangrijk: zonder
@@ -19,7 +19,7 @@ Persoonlijke wielernieuws-PWA van Ronald. Live op https://ronaldscheffer.github.
   (overschrijfbaar via env `KOERS_MODEL` / `KOERS_DISCOVER_MODEL`).
 
 ## Datamodel (docs/data.json)
-`{updated, groups:[{id, t (EN titel), s (samenvatting), c (race|transfer|gear|health|other), date,
+`{updated, groups:[{id, t (titel: NL blijft NL, andere talen → EN), s (samenvatting), c (race|transfer|gear|health|other), date,
 sources:[{n,u,l}], type? ("results"|"picks" voor de kaarten, met rows), tr? (1 = vertaald)}]}`
 - `s` leeg + geen `tr` = onvertaald vangnet-item (vertaalpas pakt het op).
 - `id` nooit wijzigen bij bestaande groepen: de gelezen-status op telefoons hangt eraan.
@@ -33,5 +33,5 @@ sources:[{n,u,l}], type? ("results"|"picks" voor de kaarten, met rows), tr? (1 =
 - API-antwoorden altijd via `extractJSON()` parsen (modellen leveren soms tekst rond de JSON).
 
 ## Wensen van Ronald
-Compacte feed zonder dubbelingen, alles EN (app-UI) — NL mag ook. Scorito-speler: vorm/piek-info
+Compacte feed zonder dubbelingen; NL-bronnen blijven NL, andere talen → EN (app-UI). Scorito-speler: vorm/piek-info
 is welkom. Kosten laag houden (Haiku).
