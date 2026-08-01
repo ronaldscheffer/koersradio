@@ -256,6 +256,46 @@ ${todo.map((g, i) => `${i}: ${g.t}`).join("\n")}`);
   }
 }
 
+// ——— samenvoegpas: bestaande items over hetzelfde verhaal fuseren tot één ———
+const newsGroups = data.groups.filter((g) => !g.type).slice(0, 150);
+if (newsGroups.length > 1) {
+  try {
+    const raw = await askClaude(`These are cycling news items. Different items about the SAME underlying story (e.g. "Pogacar wins the Tour" reported by several outlets or languages, previews of the same stage, the same transfer rumour) must be grouped.
+
+Items:
+${newsGroups.map((g, i) => `${i}: ${g.t}`).join("\n")}
+
+Respond ONLY with valid JSON, no markdown: {"g":[[0,5,12],[3,7]]}
+List ONLY groups with 2 or more members. Each index at most once. When unsure, do NOT group.`);
+    const g = extractJSON(raw, "g")?.g || [];
+    const removed = new Set();
+    for (const grp of g) {
+      const members = grp
+        .filter((i) => Number.isInteger(i) && newsGroups[i] && !removed.has(newsGroups[i].id))
+        .map((i) => newsGroups[i]);
+      if (members.length < 2) continue;
+      members.sort((a, b) => new Date(a.date) - new Date(b.date)); // oudste behoudt zijn id (gelezen-status)
+      const keep = members[0];
+      for (const m of members.slice(1)) {
+        for (const src of m.sources || []) {
+          if (!keep.sources.some((x) => x.u === src.u)) keep.sources.push(src);
+        }
+        if (new Date(m.date) > new Date(keep.date)) keep.date = m.date;
+        if (!keep.s && m.s) keep.s = m.s;
+        removed.add(m.id);
+      }
+    }
+    if (removed.size) {
+      data.groups = data.groups.filter((x) => !removed.has(x.id));
+      console.log(`✓ samenvoegpas: ${removed.size} dubbele items gefuseerd`);
+    } else {
+      console.log("✓ samenvoegpas: geen dubbelingen gevonden");
+    }
+  } catch (e) {
+    console.log(`✗ samenvoegpas: ${e.message}`);
+  }
+}
+
 // ——— uitslagenkaart (dagelijks vernieuwd; OK verbergt hem tot morgen) ———
 let pcsRows = await fetchPCSResults();
 if (!pcsRows.length) {
