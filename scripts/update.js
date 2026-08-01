@@ -259,7 +259,7 @@ ${todo.map((g, i) => `${i} [${g.sources?.[0]?.l || "?"}]: ${g.t}`).join("\n")}`)
 }
 
 // ——— samenvoegpas: bestaande items over hetzelfde verhaal fuseren tot één ———
-const newsGroups = data.groups.filter((g) => !g.type).slice(0, 150);
+const newsGroups = data.groups.filter((g) => !g.type).sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 150);
 if (newsGroups.length > 1) {
   try {
     const raw = await askClaude(`These are cycling news items, sometimes in different languages. Different items about the SAME underlying story — the same race, the same rider(s), the same result or event (e.g. "Pogacar wins the Tour" reported by several outlets or languages, previews of the same stage, the same transfer rumour) — must be grouped, even if they cover different angles (the result itself, a post-race quote, a record/stat note, a recap, a preview) or are phrased very differently. Live races produce bursts of near-duplicate headlines about the same result within minutes of each other — merge those aggressively.
