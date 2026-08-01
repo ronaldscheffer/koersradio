@@ -1,6 +1,443 @@
 {
- "updated": "2026-08-01T15:41:42.267Z",
+ "updated": "2026-08-01T17:11:55.854Z",
  "groups": [
+  {
+   "id": "08d9251b1dc6",
+   "t": "Wiebes beats the GC favorites at the Tour start",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T17:12:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146328.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "results-2026-08-01",
+   "type": "results",
+   "t": "Latest results — ProCyclingStats",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T17:11:53.380Z",
+   "rows": [
+    {
+     "race": "Clásica San Sebastián",
+     "winner": "Remco Evenepoel",
+     "url": "https://www.procyclingstats.com/search.php?term=Cl%C3%A1sica%20San%20Sebasti%C3%A1n"
+    },
+    {
+     "race": "National Team Time Trial Championships Juniors",
+     "winner": "Vangi Tommasini",
+     "url": "https://www.procyclingstats.com/search.php?term=National%20Team%20Time%20Trial%20Championships%20Juniors"
+    },
+    {
+     "race": "Zanè-Monte Cengio",
+     "winner": "De Cassan",
+     "url": "https://www.procyclingstats.com/search.php?term=Zan%C3%A8-Monte%20Cengio"
+    },
+    {
+     "race": "Kreiz Breizh Elites",
+     "winner": "Dahl",
+     "url": "https://www.procyclingstats.com/search.php?term=Kreiz%20Breizh%20Elites"
+    },
+    {
+     "race": "Italian National Team Time Trial Championships Elite Women",
+     "winner": "Vini Fantini BepiNk",
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20National%20Team%20Time%20Trial%20Championships%20Elite%20Women"
+    },
+    {
+     "race": "Italian National Team Time Trial Championships",
+     "winner": "BFT Burzoni VO2 Pink",
+     "url": "https://www.procyclingstats.com/search.php?term=Italian%20National%20Team%20Time%20Trial%20Championships"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ProCyclingStats",
+     "u": "https://www.procyclingstats.com/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "9fc0f84724cc",
+   "t": "The GC standings at the Tour de France Femmes 2026 - The first yellow jersey goes to the fastest sprinter",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T17:01:04.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/the-gc-standings-at-the-tour-de-france-femmes-2026-the-first-yellow-jersey-goes-to-the-fastest-sprinter/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "6fa394d8b513",
+   "t": "Lorena Wiebes, first leader of the Tour de France",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T16:57:49.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/tour-francia/2026/08/01/lorena-wiebes-primera-lider-tour-francia.html",
+     "l": "es"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "91116a59ff25",
+   "t": "Ingebrigtsen outlasts the sprinter",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T16:55:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146330.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "6a839cbe6e8c",
+   "t": "Tour-ritzege voelt voor Wiebes als revanche na diskwalificatie Giro: 'Gaf me extra vuur'",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T16:53:01.000Z",
+   "sources": [
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2625196",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "d6dfa6767f7f",
+   "t": "Tour Femmes: Wiebes wins stage 1, unfazed by uphill finish",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T16:44:53.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/tour-femmes-wiebes-wins-stage-1-unfazed-by-uphill-finish/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "dbe326540399",
+   "t": "Vroege vluchter Ingebrigtsen beëindigt zegereeks Van Aert in Denemarken",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T16:40:50.000Z",
+   "sources": [
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2625192",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "252e954bcf4d",
+   "t": "Tour of Denmark: Storm Ingebrigsten winner of stage 4",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T16:33:16.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/courses/tour-du-danemark/tour-du-danemark-storm-ingebrigsten-vainqueur-de-la-4eme-etape/",
+     "l": "fr"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "ecba614bf8ef",
+   "t": "Tour de France Femmes 2026 abandons: Uno-X Mobility rider crashes out on stage one",
+   "s": "",
+   "c": "health",
+   "date": "2026-08-01T16:32:51.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/tour-de-france-femmes-2026-abandons-uno-x-mobility-rider-crashes-out-on-stage-one/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "06b378963839",
+   "t": "Storm Ingebrigtsen surprises from the breakaway and ends Van Aert's monopoly",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T16:30:25.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/08/01/storm-ingebrigtsen-sorprende-fuga-acaba-monopolio-aert.html",
+     "l": "es"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "5263c2ab7746",
+   "t": "\"Was niet aan ons om kastanjes uit vuur te halen\": Wout van Aert baalt allerminst na mislopen vierde zege op rij en is \"tevreden met hoe alles loopt\"",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T16:30:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/was-niet-aan-ons-om-kastanjes-uit-vuur-te-halen-wout-van-aert-baalt-allerminst-na-mislopen-vierde-zege-op-rij-en-is-tevreden-met-hoe-alles-loopt~ae42b5e7/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "a6b010c238a8",
+   "t": "Tour de France Femmes: Lorena Wiebes first yellow jersey",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T16:28:25.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/courses/tour-de-france-femmes/tour-de-france-femmes-lorena-wiebes-premiere-maillot-jaune/",
+     "l": "fr"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "8c04c3c99d6c",
+   "t": "Breiner skulle vente i lang tid på at få vigtig besked",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-01T16:25:11.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/breiner-skulle-vente-i-lang-tid-paa-at-faa-vigtig-besked/11247574",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "66bb2dc79c3a",
+   "t": "Tour de France Femmes Stage 1: Wiebes Wallops Rivals for First Yellow Jersey",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T16:23:41.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/wiebes-wins-stage-1/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "22ad42de0151",
+   "t": "Tour de France Femmes: Lorena Wiebes claims stage 1 victory and first yellow jersey with commanding uphill sprint",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T16:18:12.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/tour-de-france-femmes-lorena-wiebes-claims-stage-1-victory-and-first-yellow-jersey-with-commanding-uphill-sprint/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "181ff86ea962",
+   "t": "Unbeatable Wiebes sprints to victory in Lausanne",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T16:14:36.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/usaarlig-wiebes-spurter-til-sejr-i-lausanne/11247563",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "3d852c36164f",
+   "t": "Wiebes wint eerste etappe en pakt gele trui in Tour de France Femmes",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T16:13:00.000Z",
+   "sources": [
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2625189",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "23cbfbd9378a",
+   "t": "Tour Femmes 2026: Lorena Wiebes troeft puncheurs af en pakt eerste gele trui",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T16:11:09.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-lorena-wiebes-sprint-op-lastige-aankomst-naar-ritzege-en-eerste-gele-trui/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "e5a8307d67fa",
+   "t": "\"Eens ze de finish ruikt, is er weinig aan te doen\": Lotte Kopecky, die \"redelijk gevoel\" had op de fiets, ziet ploeggenote Lorena Wiebes eerste gele trui pakken",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T16:10:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/tour-de-france/eens-ze-de-finish-ruikt-is-er-weinig-aan-te-doen-lotte-kopecky-die-redelijk-gevoel-had-op-de-fiets-ziet-ploeggenote-lorena-wiebes-eerste-gele-trui-pakken~a792dedf7/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "0749247305ce",
+   "t": "Wiebes roars in Lausanne. Longo Borghini 6th",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T16:10:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785600920/tour-de-france-femmes-lorena-wiebes-ciclismo-tdff2026-arrivi-in-salita",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "62fbbd7d35e9",
+   "t": "Tour of Denmark: Storm Ingebritsen holds off chasing pack to steal a sensational early breakaway victory on stage 4",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T16:06:54.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-of-denmark-stage-4-storm-ingebritsen-holds-off-chasing-pack-to-steal-a-sensational-early-breakaway-victory/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "c8e61ce02878",
+   "t": "National Team Time Trial Championships. General classification gold among U23: Technipes and Solme on the podium",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T16:05:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785600420/campionati-italiani-cronometro-a-squadre-under-23-ciclismo-codroipo",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "741c93bae3b2",
+   "t": "Scare for favourite Marlen Reusser after a crash during the opening stage of the Tour de France Femmes",
+   "s": "",
+   "c": "health",
+   "date": "2026-08-01T15:52:04.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/scare-for-favourite-marlen-reusser-after-a-crash-during-the-opening-stage-of-the-tour-de-france-femmes/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "53cf7f31c763",
+   "t": "Tour of Denmark, the breakaway arrives in Faaborg: Ingebrigtsen celebrates ahead of Bessega and Källberg. Van Aert remains leader",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T15:52:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785600199/tour-of-denmark-ingebrigtsen-bessega-kallberg-fuga",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "9d1656bfff1b",
+   "t": "Sensational breakaway victory in Faaborg - Norwegian rides home alone",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T15:51:37.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/sensationel-udbrudssejr-i-faaborg-nordmand-koerer-alene-hjem/11247544",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "5a6e823b78ea",
+   "t": "Indrukwekkende Storm Ingebrigtsen doorbreekt zegereeks Wout van Aert in Ronde van Denemarken",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T15:50:27.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/indrukwekkende-storm-ingebrigtsen-doorbreekt-zegereeks-wout-van-aert-in-ronde-van-denemarken/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "8d6e07b2933b",
    "t": "Evenepoel remains undefeated in San Sebastian",
@@ -12,6 +449,21 @@
      "n": "Radsport-News",
      "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146327.htm",
      "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "657886b89e1e",
+   "t": "Red Bull Sponsors FDJ United – Suez Squad of Demi Vollering and Kate Courtney",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-08-01T15:38:50.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/red-bull-boost-fdj-united-suez/",
+     "l": "en"
     }
    ],
    "tr": 1
@@ -1552,6 +2004,21 @@
    "tr": 1
   },
   {
+   "id": "f2e449446d87",
+   "t": "Live: Van Aert satisfied despite 12th place",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T08:00:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/live-van-aert-tilfreds-trods-12.-plads/11244867",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
    "id": "7fc1f52e43a4",
    "t": "Cycling federation crisis: Pella saddened, very harsh tone: 'These are irresponsible'",
    "s": "",
@@ -3012,96 +3479,6 @@
      "n": "Feltet.dk",
      "u": "https://feltet.dk/landevej/medier-lidl-trek-henter-fransk-klatrer/11246175",
      "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "5cae8e08a3aa",
-   "t": "Race director reacts to wild finale",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-30T16:53:53.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/loebsboss-reagerer-paa-vild-afslutning/11246138",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "17eefb52b503",
-   "t": "Australian robbed of victory: - I really thought I won",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T16:27:46.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/australier-frataget-sejr-troede-virkelig-jeg-vandt/11246126",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "ed180e11ff6d",
-   "t": "'This is the best year for Tadej Pogačar to come'–Vuelta a España director confident in Tour de France champion's participation, with little concern over likely dominance",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T16:25:28.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/this-is-the-best-year-for-tadej-pogacar-to-come-vuelta-a-espana-director-confident-in-tour-de-france-champions-participation-with-little-concern-over-likely-dominance/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "621f639ce7e1",
-   "t": "Velo Poll: What Are Your Tour de France Femmes Predictions?",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-30T16:23:49.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/velo-poll-what-are-your-tour-de-france-femmes-predictions/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "225c82161ae6",
-   "t": "SD Worx-Protime led by Lotte Kopecky, Lorena Wiebes and Anna van der Breggen at uncontrollable Tour de France Femmes with mixed ambitions",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T16:16:41.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/sd-worx-protime-led-by-lotte-kopecky-lorena-wiebes-and-anna-van-der-breggen-at-uncontrollable-tour-de-france-femmes-with-mixed-ambitions/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "8d6aec07603c",
-   "t": "An extra climb, but the familiar finale in the Basque Country",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T16:01:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146310.htm",
-     "l": "de"
     }
    ],
    "tr": 1
