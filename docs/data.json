@@ -1,6 +1,396 @@
 {
- "updated": "2026-08-01T06:39:21.314Z",
+ "updated": "2026-08-01T08:56:57.527Z",
  "groups": [
+  {
+   "id": "4646e9a137e7",
+   "t": "'Remco came here in the best possible way': team manager Sven Vanthourenhout knows Evenepoel is ready to become sole record holder",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T08:52:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/remco-is-op-de-best-mogelijke-manier-hierheen-gekomen-ploegleider-sven-vanthourenhout-weet-dat-evenepoel-klaar-is-om-alleen-recordhouder-te-worden~ad13362a/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "5db6542db6bd",
+   "t": "Rolf Sørensen to commentate the Vuelta",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-01T08:50:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/rolf-soerensen-skal-kommentere-vueltaen/11247204",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "51beb13ad7fb",
+   "t": "Cycling transfers – All the latest news and announcements for the 2027 season",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-08-01T08:42:25.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/transfers/cycling-transfers-all-the-latest-news-and-announcements-for-the-2027-season/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "8bafcfcabad1",
+   "t": "Mikel Landa returns to Euskatel - Alpecin-Premier Tech presents three newcomers",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-08-01T08:38:23.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/mikel-landa-keert-terug-naar-euskatel-alpecin-premier-tech-stelt-drie-nieuwkomers-voor~ada647ae/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "d876d1e23d1c",
+   "t": "The Tour de France Femmes Power Ranking: Who Are the Race's 25 Most Important Riders",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T08:30:49.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/tour-de-france-femmes-2026-power-ranking/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "48b3eee19d13",
+   "t": "Is there Tour de France Femmes tension brewing at UAE Team L'IMAD?",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T08:27:53.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/is-there-tour-de-france-femmes-tension-brewing-at-uae-team-limad/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "5f61d1892533",
+   "t": "Vollering has found peace before the Tour: pressure is a privilege",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T08:23:02.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/vollering-har-fundet-roen-foer-touren-pres-er-et-privilegium/11247195",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "c33e15ad8ba2",
+   "t": "Transfer round-up in WorldTour: most top teams staying quiet",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-08-01T08:15:39.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/transfer-round-up-in-de-worldtour-meeste-topteams-houden-zich-koest/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "e76fe5380b70",
+   "t": "Tour de Pologne. Jonathan Milan ready for Italian debut",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T08:15:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785572111/ciclismo-tour-de-pologne-jonathan-milan-lidl-trek-velocisti",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "f45ae5b21ff3",
+   "t": "Reusser finally wants to attack at the Tour",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T08:15:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146322.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "249caeb3c163",
+   "t": "Tour de France Femmes. Kopecky, the evolution of women's cycling and a new perspective for athletes",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T08:13:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785572015/lotte-kopecky-ciclismo-femminile-tour-de-france-femmes-campionessa-del-mondo-belgio",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "68da26fc84e7",
+   "t": "'Can I go, Fitte?': how Remco Evenepoel opened the door to stardom seven years ago at Clasica San Sebastian",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T08:10:04.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/mag-ik-gaan-fitte-hoe-remco-evenepoel-zeven-jaar-geleden-in-de-clasica-san-sebastian-de-poort-naar-het-sterrendom-openbeukte~a9d79c3a/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "a5857843965d",
+   "t": "National team time trial championships. Vangi Ladies flies to Codroipo and wins the title",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T08:01:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785571288/ciclismo-cronometro-campionati-italiani-allieve-vangi-ladies-cycling-team",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "b0294c069180",
+   "t": "Live: Danish team hit by bike theft overnight",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-01T08:00:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/live-danskerhold-udsat-for-cykeltyveri-i-nat/11244867",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "152c3d2b798a",
+   "t": "Transfer list 2026-2027 - WorldTour",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-08-01T08:00:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/transferlisten-2026-2027-worldtouren/11244321",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "491507849cfa",
+   "t": "No, Middle-Aged Man in Lycra, You Can't Keep Up with Tour de France Femmes Riders",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-01T07:59:55.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/trying-keep-up-tour-de-france-femmes-riders/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "7fc1f52e43a4",
+   "t": "Cycling federation crisis: Pella saddened, very harsh tone: 'These are irresponsible'",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-01T07:53:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785570933/roberto-pella-intervista-gazzetta-marco-toni-cordiano-dagnoni-bilancio-irresposabili-elisabetta-esposito",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "1f097a7fdb49",
+   "t": "Official: Landa returns home",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-08-01T07:49:52.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/officielt-landa-vender-hjem/11247179",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "85e557b901aa",
+   "t": "Mikel Landa returns to his roots: signs with Euskaltel-Euskadi for two seasons",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-08-01T07:46:17.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/08/01/mikel-landa-vuelve-origen-ficha-euskaltel-euskadi-dos-temporadas.html",
+     "l": "es"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "84f707130a45",
+   "t": "Tour Femmes 2026: These teams riding in special shirts",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T07:21:34.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-deze-ploegen-rijden-in-speciale-shirts/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "478d2ae3f979",
+   "t": "Tour de France Femmes. Ferrand Prevot, an endless emotion and a title to defend",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T07:00:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785533224/tour-de-france-femmes-2026-pauline-ferrand-prevot-tdff2026-campionesse",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "2c98c809c5e1",
+   "t": "San Sebastian. Evenepoel hunting the record in the race he loves most",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T07:00:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785571902/remco-evenepoel-clA�sica-san-sebastiA�n-ciclismo-record-world-tour",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "98b0593d3b17",
+   "t": "Start list for Tour de France Femmes 2026",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T06:57:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/startliste-til-tour-de-france-femmes-2026/11246552",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "114903c76c6b",
+   "t": "Tour de France Femmes. Vollering and a time trial tested in wind tunnel and Ghent",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T06:45:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785532982/tour-de-france-femmes-2026-demi-vollering-aerodinamica",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "ed12c362e1ee",
+   "t": "Einer Rubio reappears in 'Luffy mode' after his Tour crash: 'We cannot change the past'",
+   "s": "",
+   "c": "health",
+   "date": "2026-08-01T06:42:00.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/tour-francia/2026/08/01/einer-rubio-reaparece-luffy-accidente-tour-cambiar-pasado.html",
+     "l": "es"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "c94d9954581e",
+   "t": "Decathlon activates plan to secure Seixas, wanted by all the big teams: 'He will win here'",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-08-01T06:36:21.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/tour-francia/2026/08/01/decathlon-activa-plan-blindar-seixas-quieren-todos-grandes-ganara-aqui.html",
+     "l": "es"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "42aa4346a212",
    "t": "Tour de France prepares another 'revenge' for Pogacar: possible return of his worst memory",
@@ -17,6 +407,21 @@
    "tr": 1
   },
   {
+   "id": "58a6c624f2c9",
+   "t": "Castelli. Climber's A/C and Superleggera bibshort, the ultimate kit for hot weather",
+   "s": "",
+   "c": "gear",
+   "date": "2026-08-01T06:32:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785571625/abbigliamento-ciclismo-castelli-estate-aerodinamica",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
    "id": "5ff4054f90e4",
    "t": "Elisa Longo Borghini racing at the Tour... thinking about tomorrow's champions",
    "s": "",
@@ -26,6 +431,36 @@
     {
      "n": "TuttoBiciWeb",
      "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785526989/trofeo-santuario-madonna-del-boden-longo-borghini",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "e375664e7be8",
+   "t": "'Say, do you actually have a Danish passport?': how Wout van Aert suddenly takes over all of Denmark",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-01T06:28:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/zeg-heb-jij-eigenlijk-een-deens-paspoort-hoe-wout-van-aert-plots-heel-denemarken-inpakt~ab897aa1/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "b4af6344773d",
+   "t": "Ciclopromo. ScoutLite SparkO, the magnetic light at 44 grams for bike and outdoor",
+   "s": "",
+   "c": "gear",
+   "date": "2026-08-01T06:25:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785571633/illuminazione-accessori-bici-sicurezza-notturna-scoutlite-sparko",
      "l": "it"
     }
    ],
@@ -182,6 +617,21 @@
    "tr": 1
   },
   {
+   "id": "ffce8652b544",
+   "t": "Basque classic awaits: start list packed with stars",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T06:04:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/baskisk-klassiker-venter-startlisten-er-spaekket-med-stjerner/11247033",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
    "id": "303e4c94a4ef",
    "t": "Preview: Tour of Poland 2026 – A chance for João Almeida and a strong sprinter field",
    "s": "",
@@ -222,6 +672,21 @@
      "n": "Marca Ciclismo",
      "u": "https://www.marca.com/ciclismo/2026/08/01/paris-boulevard-viaje-remco-evenepoel-cohete.html",
      "l": "es"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "283a7c0bd45c",
+   "t": "A bit unfortunate, says today's fighter after the king stage",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T05:21:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/lidt-aergerligt-siger-dagens-fighter-efter-kongeetapen/11247007",
+     "l": "da"
     }
    ],
    "tr": 1
@@ -341,6 +806,21 @@
     {
      "n": "Feltet.dk",
      "u": "https://feltet.dk/landevej/holm-godt-for-loebet-at-van-aert-vandt/11247021",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "38096b2978e1",
+   "t": "Brian Holm: good for the race that Van Aert won",
+   "s": "",
+   "c": "race",
+   "date": "2026-07-31T18:16:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/brian-holm-godt-for-loebet-at-van-aert-vandt/11247021",
      "l": "da"
     }
    ],
@@ -3777,216 +4257,6 @@
      "n": "Feltet.dk",
      "u": "https://feltet.dk/landevej/journalist-erfarer-uttrup-skifter-til-uno-x/11245654",
      "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "d2a491e1d9a2",
-   "t": "Back-testing snags Chinese track cyclist Lin in decade-old doping case",
-   "s": "",
-   "c": "health",
-   "date": "2026-07-30T08:54:10.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/news/chinese-cyclist-junhong-lin-banned-after-back-testing-ita-wada/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "1be993ac7af2",
-   "t": "24-year-old EF rider ends career",
-   "s": "",
-   "c": "health",
-   "date": "2026-07-30T08:51:12.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/24-aarig-ef-rytter-stopper-karrieren/11245616",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "bd6f7fe8fd00",
-   "t": "KNWU announces junior and under-23 selections for World Championships and European Championships",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T08:48:38.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/knwu-maakt-selecties-junioren-en-beloften-bekend-voor-wk-en-ek/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "9be054bbe757",
-   "t": "Wout van Aert aims for back-to-back wins in blue leader's jersey, Jonas Vingegaard attends start in his hometown",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T08:44:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/wout-van-aert-gaat-in-blauwe-leiderstrui-voor-twee-op-twee-jonas-vingegaard-woont-start-in-thuishaven-bij~a0bf06d3/",
-     "l": "be"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "bb4757b88654",
-   "t": "Should I use a VPN to watch cycling? Explaining the benefits, costs, considerations, and the best VPN services for streaming the biggest races",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-30T08:39:06.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/cycling-culture/should-i-use-a-vpn-to-watch-cycling-explaining-the-benefits-costs-considerations-and-the-best-vpn-services-for-streaming-the-biggest-races/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "4bfbe754e3b2",
-   "t": "\"Day by day more like a punishment\": Cadzow ends career",
-   "s": "",
-   "c": "health",
-   "date": "2026-07-30T08:29:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146301.htm",
-     "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "cfa9f8da6431",
-   "t": "NOS shares Tour de France online viewership: fewer livestream starts than in 2024",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-30T08:28:07.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/nos-deelt-online-kijkcijfers-tour-de-france-minder-livestream-starts-dan-in-2024/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "088b8a550662",
-   "t": "Report: Visma signs strong helper from SD Worx",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-30T08:22:24.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/incoming/medie-visma-henter-staerk-hjaelper-hos-sd-worx/11245577",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "b020afa73cb7",
-   "t": "Patrick Lefevere: \"Remco Evenepoel has proven me wrong\"",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T07:51:11.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/patrick-lefevere-remco-evenepoel-heeft-mijn-ongelijk-bewezen/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "a17d0351a166",
-   "t": "Forest fire risk: Does the Ventoux stage need to be changed?",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T07:43:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146300.htm",
-     "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "7fe960629a48",
-   "t": "Only another yellow jersey is good enough for Pauline Ferrand-Prévot at the Tour de France Femmes",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T07:39:17.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/ferrand-prevot-win-bust-tour-de-france-femmes/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "644967dac9d5",
-   "t": "Femke Markus switches from SD Worx-Protime to Visma | Lease a Bike",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-30T07:15:29.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/femke-markus-ruilt-sd-worx-protime-in-voor-visma-lease-a-bike/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "9301c431bd4e",
-   "t": "Signing talent up to the WorldTour team",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-30T07:00:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/henter-talent-op-paa-worldtour-holdet/11245330",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "3a61df6381e2",
-   "t": "Former Visma rider Kim Cadzow (24) retires: \"Cycling started to feel like a punishment\"",
-   "s": "",
-   "c": "health",
-   "date": "2026-07-30T06:50:41.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/voormalig-visma-renster-kim-cadzow-24-stopt-fietsen-begon-als-een-straf-te-voelen/",
-     "l": "nl"
     }
    ],
    "tr": 1
