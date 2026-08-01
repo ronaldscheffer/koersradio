@@ -1,54 +1,13 @@
 {
- "updated": "2026-07-31T22:39:55.620Z",
+ "updated": "2026-08-01T00:10:10.726Z",
  "groups": [
   {
-   "id": "scorito-2026-07-31",
-   "type": "picks",
-   "t": "Scorito picks — riders in form",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-31T22:39:55.620Z",
-   "rows": [
-    {
-     "r": "Wout van Aert",
-     "w": "Dominant form: hat-trick wins at Tour of Denmark including queen stage, clearly peaking"
-    },
-    {
-     "r": "Remco Evenepoel",
-     "w": "Preparing for record-holder goals; mentioned as having ideal winning scenario in mind for upcoming races"
-    },
-    {
-     "r": "Puck Pieterse",
-     "w": "Featured prominently in Tour de France Femmes 2026 Stage 1 preview as top contender for yellow jersey"
-    },
-    {
-     "r": "Marlen Reusser",
-     "w": "Building toward first major Tour de France Femmes GC campaign with confident pre-race mindset"
-    },
-    {
-     "r": "Vollering",
-     "w": "Named among biggest contenders quoted before 2026 Tour de France Femmes, major GC threat"
-    },
-    {
-     "r": "Ferrand-Prevot",
-     "w": "Listed as one of the biggest contenders quoted before 2026 Tour de France Femmes"
-    }
-   ],
-   "sources": [
-    {
-     "n": "PCS form ranking",
-     "u": "https://www.procyclingstats.com/rankings.php?p=form",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "results-2026-07-31",
+   "id": "results-2026-08-01",
    "type": "results",
    "t": "Latest results — ProCyclingStats",
    "s": "",
    "c": "race",
-   "date": "2026-07-31T22:39:51.874Z",
+   "date": "2026-08-01T00:10:08.095Z",
    "rows": [
     {
      "race": "UEC Mountain Bike European Championships",
@@ -4123,20 +4082,6 @@
     }
    ],
    "tr": 1
-  },
-  {
-   "id": "3f538109cd83",
-   "t": "Brodie Chapman's Tour de France Femmes column",
-   "s": "A personal column reflecting on Brodie Chapman's Tour de France Femmes experience, describing a crash and the mental resilience required to continue racing at the highest level.",
-   "c": "other",
-   "date": "2026-07-29T22:53:09.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/lying-contorted-bleeding-shivering-on-a-flemish-footpath-i-was-already-thinking-about-that-next-big-race-brodie-chapmans-tour-de-france-femmes-column/",
-     "l": "en"
-    }
-   ]
   }
  ]
 }
