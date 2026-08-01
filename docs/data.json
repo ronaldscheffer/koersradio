@@ -722,21 +722,6 @@
    "tr": 1
   },
   {
-   "id": "8d6e07b2933b",
-   "t": "Evenepoel remains undefeated in San Sebastian",
-   "s": "",
-   "c": "race",
-   "date": "2026-08-01T15:45:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146327.htm",
-     "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
    "id": "657886b89e1e",
    "t": "Red Bull Sponsors FDJ United – Suez Squad of Demi Vollering and Kate Courtney",
    "s": "",
@@ -797,21 +782,6 @@
    "tr": 1
   },
   {
-   "id": "0afd920cbbd4",
-   "t": "Remco Evenepoel wins the Clasica San Sebastian 2026",
-   "s": "",
-   "c": "race",
-   "date": "2026-08-01T15:21:15.000Z",
-   "sources": [
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/courses/clasica-san-sebastian/remporte-la-clasica-san-sebastian-2026/",
-     "l": "fr"
-    }
-   ],
-   "tr": 1
-  },
-  {
    "id": "d139ca5254d5",
    "t": "LIVE. No positive signals: Lotte Kopecky trailing at the back of the peloton on the climb",
    "s": "",
@@ -842,51 +812,6 @@
    "tr": 1
   },
   {
-   "id": "016bb8eb2290",
-   "t": "Remco Evenepoel pulls off a memorable comeback and conquers his fourth Clásica de San Sebastián",
-   "s": "",
-   "c": "race",
-   "date": "2026-08-01T15:11:24.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/08/01/remco-evenepoel-firma-remontada-memorable-conquista-cuarta-clasica-san-sebastian.html",
-     "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "f476c0988c24",
-   "t": "Evenepoel denkt na Baskische recordzege al aan WK: \"Proberen wereldkampioen te worden\"",
-   "s": "",
-   "c": "race",
-   "date": "2026-08-01T14:57:54.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/evenepoel-denkt-na-baskische-recordzege-al-aan-wk-proberen-wereldkampioen-te-worden/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e373cbf47711",
-   "t": "Evenepoel wins record fourth Clásica San Sebastián",
-   "s": "",
-   "c": "race",
-   "date": "2026-08-01T14:57:38.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/evenepoel-wins-record-fourth-clasica-san-sebastian/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
    "id": "11158ca5140d",
    "t": "ZANÈ-MONTE CENGIO. DE CASSAN WINS BY DISTANCE OVER BAGNARA AND ZUMSTEIN",
    "s": "",
@@ -897,66 +822,6 @@
      "n": "TuttoBiciWeb",
      "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785596008/ciclismo-dilettanti-de-cassan-zane-monte-cengio-general-store-essegibi",
      "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "569152f05959",
-   "t": "Donostia San Sebastian Klasikoa: Remco Evenepoel wins Spanish classic for a fourth time in a two-up sprint with Richard Carapaz",
-   "s": "",
-   "c": "race",
-   "date": "2026-08-01T14:50:56.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/donostia-san-sebastian-klasikoa-remco-evenepoel-wins-spanish-classic-for-a-fourth-time-in-a-two-up-sprint-with-richard-carapaz/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "4132e93daab1",
-   "t": "Evenepoel record winner Clásica San Sebastian with fourth victory",
-   "s": "",
-   "c": "race",
-   "date": "2026-08-01T14:47:55.000Z",
-   "sources": [
-    {
-     "n": "NOS Wielrennen",
-     "u": "https://nos.nl/l/2625181",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "7dd1cba97cde",
-   "t": "SAN SEBASTIAN. EVENEPOEL SCORES FOUR, BEATS CARAPAZ. SCARONI FOURTH",
-   "s": "",
-   "c": "race",
-   "date": "2026-08-01T14:47:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785593705/clasica-san-sebastian-san-sebastian-remco-evenepoel",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "12ca0b4c83a1",
-   "t": "Evenepoel sets record: Takes victory in San Sebastian",
-   "s": "",
-   "c": "race",
-   "date": "2026-08-01T14:46:13.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/evenepoel-slaar-rekord-tager-sejren-i-san-sebastian/11247483",
-     "l": "da"
     }
    ],
    "tr": 1
@@ -977,31 +842,66 @@
    "tr": 1
   },
   {
-   "id": "43567d1ccf20",
-   "t": "Evenepoel rekent na inhaalrace af met Carapaz en boekt recordzege in Clásica San Sebastián",
-   "s": "",
-   "c": "race",
-   "date": "2026-08-01T14:41:33.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/evenepoel-rekent-na-inhaalrace-af-met-carapaz-en-boekt-recordzege-in-clasica-san-sebastian/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
    "id": "005dedfa3922",
    "t": "\"And now try to become world champion\": Remco Evenepoel looks ahead again after record win in Clásica San Sebastián",
    "s": "",
    "c": "race",
-   "date": "2026-08-01T14:41:00.000Z",
+   "date": "2026-08-01T15:45:00.000Z",
    "sources": [
     {
      "n": "HLN Wielrennen",
      "u": "https://www.hln.be/wielrennen/en-nu-proberen-wereldkampioen-te-worden-remco-evenepoel-kijkt-na-recordzege-in-clasica-san-sebastian-opnieuw-vooruit~ad13362a/",
      "l": "nl"
+    },
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/evenepoel-rekent-na-inhaalrace-af-met-carapaz-en-boekt-recordzege-in-clasica-san-sebastian/",
+     "l": "nl"
+    },
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/evenepoel-slaar-rekord-tager-sejren-i-san-sebastian/11247483",
+     "l": "da"
+    },
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785593705/clasica-san-sebastian-san-sebastian-remco-evenepoel",
+     "l": "it"
+    },
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2625181",
+     "l": "nl"
+    },
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/donostia-san-sebastian-klasikoa-remco-evenepoel-wins-spanish-classic-for-a-fourth-time-in-a-two-up-sprint-with-richard-carapaz/",
+     "l": "en"
+    },
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/evenepoel-wins-record-fourth-clasica-san-sebastian/",
+     "l": "en"
+    },
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/evenepoel-denkt-na-baskische-recordzege-al-aan-wk-proberen-wereldkampioen-te-worden/",
+     "l": "nl"
+    },
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/08/01/remco-evenepoel-firma-remontada-memorable-conquista-cuarta-clasica-san-sebastian.html",
+     "l": "es"
+    },
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/courses/clasica-san-sebastian/remporte-la-clasica-san-sebastian-2026/",
+     "l": "fr"
+    },
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146327.htm",
+     "l": "de"
     }
    ],
    "tr": 1
