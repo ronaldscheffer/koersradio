@@ -1,27 +1,335 @@
 {
- "updated": "2026-08-01T14:09:56.094Z",
+ "updated": "2026-08-01T15:41:42.267Z",
  "groups": [
   {
-   "id": "results-2026-08-01",
-   "type": "results",
-   "t": "Latest results — ProCyclingStats",
+   "id": "8d6e07b2933b",
+   "t": "Evenepoel remains undefeated in San Sebastian",
    "s": "",
    "c": "race",
-   "date": "2026-08-01T14:09:53.127Z",
-   "rows": [
-    {
-     "race": "Tour of Poland",
-     "winner": "Wout van Aert",
-     "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Poland"
-    }
-   ],
+   "date": "2026-08-01T15:45:00.000Z",
    "sources": [
     {
-     "n": "ProCyclingStats",
-     "u": "https://www.procyclingstats.com/",
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146327.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "324484e23131",
+   "t": "LIVE. Can six escapees with Sébastien Grignard prevent a new bunch sprint?",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T15:26:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/live-kunnen-zes-vluchters-met-sebastien-grignard-een-nieuwe-massasprint-voorkomen~ae42b5e7/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "19cf3c9f6c56",
+   "t": "Who will take the special classifications of the Tour de France Femmes?",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T15:23:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146329.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "887c161e8690",
+   "t": "NATIONAL TEAM TIME TRIAL CHAMPIONSHIPS. AMONG JUNIORS VANGI TOMMASINI THE PIRATE TRIUMPHS",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T15:22:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785597899/ciclismo-campionati-italiani-cronosquadre-juniores-vangi-tommasini-il-pirata",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "0afd920cbbd4",
+   "t": "Remco Evenepoel wins the Clasica San Sebastian 2026",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T15:21:15.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/courses/clasica-san-sebastian/remporte-la-clasica-san-sebastian-2026/",
+     "l": "fr"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "d139ca5254d5",
+   "t": "LIVE. No positive signals: Lotte Kopecky trailing at the back of the peloton on the climb",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T15:18:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/tour-de-france/live-geen-positieve-signalen-lotte-kopecky-bengelt-achteraan-het-peloton-op-klim~a792dedf7/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "a1acd528fb5a",
+   "t": "Tour de France Femmes Stage 2 Preview: The Sprinters Will Have to Earn This One",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T15:14:27.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/tour-de-france-femmes-stage-2-preview-the-sprinters-will-have-to-earn-this-one/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
+  },
+  {
+   "id": "016bb8eb2290",
+   "t": "Remco Evenepoel pulls off a memorable comeback and conquers his fourth Clásica de San Sebastián",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T15:11:24.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/08/01/remco-evenepoel-firma-remontada-memorable-conquista-cuarta-clasica-san-sebastian.html",
+     "l": "es"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "f476c0988c24",
+   "t": "Evenepoel denkt na Baskische recordzege al aan WK: \"Proberen wereldkampioen te worden\"",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T14:57:54.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/evenepoel-denkt-na-baskische-recordzege-al-aan-wk-proberen-wereldkampioen-te-worden/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "e373cbf47711",
+   "t": "Evenepoel wins record fourth Clásica San Sebastián",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T14:57:38.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/evenepoel-wins-record-fourth-clasica-san-sebastian/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "11158ca5140d",
+   "t": "ZANÈ-MONTE CENGIO. DE CASSAN WINS BY DISTANCE OVER BAGNARA AND ZUMSTEIN",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T14:52:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785596008/ciclismo-dilettanti-de-cassan-zane-monte-cengio-general-store-essegibi",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "569152f05959",
+   "t": "Donostia San Sebastian Klasikoa: Remco Evenepoel wins Spanish classic for a fourth time in a two-up sprint with Richard Carapaz",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T14:50:56.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/donostia-san-sebastian-klasikoa-remco-evenepoel-wins-spanish-classic-for-a-fourth-time-in-a-two-up-sprint-with-richard-carapaz/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "4132e93daab1",
+   "t": "Evenepoel record winner Clásica San Sebastian with fourth victory",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T14:47:55.000Z",
+   "sources": [
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2625181",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "7dd1cba97cde",
+   "t": "SAN SEBASTIAN. EVENEPOEL SCORES FOUR, BEATS CARAPAZ. SCARONI FOURTH",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T14:47:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785593705/clasica-san-sebastian-san-sebastian-remco-evenepoel",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "12ca0b4c83a1",
+   "t": "Evenepoel sets record: Takes victory in San Sebastian",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T14:46:13.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/evenepoel-slaar-rekord-tager-sejren-i-san-sebastian/11247483",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "0608b3c64f81",
+   "t": "Kate Courtney Is Loving Road Racing – And Winning Already At FDJ United-Suez",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T14:44:35.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/kate-courtney-loving-road-racing-and-winning-already/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "43567d1ccf20",
+   "t": "Evenepoel rekent na inhaalrace af met Carapaz en boekt recordzege in Clásica San Sebastián",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T14:41:33.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/evenepoel-rekent-na-inhaalrace-af-met-carapaz-en-boekt-recordzege-in-clasica-san-sebastian/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "005dedfa3922",
+   "t": "\"And now try to become world champion\": Remco Evenepoel looks ahead again after record win in Clásica San Sebastián",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T14:41:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/en-nu-proberen-wereldkampioen-te-worden-remco-evenepoel-kijkt-na-recordzege-in-clasica-san-sebastian-opnieuw-vooruit~ad13362a/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "0ecd5e618fbe",
+   "t": "KREIZ BREIZH ELITES. NORWEGIAN DAHL WINS BY JUST A FEW METERS OVER THE GROUP",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T14:40:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/01/1785592601/ciclismo-kreiz-breizh-elites-marius-innhaug-dahl-corse-su-strada-giovani-talenti",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "c6f95827e85e",
+   "t": "'Le Tour Entier': 13 years later...",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-01T14:33:15.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/le-tour-entier-13-years-later/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "b37545d83b36",
+   "t": "'The body is an amazing thing' – Urška Žigart back in action at the Tour de France Femmes, six weeks on from Tour de Suisse horror crash",
+   "s": "",
+   "c": "health",
+   "date": "2026-08-01T14:23:22.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/the-body-is-an-amazing-thing-urska-zigart-back-in-action-at-the-tour-de-france-femmes-six-weeks-on-from-tour-de-suisse-horror-crash/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "32aad11a06b8",
+   "t": "Tour stage winner Mauro Schmid leaves Jayco AlUla for Swiss team",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-08-01T14:14:52.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tour-ritwinnaar-mauro-schmid-verruilt-jayco-alula-voor-zwitsers-team/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
   },
   {
    "id": "ef739a89f8b5",
@@ -48,6 +356,21 @@
     {
      "n": "HLN Wielrennen",
      "u": "https://www.hln.be/wielrennen/live-remco-evenepoel-sluit-na-stevige-inhaalrace-opnieuw-aan-bij-kop-van-de-koers-wat-brengt-slotklim-straks~ad13362a/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "7564881848c7",
+   "t": "Win action: Win an Arc FLUX sports glasses by BBB Cycling (worth €129) this Tour",
+   "s": "",
+   "c": "gear",
+   "date": "2026-08-01T14:00:29.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/winactie-maak-deze-tour-kans-op-een-arc-flux-sportbril-van-bbb-cycling-t-w-v-e129/",
      "l": "nl"
     }
    ],
@@ -138,6 +461,21 @@
     {
      "n": "HLN Wielrennen",
      "u": "https://www.hln.be/tour-de-france/live-vier-koploopsters-hebben-mooie-voorsprong-lotte-kopecky-lijkt-niet-voor-gele-trui-mee-te-strijden-ik-ben-niet-plan-a-vandaag~a792dedf7/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "c0f22fa81faa",
+   "t": "Puck Pieterse is not going for the classification this Tour: \"Completely taken it off my mind\"",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T13:31:10.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/puck-pieterse-gaat-niet-voor-klassement-deze-tour-helemaal-uit-mijn-hoofd-gezet/",
      "l": "nl"
     }
    ],
@@ -699,6 +1037,21 @@
    "tr": 1
   },
   {
+   "id": "4d7758ea6ad4",
+   "t": "\"Can I go, Fitte?\": how Remco Evenepoel opened the gate to stardom in the 2019 Clasica San Sebastian and is now the sole record holder",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T09:11:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/mag-ik-gaan-fitte-hoe-remco-evenepoel-in-2019-in-de-clasica-san-sebastian-de-poort-naar-het-sterrendom-openbeukte-en-nu-alleen-recordhouder-is~a9d79c3a/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
    "id": "b490879d3a9f",
    "t": "\"I'm ignoring the fatigue\": Remco Evenepoel, who gets one last kiss from wife Oumi, is ready to become sole record holder",
    "s": "",
@@ -1178,6 +1531,21 @@
     {
      "n": "Feltet.dk",
      "u": "https://feltet.dk/landevej/live-ny-broeler-aendrer-resultat-af-spurt-igen/11244867",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "2d7ca00cf341",
+   "t": "LIVE: Crash - does the breakaway make it home?",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T08:00:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/live-styrt-holder-udbruddet-hjem/11244867",
      "l": "da"
     }
    ],
@@ -2734,81 +3102,6 @@
      "n": "Radsport-News",
      "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146310.htm",
      "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "6e22688a8a73",
-   "t": "Markel Beloki wins Tour de l'Ain and secures his first general classification",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T15:18:35.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/07/30/markel-beloki-gana-tour-l-ain-abrocha-primera-clasificacion-general.html",
-     "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "3a60c2c898ec",
-   "t": "Tour de l'Ain: Axel Mariault winner of the final stage",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T14:22:44.000Z",
-   "sources": [
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/courses/tour-de-lain/tour-de-lain-axel-mariault-vainqueur-de-la-derniere-etape/",
-     "l": "fr"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "12a9ec8e3a8c",
-   "t": "5 Must-Know Narratives of the Tour de France Femmes",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-30T14:21:56.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/walking-tightrope-season-consistency/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "bee8c02fc808",
-   "t": "Climber Jordan Jegat heading to Lidl-Trek",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-30T14:13:23.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/klimmer-jordan-jegat-op-weg-naar-lidl-trek/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "b062967b5d0e",
-   "t": "What are the fastest UCI-legal road wheels? Wind tunnel testing the big-name brands and Chinese contenders",
-   "s": "",
-   "c": "gear",
-   "date": "2026-07-30T14:09:56.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/cycling-tech-components/wheels-tyres/what-are-the-fastest-uci-legal-road-wheels-wind-tunnel-testing-the-big-name-brands-and-chinese-contenders/",
-     "l": "en"
     }
    ],
    "tr": 1
