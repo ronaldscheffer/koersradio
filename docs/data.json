@@ -1,6 +1,38 @@
 {
- "updated": "2026-08-01T09:07:10.379Z",
+ "updated": "2026-08-01T09:13:22.607Z",
  "groups": [
+  {
+   "id": "results-2026-08-01",
+   "type": "results",
+   "t": "Latest results — ProCyclingStats",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T09:13:19.803Z",
+   "rows": [
+    {
+     "race": "National team time trial championships",
+     "winner": "Vangi Ladies",
+     "url": "https://www.procyclingstats.com/search.php?term=National%20team%20time%20trial%20championships"
+    },
+    {
+     "race": "Transcontinental Race",
+     "winner": "Robin Gemperle",
+     "url": "https://www.procyclingstats.com/search.php?term=Transcontinental%20Race"
+    },
+    {
+     "race": "Tour of Denmark sprint",
+     "winner": "Wout van Aert",
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20of%20Denmark%20sprint"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ProCyclingStats",
+     "u": "https://www.procyclingstats.com/",
+     "l": "en"
+    }
+   ]
+  },
   {
    "id": "b490879d3a9f",
    "t": "\"I'm ignoring the fatigue\": Remco Evenepoel, who gets one last kiss from wife Oumi, is ready to become sole record holder",
@@ -11,6 +43,21 @@
     {
      "n": "HLN Wielrennen",
      "u": "https://www.hln.be/wielrennen/ik-ben-de-vermoeidheid-aan-het-negeren-remco-evenepoel-die-nog-laatste-kus-van-vrouw-oumi-krijgt-is-klaar-om-alleen-recordhouder-te-worden~ad13362a/",
+     "l": "be"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "91d8166e7af3",
+   "t": "\"I'm ignoring the fatigue\": Remco Evenepoel, who gets one last kiss from wife Oumi, ready to become sole record holder",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T09:04:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/ben-de-vermoeidheid-aan-het-negeren-remco-evenepoel-die-nog-laatste-kus-van-vrouw-oumi-krijgt-klaar-om-alleen-recordhouder-te-worden~ad13362a/",
      "l": "be"
     }
    ],
