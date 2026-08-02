@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-02T12:41:23.049Z",
+ "updated": "2026-08-02T13:05:11.616Z",
  "groups": [
   {
    "id": "910a309be31a",
@@ -22,7 +22,7 @@
    "t": "Laatste uitslagen — ProCyclingStats",
    "s": "",
    "c": "race",
-   "date": "2026-08-02T12:41:19.041Z",
+   "date": "2026-08-02T13:05:08.413Z",
    "rows": [
     {
      "race": "Memorial Fallarini",
@@ -30,14 +30,9 @@
      "url": "https://www.procyclingstats.com/search.php?term=Memorial%20Fallarini"
     },
     {
-     "race": "Criterium Komenda",
-     "winner": "Tadej Pogačar",
-     "url": "https://www.procyclingstats.com/search.php?term=Criterium%20Komenda"
-    },
-    {
-     "race": "Tour de France Femmes Stage 2",
+     "race": "Tour de France Femmes stage 2",
      "winner": "Lorena Wiebes",
-     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20France%20Femmes%20Stage%202"
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20France%20Femmes%20stage%202"
     },
     {
      "race": "UCI Gravel World Series - Around the Pot",
@@ -45,19 +40,9 @@
      "url": "https://www.procyclingstats.com/search.php?term=UCI%20Gravel%20World%20Series%20-%20Around%20the%20Pot"
     },
     {
-     "race": "UCI Gravel World Series - Cape Epic",
-     "winner": "Matt Beers",
-     "url": "https://www.procyclingstats.com/search.php?term=UCI%20Gravel%20World%20Series%20-%20Cape%20Epic"
-    },
-    {
      "race": "Trans-Himalaya",
      "winner": "Konychev",
      "url": "https://www.procyclingstats.com/search.php?term=Trans-Himalaya"
-    },
-    {
-     "race": "Clásica San Sebastián",
-     "winner": "Evenepoel",
-     "url": "https://www.procyclingstats.com/search.php?term=Cl%C3%A1sica%20San%20Sebasti%C3%A1n"
     }
    ],
    "sources": [
@@ -67,6 +52,21 @@
      "l": "en"
     }
    ]
+  },
+  {
+   "id": "c8633261959c",
+   "t": "LIVE. Ruime kopgroep met Tibor Del Grosso ziet voorsprong slinken, Visma-Lease a Bike controleert voor Wout van Aert",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-02T12:42:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/live-ruime-kopgroep-met-tibor-del-grosso-ziet-voorsprong-slinken-visma-lease-a-bike-controleert-voor-wout-van-aert~a3553f7f/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
   },
   {
    "id": "64311938cca1",
@@ -3159,6 +3159,21 @@
    "tr": 1
   },
   {
+   "id": "322eab1b9602",
+   "t": "Live: Massasprint onder voorbereiding",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T08:00:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/live-massespurt-under-opsejling/11244867",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
    "id": "7fc1f52e43a4",
    "t": "Wielerbond in crisis: Pella bedroefd, zeer scherpe toon: 'Dit is onverantwoord'",
    "s": "",
@@ -3944,51 +3959,6 @@
      "n": "Wielerflits",
      "u": "https://www.wielerflits.nl/nieuws/verkeerde-interpretatie-van-transponderdata-blijkt-oorzaak-foutieve-uitslag-in-denemarken/",
      "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "a50c84fb7805",
-   "t": "Jarno Widar verlengt contract met één jaar, blijft tot 2028 bij Lotto-Intermarché: 'Ik voel me hier geweldig'",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-31T12:55:50.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/jarno-widar-verlengt-contract-met-een-jaar-en-blijft-tot-2028-bij-lotto-intermarche-ik-voel-me-hier-heel-goed~a98ef736/",
-     "l": "be"
-    },
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/toptalent-jarno-widar-kiest-voor-langer-verblijf-bij-lotto-intermarche/",
-     "l": "nl"
-    },
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/actualite/cyclisme/jarno-widar-reste-chez-lotto-intermarche/",
-     "l": "fr"
-    },
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/stjernefroe-forlaenger-med-lotto/11246836",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "4cfd182be8aa",
-   "t": "Incolour SSR review: Licht, aero, en verrassend oncomfortabel",
-   "s": "",
-   "c": "gear",
-   "date": "2026-07-31T12:42:16.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/bikes/road/incolour-ssr-review/",
-     "l": "en"
     }
    ],
    "tr": 1
