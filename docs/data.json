@@ -1,6 +1,138 @@
 {
- "updated": "2026-08-02T10:06:36.463Z",
+ "updated": "2026-08-02T11:34:04.051Z",
  "groups": [
+  {
+   "id": "results-2026-08-02",
+   "type": "results",
+   "t": "Laatste uitslagen — ProCyclingStats",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-02T11:34:00.978Z",
+   "rows": [
+    {
+     "race": "UCI Gravel World Series Around the Pot",
+     "winner": "Lisa Bone",
+     "url": "https://www.procyclingstats.com/search.php?term=UCI%20Gravel%20World%20Series%20Around%20the%20Pot"
+    },
+    {
+     "race": "UCI Gravel World Series Cape Epic",
+     "winner": "Matt Beers",
+     "url": "https://www.procyclingstats.com/search.php?term=UCI%20Gravel%20World%20Series%20Cape%20Epic"
+    },
+    {
+     "race": "Trans-Himalaya",
+     "winner": "Konychev",
+     "url": "https://www.procyclingstats.com/search.php?term=Trans-Himalaya"
+    },
+    {
+     "race": "Tour de France Femmes 2026 Stage 1",
+     "winner": "Lorena Wiebes",
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20France%20Femmes%202026%20Stage%201"
+    },
+    {
+     "race": "Clásica San Sebastián",
+     "winner": "Remco Evenepoel",
+     "url": "https://www.procyclingstats.com/search.php?term=Cl%C3%A1sica%20San%20Sebasti%C3%A1n"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ProCyclingStats",
+     "u": "https://www.procyclingstats.com/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "fb984e7280cc",
+   "t": "LIVE. Zestal met Tibor Del Grosso kiest voor de aanval in slotrit, Wout van Aert wil \"blauwe leiderstrui veiligstellen\"",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-02T11:31:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/live-zestal-met-tibor-del-grosso-kiest-voor-de-aanval-in-slotrit-wout-van-aert-wil-blauwe-leiderstrui-veiligstellen~a3553f7f/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "dcaafcbc3ca0",
+   "t": "Het strafregister van de Tour de France Femmes / 1e etappe",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-02T11:25:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146339.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "280cecbd11d3",
+   "t": "'We zien het maandag' - Tadej Pogačar plaagt met aankondiging Vuelta a España-besluit terwijl hij thuiscriterium in Komenda wint",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-02T11:20:13.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/we-will-see-on-monday-tadej-pogacar-teases-vuelta-a-espana-decision-announcement-as-he-wins-home-criterium-in-komenda/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "c87a09f8fed0",
+   "t": "Tour de France Femmes etappe 2 LIVE: Lorena Wiebes favoriet voor winst in geel",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-02T11:14:22.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/live/tour-de-france-femmes-stage-2-live-lorena-wiebes-the-favourite-to-win-in-yellow/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "d4cdd2ab22e7",
+   "t": "Einer Rubio laat van zich horen na botsing met auto in Tour: \"Leren van dit soort gevallen\"",
+   "s": "",
+   "c": "health",
+   "date": "2026-08-02T11:00:11.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/einer-rubio-laat-van-zich-horen-na-botsing-met-auto-in-tour-leren-van-dit-soort-gevallen/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "61c2fa8ab896",
+   "t": "VAPRIO D'AGOGNA. SUPER MARANGON: OVERWINNENDE SPRINT IN MEMORIAL FALLARINI. GALERIJ",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-02T11:00:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/02/1785668473/ciclismo-juniores-paolo-marangon-strada-team-guerrini-senaghese",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "8baa4eb479fb",
    "t": "Na valpartij in openingsrit: Tour voorbij voor Schweinberger",
@@ -17,81 +149,79 @@
    "tr": 1
   },
   {
-   "id": "results-2026-08-02",
-   "type": "results",
-   "t": "Laatste uitslagen — ProCyclingStats",
+   "id": "69f5c11235d4",
+   "t": "Aanklachten ingetrokken tegen Masters-wielrenner vanwege Reflecting Pool-controverse",
    "s": "",
-   "c": "race",
-   "date": "2026-08-02T10:06:32.566Z",
-   "rows": [
-    {
-     "race": "PostNord Tour of Denmark | Stage 3",
-     "winner": "VAN AERT Wout",
-     "url": "https://www.procyclingstats.com/race/tour-of-denmark/2026/stage-3"
-    },
-    {
-     "race": "NC Portugal MJ - ITT",
-     "winner": "COSTA Gonçalo",
-     "url": "https://www.procyclingstats.com/race/nc-portugal-mj-itt/2026/result"
-    },
-    {
-     "race": "NC Portugal WJ - ITT",
-     "winner": "ESTEVES Marta",
-     "url": "https://www.procyclingstats.com/race/nc-portugal-wj-itt/2026/result"
-    },
-    {
-     "race": "Tour Cycliste International de la Guadeloupe | Stage 1 (ITT)",
-     "winner": "HOPKINS Kaden",
-     "url": "https://www.procyclingstats.com/race/tour-cycliste-international-de-la-guadeloupe/2026/stage-1"
-    },
-    {
-     "race": "PostNord Tour of Denmark | Stage 2",
-     "winner": "VAN AERT Wout",
-     "url": "https://www.procyclingstats.com/race/tour-of-denmark/2026/stage-2"
-    },
-    {
-     "race": "Tour de l'Ain | Stage 3",
-     "winner": "MARIAULT Axel",
-     "url": "https://www.procyclingstats.com/race/tour-de-l-ain/2026/stage-3"
-    },
-    {
-     "race": "PostNord Tour of Denmark | Stage 1",
-     "winner": "VAN AERT Wout",
-     "url": "https://www.procyclingstats.com/race/tour-of-denmark/2026/stage-1"
-    },
-    {
-     "race": "Tour de l'Ain | Stage 2",
-     "winner": "BELOKI Markel",
-     "url": "https://www.procyclingstats.com/race/tour-de-l-ain/2026/stage-2"
-    },
-    {
-     "race": "Tour de l'Ain | Stage 1",
-     "winner": "HOBBS Noah",
-     "url": "https://www.procyclingstats.com/race/tour-de-l-ain/2026/stage-1"
-    },
-    {
-     "race": "Tour de France | Stage 21",
-     "winner": "VAN DER POEL Mathieu",
-     "url": "https://www.procyclingstats.com/race/tour-de-france/2026/stage-21"
-    },
-    {
-     "race": "Junioren Rundfahrt | Stage 3",
-     "winner": "WÄNDEL Elias",
-     "url": "https://www.procyclingstats.com/race/int.-oberosterreich-juniorenradrundfahrt/2026/stage-3"
-    },
-    {
-     "race": "Watersley Junior Challenge | Stage 3",
-     "winner": "WITTE Tijs",
-     "url": "https://www.procyclingstats.com/race/watersley-junior-challenge/2026/stage-3"
-    }
-   ],
+   "c": "other",
+   "date": "2026-08-02T10:49:29.000Z",
    "sources": [
     {
-     "n": "ProCyclingStats",
-     "u": "https://www.procyclingstats.com/",
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/charges-dropped-against-masters-bike-racer-over-reflecting-pool-controversy/",
      "l": "en"
     }
-   ]
+   ],
+   "tr": 1
+  },
+  {
+   "id": "b4c98bf4c37b",
+   "t": "TOUR DE FRANCE FEMMES. CHAPMAN (KOORTSSIG) EN SCHWEINBERGER (GEBROKEN POLS) STARTEN NIET IN TWEEDE ETAPPE",
+   "s": "",
+   "c": "health",
+   "date": "2026-08-02T10:40:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/02/1785667572/tour-de-france-femmes-2026-tappa-2-ritiri",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "51ef99f46f45",
+   "t": "Tadej Pogačar spreekt over de sombere realiteit van zijn herstel na Tour de France",
+   "s": "",
+   "c": "health",
+   "date": "2026-08-02T10:23:31.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/pogacar-opens-up-on-tour-de-france-comedown/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "2053d818457f",
+   "t": "Belgisch talent Jarno Widar breidt contract uit met Lotto-Intermarché voor Vuelta-start",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-08-02T10:15:27.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/emerging-talents/top-belgian-prospect-jarno-widar-agrees-contract-extension-with-lotto-intermarche-ahead-of-vuelta-start/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "0c7cc6889759",
+   "t": "Ashleigh Moolman Pasio wordt algemeen directeur van Team Amani terwijl Afrikaans team streeft naar deelname Tour de France Femmes in 2028",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-08-02T10:07:12.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/ashleigh-moolman-pasio-to-become-general-manager-of-team-amani-as-african-team-seeks-to-race-tour-de-france-femmes-in-2028/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
   },
   {
    "id": "ca5a93e8a48e",
@@ -103,6 +233,21 @@
     {
      "n": "HLN Wielrennen",
      "u": "https://www.hln.be/wielrennen/stelt-wout-van-aert-die-voor-vierde-ritzege-gaat-eindzege-veilig-in-ronde-van-denemarken~a3553f7f/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "1c839ae8634f",
+   "t": "Bauke Mollema neemt afscheid van Clásica San Sebastián: \"Mooie herinneringen\"",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-02T09:54:28.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/bauke-mollema-neemt-afscheid-van-clasica-san-sebastian-mooie-herinneringen/",
      "l": "nl"
     }
    ],
@@ -2884,6 +3029,21 @@
    "tr": 1
   },
   {
+   "id": "06afe7b84f97",
+   "t": "LIVE: Sterk ontsnapping vastgesteld",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T08:00:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/live-staerkt-udbrud-etableret/11244867",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
    "id": "7fc1f52e43a4",
    "t": "Wielerbond in crisis: Pella bedroefd, zeer scherpe toon: 'Dit is onverantwoord'",
    "s": "",
@@ -3784,81 +3944,6 @@
      "n": "Escape Collective",
      "u": "https://escapecollective.com/paula-blasi-reveals-she-has-yet-to-decide-on-her-future/",
      "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "8c5cba7c6615",
-   "t": "'Kijk ernaar uit om simpelweg mijn gevoel te volgen': Lotte Kopecky gaat naar Tour de France Femmes in vrije rol",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-31T11:14:04.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/kijk-ernaar-uit-om-gewoon-mijn-gevoel-te-volgen-lotte-kopecky-trekt-in-vrije-rol-naar-tour-de-france-femmes~a56fed9c/",
-     "l": "be"
-    },
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/lotte-kopecky-gaat-niet-voor-eigen-gewin-in-tour-femmes-eerst-lead-out-doen-dan-gevoel-volgen/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "3a8817f8a40c",
-   "t": "Revenue Sharing heronthuld",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-31T11:09:47.000Z",
-   "sources": [
-    {
-     "n": "The Inner Ring (inrng.com)",
-     "u": "https://inrng.com/2026/07/revenue-sharing-re-revisited/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "8f67b576c8c2",
-   "t": "Jonas Vingegaard beseft dat hij een fout maakte in Tourvorbereiding: 'Begreep de parcours verkeerd'",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-31T11:04:00.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/jonas-vingegaard-beseft-dat-hij-fout-maakte-in-tour-voorbereiding-parcours-verkeerd-begrepen/",
-     "l": "nl"
-    },
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146318.htm",
-     "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "02f01b0bbd45",
-   "t": "Richting Tour de France Femmes: SD Worx met Van der Breggen voor klassement, Wiebes voor sprints en Cecchini als directeur",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-31T10:22:15.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/31/1785491483/tour-de-france-femmes-2026-sd-worx-protime-cecchini-van-der-breggen",
-     "l": "it"
-    },
-    {
-     "n": "NOS Wielrennen",
-     "u": "https://nos.nl/l/2625047",
-     "l": "nl"
     }
    ],
    "tr": 1
