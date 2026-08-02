@@ -1,28 +1,13 @@
 {
- "updated": "2026-08-01T23:36:25.985Z",
+ "updated": "2026-08-02T01:17:11.569Z",
  "groups": [
   {
-   "id": "82b5a77772ee",
-   "t": "Polen-Rundfahrt in retrospectief: De afgelopen tien jaar",
-   "s": "",
-   "c": "race",
-   "date": "2026-08-01T23:55:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_139044.htm",
-     "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "results-2026-08-01",
+   "id": "results-2026-08-02",
    "type": "results",
    "t": "Laatste uitslagen — ProCyclingStats",
    "s": "",
    "c": "race",
-   "date": "2026-08-01T23:36:22.965Z",
+   "date": "2026-08-02T01:17:08.684Z",
    "rows": [
     {
      "race": "Clásica San Sebastián",
@@ -33,11 +18,6 @@
      "race": "Tour de France Femmes etappe 1",
      "winner": "Lorena Wiebes",
      "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20France%20Femmes%20etappe%201"
-    },
-    {
-     "race": "Ronde van Denemarken etappe 4",
-     "winner": "Storm Ingebrigtsen",
-     "url": "https://www.procyclingstats.com/search.php?term=Ronde%20van%20Denemarken%20etappe%204"
     },
     {
      "race": "Danmark Rundt etappe 4",
@@ -52,6 +32,36 @@
      "l": "en"
     }
    ]
+  },
+  {
+   "id": "6390cc613e5d",
+   "t": "Tour de France Femmes 2026: Alle gele kaarten, boetes en straffen",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-02T00:14:25.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/tour-de-france-femmes-2026-all-the-yellow-cards-fines-and-penalties/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "82b5a77772ee",
+   "t": "Polen-Rundfahrt in retrospectief: De afgelopen tien jaar",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T23:55:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_139044.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
   },
   {
    "id": "8cd82e990438",
@@ -3729,36 +3739,6 @@
      "n": "Feltet.dk",
      "u": "https://feltet.dk/landevej/vingegaardindikerer-maal-for-2027/11246061",
      "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "3df939e0d6a6",
-   "t": "De zeven renners uit Australië en Nieuw-Zeeland die van start gaan in de Tour de France Femmes",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-31T01:10:19.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/the-seven-riders-from-australia-and-new-zealand-taking-to-the-start-line-at-the-tour-de-france-femmes/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "6baf572ee263",
-   "t": "Threaded #60: Een nieuwe werkplaats dromen, deel één",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-31T00:34:12.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/threaded-60-dreaming-up-a-new-workshop-part-one/",
-     "l": "en"
     }
    ],
    "tr": 1
