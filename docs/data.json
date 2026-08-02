@@ -1,6 +1,218 @@
 {
- "updated": "2026-08-02T07:40:25.680Z",
+ "updated": "2026-08-02T10:06:36.463Z",
  "groups": [
+  {
+   "id": "8baa4eb479fb",
+   "t": "Na valpartij in openingsrit: Tour voorbij voor Schweinberger",
+   "s": "",
+   "c": "health",
+   "date": "2026-08-02T10:58:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146338.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "results-2026-08-02",
+   "type": "results",
+   "t": "Laatste uitslagen — ProCyclingStats",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-02T10:06:32.566Z",
+   "rows": [
+    {
+     "race": "PostNord Tour of Denmark | Stage 3",
+     "winner": "VAN AERT Wout",
+     "url": "https://www.procyclingstats.com/race/tour-of-denmark/2026/stage-3"
+    },
+    {
+     "race": "NC Portugal MJ - ITT",
+     "winner": "COSTA Gonçalo",
+     "url": "https://www.procyclingstats.com/race/nc-portugal-mj-itt/2026/result"
+    },
+    {
+     "race": "NC Portugal WJ - ITT",
+     "winner": "ESTEVES Marta",
+     "url": "https://www.procyclingstats.com/race/nc-portugal-wj-itt/2026/result"
+    },
+    {
+     "race": "Tour Cycliste International de la Guadeloupe | Stage 1 (ITT)",
+     "winner": "HOPKINS Kaden",
+     "url": "https://www.procyclingstats.com/race/tour-cycliste-international-de-la-guadeloupe/2026/stage-1"
+    },
+    {
+     "race": "PostNord Tour of Denmark | Stage 2",
+     "winner": "VAN AERT Wout",
+     "url": "https://www.procyclingstats.com/race/tour-of-denmark/2026/stage-2"
+    },
+    {
+     "race": "Tour de l'Ain | Stage 3",
+     "winner": "MARIAULT Axel",
+     "url": "https://www.procyclingstats.com/race/tour-de-l-ain/2026/stage-3"
+    },
+    {
+     "race": "PostNord Tour of Denmark | Stage 1",
+     "winner": "VAN AERT Wout",
+     "url": "https://www.procyclingstats.com/race/tour-of-denmark/2026/stage-1"
+    },
+    {
+     "race": "Tour de l'Ain | Stage 2",
+     "winner": "BELOKI Markel",
+     "url": "https://www.procyclingstats.com/race/tour-de-l-ain/2026/stage-2"
+    },
+    {
+     "race": "Tour de l'Ain | Stage 1",
+     "winner": "HOBBS Noah",
+     "url": "https://www.procyclingstats.com/race/tour-de-l-ain/2026/stage-1"
+    },
+    {
+     "race": "Tour de France | Stage 21",
+     "winner": "VAN DER POEL Mathieu",
+     "url": "https://www.procyclingstats.com/race/tour-de-france/2026/stage-21"
+    },
+    {
+     "race": "Junioren Rundfahrt | Stage 3",
+     "winner": "WÄNDEL Elias",
+     "url": "https://www.procyclingstats.com/race/int.-oberosterreich-juniorenradrundfahrt/2026/stage-3"
+    },
+    {
+     "race": "Watersley Junior Challenge | Stage 3",
+     "winner": "WITTE Tijs",
+     "url": "https://www.procyclingstats.com/race/watersley-junior-challenge/2026/stage-3"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ProCyclingStats",
+     "u": "https://www.procyclingstats.com/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "ca5a93e8a48e",
+   "t": "Stelt Wout van Aert, die voor vierde ritzege gaat, eindzege veilig in Ronde van Denemarken?",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-02T09:58:50.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/stelt-wout-van-aert-die-voor-vierde-ritzege-gaat-eindzege-veilig-in-ronde-van-denemarken~a3553f7f/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "292574dd446a",
+   "t": "Marit Raaijmakers rijdt Tour op Spongebob-fiets: \"Dacht dat ze een grapje maakten\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-02T08:49:06.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/marit-raaijmakers-rijdt-tour-op-spongebob-fiets-dacht-dat-ze-een-grapje-maakten/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "05b3e2eb5159",
+   "t": "Wat betekent een waarschuwing? – Onderzoek naar gevolgen van vermaning na eerste etappe Tour de France Femmes",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-02T08:42:04.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/whats-in-a-warning-looking-into-the-consequences-of-a-caution-after-tour-de-france-femmes-stage-1-report-delivers-lengthy-list/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "b04383929fe2",
+   "t": "'Mijn doel is op het hoogste niveau van de sport te concurreren' – Kate Courtney proeft van het topprofpeloton met Tour de France Femmes-bezoek bij FDJ United-Suez",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-02T08:20:00.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/my-goal-is-to-compete-at-the-pinnacle-of-the-sport-kate-courtney-gets-a-taste-of-the-top-with-tour-de-france-femmes-visit-with-fdj-united-suez/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "2e0eaa15d0ca",
+   "t": "Blasi noemt witte trui \"een aangename verrassing\" na vermeende regelwijziging",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-02T08:18:41.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/blasi-calls-white-jersey-a-nice-surprise-after-apparent-rule-change/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "4c881d14fc2e",
+   "t": "Mads P. wijst uit naar Vuelta-doel",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-02T08:13:40.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/mads-p.-udpeger-vuelta-maal/11247829",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "d24d985f5ad9",
+   "t": "Tour Femmes 2026: De uitvallers",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-02T08:03:49.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-de-uitvallers/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "0edd6d4499de",
+   "t": "Groot feest in huis Pezzo Rosola: Leonardo is geboren",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-02T08:00:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/02/1785660157/ciclismo-paola-pezzo-famiglia-ciclisti-nascita-dna-campione",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "96cd926a4d2e",
    "t": "Lijst van gestopte rensters / Etappe 1",
@@ -17,36 +229,34 @@
    "tr": 1
   },
   {
-   "id": "results-2026-08-02",
-   "type": "results",
-   "t": "Laatste uitslagen — ProCyclingStats",
+   "id": "c45582315749",
+   "t": "Tour Femmes 2026: Christina Schweinberger moet opgeven met gebroken pols",
    "s": "",
-   "c": "race",
-   "date": "2026-08-02T07:40:22.839Z",
-   "rows": [
-    {
-     "race": "Tour de France Femmes 2026 Etappe 1",
-     "winner": "Lorena Wiebes",
-     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20France%20Femmes%202026%20Etappe%201"
-    },
-    {
-     "race": "Clásica San Sebastián",
-     "winner": "Remco Evenepoel",
-     "url": "https://www.procyclingstats.com/search.php?term=Cl%C3%A1sica%20San%20Sebasti%C3%A1n"
-    },
-    {
-     "race": "Danmark Rundt Etappe 4",
-     "winner": "Storm Ingebrigtsen",
-     "url": "https://www.procyclingstats.com/search.php?term=Danmark%20Rundt%20Etappe%204"
-    }
-   ],
+   "c": "health",
+   "date": "2026-08-02T07:46:15.000Z",
    "sources": [
     {
-     "n": "ProCyclingStats",
-     "u": "https://www.procyclingstats.com/",
-     "l": "en"
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-al-drie-uitvallers-na-openingsetappe/",
+     "l": "nl"
     }
-   ]
+   ],
+   "tr": 1
+  },
+  {
+   "id": "14a0889005e4",
+   "t": "Trine Vingegaard reageert op omstreden interview",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-02T07:35:44.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/trine-vingegaard-kommenterer-paa-omstridt-interview/11247809",
+     "l": "da"
+    }
+   ],
+   "tr": 1
   },
   {
    "id": "7fa933e0f4b7",
@@ -2659,6 +2869,21 @@
    "tr": 1
   },
   {
+   "id": "6abde5e55c87",
+   "t": "Live: Voorbeschouwing op slotrit van PostNord Danmark Rundt",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T08:00:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/live-optakter-til-sidste-etape-af-postnord-danmark-rundt/11244867",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
    "id": "7fc1f52e43a4",
    "t": "Wielerbond in crisis: Pella bedroefd, zeer scherpe toon: 'Dit is onverantwoord'",
    "s": "",
@@ -3634,146 +3859,6 @@
      "n": "NOS Wielrennen",
      "u": "https://nos.nl/l/2625047",
      "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "fcec063e86df",
-   "t": "Niedermaier: 'In betere vorm dan ik was op de Giro'",
-   "s": "",
-   "c": "health",
-   "date": "2026-07-31T09:57:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146317.htm",
-     "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "6db7329c4285",
-   "t": "Tour Femmes 2026: Live blog etappe 1",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-31T09:55:13.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/live/tour-femmes-2026-liveblog-etappe-1",
-     "l": "nl"
-    },
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/de-avondetappe-reist-wel-achter-tour-femmes-aan-in-zwitserland-en-frankrijk/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "5944234decfd",
-   "t": "BlaBike, Guercilena: Alices afstuderen en episch feest met Lidl Trek, wat een emoties afgelopen weekend!",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-31T09:30:42.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/31/1785179105/podcast-blablabike-luca-guercilena-laurea-alice-lidl-trek-tour-de-france-2026-festa-antidoping",
-     "l": "it"
-    },
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/in-drie-jaar-van-soigneur-naar-tourrenster-malou-eisen-25-bestormt-de-wielerwereld/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "6eeea7cf765d",
-   "t": "Deel 4: Wat komt er volgende?",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-31T09:24:37.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/part-4-what-comes-next/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "7871b5c10d4e",
-   "t": "Op de camping droomt Vollering groot: 'Wil niet zomaar een egoïstische atleet zijn'",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-31T08:50:57.000Z",
-   "sources": [
-    {
-     "n": "NOS Wielrennen",
-     "u": "https://nos.nl/l/2625015",
-     "l": "nl"
-    },
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/demi-vollering-met-andere-aanpak-naar-tour-femmes-moeten-gat-met-ferrand-prevot-dichten/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "a57512eb4725",
-   "t": "Spin Cycle: de week Deens leven",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-31T08:26:04.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/spin-cycle-the-week-of-living-danishly/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "7a83e57bb9a7",
-   "t": "Picnic PostNL geeft twee stagiaires van Nederlands continentaal circuit kans",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-31T08:18:38.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/picnic-postnl-geeft-twee-stagairs-uit-nederlands-continentel-circuit-de-kans/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "37522815066c",
-   "t": "Zal Tadej Pogačar een zesde Tour de France winnen? - Wat kunnen we verwachten van de 2027 Tour de France",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-31T07:50:00.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/will-tadej-pogacar-win-a-sixth-tour-de-france-what-can-we-expect-from-the-2027-grand-boucle/",
-     "l": "en"
-    },
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/31/1785484683/tour-de-france-ciclismo-berlino-germania-grande-boucle",
-     "l": "it"
     }
    ],
    "tr": 1
