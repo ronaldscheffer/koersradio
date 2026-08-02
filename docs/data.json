@@ -1,23 +1,53 @@
 {
- "updated": "2026-08-02T11:34:04.051Z",
+ "updated": "2026-08-02T12:41:23.049Z",
  "groups": [
+  {
+   "id": "910a309be31a",
+   "t": "Rubio: 'Daar kunnen we aan werken dat zoiets zich niet herhaalt'",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-02T13:32:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146342.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "results-2026-08-02",
    "type": "results",
    "t": "Laatste uitslagen — ProCyclingStats",
    "s": "",
    "c": "race",
-   "date": "2026-08-02T11:34:00.978Z",
+   "date": "2026-08-02T12:41:19.041Z",
    "rows": [
     {
-     "race": "UCI Gravel World Series Around the Pot",
-     "winner": "Lisa Bone",
-     "url": "https://www.procyclingstats.com/search.php?term=UCI%20Gravel%20World%20Series%20Around%20the%20Pot"
+     "race": "Memorial Fallarini",
+     "winner": "Marangon",
+     "url": "https://www.procyclingstats.com/search.php?term=Memorial%20Fallarini"
     },
     {
-     "race": "UCI Gravel World Series Cape Epic",
+     "race": "Criterium Komenda",
+     "winner": "Tadej Pogačar",
+     "url": "https://www.procyclingstats.com/search.php?term=Criterium%20Komenda"
+    },
+    {
+     "race": "Tour de France Femmes Stage 2",
+     "winner": "Lorena Wiebes",
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20France%20Femmes%20Stage%202"
+    },
+    {
+     "race": "UCI Gravel World Series - Around the Pot",
+     "winner": "Lisa Bone",
+     "url": "https://www.procyclingstats.com/search.php?term=UCI%20Gravel%20World%20Series%20-%20Around%20the%20Pot"
+    },
+    {
+     "race": "UCI Gravel World Series - Cape Epic",
      "winner": "Matt Beers",
-     "url": "https://www.procyclingstats.com/search.php?term=UCI%20Gravel%20World%20Series%20Cape%20Epic"
+     "url": "https://www.procyclingstats.com/search.php?term=UCI%20Gravel%20World%20Series%20-%20Cape%20Epic"
     },
     {
      "race": "Trans-Himalaya",
@@ -25,13 +55,8 @@
      "url": "https://www.procyclingstats.com/search.php?term=Trans-Himalaya"
     },
     {
-     "race": "Tour de France Femmes 2026 Stage 1",
-     "winner": "Lorena Wiebes",
-     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20France%20Femmes%202026%20Stage%201"
-    },
-    {
      "race": "Clásica San Sebastián",
-     "winner": "Remco Evenepoel",
+     "winner": "Evenepoel",
      "url": "https://www.procyclingstats.com/search.php?term=Cl%C3%A1sica%20San%20Sebasti%C3%A1n"
     }
    ],
@@ -42,6 +67,81 @@
      "l": "en"
     }
    ]
+  },
+  {
+   "id": "64311938cca1",
+   "t": "Niedermaier met achterstand: 'Niets wat je niet kunt verwerken'",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-02T12:27:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146341.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "e3e740290566",
+   "t": "Balsamo: 'Er zijn rensters die altijd dezelfde fouten maken'",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-02T12:26:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146340.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "74e3d3bcc24f",
+   "t": "LIVE. Ruime kopgroep met Tibor Del Grosso houdt goed stand, Visma-Lease a Bike controleert voor Wout van Aert",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-02T12:18:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/live-ruime-kopgroep-met-tibor-del-grosso-houdt-goed-stand-visma-lease-a-bike-controleert-voor-wout-van-aert~a3553f7f/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "bd35d31983d7",
+   "t": "Opgesloten in auto: Movistar-prof doet oproep",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-02T11:50:10.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/incoming/bankede-op-i-bil-movistar-profil-med-opraab/11247956",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "cc2a2efa8d37",
+   "t": "Leegloop bij noodlijdend Equipo Kern Pharma, WorldTour-ploegen slaan hun slag",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-08-02T11:40:02.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/leegloop-bij-noodlijdend-equipo-kern-pharma-worldtour-ploegen-slaan-hun-slag/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
   },
   {
    "id": "fb984e7280cc",
@@ -3044,6 +3144,21 @@
    "tr": 1
   },
   {
+   "id": "b08dcc896780",
+   "t": "LIVE: We naderen de finale",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T08:00:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/live-vi-naermer-os-finalen/11244867",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
    "id": "7fc1f52e43a4",
    "t": "Wielerbond in crisis: Pella bedroefd, zeer scherpe toon: 'Dit is onverantwoord'",
    "s": "",
@@ -3873,76 +3988,6 @@
     {
      "n": "Cyclingnews",
      "u": "https://www.cyclingnews.com/bikes/road/incolour-ssr-review/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "c840c6e98b59",
-   "t": "Ontwerp de volgende helm van UAE Team Emirates-XRG en win een reis naar de 2027 UAE Tour",
-   "s": "",
-   "c": "gear",
-   "date": "2026-07-31T12:37:11.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/cycling-kit-accessories/helmets/design-uae-team-emirates-xrgs-next-helmet-and-you-could-win-a-trip-to-the-2027-uae-tour/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e899f1c3ad54",
-   "t": "Wielrennen: racecalender augustus 2026",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-31T12:36:43.000Z",
-   "sources": [
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/courses/cyclisme/cyclisme-le-calendrier-des-courses-daout-2026/",
-     "l": "fr"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "6e4f21828c94",
-   "t": "Dacht dat het contract rond was - maar Mads A. heeft niets gehoord",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-31T12:19:08.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/troede-kontrakten-var-hjemme-men-mads-a.-har-intet-hoert/11246786",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "cdffbc90e594",
-   "t": "Paula Blasi betreedt het grote podium: wat wacht haar bij haar Tour de France-debuut",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-31T11:47:49.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/tour-francia/2026/07/31/paula-blasi-entra-gran-escenario-le-espera-estreno-tour-francia.html",
-     "l": "es"
-    },
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/revelatie-paula-blasi-moet-knechten-in-tour-femmes-we-hebben-twee-leiders-maar-ik-hoor-daar-niet-bij/",
-     "l": "nl"
-    },
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/paula-blasi-reveals-she-has-yet-to-decide-on-her-future/",
      "l": "en"
     }
    ],
