@@ -1,18 +1,33 @@
 {
- "updated": "2026-08-02T05:04:08.706Z",
+ "updated": "2026-08-02T07:40:25.680Z",
  "groups": [
+  {
+   "id": "96cd926a4d2e",
+   "t": "Lijst van gestopte rensters / Etappe 1",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-02T07:51:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146337.htm",
+     "l": "de"
+    }
+   ],
+   "tr": 1
+  },
   {
    "id": "results-2026-08-02",
    "type": "results",
    "t": "Laatste uitslagen — ProCyclingStats",
    "s": "",
    "c": "race",
-   "date": "2026-08-02T05:04:05.367Z",
+   "date": "2026-08-02T07:40:22.839Z",
    "rows": [
     {
-     "race": "Tour de France Femmes 2026 - Stage 1",
+     "race": "Tour de France Femmes 2026 Etappe 1",
      "winner": "Lorena Wiebes",
-     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20France%20Femmes%202026%20-%20Stage%201"
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20France%20Femmes%202026%20Etappe%201"
     },
     {
      "race": "Clásica San Sebastián",
@@ -20,9 +35,9 @@
      "url": "https://www.procyclingstats.com/search.php?term=Cl%C3%A1sica%20San%20Sebasti%C3%A1n"
     },
     {
-     "race": "Danmark Rundt - Stage 4",
+     "race": "Danmark Rundt Etappe 4",
      "winner": "Storm Ingebrigtsen",
-     "url": "https://www.procyclingstats.com/search.php?term=Danmark%20Rundt%20-%20Stage%204"
+     "url": "https://www.procyclingstats.com/search.php?term=Danmark%20Rundt%20Etappe%204"
     }
    ],
    "sources": [
@@ -32,6 +47,246 @@
      "l": "en"
     }
    ]
+  },
+  {
+   "id": "7fa933e0f4b7",
+   "t": "Elisa Balsamo uit frustraties over collega's: \"Altijd dezelfde rensters die fouten maken\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-02T07:13:06.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/elisa-balsmo-uit-frustraties-over-collega-altijd-dezelfde-rensters-die-fouten-maken/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "ef93db2b85a8",
+   "t": "In zijn laatste Clásica genoot Mollema volop: 'Baskische fans zijn beste ter wereld'",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-02T07:08:20.000Z",
+   "sources": [
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2625233",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "11f2a1692ed1",
+   "t": "Winactie: Maak deze Tour kans op UDOG Tensione Arctic White-fietsschoenen (t.w.v. €165)",
+   "s": "",
+   "c": "gear",
+   "date": "2026-08-02T07:00:13.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/winactie-maak-deze-tour-kans-op-udog-tensione-arctic-white-fietsschoenen-t-w-v-e165/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "bd46f910944e",
+   "t": "UCI geeft zeldzame waarschuwing temidden van sanctiemgeving bij Tour de France Femmes",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-02T06:53:49.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/uci-warning-tour-de-france-femmes-sanction-frenzy/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "7d7369e1a7fc",
+   "t": "Tour Femmes 2026: Medisch bulletin en juryrapport – Waarschuwingen voor Pauline Ferrand-Prévot en Lieke Nooijen",
+   "s": "",
+   "c": "health",
+   "date": "2026-08-02T06:39:37.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-medisch-bulletin-en-juryrapport-waarschuwingen-voor-pauline-ferrand-prevot-en-lieke-nooijen/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "cb28d4bd8248",
+   "t": "Landa keert naar huis terug: Officieel akkoord met Euskaltel-Euskadi voor seizoenen 2027 en 2028",
+   "s": "",
+   "c": "transfer",
+   "date": "2026-08-02T06:30:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/02/1785598903/mikel-landa-euskaltel-2027",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "ebb4acd14b93",
+   "t": "En plots rijdt tekenfilmheld SpongeBob mee in de Tour de France Femmes: opvallendste fiets in het peloton krijgt meest gedurfde design",
+   "s": "",
+   "c": "gear",
+   "date": "2026-08-02T06:29:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/en-plots-rijdt-tekenfilmheld-spongebob-mee-in-de-tour-de-france-femmes-opvallendste-fiets-in-het-peloton-krijgt-meest-gedurfde-design~a0b61c4c/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "87d8ca16cfa6",
+   "t": "Vanaf morgen de Ronde van Polen: Almeida zoekt antwoorden en in de sprint keert Milan tegen Magnier terug",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-02T06:27:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/02/1785580901/giro-polonia-2026-percorso-tappe-favoriti",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "9a704c1baa89",
+   "t": "Paula Blasi niet verrast door ophef rond haar helpersrol in de Tour Femmes",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-02T06:24:21.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/paula-blasi-niet-verrast-door-ophef-rond-haar-helpersrol-in-de-tour-femmes/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "e7ca3719838e",
+   "t": "Tour Femmes, de nummers van de eerste etappe. Wiebes, SD Worx en Nederland: dat is echte dominantie",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-02T06:20:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/02/1785611051/tour-de-france-femmes-lorena-wiebes-ciclismo-sd-worx-protime-paesi-bassi",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "f0d445499489",
+   "t": "Uno-X-sportsdirecteur ziet grote toekomst voor jonge Deense komeet",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-02T06:00:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/uno-x-sportsdirektoer-oejner-stor-fremtid-for-ung-dansk-komet/11247674",
+     "l": "da"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "778495ad668c",
+   "t": "De generatie die komt en het troon van Pogacar en Vingegaard bedreigt",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-02T05:30:13.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/08/02/generacion-viene-amenaza-trono-pogacar-vingegaard.html",
+     "l": "es"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "b288c0b787ce",
+   "t": "UCI Gravel World Series: Lisa Bone wint solo Around the Pot, Matt Beers voor Cape Epic-ploeggenoot Tristan Nortje",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-02T05:18:30.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/uci-gravel-world-series-lisa-bone-takes-solo-win-at-around-the-pot-matt-beers-darts-ahead-of-cape-epic-teammate-tristan-nortje/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "1f3fc504d099",
+   "t": "Trans-Himalaya, eerste professionele zege voor Konychev: Tshishkou verslagen bij Basomtso Lake",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-02T05:01:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/02/1785647101/china-trans-himalaya-konychev-prima-tappa",
+     "l": "it"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "6800f2b53272",
+   "t": "Tour Femmes 2026: Liveblog etappe 2: Laat Wiebes haar gele trui meteen blinken in aangekondigde massasprint?",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-02T05:00:00.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/live/tour-femmes-2026-liveblog-etappe-2",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "f314ad697bad",
+   "t": "Lorena Wiebes revancheert zich met gele trui: \"Alles wat is gebeurd in de Giro gaf mij extra motivatie\"",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-02T04:30:46.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/lorena-wiebes-revancheert-zich-met-gele-trui-alles-wat-is-gebeurd-in-de-giro-gaf-mij-extra-motivatie/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
   },
   {
    "id": "806d829ef9df",
@@ -483,6 +738,21 @@
     {
      "n": "Wielerflits",
      "u": "https://www.wielerflits.nl/nieuws/doe-mee-met-de-voorspelgame-tijdens-de-tour-de-france-femmes-wie-wint-etappe-2/",
+     "l": "nl"
+    }
+   ],
+   "tr": 1
+  },
+  {
+   "id": "b2295faf0e0d",
+   "t": "\"Daar rijden we 12 rondjes, zeker hé?\": of hoe Remco Evenepoel na zegerecord in San Sebastián al aan het WK in Canada denkt",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-01T17:36:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/daar-rijden-we-12-rondjes-zeker-he-of-hoe-remco-evenepoel-na-zegerecord-in-san-sebastian-al-aan-het-wk-in-canada-denkt~a39fb8d7/",
      "l": "nl"
     }
    ],
@@ -3503,216 +3773,6 @@
     {
      "n": "TuttoBiciWeb",
      "u": "https://www.tuttobiciweb.it/article/2026/07/31/1785484683/tour-de-france-ciclismo-berlino-germania-grande-boucle",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "d22dcb2e7122",
-   "t": "Fizik Arione R1 Adaptive, het iconische racezadel keert terug in 3D",
-   "s": "",
-   "c": "gear",
-   "date": "2026-07-31T07:16:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/31/1785507877/fizik-selle-tecnologia-3d-componenti-bici",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "367fb6e22b73",
-   "t": "Giro della Lunigiana viert 50 jaar: editie 2026 gepresenteerd",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-31T07:15:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/31/1785483853/giro-lunigiana-2026-corse-giovanili-liguria-futuri-campioni-juniores",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "3257f2d4dd44",
-   "t": "Visma-ster juicht: Het zal absoluut niet saai worden",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-31T07:00:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/visma-stjerne-jubler-det-bliver-absolut-ikke-kedeligt/11246066",
-     "l": "da"
-    },
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/31/1785482555/ciclismo-wout-van-aert-giro-di-danimarca-pndkr26-ritorno-alle-gare",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "6525559cdd5f",
-   "t": "Tim Merlier en Jasper Stuyven mogen op het podium: Jasper Philipsen sprint naar overwinning in post-Tour criterium van Herentals",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-31T06:54:15.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/tim-merlier-en-jasper-stuyven-mochten-mee-op-het-podium-jasper-philipsen-sprint-naar-zege-in-na-tourcriterium-van-herentals~a98ef736/",
-     "l": "be"
-    },
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/jasper-philipsen-wint-laatste-belgische-na-tourcriterium-in-herentals-olav-kooij-in-wateringen/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "c5f7c79eea84",
-   "t": "Jensen Plowright ziet droom uiteenspatten: 'Ik ben het zat, maar verliezen van Van Aert is oké'",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-31T06:27:42.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/jensen-plowright-ziet-droom-uiteenspatten-ben-er-ziek-van-maar-verliezen-van-van-aert-is-oke/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "10f5f163860c",
-   "t": "Tour & Media: analyse van een succes dat elk record brak",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-31T06:27:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/31/1785438278/tour-de-france-2026-ciclismo-ascolti-televisivi-social-media-tdf2026",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "74dd5a59ce61",
-   "t": "'Ik denk niet dat andere teams onze strategie kennen' – UAE Team L'IMAD start Tour de France Femmes met diepgang en Longo Borghini en Blasi aan het hoofd",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-31T06:25:00.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/i-dont-think-other-teams-know-our-strategy-uae-team-limad-start-tour-de-france-femmes-with-strength-in-depth-and-longo-borghini-and-blasi-at-the-helm/",
-     "l": "en"
-    },
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/31/1785430074/uae-team-limad-tour-de-france-femmes-longo-borghini",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "2c9122870e18",
-   "t": "Tour-tiende Jegat naar Lidl-Trek?",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-07-31T06:23:53.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_145951.htm",
-     "l": "de"
-    },
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/jordan-jegat-linked-to-lidl-trek-for-2027/",
-     "l": "en"
-    },
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/07/31/trato-cerrado-lista-fichajes-clave-firmados-abra-mercado-1-agosto.html",
-     "l": "es"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "967538f60bc2",
-   "t": "Velo: als je deze week's aflevering nogmaals wilt bekijken...",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-31T06:21:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/31/1785482516/tdf2026-classiche-estive-talenti-giovani-velo",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "ae64fe1e2703",
-   "t": "Synergieën en topkwaliteit: Cicli Casati gaat in op Drali's baan",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-31T06:20:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/31/1785438911/ciclismo-cicli-casati-drali-telai-in-carbonio-made-in-italy-artigianato-brianzolo",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "c6d5100874f9",
-   "t": "Wie rijdt wat in de Tour de France Femmes? Alle fietsen uit de editie 2026",
-   "s": "",
-   "c": "gear",
-   "date": "2026-07-31T06:20:00.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-gear/all-2026-tour-de-france-femmes-bikes/",
-     "l": "en"
-    },
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/31/1785437027/tour-de-france-femmes-2026-ciclismo-fenix-premier-tech-ale-abbigliamento-ciclistico",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e7f1b28cee67",
-   "t": "Biesse Carrera Premac: op weg naar Veneto",
-   "s": "",
-   "c": "other",
-   "date": "2026-07-31T06:04:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/07/31/1785437636/ciclismo-team-biesse-carrera-premac-zane-monte-cengio-memorial-fornasiero-nicola-zumsteg",
      "l": "it"
     }
    ],
