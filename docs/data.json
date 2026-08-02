@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-02T01:17:11.569Z",
+ "updated": "2026-08-02T05:04:08.706Z",
  "groups": [
   {
    "id": "results-2026-08-02",
@@ -7,22 +7,22 @@
    "t": "Laatste uitslagen — ProCyclingStats",
    "s": "",
    "c": "race",
-   "date": "2026-08-02T01:17:08.684Z",
+   "date": "2026-08-02T05:04:05.367Z",
    "rows": [
+    {
+     "race": "Tour de France Femmes 2026 - Stage 1",
+     "winner": "Lorena Wiebes",
+     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20France%20Femmes%202026%20-%20Stage%201"
+    },
     {
      "race": "Clásica San Sebastián",
      "winner": "Remco Evenepoel",
      "url": "https://www.procyclingstats.com/search.php?term=Cl%C3%A1sica%20San%20Sebasti%C3%A1n"
     },
     {
-     "race": "Tour de France Femmes etappe 1",
-     "winner": "Lorena Wiebes",
-     "url": "https://www.procyclingstats.com/search.php?term=Tour%20de%20France%20Femmes%20etappe%201"
-    },
-    {
-     "race": "Danmark Rundt etappe 4",
+     "race": "Danmark Rundt - Stage 4",
      "winner": "Storm Ingebrigtsen",
-     "url": "https://www.procyclingstats.com/search.php?term=Danmark%20Rundt%20etappe%204"
+     "url": "https://www.procyclingstats.com/search.php?term=Danmark%20Rundt%20-%20Stage%204"
     }
    ],
    "sources": [
@@ -32,6 +32,26 @@
      "l": "en"
     }
    ]
+  },
+  {
+   "id": "806d829ef9df",
+   "t": "'Een klein persoonlijk overwinning voor mij' – Kim Le Court-Pienaar's Tour de France Femmes klassement goed begonnen als 'beste van de rest' achter onoverwinnelijke Wiebes",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-02T03:28:50.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/a-little-personal-win-for-me-kim-le-court-pienaars-tour-de-france-femmes-gc-quest-off-to-a-good-start-as-best-of-the-rest-behind-unbeatable-wiebes/",
+     "l": "en"
+    },
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/created-the-less-stressful-situation-teamwork-and-legs-are-good-as-kasia-niewiadoma-phinney-slots-in-with-best-of-rest-after-tour-de-france-femmes-opening-stage/",
+     "l": "en"
+    }
+   ],
+   "tr": 1
   },
   {
    "id": "6390cc613e5d",
@@ -239,21 +259,6 @@
      "n": "Radsport-News",
      "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146333.htm",
      "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "806d829ef9df",
-   "t": "'Een klein persoonlijk overwinning voor mij' – Kim Le Court-Pienaar's Tour de France Femmes klassement goed begonnen als 'beste van de rest' achter onoverwinnelijke Wiebes",
-   "s": "",
-   "c": "race",
-   "date": "2026-08-01T18:30:58.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/a-little-personal-win-for-me-kim-le-court-pienaars-tour-de-france-femmes-gc-quest-off-to-a-good-start-as-best-of-the-rest-behind-unbeatable-wiebes/",
-     "l": "en"
     }
    ],
    "tr": 1
@@ -3709,36 +3714,6 @@
      "n": "TuttoBiciWeb",
      "u": "https://www.tuttobiciweb.it/article/2026/07/31/1785437636/ciclismo-team-biesse-carrera-premac-zane-monte-cengio-memorial-fornasiero-nicola-zumsteg",
      "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "83bc6d1c0799",
-   "t": "De verkeersfeest die fans dichter bij de Tour de France Femmes brengt",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-31T05:03:18.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/the-roadside-party-bringing-fans-closer-to-the-tour-de-france-femmes/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "d9a12a5b0829",
-   "t": "Vingegaard geeft doel voor 2027 aan",
-   "s": "",
-   "c": "race",
-   "date": "2026-07-31T04:00:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/vingegaardindikerer-maal-for-2027/11246061",
-     "l": "da"
     }
    ],
    "tr": 1
