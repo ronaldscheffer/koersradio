@@ -93,5 +93,25 @@
     "name": "Vélo 101",
     "url": "https://www.velo101.com/feed",
     "lang": "fr"
+  },
+  {
+    "name": "Cyclist (cyclist.co.uk)",
+    "url": "https://www.cyclist.co.uk/feed",
+    "lang": "en"
+  },
+  {
+    "name": "Bikerumor",
+    "url": "https://bikerumor.com/feed",
+    "lang": "en"
+  },
+  {
+    "name": "Irish Cycling News",
+    "url": "https://www.irishcyclingnews.com/feed/",
+    "lang": "en"
+  },
+  {
+    "name": "Canadian Cycling Magazine",
+    "url": "https://cyclingmagazine.ca/feed",
+    "lang": "en"
   }
 ]
