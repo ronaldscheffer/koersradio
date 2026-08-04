@@ -1,6 +1,489 @@
 {
- "updated": "2026-08-04T09:41:44.666Z",
+ "updated": "2026-08-04T13:05:46.376Z",
  "groups": [
+  {
+   "id": "results-2026-08-04",
+   "type": "results",
+   "t": "Laatste uitslagen — ProCyclingStats",
+   "s": "",
+   "c": "race",
+   "date": "2026-08-04T13:05:46.244Z",
+   "rows": [
+    {
+     "race": "Tour de France Femmes | Stage 2",
+     "winner": "WIEBES Lorena",
+     "url": "https://www.procyclingstats.com/race/tour-de-france-femmes/2026/stage-2"
+    },
+    {
+     "race": "PostNord Tour of Denmark | Stage 5",
+     "winner": "PEDERSEN Rasmus Søjberg",
+     "url": "https://www.procyclingstats.com/race/tour-of-denmark/2026/stage-5"
+    },
+    {
+     "race": "China Xizang Trans-Himalaya | Stage 1",
+     "winner": "KONYCHEV Alexander",
+     "url": "https://www.procyclingstats.com/race/trans-himalaya-cycling-race/2026/stage-1"
+    },
+    {
+     "race": "Circuito de Getxo - Memorial Hermanos Otxoa",
+     "winner": "TESFATSION Natnael",
+     "url": "https://www.procyclingstats.com/race/circuito-de-getxo/2026/result"
+    },
+    {
+     "race": "NC Portugal MJ - Road Race",
+     "winner": "COSTA Gonçalo",
+     "url": "https://www.procyclingstats.com/race/nc-portugal-mj/2026/result"
+    },
+    {
+     "race": "Juegos centroamericanos y del Caribe, Santo Domingo RR - ME",
+     "winner": "GOMEZ Nicolas David",
+     "url": "https://www.procyclingstats.com/race/juegos-centroamericanos-ordeca-me-irr/2026/result"
+    },
+    {
+     "race": "Kreiz Breizh Elites | Stage 3",
+     "winner": "MILLET Hugo",
+     "url": "https://www.procyclingstats.com/race/kreiz-breizh-elites/2026/stage-3"
+    },
+    {
+     "race": "Tour Cycliste International de la Guadeloupe | Stage 3",
+     "winner": "URCEL Damien",
+     "url": "https://www.procyclingstats.com/race/tour-cycliste-international-de-la-guadeloupe/2026/stage-3"
+    },
+    {
+     "race": "DSSK (Donostia San Sebastian Klasikoa)",
+     "winner": "EVENEPOEL Remco",
+     "url": "https://www.procyclingstats.com/race/san-sebastian/2026/result"
+    },
+    {
+     "race": "Tour de France Femmes | Stage 1",
+     "winner": "WIEBES Lorena",
+     "url": "https://www.procyclingstats.com/race/tour-de-france-femmes/2026/stage-1"
+    },
+    {
+     "race": "PostNord Tour of Denmark | Stage 4",
+     "winner": "INGEBRIGTSEN Storm",
+     "url": "https://www.procyclingstats.com/race/tour-of-denmark/2026/stage-4"
+    },
+    {
+     "race": "NC Portugal WJ - Road Race",
+     "winner": "ESTEVES Marta",
+     "url": "https://www.procyclingstats.com/race/nc-portugal-wj/2026/result"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ProCyclingStats",
+     "u": "https://www.procyclingstats.com/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "da8c2cb9c19d",
+   "t": "TOUR OF KAHRAMANMARAŞ, DOPPIETTA SOLUTION TECH NELLA 1ᵃ TAPPA CON TSARENKO E UMBA",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-04T12:54:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/04/1785848225/tour-of-kahramanmaraAY-tsarenko-umba-prima-tappa",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "8080517f1153",
+   "t": "Disse ryttere stopper karrieren efter sæsonen",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-04T12:42:33.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/disse-ryttere-stopper-karrieren-efter-saesonen/11249593",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "badb2278ca47",
+   "t": "Team Flanders Baloise to fold after 33 years",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-04T12:41:42.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/team-flanders-baloise-to-fold-after-33-years/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "e65d5e9be11d",
+   "t": "“Vollgas-Rennen“: Nolde feiert in der Karibik ersten UCI-Saisonsieg",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-04T12:26:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146366.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "1dd57a668305",
+   "t": "Rating roadside targets at the Tour de France Femmes",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-04T12:05:46.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/rating-roadside-targets-at-the-tour-de-france-femmes/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "096a42e95344",
+   "t": "“Tot zelfs 30 seconden sneller door iets toe te voegen aan de bh”: waarom ‘borstenbedrog’ modewoord werd tijdens Tour de France Femmes",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-04T12:02:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/tot-zelfs-30-seconden-sneller-door-iets-toe-te-voegen-aan-de-bh-waarom-borstenbedrog-modewoord-werd-tijdens-tour-de-france-femmes~af89b4d5b/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "924dd40083d0",
+   "t": "The Leadville MTB Returns, but the Course Remains a Mystery",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-04T12:00:44.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/gravel/gravel-gear/leadville-mtb-returns-course-remains-mystery/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "38acc548a115",
+   "t": "MBH BANK, KAJAMINI LASCIA LA XDS ASTANA E... TORNA A CASA",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-04T11:59:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/04/1785845232/ciclismo-mercato-ciclismo-mbh-bank-csb-telecom-fort-florian-kajamini-squadre-professionistiche",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "7e8b2d1a6592",
+   "t": "Tour de France Femmes stage 4 LIVE: 21km Dijon TT decisive for GC battle",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-04T11:56:42.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/live/tour-de-france-femmes-stage-4-live-21km-dijon-tt-decisive-for-gc-battle/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "faf91ae749f5",
+   "t": "Bemoedigend beeld: Eddy Merckx geniet van fietstocht in het zonnetje",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-04T11:54:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/bemoedigend-beeld-eddy-merckx-geniet-van-fietstocht-in-het-zonnetje~a72ede17/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "ecf6d7e137fd",
+   "t": "Canyon-SRAM announce European bank Scalable Capital as new team backer",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-04T11:27:03.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/canyon-sram-announce-european-bank-scalable-capital-as-new-team-backer/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "dbb4e025eca9",
+   "t": "Tadej Pogačar Could Have Won the Vuelta a España Years Ago. So Why Return Now?",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-04T11:23:48.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/vuelta-a-espana/tadej-pogacar-could-have-won-the-vuelta-a-espana-years-ago-so-why-return-now/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "55e9069ccf49",
+   "t": "A very Swiss start to the Tour de France Femmes, but what next for women's cycling in Switzerland?",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-04T11:11:25.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/a-very-swiss-start-to-the-tour-de-france-femmes-but-what-next-for-womens-cycling-in-switzerland/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "e5efe7cde4fe",
+   "t": "“Hopelijk gaan ze niet belachelijk doen”: ook voor start van tijdrit is controle op ‘borstenbedrog’ onderwerp nummer één",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-04T11:00:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/hopelijk-gaan-ze-niet-belachelijk-doen-ook-voor-start-van-tijdrit-is-controle-op-borstenbedrog-onderwerp-nummer-een~a17fd4f0/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "82b6078fa055",
+   "t": "Wat kan hij niet? Mathieu van der Poel etaleert zijn techniek op BMX-parcours",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-04T10:58:21.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/wat-kan-hij-niet-mathieu-van-der-poel-etaleert-zijn-techniek-op-bmx-parcours/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "aad24a4effe5",
+   "t": "Zemke schnappt den Franzosen Gelb vor der Nase weg",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-04T10:57:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146365.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "a20cda9ce013",
+   "t": "Van Aert sieht in Bestform WM-Chance gegen Pogacar",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-04T10:56:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146364.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "d2068fcd1f9b",
+   "t": "Opmerkelijke controle op borstomvang in Tour Femmes: 'Voordeel als je het daar opvult'",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-04T10:44:53.000Z",
+   "sources": [
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2625474",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "f15dad5f0a3c",
+   "t": "Rennersvakbond vraagt duidelijkheid over borstmaat-controles: “Hoe verloopt dit in praktijk?”",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-04T10:42:35.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/rennersvakbond-vraagt-duidelijkheid-over-borstmaat-controles-hoe-verloopt-dit-in-praktijk/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "d9ded125b43b",
+   "t": "Tour de France Femmes Stage 4 preview: TT Tuesday",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-04T10:39:24.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/sections/news/tour-de-france-femmes-stage-4-preview-tt-tuesday/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "3243a14e8044",
+   "t": "Daniek Hengeveld debuteert als Nederlands kampioene in tijdrit Tour Femmes: “Met mentale handrem”",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-04T10:32:13.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/daniek-hengeveld-debuteert-als-nederlands-kampioene-in-tijdrit-tour-femmes-met-mentale-handrem/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "b4a54dad5cff",
+   "t": "'A tool in this fight' – UCI president David Lappartient backs night-time anti-doping testing in men's Tour de France",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-04T10:25:47.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/doping/a-tool-in-this-fight-uci-president-david-lappartient-backs-night-time-anti-doping-testing-in-mens-tour-de-france/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "294b61597820",
+   "t": "Professionelt hold lukker efter 33 år",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-04T10:24:21.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/professionelt-hold-lukker-efter-33-aar/11249443",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "b092f7d7c339",
+   "t": "UCI to inspect riders for illegal bra padding before Tour de France Femmes TT",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-04T10:11:28.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/sections/news/uci-to-inspect-riders-for-illegal-bra-padding-before-tour-de-france-femmes-tt/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "624d34b68544",
+   "t": "ULAC. AIR ALARM, IL BLOCCADISCO DA 12O dB PER E-BIKE E BIKEPACKING",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-04T10:08:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/04/1785845586/bikepacking-lucchetto-intelligente-e-bike-gravel-sicurezza-bici",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "cc664dbfc260",
+   "t": "Doek valt over Flanders Baloise na 33 jaar",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-04T09:52:28.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/doek-valt-over-flanders-baloise-na-33-jaar/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "1ed00ccc6732",
+   "t": "Gemengde reacties op ‘borstengate’ voor tijdrit Tour Femmes: “Het blijft toch valsspelen”",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-04T09:47:57.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/gemengde-reacties-op-borstengate-voor-tijdrit-tour-femmes-het-blijft-toch-valsspelen/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "5d99b3d0188b",
+   "t": "Einde van een tijdperk in het Belgische wielrennen: Team Flanders-Baloise stopt aan het einde van dit seizoen, 15 renners staan op straat",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-04T09:44:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/einde-van-een-tijdperk-in-het-belgische-wielrennen-team-flanders-baloise-stopt-aan-het-einde-van-dit-seizoen-15-renners-staan-op-straat~ad78ee80/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "824a46f3d9d6",
+   "t": "BARDIANI CSF 7SABER. FRATTURA DELLO SCAFOIDE PER MARCO MANENTI",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-04T09:41:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/04/1785836676/ciclismo-infortuni-bardiani-csf-giro-di-danimarca-pndkr26",
+     "l": "it"
+    }
+   ]
+  },
   {
    "id": "bb040ab96913",
    "t": "Na heisa rond ‘borstenbedrog’: in deze tentjes zullen rensters (en hun fietsen) gecontroleerd worden voor start van tijdrit",
@@ -11,6 +494,20 @@
     {
      "n": "HLN Wielrennen",
      "u": "https://www.hln.be/wielrennen/na-heisa-rond-borstenbedrog-in-deze-tentjes-zullen-rensters-en-hun-fietsen-gecontroleerd-worden-voor-start-van-tijdrit~a17fd4f0/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "590faebe5ff7",
+   "t": "Tour Femmes 2026: Zorgen om Demi Vollering na valpartij, check-up voor tijdrit",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-04T09:22:36.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-zorgen-om-demi-vollering-na-valpartij-check-up-voor-tijdrit/",
      "l": "nl"
     }
    ]
@@ -781,6 +1278,20 @@
     {
      "n": "Velo",
      "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/tour-de-france-femmes-stage-4-tt-start-times-ferrand-prevot-faces-first-time-trial-since-road-return/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "e61adbd6bd18",
+   "t": "Sigrid Haugset stuns Tour de France Femmes with incredible 88-km solo win",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-03T18:48:45.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/sections/news/sigrid-haugset-stuns-tour-de-france-femmes-with-incredible-88-km-solo-win/",
      "l": "en"
     }
    ]
@@ -4216,411 +4727,6 @@
     {
      "n": "Wielerflits",
      "u": "https://www.wielerflits.nl/nieuws/charlotte-kool-heeft-hoop-dat-ze-lorena-wiebes-kan-verslaan-in-tour-denk-dat-ik-iets-gevonden-heb/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "22e5333320ed",
-   "t": "Lorena Wiebes geniet van gele trui in Tour Femmes: \"Dit voelt wat relaxter dan in 2022\"",
-   "s": "",
-   "c": "race",
-   "date": "2026-08-02T12:51:32.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/lorena-wiebes-geniet-van-gele-trui-in-tour-femmes-dit-voelt-wat-relaxter-dan-in-2022/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "c8633261959c",
-   "t": "LIVE. Ruime kopgroep met Tibor Del Grosso ziet voorsprong slinken, Visma-Lease a Bike controleert voor Wout van Aert",
-   "s": "",
-   "c": "race",
-   "date": "2026-08-02T12:42:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/live-ruime-kopgroep-met-tibor-del-grosso-ziet-voorsprong-slinken-visma-lease-a-bike-controleert-voor-wout-van-aert~a3553f7f/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "64311938cca1",
-   "t": "Niedermaier met achterstand: 'Niets wat je niet kunt verwerken'",
-   "s": "",
-   "c": "race",
-   "date": "2026-08-02T12:27:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146341.htm",
-     "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "e3e740290566",
-   "t": "Balsamo: 'Er zijn rensters die altijd dezelfde fouten maken'",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-02T12:26:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146340.htm",
-     "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "74e3d3bcc24f",
-   "t": "LIVE. Ruime kopgroep met Tibor Del Grosso houdt goed stand, Visma-Lease a Bike controleert voor Wout van Aert",
-   "s": "",
-   "c": "race",
-   "date": "2026-08-02T12:18:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/live-ruime-kopgroep-met-tibor-del-grosso-houdt-goed-stand-visma-lease-a-bike-controleert-voor-wout-van-aert~a3553f7f/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "ac10701d928c",
-   "t": "ZOMERRUMOREN. HUMAN POWERED HEALTH, PATERNOSTER MOGELIJK IN DE TOEKOMST?",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-08-02T12:10:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/02/1785672655/ciclismo-mercato-paternoster-human-powered-health-2027",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "bd35d31983d7",
-   "t": "Opgesloten in auto: Movistar-prof doet oproep",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-02T11:50:10.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/incoming/bankede-op-i-bil-movistar-profil-med-opraab/11247956",
-     "l": "da"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "cc2a2efa8d37",
-   "t": "Leegloop bij noodlijdend Equipo Kern Pharma, WorldTour-ploegen slaan hun slag",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-08-02T11:40:02.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/leegloop-bij-noodlijdend-equipo-kern-pharma-worldtour-ploegen-slaan-hun-slag/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "fb984e7280cc",
-   "t": "LIVE. Zestal met Tibor Del Grosso kiest voor de aanval in slotrit, Wout van Aert wil \"blauwe leiderstrui veiligstellen\"",
-   "s": "",
-   "c": "race",
-   "date": "2026-08-02T11:31:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/live-zestal-met-tibor-del-grosso-kiest-voor-de-aanval-in-slotrit-wout-van-aert-wil-blauwe-leiderstrui-veiligstellen~a3553f7f/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "dcaafcbc3ca0",
-   "t": "Het strafregister van de Tour de France Femmes / 1e etappe",
-   "s": "",
-   "c": "race",
-   "date": "2026-08-02T11:25:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146339.htm",
-     "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "280cecbd11d3",
-   "t": "'We zien het maandag' - Tadej Pogačar plaagt met aankondiging Vuelta a España-besluit terwijl hij thuiscriterium in Komenda wint",
-   "s": "",
-   "c": "race",
-   "date": "2026-08-02T11:20:13.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/we-will-see-on-monday-tadej-pogacar-teases-vuelta-a-espana-decision-announcement-as-he-wins-home-criterium-in-komenda/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "6b360c7f3c69",
-   "t": "De Giro-diskwalificatie gaf me extra motivatie: Lorena Wiebes over etappe 1 overwinning Tour",
-   "s": "",
-   "c": "race",
-   "date": "2026-08-02T11:18:10.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/sections/news/the-giro-dq-gave-me-extra-motivation-lorena-wiebes-on-tour-stage-1-win/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "c87a09f8fed0",
-   "t": "Tour de France Femmes etappe 2 LIVE: Lorena Wiebes favoriet voor winst in geel",
-   "s": "",
-   "c": "race",
-   "date": "2026-08-02T11:14:22.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/live/tour-de-france-femmes-stage-2-live-lorena-wiebes-the-favourite-to-win-in-yellow/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "d4cdd2ab22e7",
-   "t": "Einer Rubio laat van zich horen na botsing met auto in Tour: \"Leren van dit soort gevallen\"",
-   "s": "",
-   "c": "health",
-   "date": "2026-08-02T11:00:11.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/einer-rubio-laat-van-zich-horen-na-botsing-met-auto-in-tour-leren-van-dit-soort-gevallen/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "61c2fa8ab896",
-   "t": "VAPRIO D'AGOGNA. SUPER MARANGON: OVERWINNENDE SPRINT IN MEMORIAL FALLARINI. GALERIJ",
-   "s": "",
-   "c": "race",
-   "date": "2026-08-02T11:00:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/02/1785668473/ciclismo-juniores-paolo-marangon-strada-team-guerrini-senaghese",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "8baa4eb479fb",
-   "t": "Na valpartij in openingsrit: Tour voorbij voor Schweinberger",
-   "s": "",
-   "c": "health",
-   "date": "2026-08-02T10:58:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146338.htm",
-     "l": "de"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "1509f3d0f2e0",
-   "t": "GAZZANIGA-ONORE, BUSTESE DOMINANTIE: RAVASI VOOR SEGATO EN FERRO",
-   "s": "",
-   "c": "race",
-   "date": "2026-08-02T10:55:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/02/1785678370/ciclismo-allievi-gazzaniga-onore-bustese-olonia-lorenzo-ravasi",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "69f5c11235d4",
-   "t": "Aanklachten ingetrokken tegen Masters-wielrenner vanwege Reflecting Pool-controverse",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-02T10:49:29.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/charges-dropped-against-masters-bike-racer-over-reflecting-pool-controversy/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "93210bce8672",
-   "t": "Kiara Lylyk valt aan om Tour de France Femmes in te zetten",
-   "s": "",
-   "c": "race",
-   "date": "2026-08-02T10:49:28.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/sections/feature/kiara-lylyk-goes-on-the-attack-to-kick-off-tour-de-france-femmes/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "b4c98bf4c37b",
-   "t": "TOUR DE FRANCE FEMMES. CHAPMAN (KOORTSSIG) EN SCHWEINBERGER (GEBROKEN POLS) STARTEN NIET IN TWEEDE ETAPPE",
-   "s": "",
-   "c": "health",
-   "date": "2026-08-02T10:40:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/02/1785667572/tour-de-france-femmes-2026-tappa-2-ritiri",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "21bb8af92bb7",
-   "t": "Tour de France Femmes etappe 2 vooruitblik: Wiebes weer?",
-   "s": "",
-   "c": "race",
-   "date": "2026-08-02T10:31:11.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/sections/news/tour-de-france-femmes-stage-2-preview-wiebes-again/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "54828c588a92",
-   "t": "POSTNORD RONDE VAN DENEMARKEN: BARDIANI-CSF 7 SABER BEZOEKT DE STAND VAN ALÉ",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-02T10:29:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/02/1785677561/ciclismo-bardiani-csf-ale-postnord-tour-denmark-abbigliamento-ciclistico",
-     "l": "it"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "51ef99f46f45",
-   "t": "Tadej Pogačar spreekt over de sombere realiteit van zijn herstel na Tour de France",
-   "s": "",
-   "c": "health",
-   "date": "2026-08-02T10:23:31.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/pogacar-opens-up-on-tour-de-france-comedown/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "2053d818457f",
-   "t": "Belgisch talent Jarno Widar breidt contract uit met Lotto-Intermarché voor Vuelta-start",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-08-02T10:15:27.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/emerging-talents/top-belgian-prospect-jarno-widar-agrees-contract-extension-with-lotto-intermarche-ahead-of-vuelta-start/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "0c7cc6889759",
-   "t": "Ashleigh Moolman Pasio wordt algemeen directeur van Team Amani terwijl Afrikaans team streeft naar deelname Tour de France Femmes in 2028",
-   "s": "",
-   "c": "transfer",
-   "date": "2026-08-02T10:07:12.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/ashleigh-moolman-pasio-to-become-general-manager-of-team-amani-as-african-team-seeks-to-race-tour-de-france-femmes-in-2028/",
-     "l": "en"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "ca5a93e8a48e",
-   "t": "Stelt Wout van Aert, die voor vierde ritzege gaat, eindzege veilig in Ronde van Denemarken?",
-   "s": "",
-   "c": "race",
-   "date": "2026-08-02T09:58:50.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/stelt-wout-van-aert-die-voor-vierde-ritzege-gaat-eindzege-veilig-in-ronde-van-denemarken~a3553f7f/",
-     "l": "nl"
-    }
-   ],
-   "tr": 1
-  },
-  {
-   "id": "1c839ae8634f",
-   "t": "Bauke Mollema neemt afscheid van Clásica San Sebastián: \"Mooie herinneringen\"",
-   "s": "",
-   "c": "race",
-   "date": "2026-08-02T09:54:28.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/bauke-mollema-neemt-afscheid-van-clasica-san-sebastian-mooie-herinneringen/",
      "l": "nl"
     }
    ],
