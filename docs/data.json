@@ -1,13 +1,27 @@
 {
- "updated": "2026-08-08T11:33:48.766Z",
+ "updated": "2026-08-08T16:40:32.098Z",
  "groups": [
+  {
+   "id": "e71d00a1d259",
+   "t": "Vollering fährt an steiler Rampe ins Gelbe Trikot",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T17:10:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146414.htm",
+     "l": "de"
+    }
+   ]
+  },
   {
    "id": "results-2026-08-08",
    "type": "results",
    "t": "Laatste uitslagen — ProCyclingStats",
    "s": "",
    "c": "race",
-   "date": "2026-08-08T11:33:48.428Z",
+   "date": "2026-08-08T16:40:31.915Z",
    "rows": [
     {
      "race": "Tour de Pologne | Stage 4",
@@ -79,6 +93,538 @@
    ]
   },
   {
+   "id": "553b63046299",
+   "t": "Tour de France Femmes Stage 9 Preview: Yellow Jersey Battle Goes to the Wire",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T16:38:10.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/tour-de-france-femmes-stage-9-preview/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "8a341d9eeca2",
+   "t": "Tour Femmes: Every second counts as Vollering cracks Niewiadoma-Phinney on stage 8",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T16:36:17.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/tour-femmes-every-second-counts-as-vollering-cracks-niewiadoma-phinney-on-stage-8/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "6de5a3401d19",
+   "t": "Un gran ataque viste de amarillo a Demi Vollering en el Tour femenino",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T16:32:15.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/08/08/gran-ataque-viste-amarillo-demi-vollering-tour-femenino.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "a7aba8662578",
+   "t": "“Ik had nog geen cadeau gekocht, dus ik dacht...”: Lotte Kopecky “komt net tekort”, maar viert knappe vijfde plek met jarige Axel Merckx",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T16:32:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/ik-had-nog-geen-cadeau-gekocht-dus-ik-dacht-lotte-kopecky-komt-net-tekort-maar-viert-knappe-vijfde-plek-met-jarige-axel-merckx~a1fc042f/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "f6b989c1778d",
+   "t": "Demi Vollering’s late attack earns yellow jersey on Tour’s penultimate stage",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T16:20:37.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/sections/news/vollerings-late-attack-earns-yellow-jersey-on-tours-penultimate-stage/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "35e9cce5f4cd",
+   "t": "Tour de France Femmes : Demi Vollering fait coup double à Nice",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T16:17:55.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/courses/tour-de-france-femmes/tour-de-france-femmes-demi-vollering-fait-coup-double-a-nice/",
+     "l": "fr"
+    }
+   ]
+  },
+  {
+   "id": "da43931a28d4",
+   "t": "Tour de France Femmes Stage 8: Vollering Storms to Stage Win and Yellow Jersey",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T16:14:22.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/stage-8-results-vollering-storms-back-win-and-yellow-jersey/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "f57e9fc44a86",
+   "t": "Tour de France Femmes: Demi Vollering seizes maillot jaune with searing late attack",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T16:12:21.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/tour-de-france-femmes-demi-vollering-snatches-maillot-jaune-with-searing-late-attack/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "f9b0e2bf9268",
+   "t": "Vollering verovert gele trui met ritzege in voorlaatste Touretappe",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T16:06:37.000Z",
+   "sources": [
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2626034",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "bc088c2b3797",
+   "t": "TOUR DE FRANCE FEMMES. VOLLERING PIAZZA IL COLPACCIO A NIZZA E RITORNA IN GIALLO. 2^ LONGO BORGHINI",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T16:05:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/08/1786205515/tour-de-france-femmes-demi-vollering-ciclismo-maglia-gialla-elisa-longo-borghini",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "b51b0e119684",
+   "t": "Maeva Squiban crashes out of the breakaway during stage 8 of the Tour de France Femmes",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T16:04:10.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/maeva-squiban-crashes-out-of-the-breakaway-during-stage-8-of-the-tour-de-france-femmes/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "ca5a40f70f60",
+   "t": "Gall holt sich in Burgos ersten Rundfahrt-Sieg",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T15:55:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146413.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "d4539c8d6cbc",
+   "t": "Visma dreht den Spieß um und besorgt Barré ersten Profisieg",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T15:48:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146412.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "08a9e0df4cf6",
+   "t": "Gall sentencia la Vuelta a Burgos en una exhibición de Pellizzari",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T15:42:28.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/08/08/gall-sentencia-vuelta-burgos-exhibicion-pellizzari.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "a25b730ce779",
+   "t": "POLONIA. SCARONI LEADER NELLA GIORNATA PEGGIORE: «NON STAVO BENE, MA NON MOLLIAMO NULLA»",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T15:42:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/08/1786204486/giro-polonia-2026-christian-scaroni-tappa-6",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "3dd86810e0e5",
+   "t": "Louis Barré takes first pro win on stage 6 in Poland, as teammate loses race lead",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T15:25:44.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/louis-barre-takes-first-pro-win-on-stage-6-in-poland-as-teammate-loses-race-lead/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "f41771b872b1",
+   "t": "Tadej Pogacar op Mont Ventoux om zijn vriendin Urska Zigart aan te moedigen",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T15:13:25.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tadej-pogacar-op-mont-ventoux-om-zijn-vriendin-urska-zigart-aan-te-moedigen/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "cf3c7d9b7a2e",
+   "t": "Lemmen raakt leiderstrui kwijt in Polen, ritwinst Visma-renner Barré",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T15:04:39.000Z",
+   "sources": [
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2626024",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "3edd2f0bda06",
+   "t": "Louis Barré da el golpe en la etapa reina y llegará líder a la contrarreloj definitiva",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T14:58:59.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/08/08/louis-barre-da-golpe-etapa-reina-llegara-lider-contrarreloj-definitiva.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "5fa6437d07f7",
+   "t": "Felix Gall stelt eindzege veilig in Ronde van Burgos, Louis Barré boekt eerste profzege in Polen",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T14:55:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/felix-gall-stelt-eindzege-veilig-in-ronde-van-burgos-louis-barre-boekt-eerste-profzege-in-polen~a98ef736/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "0fd6aa38cc30",
+   "t": "6ème étape Tour de Pologne : victoire de prestige pour Louis Barré",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T14:49:49.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/courses/tour-de-pologne/6eme-etape-tour-de-pologne-victoire-de-prestige-pour-louis-barre/",
+     "l": "fr"
+    }
+   ]
+  },
+  {
+   "id": "c1217aecd71c",
+   "t": "Tour de Burgos : Giulio Pellizzari s’offre la dernière étape, Felix Gall sacré",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T14:45:04.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/courses/tour-de-burgos/tour-de-burgos-giulio-pellizzari-soffre-la-derniere-etape-felix-gall-sacre/",
+     "l": "fr"
+    }
+   ]
+  },
+  {
+   "id": "145950c3502b",
+   "t": "Vuelta a Burgos: Felix Gall seals overall victory as Red Bull-Bora-Hansgrohe take out final stage",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T14:41:47.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-burgos-felix-gall-seals-overall-victory-as-red-bull-bora-hansgrohe-take-out-final-stage/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "a03026047659",
+   "t": "Tour de Pologne: Louis Barré takes a maiden pro win in stage 6, taking a second win for Visma-Lease a Bike",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T14:41:38.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-pologne-louis-barre-takes-a-maiden-pro-win-in-stage-6-taking-a-second-win-for-visma-lease-a-bike/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "5d0b9a377605",
+   "t": "Giulio Pellizzari wint slotrit Ronde van Burgos, Felix Gall eindwinnaar",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T14:38:02.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/giulio-pellizzari-wint-slotrit-ronde-van-burgos-felix-gall-eindwinnaar/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "b23bb5dd3e5f",
+   "t": "Louis Barré boekt eerste profzege in Ronde van Polen, Lemmen raakt leiderstrui kwijt",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T14:31:11.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/louis-barre-boekt-eerste-profzege-in-ronde-van-polen-lemmen-raakt-leiderstrui-kwijt/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "31282daa9d77",
+   "t": "TOUR DE POLOGNE. BARRE' VINCE A BUKOVINA, SCARONI ANCORA SECONDO MA E' IL NUOVO LEADER",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T14:29:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/08/1786199367/giro-polonia-2026-ciclismo-louis-barre-visma-lease-a-bike-tappa-regina",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "c70f55f7f259",
+   "t": "VUELTA A BURGOS. PELLIZZARI METTE IL TIMBRO SULL'ULTIMA TAPPA, GALL FA SUA LA GENERALE",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T14:27:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/08/1786199729/vuelta-a-burgos-pellizzari-gall",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "3fc445b89364",
+   "t": "LEMMA. VESCO VINCE AL FOTOFINISH SU GUGNINO: QUINTA VITTORIA PER IL BRIANZOLO. GALLERY",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T14:15:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/08/1786199548/ciclismo-juniores-riccardo-vesco-team-guerrini-senaghese-memorial-paolo-salvatico",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "a4c3dedd3c31",
+   "t": "LA PRIMA DEL ROMAGNOLO LUCA FABBRI A SILLICAGNANA",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T13:34:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/08/1786206951/ciclismo-juniores-luca-fabbri-garfagnana-memorial-bartali",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "21ede8fcd6c2",
+   "t": "Romain Bardet afgevoerd van Mont Ventoux na valpartij in gravel-afdaling",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T13:21:57.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/romain-bardet-afgevoerd-van-mont-ventoux-na-valpartij-in-gravel-afdaling/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "67451d2e3fb2",
+   "t": "Godon fuhr Tour de France mit gebrochenen Rippen",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T12:45:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146411.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "258023888b81",
+   "t": "Paula Blasi worstelde met ophef over rol binnen de ploeg: “Veel zelfvertrouwen verloren”",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T12:27:06.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/paula-blasi-worstelde-met-ophef-over-rol-binnen-de-ploeg-veel-zelfvertrouwen-verloren/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "0b308e261302",
+   "t": "SI E' SPENTO WILLIAM DONATI, EX PROFESSIONISTA E PADRE DEL DIESSE ALESSANDRO",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T12:19:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/08/1786191553/ciclismo-william-donati-alessandro-donati-bardiani-csf-faizane-lutto",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "2097cda98914",
+   "t": "MA VOI AFFIDERESTE I VOSTRI FIGLIOLI A CERTI DIRIGENTI ED EDUCATORI?",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T12:00:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/08/1786193399/ciclismo-ciclismo-giovanile-pista-protesta-sportiva-educazione-sportiva",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "b9eeae7d43c2",
+   "t": "Pauline Ferrand-Prévot Abandons Tour de France Femmes After Disaster Title Defense",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T11:55:05.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/pauline-ferrand-prevot-abandons-tour-de-france-femmes-in-disaster-title-defense/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "64a628a25a1b",
+   "t": "Pauline Ferrand-Prévot out of Tour de France Femmes",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T11:54:22.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/sections/feature/pauline-ferrand-prevot-out-of-tour-de-france-femmes/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "c977e18595fe",
+   "t": "Pauline Ferrand-Prévot quitte le Tour de France Femmes",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T11:39:07.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/courses/tour-de-france-femmes/pauline-ferrand-prevot-quitte-le-tour-de-france-femmes/",
+     "l": "fr"
+    }
+   ]
+  },
+  {
    "id": "fc1293298c2d",
    "t": "Defending champ Ferrand-Prévot abandons Tour Femmes before stage 8",
    "s": "",
@@ -89,6 +635,62 @@
      "n": "Escape Collective",
      "u": "https://escapecollective.com/defending-champ-ferrand-prevot-abandons-tour-femmes-before-stage-8/",
      "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "d04421407439",
+   "t": "Defending champ Ferrand-Prévot is out of the Tour Femmes",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T11:33:42.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/defending-champ-ferrand-prevot-is-out-of-the-tour-femmes/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "efeb9c744cb0",
+   "t": "INCREDIBILE A LANZO: LITIGA CON I CICLISTI, LI INVESTE, POI FA RETROMARCIA E LI INVESTE DI NUOVO",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T11:32:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/08/1786192584/ciclismo-sicurezza-stradale-incidente-torino-violenza-stradale",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "9e8b31dee758",
+   "t": "TOUR FEMMES. IERI 5 MILIONI DI TELESPETTATORI. LA MINISTRA DELLO SPORT:«LAVORIAMO PER LA DIRETTA INTEGRALE COME NEL MASCHILE»",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T11:30:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/08/1786190716/ciclismo-tour-de-france-femmes-tdff2026-ascolti-record-mont-ventoux",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "d01b64334ceb",
+   "t": "TOUR DE FRANCE FEMMES. FERRAND PREVOT ABBANDONA LA CORSA A TAPPE FRANCESE",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T11:30:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/08/1786190816/tour-de-france-femmes-ciclismo-pauline-ferrand-prevot-ritiro-tdff2026",
+     "l": "it"
     }
    ]
   },
@@ -121,6 +723,34 @@
    ]
   },
   {
+   "id": "bfdd09a7f4e5",
+   "t": "Tour Femmes 2026: Titelverdedigster Pauline Ferrand-Prévot verlaat ronde",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T11:13:19.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-titelverdedigster-pauline-ferrand-prevot-verlaat-ronde/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "7a63cf61685b",
+   "t": "Tour de France Femmes Stage 8 preview: Flat, but not actually",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T11:07:53.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/sections/news/tour-de-france-femmes-stage-8-preview-flat-but-not-actually/",
+     "l": "en"
+    }
+   ]
+  },
+  {
    "id": "48a728e4823e",
    "t": "Tour de France Femmes gaat verder zonder titelverdedigster: Pauline Ferrand-Prévot geeft er de brui aan en verschijnt niet meer aan start",
    "s": "",
@@ -149,6 +779,20 @@
    ]
   },
   {
+   "id": "2d2b1f6976ea",
+   "t": "ORNAVASSO. ROSSIGNOLI PER DISTACCO NEL TROFEO MADONNA SANTUARIO DEL BODEN",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T10:46:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/08/1786204038/ciclismo-matilde-rossignoli-bft-burzoni-vo2-team-pink-trofeo-santuario-madonna-del-boden-donne-juniores",
+     "l": "it"
+    }
+   ]
+  },
+  {
    "id": "0c39365e28ea",
    "t": "Taylor Phinney emotioneel na zege echtgenote Niewiadoma: “Gebeurt dit echt?”",
    "s": "",
@@ -159,6 +803,20 @@
      "n": "Wielerflits",
      "u": "https://www.wielerflits.nl/nieuws/taylor-phinney-emotioneel-na-zege-echtgenote-niewiadoma-gebeurt-dit-echt/",
      "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "fc52cab8c4ff",
+   "t": "Godon raced half the Tour de France with four broken ribs",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T10:35:00.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/godon-raced-half-the-tour-de-france-with-four-broken-ribs/",
+     "l": "en"
     }
    ]
   },
@@ -3337,804 +3995,6 @@
      "n": "Radsport-News",
      "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146391.htm",
      "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "ec78b36fae97",
-   "t": "Tour de France Femmes Stage 7 Preview: Ventoux Time",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T16:38:09.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/tour-de-france-femmes-stage-7-2026/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "5f1cee3c52c0",
-   "t": "Cyclist Magazine Podcast: The steepest (and best) climbs in the World, with Simon Warren",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T16:36:54.000Z",
-   "sources": [
-    {
-     "n": "Cyclist (cyclist.co.uk)",
-     "u": "https://www.cyclist.co.uk/news/simon-warren-hill-climb-podcast",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "62907b525b86",
-   "t": "Kim Le Court opgelucht: “Mensen onthouden niet wie goed klassement rijdt, wel wie rit wint”",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T16:32:01.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/kim-le-court-opgelucht-mensen-onthouden-niet-wie-goed-klassement-rijdt-wel-wie-rit-wint/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "17d9572e7142",
-   "t": "Wolf Tooth names Mohawks UK as new distributor",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T16:29:05.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/wolf-tooth-names-mohawks-uk-as-new-distributor/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "e650c062e24f",
-   "t": "“Heeft ze echt gewonnen?”: Justine Ghekiere kan amper geloven dat ploegmaat Kim Le Court alsnog zege pakt na lange achtervolging",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T16:27:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/heeft-ze-echt-gewonnen-justine-ghekiere-kan-amper-geloven-dat-ploegmaat-kim-le-court-alsnog-zege-pakt-na-lange-achtervolging~a3f7a5fe/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "cb5abe456c5b",
-   "t": "Tour Femmes: Le Court-Pienaar is back on top",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T16:24:41.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/tour-femmes-le-court-pienaar-is-back-on-top/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "f289d9d81a37",
-   "t": "Kim Le Court se lleva la sexta etapa al esprint y Reusser llegará de amarillo al Mont Ventoux",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T16:15:49.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/tour-francia/2026/08/06/kim-le-court-lleva-sexta-etapa-esprint-reusser-llegara-amarillo-mont-ventoux.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "8d02d0f88ff7",
-   "t": "Jérôme Gauthier unveils bold new national championship jersey",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T16:13:33.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/sections/news/jerome-gauthier-debuts-stunning-new-national-championship-jersey/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "768ae28a9aa4",
-   "t": "SCARONI: «PECCATO, CI HO CREDUTO. MA LA GAMBA GIRA BENE»",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T16:09:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/06/1786032832/giro-polonia-2026-intervista-chirstian-scaroni",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "939012b4c0e6",
-   "t": "Tour de France Femmes Stage 6: Le Court Overpowers Breakaway Following Determined Pursuit",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T16:08:40.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/stage-6-results-le-court-overpowers-break/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "3a226f9995fe",
-   "t": "Van Rysel RCR-R vs RCR-F: Decathlon’s road race bikes compared",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T16:06:53.000Z",
-   "sources": [
-    {
-     "n": "Cyclist (cyclist.co.uk)",
-     "u": "https://www.cyclist.co.uk/buying-guides/van-rysel-rcr-r-vs-rcr-f-road-bikes-compared",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "1e291d2537dd",
-   "t": "Tour de France Femmes: Kim Le Court-Pienaar surges from small pack for stunning win on stage 6",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T16:02:26.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/tour-de-france-femmes-kim-le-court-pienaar-surges-from-small-pack-for-stunning-win-on-stage-6/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "91100929ef1d",
-   "t": "Sarah Van Dam fourth in sixth stage of Tour de France Femmes",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T16:01:40.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/sections/news/sarah-van-dam-fourth-in-sixth-stage-of-tour-de-france-femmes/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "d39798e7aece",
-   "t": "Lemmen überrascht auf verkürzter Etappe Freund und Feind",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T16:00:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146394.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "6454caedbd42",
-   "t": "LONGO BORGHINI. «OGGI VOLEVO ANDARE A BLOCCO, MI SONO DIVERTITA. IL MONT VENTOUX? VADA COME VADA»",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T16:00:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/06/1786035984/tour-de-france-femmes-2026-tappa-6-intervista-longo-borghini",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "91f5ea92bbc0",
-   "t": "Le Court sprint naar winst zesde etappe Tour voor medevluchters Pieterse en Markus",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T15:56:25.000Z",
-   "sources": [
-    {
-     "n": "NOS Wielrennen",
-     "u": "https://nos.nl/l/2625778",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "a4d6b4365d5c",
-   "t": "TOUR DE FRANCE FEMMES. LE COURT FESTEGGIA DAVANTI A KERBAOL: LONGO BORGHINI 7A",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T15:52:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/06/1786025571/tour-de-france-femmes-tappa-6-vittoria-le-court",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "2e4acc0e4684",
-   "t": "Tour Femmes 2026: Kim Le Court pikt haar etappe mee, hoofdrol Riejanne Markus en Puck Pieterse",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T15:50:17.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-kim-le-court-pikt-haar-etappe-mee-hoofdrol-riejanne-markus-en-puck-pieterse/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "feadb27a65e1",
-   "t": "Lemmen gana una accidentada etapa de la Vuelta a Polonia",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T15:49:06.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/08/06/lemmen-gana-accidentada-etapa-vuelta-polonia.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "88037c7b829a",
-   "t": "Braydon Bringhurst turns Squamish’s iconic Gouranga into a climb",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T15:45:43.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/mtb/braydon-bringhurst-turns-squamishs-iconic-gouranga-into-a-climb/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "f4458d68008c",
-   "t": "Is it time for the UCI to relax its 6.8kg minimum bike weight rule?",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T15:39:34.000Z",
-   "sources": [
-    {
-     "n": "Cyclist (cyclist.co.uk)",
-     "u": "https://www.cyclist.co.uk/in-depth/uci-minimum-weight-limit",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "351e1aa70c28",
-   "t": "Tour Femmes 2026: Yara Kastelijn moet ronde verlaten met maagproblemen",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T15:25:07.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-yara-kastelijn-moet-ronde-verlaten-met-maagproblemen/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "e24a9f705b09",
-   "t": "Felix Gall, victoria y liderato en la Vuelta a Burgos",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T15:17:23.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/08/06/felix-gall-victoria-liderato-vuelta-burgos.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "13ee1dcf0031",
-   "t": "Lemmen slaat met eerste profzege dubbelslag in Polen en is nieuwe leider",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T15:15:41.000Z",
-   "sources": [
-    {
-     "n": "NOS Wielrennen",
-     "u": "https://nos.nl/l/2625769",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "0efdc692dffa",
-   "t": "4ème Tour de Pologne : Bart Lemmen résiste au retour de Scaroni",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T15:06:19.000Z",
-   "sources": [
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/courses/tour-de-pologne/4eme-tour-de-pologne-bart-lemmen-resiste-au-retour-de-scaroni/",
-     "l": "fr"
-    }
-   ]
-  },
-  {
-   "id": "fdc2c7ea4ca8",
-   "t": "Vierde etappe Ronde van Polen halfuur geneutraliseerd na massale valpartij - Felix Gall slaat dubbelslag in Burgos",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T15:03:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/vierde-etappe-ronde-van-polen-halfuur-geneutraliseerd-na-massale-valpartij-felix-gall-slaat-dubbelslag-in-burgos~a98ef736/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "8840c106ac8b",
-   "t": "Tour de Pologne: Bart Lemmen holds off Christian Scaroni for victory on shortened stage 4 clouded by major crash",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T14:59:16.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-pologne-bart-lemmen-holds-off-christian-scaroni-for-victory-on-shortened-stage-4-clouded-by-major-crash/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "ab3ae83a78f3",
-   "t": "3ème étape Tour de Burgos : Felix Gall fait coup double",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T14:59:01.000Z",
-   "sources": [
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/courses/tour-de-burgos/3eme-etape-tour-de-burgos-felix-gall-fait-coup-double/",
-     "l": "fr"
-    }
-   ]
-  },
-  {
-   "id": "bd684c006450",
-   "t": "India could host the UCI World Championships in 2032",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T14:55:40.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/india-could-host-the-uci-world-championships-in-2032/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "07e3d9025846",
-   "t": "Enormous Desire for Full TV Coverage of Tour de France Femmes Stages Says Race Director",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T14:53:33.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/enormous-desire-for-tour-de-france-femmes-stages-to-be-broadcast-fully-on-tv-says-race-director/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "9978a06e9748",
-   "t": "TOUR DE POLOGNE. LEMMEN FA FESTA IN SALITA, SCARONI A UN PASSO DALLA VITTORIA",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T14:46:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/06/1786025534/ciclismo-tour-de-pologne-bart-lemmen-christian-scaroni-volata",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "7447e62a4789",
-   "t": "Massive 30-Rider Pileup Blocks Road at Tour de Pologne, Lemmen Wins After Crash",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T14:44:00.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/news/massive-30-rider-pileup-blocks-road-at-tour-of-poland/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "d47340c21210",
-   "t": "'The Kärcher OC3 pressure washer is so useful that I can’t imagine life without it' – It's also at a best-ever price with 34% off at Amazon",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T14:39:32.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/cycling-tech-components/the-karcher-oc3-pressure-washer-is-so-useful-that-i-cant-imagine-life-without-it-its-also-at-a-best-ever-price-with-34-percent-off-at-amazon/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "a2ae7a56b04d",
-   "t": "BURGOS. E' IL GRAN GIORNO DI GALL, ALLE SUE SPALLE CICCONE E PELLIZZARI",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T14:36:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/06/1786027034/vuelta-a-burgos-ciclismo-scalatori-felix-gall-giulio-ciccone",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "66b4af9583d2",
-   "t": "Vuelta a Burgos: Felix Gall solos to victory on stage 3",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T14:34:31.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-burgos-felix-gall-solos-to-victory-on-stage-3/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "ef2eb75dcda6",
-   "t": "Svein Tuft vs. misguided longevity bros: The Canadian cycling legend’s tips for riding strong in middle age",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T14:30:18.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/cycling-magazine-podcast/svein-tuft-vs-misguided-longevity-bros-tips-riding-strong-middle-age/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "c941250d99af",
-   "t": "BRIGA NOVARESE. VINCE ANCORA ARRIGHETTI, TERZO SUCCESSO DI FILA PER IL BERGAMASCO. GALLERY",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T14:30:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/06/1786015269/ciclismo-nicolo-arrighetti-trofeo-sportivi-briga-novarese-elite-under-23-muro-san-colombano",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "a1be3497226f",
-   "t": "Four-year ban for Giovanni Carboni in biological passport doping case",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T14:29:16.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/doping/four-year-ban-for-giovanni-carboni-in-biological-passport-doping-case/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "8466f6237279",
-   "t": "Tour de Pologne stage 4 neutralised for nearly 40 minutes after major crash in peloton",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T14:11:20.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/safety/tour-de-pologne-stage-4-neutralised-after-major-crash-in-peloton/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "31066017e874",
-   "t": "DT Swiss Shines Up White Hubs in Limited Edition ARC 1100 Dicut 55 LTD Road Wheels",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T14:00:00.000Z",
-   "sources": [
-    {
-     "n": "Bikerumor",
-     "u": "https://bikerumor.com/dt-swiss-shines-up-white-hubs-in-limited-edition-arc-1100-dicut-55-ltd-road-wheels/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "54003cc27943",
-   "t": "New Stevens Izoard Road Bike Combines Aero Race Bike Speed & All-Day Endurance Comfort",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T13:42:45.000Z",
-   "sources": [
-    {
-     "n": "Bikerumor",
-     "u": "https://bikerumor.com/2026-stevens-izoard-all-rounder-road-bike-updated/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "e092277c7812",
-   "t": "Pauline Ferrand-Prévot answers questions about stage 5 time loss and remaining chances",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T13:41:21.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/pauline-fe/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "501084f7a3ef",
-   "t": "PROTEAM, ALLARME ROSSO. UNA CATEGORIA A RISCHIO, UNA CATEGORIA DA PROTEGGERE",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T13:14:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/06/1786022477/ciclismo-proteam-uci-team-flanders-baloise-crisi-squadre",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "0903dd14308e",
-   "t": "UAE verlängert langfristig mit Del Toro",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T13:10:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146326.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "5a581972a50d",
-   "t": "Oversigt: Disse ryttere er udgået af Tour de France Femmes 2026",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T12:45:46.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/oversigt-disse-ryttere-er-udgaaet-af-tour-de-france-femmes-2026/11251482",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "99b30aa35f73",
-   "t": "Groningen en Drenthe hebben alleen India nog als concurrent voor WK wielrennen 2032",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T12:40:17.000Z",
-   "sources": [
-    {
-     "n": "NOS Wielrennen",
-     "u": "https://nos.nl/l/2625754",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "03281d75894b",
-   "t": "Teutenberg wechselt von Lidl - Trek zu Soudal - Quick-Step",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T12:37:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146389.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "a4c3aa7e6223",
-   "t": "Patrick Evenepoel ziet Tim Heemskerk als succesrecept voor zoon Remco",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T12:30:12.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/patrick-evenepoel-ziet-tim-heemskerk-als-succesrecept-voor-zoon-remco/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "4a602ae597fb",
-   "t": "La histórica marca de bicicletas Raleigh se declara insolvente",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T12:28:58.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/08/06/historica-marca-bicicletas-raleigh-declara-insolvente.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "6351085f5f77",
-   "t": "'Back to work' – Tadej Pogačar returns to training mode after plain-clothes gravel rides and Tour de France recovery",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T12:21:15.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/back-to-work-tadej-pogacar-returns-to-training-mode-after-plain-clothes-gravel-rides-and-tour-de-france-recovery/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "1f7513e0304a",
-   "t": "Ook u kan ermee rondfietsen, al hangt er wel een prijskaartje aan vast: sponsor van Tadej Pogacar viert vijfde Tour-zege met speciale schoen",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T12:19:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/tour-de-france/ook-u-kan-ermee-rondfietsen-al-hangt-er-wel-een-prijskaartje-aan-vast-sponsor-van-tadej-pogacar-viert-vijfde-tour-zege-met-speciale-schoen~a7ce5557/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "5b5250875b97",
-   "t": "Biathlon Superstar Émilien Jacquelin Swaps Rifle for Road Bike in Pro Cycling’s Most Improbable Debut",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T12:08:47.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/news/biathlon-superstar-emilien-jacquelin-pro-debut-olympic-games/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "ed129cab4468",
-   "t": "LIVE. “Wil mee in de vlucht”: Justine Ghekiere heeft ontsnappingsplan, kan ook Lotte Kopecky haar kans gaan in pittige heuvelrit?",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T12:02:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/live-wil-mee-in-de-vlucht-justine-ghekiere-heeft-ontsnappingsplan-kan-ook-lotte-kopecky-haar-kans-gaan-in-pittige-heuvelrit~a3f7a5fe/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "c61779014cf0",
-   "t": "Muere Martín Piñera, leyenda del ciclismo cántabro y ganador de varias etapas de LaVuelta",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T11:58:17.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/08/06/muere-martin-pinera-leyenda-ciclismo-cantabro-ganador-etapas-lavuelta.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "26fb6e091c18",
-   "t": "Soudal Quick-Step versterkt zich met Tim Torn Teutenberg",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T11:52:53.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/soudal-quick-step-versterkt-zich-met-tim-torn-teutenberg/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "dcbdb426c5eb",
-   "t": "Visma-Lease a Bike rewrite Tour de France Femmes GC strategy after Pauline Ferrand-Prévot loses more time",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T11:40:32.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/visma-lease-a-bike-rewrite-tour-de-france-femmes-gc-strategy-after-pauline-ferrand-prevot-loses-more-time/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "06cebeca4abc",
-   "t": "Xabier Berasategi renueva con el Euskaltel-Euskadi por dos temporadas",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T11:38:31.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/08/06/xabier-berasategi-renueva-euskaltel-euskadi-dos-temporadas.html",
-     "l": "es"
     }
    ]
   }
