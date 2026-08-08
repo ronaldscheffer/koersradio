@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T07:52:50.672Z",
+ "updated": "2026-08-08T11:33:48.766Z",
  "groups": [
   {
    "id": "results-2026-08-08",
@@ -7,7 +7,7 @@
    "t": "Laatste uitslagen — ProCyclingStats",
    "s": "",
    "c": "race",
-   "date": "2026-08-08T07:52:50.253Z",
+   "date": "2026-08-08T11:33:48.428Z",
    "rows": [
     {
      "race": "Tour de Pologne | Stage 4",
@@ -79,6 +79,300 @@
    ]
   },
   {
+   "id": "fc1293298c2d",
+   "t": "Defending champ Ferrand-Prévot abandons Tour Femmes before stage 8",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T11:33:42.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/defending-champ-ferrand-prevot-abandons-tour-femmes-before-stage-8/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "3ed6eaa524bc",
+   "t": "Defending champion Pauline Ferrand-Prévot will not start stage 8 of the Tour de France suffering with illness",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T11:21:11.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/defending-champion-pauline-ferrand-prevot-will-not-start-stage-8-of-the-tour-de-france-suffering-with-illness/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "5057e981a7ef",
+   "t": "Ferrand-Prévot niet van start in voorlaatste Tour-etappe: 'Voelt zich niet goed'",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T11:19:45.000Z",
+   "sources": [
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2625998",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "48a728e4823e",
+   "t": "Tour de France Femmes gaat verder zonder titelverdedigster: Pauline Ferrand-Prévot geeft er de brui aan en verschijnt niet meer aan start",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T11:06:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/tour-de-france-femmes-gaat-verder-zonder-titelverdedigster-pauline-ferrand-prevot-geeft-er-de-brui-aan-en-verschijnt-niet-meer-aan-start~a1fc042f/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "0da8a01449ab",
+   "t": "Tour de France Femmes stage 8 LIVE: Longest stage of the race may suit sprinters or a breakaway",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T11:00:47.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/live/tour-de-france-femmes-stage-8-live-longest-stage-of-the-race-may-suit-sprinters-or-a-breakaway/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "0c39365e28ea",
+   "t": "Taylor Phinney emotioneel na zege echtgenote Niewiadoma: “Gebeurt dit echt?”",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T10:40:02.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/taylor-phinney-emotioneel-na-zege-echtgenote-niewiadoma-gebeurt-dit-echt/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "91e8c115e843",
+   "t": "Vollering: “Hätte Lücke gleich schließen sollen“",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T10:00:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146410.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "184f3159b27f",
+   "t": "Flinke aderlating in aanloop naar Vuelta: infectie dwingt Jarno Widar tot opgave in Ronde van Burgos",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T09:59:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/flinke-aderlating-in-aanloop-naar-vuelta-infectie-dwingt-jarno-widar-tot-opgave-in-ronde-van-burgos~a98ef736/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "dc6e8d864617",
+   "t": "Charlotte Kool leaves the Tour de France Femmes avec Zwift after finishing outside the time limit on the punishing stage to Mont Ventoux",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T09:51:50.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/charlotte-kool-leaves-the-tour-de-france-femmes-avec-zwift-after-finishing-outside-the-time-limit-on-the-punishing-stage-to-mont-ventoux/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "03d298338a8f",
+   "t": "The Tour de France Femmes Is So Close It Could Come Down to the Final Descent and Sprint in Nice",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T09:47:37.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/tour-de-france-femmes-niewiadoma-vollering-nice-finale/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "fc4e4f488cc3",
+   "t": "Jarno Widar moet noodgedwongen opgeven in Ronde van Burgos",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T09:43:16.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/jarno-widar-moet-noodgedwongen-opgeven-in-ronde-van-burgos/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "80e7c811cebe",
+   "t": "Dorian Godon blijkt vier ribben gebroken te hebben in Tour de France",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T09:29:36.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/dorian-godon-blijkt-vier-ribben-gebroken-te-hebben-in-tour-de-france/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "bad9a05ee213",
+   "t": "'We were hoping to make more of a dent' – Mont Ventoux effort leaves Cédrine Kerbaol moving up Tour de France Femmes GC but still aiming higher",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T09:18:58.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/we-were-hoping-to-make-more-of-a-dent-mont-ventoux-effort-leaves-cedrine-kerbaol-moving-up-tour-de-france-femmes-gc-but-still-aiming-higher/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "53cafd2a9c5a",
+   "t": "Meer dan 700.000 kijkers zien Mont Ventoux-strijd bij de NOS",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T09:18:44.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/meer-dan-700-000-kijkers-zien-mont-ventoux-strijd-bij-de-nos/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "5dc129cf5dac",
+   "t": "Lapierre demande sa mise en placement judiciaire",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T09:10:29.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/actualite/lapierre-demande-sa-mise-en-placement-judiciaire/",
+     "l": "fr"
+    }
+   ]
+  },
+  {
+   "id": "3bd52d59b33d",
+   "t": "Drie rensters denken Tour Femmes nog te kunnen winnen in secondenspel: “Ik zou thuisblijven”",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T08:34:10.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/finale-tour-femmes-wordt-spannend-secondenspel-met-drie-in-zwaar-slotweekend-ik-zou-thuisblijven/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "3e575aec1640",
+   "t": "La barbaridad de Niewiadoma en el Ventoux que ya es historia del ciclismo y puede valer un Tour: 5,31 W/kg en 55' que valen el amarillo",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T08:10:30.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/tour-francia/2026/08/08/barbaridad-niewiadoma-ventoux-historia-ciclismo-valer-tour-5-31-w-kg-55-valen-amarillo.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "5ce8727fa6df",
+   "t": "Paula Blasi se libera en el Ventoux y 'recarga' para la traca final del Tour: \"Me quité un peso de encima\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T08:02:00.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/tour-francia/2026/08/08/paula-blasi-libera-ventoux-recarga-traca-final-tour-me-quite-peso-encima.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "7c0fca35f7ae",
+   "t": "Winactie: Maak deze Tour kans op een CADEX Aero Cotton Tire (t.w.v. €99,95)",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T08:00:56.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/winactie-maak-deze-tour-kans-op-een-cadex-aero-cotton-tire-t-w-v-e9995/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "4b0af6be27e2",
+   "t": "Béjar cita a sus grandes nombres del ciclismo en una velada solidaria con Heras, Ruano y Dueñas",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T07:55:00.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/08/08/bejar-cita-grandes-nombres-ciclismo-velada-solidaria-heras-ruano-duenas.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "8fbfefabe1ec",
+   "t": "La última rajada de Jan Ullrich: \"Podría haber hecho que todo el ciclismo se viniera abajo\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T07:48:46.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/08/08/ultima-rajada-jan-ullrich-podria-haber-hecho-ciclismo-viniera-abajo.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
    "id": "a9696c587d62",
    "t": "Reusser se agarra al podio: dos días para rematar el gran Tour de Movistar",
    "s": "",
@@ -121,6 +415,20 @@
    ]
   },
   {
+   "id": "d6b535f92919",
+   "t": "Tour Femmes 2026: Demi Vollering krijgt boete na Mont Ventoux-etappe",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T07:18:24.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-demi-vollering-krijgt-boete-na-mont-ventoux-etappe/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
    "id": "3a83aece4308",
    "t": "Vuelta a Burgos, etapa 5: perfil, recorrido, horario y dónde ver hoy en TV y online",
    "s": "",
@@ -131,6 +439,20 @@
      "n": "Marca Ciclismo",
      "u": "https://www.marca.com/ciclismo/2026/08/08/vuelta-burgos-etapa-5-perfil-recorrido-horario-ver-hoy-tv-online.html",
      "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "0500cedd1eb4",
+   "t": "GUIDA COMPLETA AL CICLISMO MODERNO: SCARICA L'E-BOOK GRATUITO DI ETHICSPORT",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T07:00:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/08/1786176565/alimentazione-idratazione-prestazioni-integrazione-sportiva",
+     "l": "it"
     }
    ]
   },
@@ -158,6 +480,20 @@
     {
      "n": "TuttoBiciWeb",
      "u": "https://www.tuttobiciweb.it/article/2026/08/08/1786107092/ciclismo-pista-antonio-maspes-storia-del-ciclismo-velocita",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "d0950557254b",
+   "t": "POLINI E-P3+ CAMPIONE DEL MONDO E-BIKE ENDURO CON MANOLO MORETTINI E FILIPPO COLARUSSO",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T06:20:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/08/1786176288/e-bike-enduro-ciclismo-mondiali-polini-motori-fim-world-cup",
      "l": "it"
     }
    ]
@@ -775,6 +1111,20 @@
      "n": "Cyclingnews",
      "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/i-did-a-decent-race-i-cant-complain-elisa-longo-borghini-underlines-team-collaboration-after-outpowering-tour-de-france-femmes-race-leader-marlen-reusser-for-third-on-ventoux/",
      "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "96cd926a4d2e",
+   "t": "Liste der ausgeschiedenen Fahrerinnen / 7. Etappe",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-07T17:30:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146337.htm",
+     "l": "de"
     }
    ]
   },
@@ -3785,524 +4135,6 @@
      "n": "Marca Ciclismo",
      "u": "https://www.marca.com/ciclismo/2026/08/06/xabier-berasategi-renueva-euskaltel-euskadi-dos-temporadas.html",
      "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "67738910e988",
-   "t": "TOUR OF KAHRAMANMARAŞ: UMBA FIRMA LA TRIPLETTA SOLUTION TECH, TSARENKO CONSERVA LA MAGLIA DI LEADER",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T11:33:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/06/1786023490/tour-of-kahramanmaraAY-solution-tech-umba-tsarenko",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "2cd731a21d8a",
-   "t": "'Things are moving in the right direction' – Tour de France Femmes director Marion Rousse says full-length TV broadcasts of stages are under consideration for future editions",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T11:22:15.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/category/womens-cycling/things-are-moving-in-the-right-direction-tour-de-france-femmes-director-marion-rousse-says-full-length-tv-broadcasts-of-stages-are-under-consideration-for-future-editions/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "5d1a7d0a7e11",
-   "t": "Mont Ventoux Will Blow Apart the Tour de France Femmes: How the Brutal Climb will Reshape the Race",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T11:16:37.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/mont-ventoux-is-poised-to-blow-apart-the-tour-de-france-femmes/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "ae5a0b107c69",
-   "t": "Zwift Ride et Wahoo KICKR CORE 2 en promotion : jusqu’à 200 € de réduction pour le Tour de France Femmes avec Zwift",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T11:11:45.000Z",
-   "sources": [
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/bons-plans/zwift-ride-et-wahoo-kickr-core-2-en-promotion-jusqua-200-e-de-reduction-pour-le-tour-de-france-femmes-avec-zwift/",
-     "l": "fr"
-    }
-   ]
-  },
-  {
-   "id": "6ffc797e145d",
-   "t": "Pogacar har næsten hentet Danmark",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T11:09:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/pogacar-har-naesten-hentet-danmark/11137242",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "227bac1f2fca",
-   "t": "'I was a big fan of Mark Cavendish when he raced for this team' – Soudal-QuickStep sign versatile Tim Torn Teutenberg from Lidl-Trek",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T11:02:28.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/transfers/i-was-a-big-fan-of-mark-cavendish-when-he-raced-for-this-team-soudal-quickstep-sign-versatile-tim-torn-teutenberg-from-lidl-trek/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "ff4c1674eca6",
-   "t": "Owner of Raleigh and Lapierre enters insolvency proceedings",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T10:59:22.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/owner-of-raleigh-and-lapierre-enters-insolvency-proceedings/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "1d94c97b44db",
-   "t": "Tour de France Femmes stage 6 LIVE: Another hot stage packed with climbs could shake-up the GC",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T10:50:12.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/live/tour-de-france-femmes-stage-6-live-another-hot-stage-packed-with-climbs-could-shake-up-the-gc/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "499df7dc45a3",
-   "t": "Del Toro signs UAE extension until 2031",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T10:45:26.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/del-toro-signs-extension-until-2031/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "e1ed1a03bca9",
-   "t": "Groningen en Drenthe gaan ‘cruciale fase’ in van bid voor WK 2032",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T10:41:14.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/groningen-en-drenthe-gaan-cruciale-fase-in-van-bid-voor-wk-2032/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "c374359e5d8e",
-   "t": "UAE gives Isaac del Toro update",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T10:39:30.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/sections/news/uae-give-isaac-del-toro-update/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "896e3f77d64e",
-   "t": "DMT. TADEJ POGACAR, LA MAGLIA GIALLA E UNA SPECIAL EDITION DELLA POGI'S SUPERLIGHT",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T10:22:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/06/1786012253/tadej-pogacar-tour-de-france-ciclismo-dmt-scarpe-da-ciclismo",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "269698b75860",
-   "t": "Ferrand-Prévot wil Femke de Vries helpen aan goed klassement: “Zonder enige twijfel”",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T10:20:39.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/ferrand-prevot-wil-femke-de-vries-helpen-aan-goed-klassement-zonder-enige-twijfel/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "be4e15e93696",
-   "t": "Tour de France Femmes Stage 6 preview: Rolling terrain could favour breakaway",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T10:14:11.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/sections/news/tour-de-france-femmes-stage-6-preview-rolling-terrain-could-favour-breakaway/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "9dc52b4fa095",
-   "t": "SCQUIZZATO, LE BICI IN MINIATURA E QUEL REGALO PER POGACAR. GALLERY",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T10:13:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/06/1786011611/ciclismo-tadej-pogaA�ar-giro-di-svizzera-modellismo-tds2026",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "c44064eb790d",
-   "t": "Rüegg auf 5. Etappe von Begleitmotorrad umgefahren",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T10:06:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146386.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "b53f7da1d27e",
-   "t": "ULAC. COURSIER JAGER 3L, LA BORSA AL MANUBRIO LEGGERA ED ECONOMICA",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T10:00:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/06/1786026266/ciclismo-bikepacking-accessori-bici-gravel-attrezzatura-ciclistica",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "52534d10e8bf",
-   "t": "Amber Kraak is uitgegroeid tot belangrijke helper Vollering: “Demi is geen strenge leider, wel direct”",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T09:58:54.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/amber-kraak-is-uitgegroeid-tot-belangrijke-helper-vollering-demi-is-geen-strenge-leider-wel-direct/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "31e30f9e9d58",
-   "t": "Soudal Quick-Step maakt komst van hardrijder Tim Torn Teutenberg officieel",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T09:56:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/soudal-quick-step-maakt-komst-van-hardrijder-tim-torn-teutenberg-officieel~ada647ae/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "5d7786672ec8",
-   "t": "IL TOUR DE FRANCE FEMMES. UN’INFEZIONE COSTRINGE TRINCA COLONEL AL RITIRO. STOP ANCHE PER MALCOTTI",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T09:28:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/06/1786009117/tour-de-france-femmes-2026-tappa-6-ritiri-malcotti-trinca-colonel",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "055688c2d17a",
-   "t": "Isaac Del Toro verlengt contract bij UAE Emirates XRG tot en met 2031",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T09:17:04.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/isaac-del-toro-verlengt-contract-bij-uae-emirates-xrg-tot-en-met-2031/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "f3bc621a3dc6",
-   "t": "SOUDAL QUICK STEP. ARRIVA TEUTENBERG CON UN CONTRATTO BIENNALE",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T09:15:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/06/1786007979/ciclismo-soudal-quick-step-tim-teutenberg-velocisti-classiche",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "96cd926a4d2e",
-   "t": "Liste der ausgeschiedenen Fahrerinnen / 6. Etappe",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T09:10:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146337.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "e0c65b61442b",
-   "t": "Stærk Lidl-Trek-rytter skifter til Quick-Step",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T09:04:08.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/staerk-lidl-trek-rytter-skifter-til-quick-step/11251243",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "da511fc7bf26",
-   "t": "“Deze ploeg voelt als mijn thuis”: goudhaantje Isaac Del Toro verlengt contract bij UAE Team Emirates-XRG tot 2031",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T08:58:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/deze-ploeg-voelt-als-mijn-thuis-goudhaantje-isaac-del-toro-verlengt-contract-bij-uae-team-emirates-xrg-tot-2031~a98ef736/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "240ee50d5e69",
-   "t": "Isaac del Toro Signs Long-Term Deal with UAE and Pogačar to Lock Down Tour de France Future",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T08:57:08.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/when-pogacar-isnt-enough-uae-signs-del-toro-long-term/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "3feb6fab7fad",
-   "t": "Atypisk etapeløb vindes med vild gennemsnitsfart",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T08:46:38.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/atypisk-etapeloeb-vindes-med-vild-gennemsnitsfart/11251218",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "6ec0f06120e3",
-   "t": "‘Groningen en Drenthe strijden met India om WK wielrennen 2032’",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T08:44:23.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/groningen-en-drenthe-strijden-met-india-om-wk-wielrennen-2032/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "4b6683bdf8ac",
-   "t": "UAE no lo deja escapar: Del Toro renueva hasta 2031",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T08:42:06.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/08/06/uae-deja-escapar-toro-renueva-2031.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "038b4813287a",
-   "t": "Is More Stages Better? Tour de France Femmes Stars Pick Their Magic Number",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T08:41:37.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/is-more-stages-better-tour-de-france-femmes-stars-pick-their-magic-number/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "e9294220c352",
-   "t": "UAE EMIRATES XRG. DEL TORO RINNOVA E FIRMA FINO AL 2031",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T08:40:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/06/1786005837/ciclismo-isaac-del-toro-uae-team-emirates-xrg-tour-de-france-talenti-emergenti",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "863693e630d6",
-   "t": "Isaac del Toro commits his future to UAE Team Emirates-XRG with new long-term contract extension",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T08:31:52.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/transfers/isaac-del-toro-commits-his-future-to-uae-team-emirates-xrg-with-new-long-term-contract-extension/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "6a83429193c9",
-   "t": "UAE lukker Del Toro på lang aftale",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T08:16:20.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/uae-lukker-del-toro-paa-lang-aftale/11251186",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "91d4bab5ab43",
-   "t": "Canyon-SRAM verwacht veel van Niewiadoma in bergritten: “Echte Tour begint nu”",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T08:14:04.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/canyon-sram-verwacht-veel-van-niewiadoma-in-bergritten-echte-tour-begint-nu/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "2a34fd3a5ff1",
-   "t": "“We willen geen anonieme Tour”: Waarom Fenix-Premier Tech en Puck Pieterse kiezen voor de aanval",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T08:06:25.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/we-willen-geen-anonieme-tour-waarom-fenix-premier-tech-en-puck-pieterse-kiezen-voor-de-aanval/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "383d5c3d1a9f",
-   "t": "The Tour de France Femmes book club",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T08:03:51.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/what-do-riders-read-at-the-tour-de-france-femmes/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "152c3d2b798a",
-   "t": "Transferlisten 2026-2027 - WorldTouren",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-06T08:00:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/transferlisten-2026-2027-worldtouren/11244321",
-     "l": "da"
     }
    ]
   }
