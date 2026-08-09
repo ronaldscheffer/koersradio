@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T07:56:19.721Z",
+ "updated": "2026-08-09T11:34:52.677Z",
  "groups": [
   {
    "id": "results-2026-08-09",
@@ -7,7 +7,7 @@
    "t": "Laatste uitslagen — ProCyclingStats",
    "s": "",
    "c": "race",
-   "date": "2026-08-09T07:56:19.571Z",
+   "date": "2026-08-09T11:34:52.306Z",
    "rows": [
     {
      "race": "Tour de Pologne | Stage 5",
@@ -79,6 +79,202 @@
    ]
   },
   {
+   "id": "94fd1edb9717",
+   "t": "Violett verteidigt: Gall gewinnt in Burgos viel Selbstvertrauen",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-09T11:23:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146418.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "699ec9c68b8a",
+   "t": "No UCI Jury Action Despite Appeal as Tour de France Femmes Controversy Rages On",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-09T10:54:26.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/no-uci-jury-action-despite-appeal-as-tour-de-france-femmes-controversy-rages-on/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "6e18017d041e",
+   "t": "Nieuwe beelden tonen hoe plan van Demi Vollering en co perfect uitpakte, tot frustratie van Kasia Niewiadoma: “Ik ben alle respect voor hen kwijt”",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-09T10:47:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/nieuwe-beelden-tonen-hoe-plan-van-demi-vollering-en-co-perfect-uitpakte-tot-frustratie-van-kasia-niewiadoma-ik-ben-alle-respect-voor-hen-kwijt~af0bcdfb/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "22a3f6e6bde1",
+   "t": "AGNOSINE. POKER STAGIONALE DI CINGOLANI CHE FULMINA DALLA BONA E ARCHETTI",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-09T10:44:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/09/1786272356/ciclismo-juniores-tommaso-cingolani-campionato-provinciale-bresciano-sprint",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "e46308d32420",
+   "t": "The American Underdog Coaching Cyclists While Racing Tour de France Femmes",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-09T10:35:04.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/the-american-underdog-coaching-cyclists-while-racing-tour-de-france-femmes/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "ebde1af016d1",
+   "t": "UCI Gravel World Series: Marjolein van't Geloof and Eddy Le Huitouze snare victory at Latvia's Gravel Weekend",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-09T09:59:29.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/uci-gravel-world-series-marjolein-vant-geloof-and-eddy-le-huitouze-snare-victory-at-latvias-gravel-weekend/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "b998d45b2b60",
+   "t": "Ronde van Polen Visma | Lease a Bike al voor slottijdrit geslaagd: “Eindpodium kers op de taart”",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-09T09:38:04.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/ronde-van-polen-visma-lease-a-bike-al-voor-slottijdrit-geslaagd-eindpodium-kers-op-de-taart/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "fe3f7e8ce205",
+   "t": "Duell um Gelb: Vollering muss Niewiadomas Attacken abwehren",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-09T09:30:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146417.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "648b3637d406",
+   "t": "Echtgenoot Taylor Phinney neemt het op voor Kasia Niewiadoma: “Niet illegaal, wel vuil”",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-09T08:56:22.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/echtgenoot-taylor-phinney-neemt-het-op-voor-kasia-niewiadoma-niet-illegaal-wel-vuil/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "56162ce39466",
+   "t": "VIDEO: Fresh Footage of Niewiadoma and Gery Fuels Tour de France Femmes Ethics Debate",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-09T08:42:52.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/video-niewiadoma-gery-tour-de-france-femmes-corner/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "8ae3c3fb1589",
+   "t": "Tour Femmes 2026: Wie wint bij gelijke tijd tussen Vollering en Niewiadoma?",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-09T08:20:27.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-wie-wint-bij-gelijke-tijd-tussen-vollering-en-niewiadoma/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "a6659742b543",
+   "t": "'Fans see my country and remember what is happening' – Yuliia Biriukova flies the flag for Ukraine at Tour de France Femmes",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-09T08:06:52.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/fans-see-my-country-and-remember-what-is-happening-yuliia-biriukova-flies-the-flag-for-ukraine-at-tour-de-france-femmes/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "41d38e0722ee",
+   "t": "Etapa 9 del Tour de Francia femenino: recorrido, perfil, horario y dónde ver hoy en TV y online en directo",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-09T08:04:31.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/tour-francia/2026/08/09/etapa-9-tour-francia-femenino-recorrido-perfil-horario-ver-hoy-tv-online.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "186f4e75eae9",
+   "t": "Elisa Longo Borghini verwijt Kasia Niewiadoma niets: “Als ze niet meerijdt, zit ze à bloc”",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-09T07:52:03.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/elisa-longo-borghini-verwijt-kasia-niewiadoma-niets-als-ze-niet-meerijdt-zit-ze-a-bloc/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
    "id": "1376a1a3b45d",
    "t": "'We’re not just here to finish, but we also want to show ourselves' – Lotto-Intermarché fight through crashes and heatstroke at Tour de France Femmes to make it to Nice with three riders",
    "s": "",
@@ -93,6 +289,20 @@
    ]
   },
   {
+   "id": "837361e860c1",
+   "t": "Lotte Kopecky grijpt naast ritzege, maar vertrouwen groeit: “Dit is hoopgevend voor het WK”",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-09T07:20:26.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/kopecky-grijpt-naast-ritzege-maar-vertrouwen-groeit-dit-is-hoopgevend-voor-het-wk/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
    "id": "45c8d15f9b6c",
    "t": "“Ik geef het beste van mezelf ooit en hij rijdt gewoon weg...”: Jonas Vingegaard wordt moedeloos van dominantie Tadej Pogacar",
    "s": "",
@@ -102,6 +312,20 @@
     {
      "n": "HLN Wielrennen",
      "u": "https://www.hln.be/wielrennen/ik-geef-het-beste-van-mezelf-ooit-en-hij-rijdt-gewoon-weg-jonas-vingegaard-wordt-moedeloos-van-dominantie-tadej-pogacar~aabcbd1b/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "9e5bd1c26970",
+   "t": "Demi Vollering rekent zich nog niet rijk in slotrit Tour: “Alles kan gebeuren”",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-09T06:57:58.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/demi-vollering-rekent-zich-nog-niet-rijk-in-slotrit-tour-alles-kan-gebeuren/",
      "l": "nl"
     }
    ]
@@ -144,6 +368,20 @@
     {
      "n": "HLN Wielrennen",
      "u": "https://www.hln.be/wielrennen/ik-ben-alle-respect-voor-hen-kwijt-kasia-niewiadoma-zoekt-na-kinderachtig-manoeuvre-confrontatie-op-met-ploeggenote-van-demi-vollering~af0bcdfb/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "844dc10b1a10",
+   "t": "Marlen Reusser neemt geen risico’s meer: “Derde plaats is ook mooi”",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-09T06:22:34.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/marlen-reusser-neemt-geen-risicos-meer-derde-plaats-is-ook-mooi/",
      "l": "nl"
     }
    ]
@@ -289,6 +527,20 @@
    ]
   },
   {
+   "id": "66c92011c79b",
+   "t": "5Dev puts $25,000 bounty on Leadville win with “Shredville Challenge”",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-09T00:15:00.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/mtb/5dev-puts-25000-bounty-on-leadville-win-with-shredville-challenge/",
+     "l": "en"
+    }
+   ]
+  },
+  {
    "id": "3b065d413d3d",
    "t": "Amid Controversy and Accusation, Get Set for a Scintillating Showdown to Tour de France Femmes",
    "s": "",
@@ -373,6 +625,34 @@
    ]
   },
   {
+   "id": "425001682c89",
+   "t": "“I lost all respect for them” Niewiadoma says after losing yellow",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T19:53:32.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/sections/news/i-lost-all-respect-for-them-niewiadoma-says-after-losing-for-yellow/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "41661fd19c7a",
+   "t": "Of course a dude tested the bra doping theory at the Tour de France Femmes",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T19:50:22.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/sections/news/of-course-a-dude-tested-the-bra-doping-theory/",
+     "l": "en"
+    }
+   ]
+  },
+  {
    "id": "ab2f2bbb8803",
    "t": "Did Kasia get pushed into the barriers? Questions and quotes from stage 8",
    "s": "",
@@ -397,6 +677,20 @@
      "n": "Escape Collective",
      "u": "https://escapecollective.com/felix-gall-wins-first-stage-race-of-his-pro-career-at-the-vuelta-a-burgos/",
      "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "dcaafcbc3ca0",
+   "t": "Das Strafenregister der Tour de France Femmes / 8. Etappe",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-08T19:25:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146339.htm",
+     "l": "de"
     }
    ]
   },
@@ -3169,510 +3463,6 @@
      "n": "Wielerflits",
      "u": "https://www.wielerflits.nl/nieuws/lotto-intermarche-hevelt-drie-belgische-talenten-over-van-haar-opleidingsploeg/",
      "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "2c76711e515d",
-   "t": "The Power of Anger and Ignorance: Longo Borghini Goes Fourth",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T11:24:32.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/longo-borghini-is-racing-ignorant-angry-fourth-after-big-breakaway/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "5373cd4a9b2d",
-   "t": "Van der Breggen gibt vor Ventoux-Etappe auf",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T11:20:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146400.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "c050570a9832",
-   "t": "Major changes of crunch 2026 Vuelta a España mountain stage set to test Tadej Pogačar and other top GC contenders",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T11:17:00.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/major-changes-of-crunch-2026-vuelta-a-espana-mountain-stage-set-to-test-tadej-pogacar-and-other-top-gc-contenders/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "3b9a9775e5bf",
-   "t": "TOUR OF KAHRAMANMARAŞ, LA SOLUTION TECH CHIUDE IN BELLEZZA: ULTIMA TAPPA A RAJOVIC, GENERALE A TSARENKO",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T11:15:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/07/1786101685/tour-of-kahramanmaraAY-solution-tech-rajovic-tsarenko",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "71301264b07b",
-   "t": "Vuelta 2026: Organisatie wijzigt koninginnenrit door aardverschuivingen",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T11:07:12.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/vuelta-2026-organisatie-wijzigt-koninginnenrit-door-aardverschuivingen/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "1f6210c3ad31",
-   "t": "Nach Sturz vom Vortag: Almeida raus aus Polen-Rundfahrt",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T11:06:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146403.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "743a2b81841c",
-   "t": "TOUR DE FRANCE FEMMES. VAN DER BREGGEN NON PARTE PER LA 7^ TAPPA",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T11:05:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/07/1786104541/ciclismo-tour-de-france-femmes-anna-van-de-breggen-ritiro-tdff2026",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "f1eeb809609d",
-   "t": "TRICOLORI GIOVANILI. FIRENZE CHIUDE IN FESTA: SEI NUOVI CAMPIONI ITALIANI",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T11:00:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/07/1786102892/ciclismo-pista-campionati-italiani-talenti-giovanili-velodromo",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "da342d386a3d",
-   "t": "Eline Jansen beleeft doorbraak maar trekt met bang hartje naar Ventoux: “Voel mijn voet niet”",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T10:45:08.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/eline-jansen-beleeft-doorbraak-maar-trekt-met-bang-hartje-naar-ventoux-voel-mijn-voet-niet/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "283943991502",
-   "t": "Anna van der Breggen Exits Tour de France Femmes After Brutal Week",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T10:42:40.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/anna-van-der-breggen-pulls-out-tour-de-france-femmes-mont-ventoux/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "32583f8297f6",
-   "t": "GIRO DELLA CAMPANIA. NAPOLI CASERTA AGEROLA, EMOZIONI AD OGNI SCATTO",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T10:40:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/07/1786099657/giro-di-campania-ciclismo-corse-italiane-uci-1.1-napoli",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "1576bad5b437",
-   "t": "TOUR DE FRANCE FEMMES. LE COURT: «HO VINTO CON IL CICLO, PARLARNE NON DOVREBBE ESSERE UN TABU'»",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T10:40:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/07/1786103163/ciclismo-tour-de-france-ciclo-mestruale-donne-nello-sport-kim-le-court",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "531544feea72",
-   "t": "Gianni Moscon disqualified from Vuelta a Burgos in latest disciplinary incident, Red Bull say 'We respect the jury's decision'",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T10:38:50.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/gianni-moscon-disqualified-from-vuelta-a-burgos-in-latest-disciplinary-incident-red-bull-say-we-respect-the-jurys-decision/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "58ef540aa288",
-   "t": "Bluetooth pills and finger-prick tests: One team’s fight against the ‘unsafe’ heat of the women’s Tour",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T10:18:25.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/heat-at-the-tour-de-france-femmes-is-challenging-teams-performance-staff/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "c378ab84e65e",
-   "t": "Anna van der Breggen abandons the Tour de France Femmes",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T10:17:09.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/anna-van-der-breggen-abandons-the-tour-de-france-femmes/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "64776f72c619",
-   "t": "Erdrutschfolgen: Vuelta muss 20. Etappe abändern",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T10:16:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146402.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "50e6c907ea26",
-   "t": "Demi Vollering’s team promises ‘a big show’ on Mont Ventoux",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T10:15:15.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/sections/news/demi-vollerings-team-promises-a-big-show-on-mont-ventoux/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "a0d485ef0a1c",
-   "t": "João Almeida pulls out of Tour de Pologne after bad crash on stage 4 as season of setbacks continues",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T10:12:32.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/joao-almeida-pulls-out-of-tour-de-pologne-after-bad-crash-on-stage-4-as-season-of-setbacks-continues/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "262612ac2699",
-   "t": "Lotto-Intermarché hevelt drie jonge renners, waaronder het beste maatje van Jarno Widar, over naar de hoofdmacht",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T10:12:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/lotto-intermarche-hevelt-drie-jonge-renners-waaronder-het-beste-maatje-van-jarno-widar-over-naar-de-hoofdmacht~ada647ae/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "fb9680962da5",
-   "t": "Wildfire Carnage Strips Crucial Features from Historic Leadville 100 MTB Trail",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T10:11:58.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/mountain/leadville-100-mtb-trail-re-rerouted-for-2026-due-to-wildfires/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "7ad57dc69553",
-   "t": "Tour de France Femmes stage 7 LIVE: Mont Ventoux finish to inspire Reusser-Vollering-Niewiadoma GC battle",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T10:04:09.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/live/tour-de-france-femmes-stage-7-live-mont-ventoux-finish-to-inspire-reusser-vollering-niewiadoma-gc-battle/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "f8b48c9f38c0",
-   "t": "Rampzalige laatste halte richting Vuelta: Joao Almeida moet Ronde van Polen verlaten na val",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T09:56:46.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/rampzalige-laatste-halte-richting-vuelta-joao-almeida-moet-ronde-van-polen-verlaten-na-val/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "11cf9699ffd2",
-   "t": "Van der Breggen stapt niet meer op in Tour na 'moeilijke wedstrijdweek'",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T09:54:00.000Z",
-   "sources": [
-    {
-     "n": "NOS Wielrennen",
-     "u": "https://nos.nl/l/2625863",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "264ed81b3c07",
-   "t": "Feurstein sprintet in der Karibik zum nächsten Vorarlberg-Etappensieg",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T09:52:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146401.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "2608221c0ae8",
-   "t": "Lucinda Brand en Loes Adegeest zijn meer dan ploeggenotes bij Lidl-Trek",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T09:44:21.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/lucinda-brand-en-loes-adegeest-zijn-meer-dan-ploeggenotes-bij-lidl-trek/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "a759ad65c0bd",
-   "t": "Spin Cycle: The wrong sort of competitive edge",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T09:37:57.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/spin-cycle-the-wrong-sort-of-competitive-edge/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "91472272bf3e",
-   "t": "Tegenvallende Anna van der Breggen stapt uit Tour de France Femmes",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T09:35:30.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/tegenvallende-anna-van-der-breggen-stapt-uit-tour-de-france-femmes/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "3e6f73b7ddaa",
-   "t": "In the Drops: Poc Amidal helmet, 100% Korbin sunglasses, Prologo Choice saddle and Roval Terra CLX Aero wheels",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T09:17:47.000Z",
-   "sources": [
-    {
-     "n": "Cyclist (cyclist.co.uk)",
-     "u": "https://www.cyclist.co.uk/news/roval-terra-clx-aero-wheels",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "79900dab1f0a",
-   "t": "Gianni Moscon Kicked Out Again: What Happened at the Vuelta a Burgos?",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T09:17:13.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/gianni-moscon-kicked-out-vuelta-a-burgos-new-controversy/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "0521ba0f9b52",
-   "t": "“Het is iets van de bucketlist”, “deze klim betekent veel voor mij” en “het zal pijn doen aan de benen”: vrouwen kijken uit naar Mont Ventoux",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T09:13:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/het-is-iets-van-de-bucketlist-deze-klim-betekent-veel-voor-mij-en-het-zal-pijn-doen-aan-de-benen-vrouwen-kijken-uit-naar-mont-ventoux~ab557c02/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "ea69d2c67dbf",
-   "t": "'So many riders now are able to ride at a high level, it's crazy' – Pauline Ferrand-Prévot reveals she hit a power PB as she was being put to the sword at Tour de France Femmes",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T09:04:58.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/so-many-riders-now-are-able-to-ride-at-a-high-level-its-crazy-pauline-ferrand-prevot-reveals-she-hit-a-power-pb-as-she-was-being-put-to-the-sword-at-tour-de-france-femmes/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "e6c9529354de",
-   "t": "Visma | Lease a Bike-aanwinst breekt tweede keer sleutelbeen in drie maanden tijd",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T08:45:45.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/visma-lease-a-bike-aanwinst-breekt-tweede-keer-sleutelbeen-in-drie-maanden-tijd/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "1410550f39ab",
-   "t": "LaVuelta cambia la etapa clave: El Duque sustituye a Hazallanas por los desprendimientos",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T08:40:46.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/08/07/lavuelta-cambia-etapa-clave-duque-sustituye-hazallanas-desprendimientos.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "e966ff96dcfc",
-   "t": "Tadej Pogačar Commits to Total Dominance with 2028 Roadmap – Team Preference or Not",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T08:31:09.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/pogacar-recommits-dominance-2028-roadmap/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "ad658642f7d3",
-   "t": "'Hot burning knife blades on our wheels' – The controversial story of disc brake adoption in the peloton, 10 years on",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T08:14:25.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/cycling-tech-components/hot-burning-knife-blades-on-our-wheels-the-controversial-story-of-disc-brake-adoption-in-the-peloton-10-years-on/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "2d1aeb547b00",
-   "t": "VUELTA ESPAÑA. CAMBIA IL PERCORSO DELLA TAPPA NUMERO 20 CAUSA FRANE, MA SARA' SEMPRE DURISSIMA",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-07T08:09:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/07/1786090429/ciclismo-la-vuelta-2026-modifiche-percorso-puerto-de-el-duque-alto-de-hazallanas",
-     "l": "it"
     }
    ]
   }
