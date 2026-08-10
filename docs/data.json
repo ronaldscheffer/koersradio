@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T08:43:43.567Z",
+ "updated": "2026-08-10T11:52:32.462Z",
  "groups": [
   {
    "id": "results-2026-08-10",
@@ -7,7 +7,7 @@
    "t": "Laatste uitslagen — ProCyclingStats",
    "s": "",
    "c": "race",
-   "date": "2026-08-10T08:43:43.435Z",
+   "date": "2026-08-10T11:52:32.304Z",
    "rows": [
     {
      "race": "Tour de Pologne | Stage 6",
@@ -79,6 +79,188 @@
    ]
   },
   {
+   "id": "a16305f05bea",
+   "t": "Tadej Pogačar goes full-on super fan at Tour de France Femmes",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T11:27:51.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/sections/news/tadej-pogacar-goes-into-super-fan-mode-at-tour-de-france-femmes/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "e2266c7b0da6",
+   "t": "Renewi Tour ontvangt alle topsprinters: Tim Merlier, Jasper Philipsen, Jonathan Milan en Olav Kooij",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T11:19:22.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/renewi-tour-ontvangt-alle-topsprinters-tim-merlier-jasper-philipsen-jonathan-milan-en-olav-kooij~a7553f27/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "df5de208b1e9",
+   "t": "Sporza und “Urska´s HAB“ Pogacar mit Comedy-Einlage beim Tour-Finale",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T11:13:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146429.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "ac7279f5f752",
+   "t": "Kuriosum um Jansen: Trotz Fehlleitung um 5 Sekunden im Zeitlimit",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T11:10:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146428.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "5fcfee31abb8",
+   "t": "Longo Borghini on her first Tour de France Femmes podium after wild final day",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T10:57:41.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/sections/news/longo-borghini-on-her-first-tour-de-france-femmes-podium-after-wild-final-day/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "c85670d05b02",
+   "t": "'We can make the race harder, but do we want to?' Tour de France Femmes director Marion Rousse backs variety over difficulty for future route design",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T10:55:34.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/we-can-make-the-race-harder-but-do-we-want-to-tour-de-france-femmes-director-marion-rousse-backs-variety-over-difficulty-for-future-route-design/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "a53ba195eee8",
+   "t": "FERRETTI, LA NOSTALGIA DEL SERGENTE",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T10:48:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/10/1786359290/ciclismo-giancarlo-ferretti-felice-gimondi-alessandro-petacchi-direttore-sportivo",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "581b73f5a4aa",
+   "t": "CIAO SERGENTE. MERCOLEDI' A LUGO L'ULTIMO SALUTO A GIANCARLO FERRETTI",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T09:47:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/10/1786355581/ciclismo-giancarlo-ferretti-direttore-sportivo-lutto-storia-del-ciclismo",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "2678f8701b06",
+   "t": "Santiago Buitrago verandert voor het eerst in zijn carrière van ploeg",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T09:35:26.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/santiago-buitrago-verandert-voor-het-eerst-in-zijn-carriere-van-ploeg/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "5b7f356b03e5",
+   "t": "SOUDAL QUICK STEP, C'E' UN TRIENNALE PER LORENZO MILESI",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T09:11:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/10/1786353236/ciclismo-soudal-quick-step-lorenzo-milesi-mercato-ciclismo-cronometro",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "0903dd14308e",
+   "t": "Buitrago wechselt zu NSN, Kruijswijk hängt das Rad an den Nagel",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T09:10:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146326.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "2e884e3d88a6",
+   "t": "“Doet ze u ook aan iemand anders denken?”: Internationale media vergelijken Vollering met Pogacar",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T08:56:33.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/doet-ze-u-ook-aan-iemand-anders-denken-internationale-media-vergelijken-vollering-met-pogacar/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "44dec9f138df",
+   "t": "Death Threats and Historical Beefs: How Vollering vs. Niewiadoma Became Cycling’s Spiciest Rivalry",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T08:50:53.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/vollering-vs-niewiadoma-rivalry-gains-spice-amid-death-threats-and-old-beefs/",
+     "l": "en"
+    }
+   ]
+  },
+  {
    "id": "53cbcd334554",
    "t": "In Antonia Niedermaier, Canyon-SRAM have created the perfect successor to Kasia Niewiadoma-Phinney",
    "s": "",
@@ -89,6 +271,34 @@
      "n": "Cyclingnews",
      "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/in-antonia-niedermaier-canyon-sram-have-created-the-perfect-successor-to-kasia-niewiadoma-phinney/",
      "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "1f43de2a2dc9",
+   "t": "Na winnen alle grote rondes wil Demi Vollering meer: “Ik ben nog niet klaar”",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T08:22:05.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/na-winnen-alle-grote-rondes-wil-demi-vollering-meer-ik-ben-nog-niet-klaar/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "c5487523bfcb",
+   "t": "Kasia Niewiadoma bedankt nieuwe Nederlandse trainer: “Hij begrijpt me”",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T07:52:36.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/kasia-niewiadoma-bedankt-nederlandse-trainer-hij-begrijpt-me/",
+     "l": "nl"
     }
    ]
   },
@@ -509,6 +719,20 @@
      "n": "Radsport-News",
      "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146337.htm",
      "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "1b7f332e91a9",
+   "t": "IL COMPLEANNO DI REBELLIN (55) E UN RICORDO CHE NON PUO' SVANIRE",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-09T19:00:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/09/1786352947/davide-rebellin-ciclismo-classiche-ardenne-venetoclassic-longevita-nel-ciclismo",
+     "l": "it"
     }
    ]
   },
@@ -2987,342 +3211,6 @@
      "n": "Canadian Cycling Magazine",
      "u": "https://cyclingmagazine.ca/sections/feature/pauline-ferrand-prevot-out-of-tour-de-france-femmes/",
      "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "c977e18595fe",
-   "t": "Pauline Ferrand-Prévot quitte le Tour de France Femmes",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-08T11:39:07.000Z",
-   "sources": [
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/courses/tour-de-france-femmes/pauline-ferrand-prevot-quitte-le-tour-de-france-femmes/",
-     "l": "fr"
-    }
-   ]
-  },
-  {
-   "id": "fc1293298c2d",
-   "t": "Defending champ Ferrand-Prévot abandons Tour Femmes before stage 8",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-08T11:33:42.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/defending-champ-ferrand-prevot-abandons-tour-femmes-before-stage-8/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "d04421407439",
-   "t": "Defending champ Ferrand-Prévot is out of the Tour Femmes",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-08T11:33:42.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/defending-champ-ferrand-prevot-is-out-of-the-tour-femmes/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "efeb9c744cb0",
-   "t": "INCREDIBILE A LANZO: LITIGA CON I CICLISTI, LI INVESTE, POI FA RETROMARCIA E LI INVESTE DI NUOVO",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-08T11:32:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/08/1786192584/ciclismo-sicurezza-stradale-incidente-torino-violenza-stradale",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "9e8b31dee758",
-   "t": "TOUR FEMMES. IERI 5 MILIONI DI TELESPETTATORI. LA MINISTRA DELLO SPORT:«LAVORIAMO PER LA DIRETTA INTEGRALE COME NEL MASCHILE»",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-08T11:30:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/08/1786190716/ciclismo-tour-de-france-femmes-tdff2026-ascolti-record-mont-ventoux",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "d01b64334ceb",
-   "t": "TOUR DE FRANCE FEMMES. FERRAND PREVOT ABBANDONA LA CORSA A TAPPE FRANCESE",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-08T11:30:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/08/1786190816/tour-de-france-femmes-ciclismo-pauline-ferrand-prevot-ritiro-tdff2026",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "3ed6eaa524bc",
-   "t": "Defending champion Pauline Ferrand-Prévot will not start stage 8 of the Tour de France suffering with illness",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-08T11:21:11.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/defending-champion-pauline-ferrand-prevot-will-not-start-stage-8-of-the-tour-de-france-suffering-with-illness/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "5057e981a7ef",
-   "t": "Ferrand-Prévot niet van start in voorlaatste Tour-etappe: 'Voelt zich niet goed'",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-08T11:19:45.000Z",
-   "sources": [
-    {
-     "n": "NOS Wielrennen",
-     "u": "https://nos.nl/l/2625998",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "bfdd09a7f4e5",
-   "t": "Tour Femmes 2026: Titelverdedigster Pauline Ferrand-Prévot verlaat ronde",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-08T11:13:19.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-titelverdedigster-pauline-ferrand-prevot-verlaat-ronde/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "7a63cf61685b",
-   "t": "Tour de France Femmes Stage 8 preview: Flat, but not actually",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-08T11:07:53.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/sections/news/tour-de-france-femmes-stage-8-preview-flat-but-not-actually/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "48a728e4823e",
-   "t": "Tour de France Femmes gaat verder zonder titelverdedigster: Pauline Ferrand-Prévot geeft er de brui aan en verschijnt niet meer aan start",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-08T11:06:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/tour-de-france-femmes-gaat-verder-zonder-titelverdedigster-pauline-ferrand-prevot-geeft-er-de-brui-aan-en-verschijnt-niet-meer-aan-start~a1fc042f/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "0da8a01449ab",
-   "t": "Tour de France Femmes stage 8 LIVE: Longest stage of the race may suit sprinters or a breakaway",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-08T11:00:47.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/live/tour-de-france-femmes-stage-8-live-longest-stage-of-the-race-may-suit-sprinters-or-a-breakaway/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "2d2b1f6976ea",
-   "t": "ORNAVASSO. ROSSIGNOLI PER DISTACCO NEL TROFEO MADONNA SANTUARIO DEL BODEN",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-08T10:46:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/08/1786204038/ciclismo-matilde-rossignoli-bft-burzoni-vo2-team-pink-trofeo-santuario-madonna-del-boden-donne-juniores",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "0c39365e28ea",
-   "t": "Taylor Phinney emotioneel na zege echtgenote Niewiadoma: “Gebeurt dit echt?”",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-08T10:40:02.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/taylor-phinney-emotioneel-na-zege-echtgenote-niewiadoma-gebeurt-dit-echt/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "fc52cab8c4ff",
-   "t": "Godon raced half the Tour de France with four broken ribs",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-08T10:35:00.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/godon-raced-half-the-tour-de-france-with-four-broken-ribs/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "91e8c115e843",
-   "t": "Vollering: “Hätte Lücke gleich schließen sollen“",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-08T10:00:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146410.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "184f3159b27f",
-   "t": "Flinke aderlating in aanloop naar Vuelta: infectie dwingt Jarno Widar tot opgave in Ronde van Burgos",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-08T09:59:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/flinke-aderlating-in-aanloop-naar-vuelta-infectie-dwingt-jarno-widar-tot-opgave-in-ronde-van-burgos~a98ef736/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "dc6e8d864617",
-   "t": "Charlotte Kool leaves the Tour de France Femmes avec Zwift after finishing outside the time limit on the punishing stage to Mont Ventoux",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-08T09:51:50.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/charlotte-kool-leaves-the-tour-de-france-femmes-avec-zwift-after-finishing-outside-the-time-limit-on-the-punishing-stage-to-mont-ventoux/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "03d298338a8f",
-   "t": "The Tour de France Femmes Is So Close It Could Come Down to the Final Descent and Sprint in Nice",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-08T09:47:37.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/tour-de-france-femmes-niewiadoma-vollering-nice-finale/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "fc4e4f488cc3",
-   "t": "Jarno Widar moet noodgedwongen opgeven in Ronde van Burgos",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-08T09:43:16.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/jarno-widar-moet-noodgedwongen-opgeven-in-ronde-van-burgos/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "80e7c811cebe",
-   "t": "Dorian Godon blijkt vier ribben gebroken te hebben in Tour de France",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-08T09:29:36.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/dorian-godon-blijkt-vier-ribben-gebroken-te-hebben-in-tour-de-france/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "bad9a05ee213",
-   "t": "'We were hoping to make more of a dent' – Mont Ventoux effort leaves Cédrine Kerbaol moving up Tour de France Femmes GC but still aiming higher",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-08T09:18:58.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/we-were-hoping-to-make-more-of-a-dent-mont-ventoux-effort-leaves-cedrine-kerbaol-moving-up-tour-de-france-femmes-gc-but-still-aiming-higher/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "53cafd2a9c5a",
-   "t": "Meer dan 700.000 kijkers zien Mont Ventoux-strijd bij de NOS",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-08T09:18:44.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/meer-dan-700-000-kijkers-zien-mont-ventoux-strijd-bij-de-nos/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "5dc129cf5dac",
-   "t": "Lapierre demande sa mise en placement judiciaire",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-08T09:10:29.000Z",
-   "sources": [
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/actualite/lapierre-demande-sa-mise-en-placement-judiciaire/",
-     "l": "fr"
     }
    ]
   }
