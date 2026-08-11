@@ -1,16 +1,30 @@
 {
- "updated": "2026-08-11T08:11:57.800Z",
+ "updated": "2026-08-11T11:49:03.222Z",
  "groups": [
   {
-   "id": "dffaa3048f73",
-   "t": "Tour-Streit zwischen FDJ United und Niewiadoma-Phinney beigelegt",
+   "id": "7057fdaf0998",
+   "t": "FDJ führt Geldrangliste der Tour de France Femmes an",
    "s": "",
    "c": "other",
-   "date": "2026-08-11T08:53:00.000Z",
+   "date": "2026-08-11T11:55:00.000Z",
    "sources": [
     {
      "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146435.htm",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146437.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "e45510a0633b",
+   "t": "Eibl will nach Titel auf einem Leihrad in die WorldTour wechseln",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-11T11:51:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146438.htm",
      "l": "de"
     }
    ]
@@ -21,7 +35,7 @@
    "t": "Laatste uitslagen — ProCyclingStats",
    "s": "",
    "c": "race",
-   "date": "2026-08-11T08:11:57.523Z",
+   "date": "2026-08-11T11:49:02.836Z",
    "rows": [
     {
      "race": "Tour de Pologne | Stage 7 (ITT)",
@@ -93,6 +107,314 @@
    ]
   },
   {
+   "id": "ff6ba1ae33f6",
+   "t": "'I wasn't as close as I thought I might be' - Paula Blasi recognises her first Tour de France Femmes was a tougher learning curve than expected",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-11T11:38:53.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/i-wasnt-as-close-as-i-thought-i-might-be-paula-blasi-recognises-her-first-tour-de-france-femmes-was-a-tougher-learning-curve-than-expected/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "9686701e5f39",
+   "t": "From the dominant to the anonymous –Rating every team's Tour de France Femmes performance",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-11T11:36:57.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/from-the-dominant-to-the-anonymous-rating-every-teams-tour-de-france-femmes-performance/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "39ff97abb15a",
+   "t": "Slemt styrt truer VM: Bissegger giver sig selv 50 procent chance",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-11T11:22:31.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/slemt-styrt-truer-vm-bissegger-giver-sig-selv-50-procent-chance/11255379",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "acb87ca1acca",
+   "t": "'His best is yet to come' – NSN Cycling add much-needed climbing quality with signing of Santiago Buitrago",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-11T10:56:53.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/transfers/his-best-is-yet-to-come-nsn-cycling-add-much-needed-climbing-quality-with-signing-of-santiago-buitrago/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "60d7cc4cbfd5",
+   "t": "Paula Blasi Learns to Take Care of Her Mental Health after Tour Experience",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-11T10:47:35.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/paula-blasi-learned-take-care-mental-health-from-tour-femmes-experience/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "737a6e0391b3",
+   "t": "Del Toro slår nu Pogacar: Her er de længste kontrakter",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-11T10:47:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/del-toro-slaar-nu-pogacar-her-er-de-laengste-kontrakter/11253567",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "cd46a31b9f94",
+   "t": "Longo Borghini joker: Hvilke løb er jeg ikke blevet nummer tre i?",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-11T10:30:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/longo-borghini-joker-hvilke-loeb-er-jeg-ikke-blevet-nummer-tre-i/11255222",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "cdeafbbb2b51",
+   "t": "Picnic PostNL gokt op vertrekker Pavel Bittner in ADAC Cyclassics, Bert Bolle maakt debuut in Noorwegen",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-11T10:26:17.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/picnic-postnl-gokt-op-vertrekker-pavel-bittner-in-adac-cyclassics-bert-bolle-maakt-debuut-in-noorwegen/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "a465b6683e5d",
+   "t": "From double stage winner to a supporting role – 2025's breakthrough star Maëva Squiban celebrates a different kind of success at the Tour de France Femmes",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-11T10:15:58.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/from-double-stage-winner-to-a-supporting-role-2025s-breakthrough-star-maeva-squiban-celebrates-a-different-kind-of-success-at-the-tour-de-france-femmes/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "2b341d611a3a",
+   "t": "Medie: Astana-profil smutter til Netcompany",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-11T09:45:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/medie-astana-profil-smutter-til-netcompany/11255191",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "152a047819a8",
+   "t": "DT Swiss ARC 1100 65 wheel review: Excellent high-speed performance, but can they keep up with lighter competitors?",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-11T09:34:20.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/cycling-tech-components/wheels-tyres/dt-swiss-arc-1100-65-wheel-review-excellent-high-speed-performance-but-can-they-keep-up-with-lighter-competitors/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "36a90895bdf4",
+   "t": "Jon Agirre seguirá dos años más en Euskaltel",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-11T09:25:47.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/08/11/jon-agirre-seguira-dos-anos-euskaltel.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "f64efaacaefb",
+   "t": "Legendärer Teamchef Ferretti gestorben",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-11T09:22:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146436.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "4df5da8375ad",
+   "t": "Biatleet met oorbel Marco Pantani rijdt eerste profkoersen voor Decathlon CMA CGM",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-11T09:09:34.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/biatleet-met-oorbel-marco-pantani-rijdt-eerste-profkoersen-voor-decathlon-cma-cgm/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "24e2466dbbc5",
+   "t": "VISMA, KRUIJSWIJK SI RITIRERÀ A FINE STAGIONE. NEL 2016 PERSE IL GIRO PER UNA CADUTA",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-11T09:08:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/11/1786439828/steven-kruijswijk-visma-|-lease-a-bike",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "12d48c902cd1",
+   "t": "Tadej Pogačar ‘WAG’ Gag Goes Viral at Tour de France Femmes",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-11T09:07:58.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/tadej-pogacar-urksa-zigart-wag-hab-goes-viral-tour-de-france-femmes/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "32168e812fc7",
+   "t": "Tre WorldTour-ryttere har stadig ikke kørt løb i 2026",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-11T09:05:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/tre-worldtour-ryttere-har-stadig-ikke-koert-loeb-i-2026/11255120",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "dffaa3048f73",
+   "t": "Tour-Streit zwischen FDJ United und Niewiadoma-Phinney beigelegt",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-11T08:53:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146435.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "c732935c2e1b",
+   "t": "Kasia Corner Was Not Controversial – It Was Normal: 9 Hot Takes from the Tour de France Femmes",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-11T08:41:24.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/tour-de-france-femmes-hot-takes-conclusions/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "f50280e3e53b",
+   "t": "Vueltaspillet: Pogacar sprænger rekord",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-11T08:30:24.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/vueltaspillet-pogacar-spraenger-rekord/11255137",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "b947c474adfd",
+   "t": "Prijzengeld verdeeld: FDJ-Suez is grote slokop, andere Franse ploeg verdiende nul euro",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-11T08:09:13.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/prijzengeld-verdeeld-fdj-suez-is-grote-slokop-andere-franse-ploeg-verdiende-nul-euro/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "6c956935d834",
+   "t": "Cykelproducent i økonomiske problemer",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-11T07:55:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/incoming/cykelproducent-i-oekonomiske-problemer/11255054",
+     "l": "da"
+    }
+   ]
+  },
+  {
    "id": "2e3e3d1f3e46",
    "t": "“Ik ga vooral mee voor koffie”: Tadej Pogacar speelt mee in satirevideo Vlammen",
    "s": "",
@@ -103,6 +425,34 @@
      "n": "Wielerflits",
      "u": "https://www.wielerflits.nl/nieuws/ik-ga-vooral-mee-voor-koffie-tadej-pogacar-speelt-mee-in-satirevideo-vlammen/",
      "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "c157e265b5b1",
+   "t": "Pogacar indrømmer: Var i tvivl om holdkammerat",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-11T07:13:24.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/pogacar-indroemmer-var-i-tvivl-om-holdkammerat/11255040",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "f4c579db7944",
+   "t": "Oversigt: Se alle danske UCI-sejre i 2026",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-11T07:00:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/oversigt-se-alle-danske-uci-sejre-i-2026/11126224",
+     "l": "da"
     }
    ]
   },
@@ -131,6 +481,34 @@
      "n": "Cyclingnews",
      "u": "https://www.cyclingnews.com/bikes/pro-bikes/battle-of-the-brands-who-won-with-what-at-the-2026-tour-de-france-femmes-avec-zwift/",
      "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "152c3d2b798a",
+   "t": "Transferlisten 2026-2027 - WorldTouren",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-11T06:40:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/transferlisten-2026-2027-worldtouren/11244321",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "caf9988d8056",
+   "t": "Dansker sætter utrolig rekord",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-11T06:36:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/dansker-saetter-utrolig-rekord/11254735",
+     "l": "da"
     }
    ]
   },
@@ -219,6 +597,20 @@
    ]
   },
   {
+   "id": "f4b0c3ab9344",
+   "t": "Ullrich: - Jeg kunne have sladret om alle",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-11T05:30:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/ullrich-jeg-kunne-have-sladret-om-alle/11254759",
+     "l": "da"
+    }
+   ]
+  },
+  {
    "id": "3df22491693b",
    "t": "Visma | Lease a Bike voelde druk op Ferrand-Prévot: “Uiteindelijk ben je zo goed als je laatste wedstrijd”",
    "s": "",
@@ -257,6 +649,20 @@
      "n": "Wielerflits",
      "u": "https://www.wielerflits.nl/nieuws/pinarello-q36-5-snoept-niels-driesen-van-lotto-intermarche-en-klimtalent-van-lidl-trek-af/",
      "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "876fd0fa6341",
+   "t": "Mathieu van der Poel targets mountain bikes and Montreal",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T23:48:42.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/mtb/mathieu-van-der-poel-targets-mountain-bikes-and-montreal/",
+     "l": "en"
     }
    ]
   },
@@ -312,6 +718,20 @@
     {
      "n": "Escape Collective",
      "u": "https://escapecollective.com/remembering-touring-legend-heinz-stucke/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "1daea58b9df5",
+   "t": "We graded every team’s Tour de France Femmes 2026 performance",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T20:27:22.000Z",
+   "sources": [
+    {
+     "n": "Cyclist (cyclist.co.uk)",
+     "u": "https://www.cyclist.co.uk/in-depth/tour-de-france-femmes-2026-team-grades",
      "l": "en"
     }
    ]
@@ -373,6 +793,20 @@
    ]
   },
   {
+   "id": "47c39a87a15b",
+   "t": "Giro updates its flagship trail helmet with the new Montaro Pro",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T19:10:18.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/sections/news/giro-updates-its-flagship-trail-helmet-with-the-new-montaro-pro/",
+     "l": "en"
+    }
+   ]
+  },
+  {
    "id": "e2cad1fa483a",
    "t": "Pinarello-Q36.5 adds sprinter Pavel Bittner",
    "s": "",
@@ -382,6 +816,20 @@
     {
      "n": "Escape Collective",
      "u": "https://escapecollective.com/pinarello-q36-5-adds-sprinter-pavel-bittner/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "fc0b52feded2",
+   "t": "Célia Gery opens up about death threats, and the Stage 8 controversy at the Tour de France Femmes",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T18:37:32.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/sections/news/celia-gery-opens-up-about-death-threats-and-the-stage-8-controversy-at-the-tour-de-france-femmes/",
      "l": "en"
     }
    ]
@@ -411,6 +859,20 @@
      "n": "Wielerflits",
      "u": "https://www.wielerflits.nl/nieuws/zes-conclusies-na-de-tour-de-france-femmes-2026/",
      "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "9c91f9ba15f1",
+   "t": "Karrieren går på hæld for Visma-veteran",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T17:59:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/karrieren-gaar-paa-haeld-for-visma-veteran/11254620",
+     "l": "da"
     }
    ]
   },
@@ -541,6 +1003,20 @@
    ]
   },
   {
+   "id": "c9e81b9e9add",
+   "t": "Skal kvindernes Tour vare to uger? - Vil være et stort skridt",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T16:52:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/skal-kvindernes-tour-vare-to-uger-vil-vaere-et-stort-skridt/11254717",
+     "l": "da"
+    }
+   ]
+  },
+  {
    "id": "67831683bc5a",
    "t": "Se cae en la crono de la Vuelta a Portugal y un espectador salta la valla para ayudarle",
    "s": "",
@@ -579,6 +1055,20 @@
      "n": "Wielerflits",
      "u": "https://www.wielerflits.nl/nieuws/poels-en-van-eetvelt-aan-de-start-in-arctic-race-of-norway/",
      "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "022598c8fc7b",
+   "t": "Han smadrede dem: Johansen tager ny triumf",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T16:29:33.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/han-smadrede-dem-johansen-tager-ny-triumf/11254654",
+     "l": "da"
     }
    ]
   },
@@ -667,6 +1157,20 @@
    ]
   },
   {
+   "id": "2ba33c3e37fc",
+   "t": "Dideriksen savnede flere flade etaper",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T15:40:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/dideriksen-savnede-flere-flade-etaper/11254403",
+     "l": "da"
+    }
+   ]
+  },
+  {
    "id": "259e623c7355",
    "t": "Reusser spricht über ihr Tour-Drama: “Das ist jetzt das Rätsel“",
    "s": "",
@@ -709,6 +1213,20 @@
    ]
   },
   {
+   "id": "92c765984154",
+   "t": "Gran Canaria: the athlete’s paradise island",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T15:10:00.000Z",
+   "sources": [
+    {
+     "n": "Cyclist (cyclist.co.uk)",
+     "u": "https://www.cyclist.co.uk/sponsored/gran-canaria",
+     "l": "en"
+    }
+   ]
+  },
+  {
    "id": "6f6d330bc29a",
    "t": "ANCMA. VINCENZO MEDUGNO (MBM) NUOVO RESPONSABILE DEL GRUPPO BICI",
    "s": "",
@@ -719,6 +1237,20 @@
      "n": "TuttoBiciWeb",
      "u": "https://www.tuttobiciweb.it/article/2026/08/10/1786374976/ciclismo-industria-bicicletta-confindustria-ancma-mbm-cicli-filiera-ciclo",
      "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "59b379486539",
+   "t": "Gery reagerer efter dødstrusler",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T15:03:26.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/gery-reagerer-efter-doedstrusler/11254645",
+     "l": "da"
     }
    ]
   },
@@ -751,6 +1283,20 @@
    ]
   },
   {
+   "id": "7d3e31e14881",
+   "t": "Van der Poel tilbage på mountainbike-cyklen",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T14:51:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/van-der-poel-tilbage-paa-mountainbike-cyklen/11254523",
+     "l": "da"
+    }
+   ]
+  },
+  {
    "id": "a803ac0e6df6",
    "t": "Strong Canadian showing at Downieville Classic ends with three pro podiums",
    "s": "",
@@ -779,6 +1325,20 @@
    ]
   },
   {
+   "id": "e3d3c2e29bce",
+   "t": "Medie: Stjerneparade af sprintere stiller til start i Belgien",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T14:04:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/medie-stjerneparade-af-sprintere-stiller-til-start-i-belgien/11254539",
+     "l": "da"
+    }
+   ]
+  },
+  {
    "id": "3a9106e4514a",
    "t": "Sprintersbal in de Renewi Tour: rittenkoers ontvangt tal van topsprinters",
    "s": "",
@@ -793,6 +1353,20 @@
    ]
   },
   {
+   "id": "5bad155f02d5",
+   "t": "Sidste års vinder erkender: Var ikke god nok",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T13:27:58.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/sidste-aars-vinder-erkender-var-ikke-god-nok/11254525",
+     "l": "da"
+    }
+   ]
+  },
+  {
    "id": "00a9986de819",
    "t": "Vasseur carga contra los premios del Tour femenino: “¿Con cinco millones de espectadores...?”",
    "s": "",
@@ -803,6 +1377,20 @@
      "n": "Marca Ciclismo",
      "u": "https://www.marca.com/ciclismo/tour-francia/2026/08/10/vasseur-carga-premios-tour-femenino-cinco-millones-espectadores.html",
      "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "00c9ff87bb52",
+   "t": "Speciale Skoda-trofee voor Lorena Wiebes na winst in puntenklassement Tour de France Femmes 2026",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T13:19:41.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/speciale-skoda-trofee-voor-lorena-wiebes-na-winst-in-puntenklassement-tour-de-france-femmes-2026/",
+     "l": "nl"
     }
    ]
   },
@@ -835,6 +1423,20 @@
    ]
   },
   {
+   "id": "ff9aa6b37055",
+   "t": "Løbschef afviser kritik: Det kommer vi ikke til",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T12:49:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/loebschef-afviser-kritik-det-kommer-vi-ikke-til/11254428",
+     "l": "da"
+    }
+   ]
+  },
+  {
    "id": "471ce11e6dd3",
    "t": "Tour de France Femmes van twee weken? 'Hele vrouwenwielrennen is er klaar voor'",
    "s": "",
@@ -845,6 +1447,20 @@
      "n": "NOS Wielrennen",
      "u": "https://nos.nl/l/2626279",
      "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "0b0dcc3f290d",
+   "t": "Medie: Mangeårig sportsdirektør siger farvel",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T12:31:33.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/medie-mangeaarig-sportsdirektoer-siger-farvel/11254204",
+     "l": "da"
     }
    ]
   },
@@ -905,6 +1521,34 @@
    ]
   },
   {
+   "id": "9f8d9358d2fc",
+   "t": "Storstilet oprustning fortsætter: Henter endnu en stjerne",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T12:07:28.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/storstilet-oprustning-fortsaetter-henter-endnu-en-stjerne/11254432",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "c9d48f71dd51",
+   "t": "Transferlisten 2026-2027 - ProTeams",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T12:05:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/transferlisten-2026-2027-proteams/11248862",
+     "l": "da"
+    }
+   ]
+  },
+  {
    "id": "98ce41569602",
    "t": "Eight things we learnt from a spellbinding edition of the Tour de France Femmes",
    "s": "",
@@ -915,6 +1559,20 @@
      "n": "Cyclingnews",
      "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/eight-things-we-learnt-from-a-dramatic-edition-of-the-tour-de-france-femmes/",
      "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "3390c64f6580",
+   "t": "Kyllingen: Vingegaard bør ikke køre VM",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T11:31:21.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/kyllingen-vingegaard-boer-ikke-koere-vm/11254391",
+     "l": "da"
     }
    ]
   },
@@ -943,6 +1601,20 @@
      "n": "HLN Wielrennen",
      "u": "https://www.hln.be/wielrennen/renewi-tour-ontvangt-alle-topsprinters-tim-merlier-jasper-philipsen-jonathan-milan-en-olav-kooij~a7553f27/",
      "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "85af6236c38a",
+   "t": "Uheldig belgier sikrer fremtiden",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T11:17:03.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/uheldig-belgier-sikrer-fremtiden/11254376",
+     "l": "da"
     }
    ]
   },
@@ -1031,6 +1703,20 @@
    ]
   },
   {
+   "id": "670478191ef7",
+   "t": "Bekræftet: Quick-Step henter lovende italiener",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T10:25:41.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/bekraeftet-quick-step-henter-lovende-italiener/11254292",
+     "l": "da"
+    }
+   ]
+  },
+  {
    "id": "b8fb23152b22",
    "t": "Lorena Wiebes moest groene trui nog veiligstellen in slotrit: “Wel een geslaagde Tour”",
    "s": "",
@@ -1069,6 +1755,20 @@
      "n": "TuttoBiciWeb",
      "u": "https://www.tuttobiciweb.it/article/2026/08/10/1786355581/ciclismo-giancarlo-ferretti-direttore-sportivo-lutto-storia-del-ciclismo",
      "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "0cc30f2b4916",
+   "t": "Colombiansk stjerne skifter væk efter syv år",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T09:41:15.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/colombiansk-stjerne-skifter-vaek-efter-syv-aar/11254283",
+     "l": "da"
     }
    ]
   },
@@ -1143,6 +1843,20 @@
    ]
   },
   {
+   "id": "f155ae101f1d",
+   "t": "Forløst stjerne: Tvivlede på jeg kunne komme tilbage",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T08:43:36.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/forloest-stjerne-tvivlede-paa-jeg-kunne-komme-tilbage/11254203",
+     "l": "da"
+    }
+   ]
+  },
+  {
    "id": "53cbcd334554",
    "t": "In Antonia Niedermaier, Canyon-SRAM have created the perfect successor to Kasia Niewiadoma-Phinney",
    "s": "",
@@ -1171,6 +1885,20 @@
    ]
   },
   {
+   "id": "c48b15c00cfb",
+   "t": "Tour-hold fik nul og niks: Sådan blev præmiepengene fordelt",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T07:59:58.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/tour-hold-fik-nul-og-niks-saadan-blev-praemiepengene-fordelt/11254187",
+     "l": "da"
+    }
+   ]
+  },
+  {
    "id": "c5487523bfcb",
    "t": "Kasia Niewiadoma bedankt nieuwe Nederlandse trainer: “Hij begrijpt me”",
    "s": "",
@@ -1181,6 +1909,20 @@
      "n": "Wielerflits",
      "u": "https://www.wielerflits.nl/nieuws/kasia-niewiadoma-bedankt-nederlandse-trainer-hij-begrijpt-me/",
      "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "88f0f08a5000",
+   "t": "Forklarer stjernes enorme nedtur: Virkelig trist og skuffet",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T07:33:06.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/forklarer-stjernes-enorme-nedtur-virkelig-trist-og-skuffet/11254165",
+     "l": "da"
     }
    ]
   },
@@ -1297,6 +2039,20 @@
    ]
   },
   {
+   "id": "9aaf8374c057",
+   "t": "Mens UAE skuffede: Stor triumf til franskmand i Portugal",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T06:35:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/mens-uae-skuffede-stor-triumf-til-franskmand-i-portugal/11253836",
+     "l": "da"
+    }
+   ]
+  },
+  {
    "id": "845d24a1dd0f",
    "t": "Bizar: In strijd tegen tijdslimiet werd Eline Jansen verkeerd gestuurd in slotrit Tour Femmes",
    "s": "",
@@ -1363,6 +2119,20 @@
      "n": "TuttoBiciWeb",
      "u": "https://www.tuttobiciweb.it/article/2026/08/10/1786285868/ciclismo-moreno-argentin-campionato-del-mondo-1986-colorado-springs-classiche",
      "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "8102176d54ce",
+   "t": "- Vanvittigt at stå her, siger Longo Borghini",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-10T05:02:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/vanvittigt-at-staa-her-siger-longo-borghini/11253910",
+     "l": "da"
     }
    ]
   },
@@ -1731,6 +2501,20 @@
    ]
   },
   {
+   "id": "abb8431c699b",
+   "t": "Brenners vilde kup: - Jeg kørte perfekt",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-09T17:51:56.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/brenners-vilde-kup-jeg-koerte-perfekt/11253917",
+     "l": "da"
+    }
+   ]
+  },
+  {
    "id": "4102a2d6bf63",
    "t": "Results & Photos: Stage 9 Le Tour de France Femmes avec Zwift 2026",
    "s": "",
@@ -1857,6 +2641,20 @@
    ]
   },
   {
+   "id": "78fa794af1d8",
+   "t": "Erkender nederlag: Vollering motiverer mig",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-09T17:23:28.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/erkender-nederlag-vollering-motiverer-mig/11253899",
+     "l": "da"
+    }
+   ]
+  },
+  {
    "id": "c6dfceb6de2c",
    "t": "Demi Vollering wins Tour de France Femmes for second time",
    "s": "",
@@ -1867,6 +2665,20 @@
      "n": "Canadian Cycling Magazine",
      "u": "https://cyclingmagazine.ca/sections/news/demi-vollering-wins-tour-de-france-femmes-for-second-time/",
      "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "505c5e26f38a",
+   "t": "Vollering ville sende klart signal i den ultimative triumf",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-09T17:15:37.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/vollering-ville-sende-klart-signal-i-den-ultimative-triumf/11253891",
+     "l": "da"
     }
    ]
   },
@@ -1941,6 +2753,20 @@
    ]
   },
   {
+   "id": "7ca028415d1f",
+   "t": "Demi Vollering vinder Tour de France Femmes",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-09T16:56:15.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/demi-vollering-vinder-tour-de-france-femmes/11253748",
+     "l": "da"
+    }
+   ]
+  },
+  {
    "id": "52959e97234e",
    "t": "TOUR DE FRANCE FEMMES. VOLLERING FA LA CANNIBALE, LONGO BORGHINI CHIUDE SUL PODIO (3A)",
    "s": "",
@@ -1993,6 +2819,20 @@
      "n": "HLN Wielrennen",
      "u": "https://www.hln.be/tour-de-france/op-naar-een-pogacariaans-jaar-demi-vollering-zet-dominantie-gewoon-verder-met-knappe-solo-en-eindzege-in-tour-de-france-femmes~ab547b80/",
      "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "cfba0e644193",
+   "t": "Visma-boss reagerer på stor skuffelse",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-09T16:24:38.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/incoming/visma-boss-reagerer-paa-stor-skuffelse/11253841",
+     "l": "da"
     }
    ]
   },
@@ -2263,6 +3103,20 @@
    ]
   },
   {
+   "id": "1dc20d44c8fb",
+   "t": "Vanvittig Tudor-dag: Brenner vinder Polen Rundt",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-09T14:31:26.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/vanvittig-tudor-dag-brenner-vinder-polen-rundt/11253733",
+     "l": "da"
+    }
+   ]
+  },
+  {
    "id": "8d299e57f706",
    "t": "POLONIA. LA TUDOR PRENDE TUTTO: CRONO A KUNG, GIRO A BRENNER",
    "s": "",
@@ -2333,6 +3187,34 @@
    ]
   },
   {
+   "id": "38c38c3f7a17",
+   "t": "Efter betændt sag: Stortalent udsat for dødstrusler",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-09T14:14:33.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/efter-betaendt-sag-stortalent-udsat-for-doedstrusler/11253720",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "b44e44686e46",
+   "t": "Gentager kritik: - Det er ikke noget jeg finder på",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-09T14:08:30.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/gentager-kritik-det-er-ikke-noget-jeg-finder-paa/11253719",
+     "l": "da"
+    }
+   ]
+  },
+  {
    "id": "c8b1b8f7c2a0",
    "t": "Niewiadoma blijft bij mening over incident met Gery: “Ik verzin geen dingen”",
    "s": "",
@@ -2389,6 +3271,20 @@
    ]
   },
   {
+   "id": "5938241f6c51",
+   "t": "Vollering skal køre offensivt, siger Lars Boom",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-09T13:34:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/vollering-skal-koere-offensivt-siger-lars-boom/11253700",
+     "l": "da"
+    }
+   ]
+  },
+  {
    "id": "d1c6ef914ef9",
    "t": "Cycling is a tactical game that takes superhuman power – Brodie Chapman's Tour de France Femmes column",
    "s": "",
@@ -2413,6 +3309,20 @@
      "n": "Wielerflits",
      "u": "https://www.wielerflits.nl/nieuws/lars-boom-wil-geen-verdedigende-demi-vollering-zien-demarrages-van-achteruit-voorkomen/",
      "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "af0fcffb24f8",
+   "t": "42-årige Garcia dropper karrierestop: Fortsætter efter 2026",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-09T13:05:50.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/42-aarige-garcia-dropper-karrierestop-fortsaetter-efter-2026/11253679",
+     "l": "da"
     }
    ]
   },
@@ -2501,6 +3411,20 @@
    ]
   },
   {
+   "id": "b21affc5a0d4",
+   "t": "Fire danskere blandt 66 ryttere: Tog karrierens første prof-sejr i år",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-09T11:59:18.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/fire-danskere-blandt-66-ryttere-tog-karrierens-foerste-prof-sejr-i-aar/11253638",
+     "l": "da"
+    }
+   ]
+  },
+  {
    "id": "c28e641a1a16",
    "t": "42-jarige Mavi Garcia plakt er toch nog een jaar aan vast",
    "s": "",
@@ -2510,230 +3434,6 @@
     {
      "n": "Wielerflits",
      "u": "https://www.wielerflits.nl/nieuws/42-jarige-mavi-garcia-plakt-er-toch-nog-een-jaar-aan-vast/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "f8ef1b3a0a49",
-   "t": "Just 8 seconds: The Tour de France Femmes comes down to the last day",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-09T11:37:39.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/sections/news/just-8-seconds-the-tour-de-france-femmes-comes-down-to-the-last-day/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "b2a5b6a3a3b2",
-   "t": "Jonas Vingegaard verklapt dat hij moedeloos wordt van dominantie Tadej Pogacar",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-09T11:27:24.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/jonas-vingegaard-verklapt-dat-hij-moedeloos-wordt-van-dominantie-tadej-pogacar/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "94fd1edb9717",
-   "t": "Violett verteidigt: Gall gewinnt in Burgos viel Selbstvertrauen",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-09T11:23:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146418.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "699ec9c68b8a",
-   "t": "No UCI Jury Action Despite Appeal as Tour de France Femmes Controversy Rages On",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-09T10:54:26.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/no-uci-jury-action-despite-appeal-as-tour-de-france-femmes-controversy-rages-on/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "6e18017d041e",
-   "t": "Nieuwe beelden tonen hoe plan van Demi Vollering en co perfect uitpakte, tot frustratie van Kasia Niewiadoma: “Ik ben alle respect voor hen kwijt”",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-09T10:47:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/nieuwe-beelden-tonen-hoe-plan-van-demi-vollering-en-co-perfect-uitpakte-tot-frustratie-van-kasia-niewiadoma-ik-ben-alle-respect-voor-hen-kwijt~af0bcdfb/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "7d7369e1a7fc",
-   "t": "Tour Femmes 2026: Medisch bulletin en juryrapport – Jury grijpt niet in bij Gery-Niewiadoma-incident",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-09T10:45:37.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-medisch-bulletin-en-juryrapport-waarschuwingen-voor-pauline-ferrand-prevot-en-lieke-nooijen/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "22a3f6e6bde1",
-   "t": "AGNOSINE. POKER STAGIONALE DI CINGOLANI CHE FULMINA DALLA BONA E ARCHETTI",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-09T10:44:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/09/1786272356/ciclismo-juniores-tommaso-cingolani-campionato-provinciale-bresciano-sprint",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "e46308d32420",
-   "t": "The American Underdog Coaching Cyclists While Racing Tour de France Femmes",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-09T10:35:04.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/the-american-underdog-coaching-cyclists-while-racing-tour-de-france-femmes/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "707cdf87dced",
-   "t": "Junior Lecerf moet kruis maken over Vuelta-plannen",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-09T10:22:09.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/junior-lecerf-moet-kruis-maken-over-vuelta-plannen/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "fb0df05c0eff",
-   "t": "TROFEO NEVIO MAIONCHI. IL FIGLIO D'ARTE ASTOLFI TRIONFA A CHIESANUOVA UZZANESE",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-09T10:00:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/09/1786279836/ciclismo-allievi-trofeo-maionchi-toscogas-chiesanuova-giovani-talenti",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "ebde1af016d1",
-   "t": "UCI Gravel World Series: Marjolein van't Geloof and Eddy Le Huitouze snare victory at Latvia's Gravel Weekend",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-09T09:59:29.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/uci-gravel-world-series-marjolein-vant-geloof-and-eddy-le-huitouze-snare-victory-at-latvias-gravel-weekend/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "b998d45b2b60",
-   "t": "Ronde van Polen Visma | Lease a Bike al voor slottijdrit geslaagd: “Eindpodium kers op de taart”",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-09T09:38:04.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/ronde-van-polen-visma-lease-a-bike-al-voor-slottijdrit-geslaagd-eindpodium-kers-op-de-taart/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "fe3f7e8ce205",
-   "t": "Duell um Gelb: Vollering muss Niewiadomas Attacken abwehren",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-09T09:30:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146417.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "648b3637d406",
-   "t": "Echtgenoot Taylor Phinney neemt het op voor Kasia Niewiadoma: “Niet illegaal, wel vuil”",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-09T08:56:22.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/echtgenoot-taylor-phinney-neemt-het-op-voor-kasia-niewiadoma-niet-illegaal-wel-vuil/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "56162ce39466",
-   "t": "VIDEO: Fresh Footage of Niewiadoma and Gery Fuels Tour de France Femmes Ethics Debate",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-09T08:42:52.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/video-niewiadoma-gery-tour-de-france-femmes-corner/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "8ae3c3fb1589",
-   "t": "Tour Femmes 2026: Wie wint bij gelijke tijd tussen Vollering en Niewiadoma?",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-09T08:20:27.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/tour-femmes-2026-wie-wint-bij-gelijke-tijd-tussen-vollering-en-niewiadoma/",
      "l": "nl"
     }
    ]
