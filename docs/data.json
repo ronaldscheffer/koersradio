@@ -1,13 +1,27 @@
 {
- "updated": "2026-08-13T08:25:26.079Z",
+ "updated": "2026-08-13T11:52:50.652Z",
  "groups": [
+  {
+   "id": "2e1a08eb5350",
+   "t": "Carapaz zielt nach Traum-Tour nun auf Vuelta und WM",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-13T12:07:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146446.htm",
+     "l": "de"
+    }
+   ]
+  },
   {
    "id": "results-2026-08-13",
    "type": "results",
    "t": "Laatste uitslagen — ProCyclingStats",
    "s": "",
    "c": "race",
-   "date": "2026-08-13T08:25:25.888Z",
+   "date": "2026-08-13T11:52:50.472Z",
    "rows": [
     {
      "race": "Vuelta a Colombia | Stage 4",
@@ -79,6 +93,328 @@
    ]
   },
   {
+   "id": "65581b62db40",
+   "t": "Wo Vingegaard Pogacar knackte: Col de Granon 2027 Teil der Tour?",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-13T11:51:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146445.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "bc6179ab010c",
+   "t": "Why Vuelta sprinters are becoming an endangered species",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-13T11:29:10.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/sections/news/why-vuelta-sprinters-are-becoming-an-endangered-species/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "04f58a988bfd",
+   "t": "Schachmann weiß endlich, warum es 2026 bisher nicht lief",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-13T11:28:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146444.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "a75d0303071d",
+   "t": "Lotte Kopecky maakt hoofddoel van WK: “Daar is kunnen koersen op buikgevoel cruciaal”",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-13T11:25:12.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/lotte-kopecky-maakt-hoofddoel-van-wk-daar-is-kunnen-koersen-op-buikgevoel-cruciaal/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "6b27f38a86bb",
+   "t": "Les meilleurs vélos de route entre 3000€ et 5000 € en 2026",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-13T11:21:52.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/materiels/velo-de-route/les-meilleurs-velos-de-route-entre-3000e-et-5000-e-en-2026/",
+     "l": "fr"
+    }
+   ]
+  },
+  {
+   "id": "b15693655ade",
+   "t": "Storsatsende hold forstærker sig på klatrefronten",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-13T11:08:38.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/storsatsende-hold-forstaerker-sig-paa-klatrefronten/11257252",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "80b4440d2832",
+   "t": "Where are all the Vuelta a España sprinters? They're all in Belgium instead",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-13T11:06:06.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/where-are-all-the-vuelta-a-espana-sprinters-theyre-all-in-belgium-instead/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "535edec58bf0",
+   "t": "'A declaration of a shared future, ambitionand trust' – Re-emerging German talent Marco Brenner signs one of the longest contracts in cycling",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-13T10:59:44.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/a-declaration-of-a-shared-future-ambition-and-trust-re-emerging-german-talent-marco-brenner-signs-one-of-the-longest-contracts-in-cycling/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "d849e6cf3363",
+   "t": "SARDEGNA. STANZIATI I FONDI PER OSPITARE LA GRANDE PARTENZA DELLA VUELTA ESPAÑA 2028",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-13T10:54:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/13/1786618999/ciclismo-vuelta-espaA�a-sardegna-turismo-sportivo-giro-di-sardegna",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "7d75905c4151",
+   "t": "Offiziell: Steinhauser unterschreibt bei Red Bull - Bora - hansgrohe",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-13T10:46:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146443.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "39008cbfe55e",
+   "t": "“Deense ploeg is beter af zonder hem”: Deense ex-prof Michael Rasmussen ziet “ambitieloze” Jonas Vingegaard liever niet op WK wielrennen",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-13T10:42:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/deense-ploeg-is-beter-af-zonder-hem-deense-ex-prof-michael-rasmussen-ziet-ambitieloze-jonas-vingegaard-liever-niet-op-wk-wielrennen~aa5d00e1/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "f3ffa93ce430",
+   "t": "'Still far from reaching his full potential' – Red Bull-Bora-Hansgrohe snap up Georg Steinhauser from EF Education-EasyPost",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-13T10:31:09.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/transfers/still-far-from-reaching-his-full-potential-red-bull-bora-hansgrohe-snap-up-georg-steinhauser-from-ef-education-easypost/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "3f8fdb45a745",
+   "t": "2027, LA PINARELLO Q36.5 INGAGGIA L'AUSTRALIANO BERWICK",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-13T10:22:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/13/1786616763/ciclismo-sebastian-berwick-pinarello-q36.5-corse-a-tappe-mercato-ciclismo",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "9541476736de",
+   "t": "Van Aert kører gravelløb som sidste Vuelta-forberedelse",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-13T10:17:47.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/gravel/van-aert-koerer-gravelloeb-som-sidste-vuelta-forberedelse/11257201",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "dcc46d2aee64",
+   "t": "The Monster Win Bonuses That Add Millions to Tadej Pogačar’s Already Huge Payday",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-13T10:01:03.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/news/tadej-pogacar-performance-bonuses-salary-2026/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "5f84eb3b4f3d",
+   "t": "Wout van Aert and Tim Merlier join defending champions Marthe Truyen and Niels Vandeputte among starters for Belgian Gravel Championships",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-13T09:49:58.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/wout-van-aert-and-tim-merlier-join-defending-champions-marthe-truyen-and-niels-vandeputte-among-starters-for-belgian-gravel-championships/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "ced8fb278d3b",
+   "t": "Versterking voor de klimtrein van Remco Evenepoel en co: Red Bull-BORA-hansgrohe strikt Duits klimtalent Georg Steinhauser",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-13T09:20:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/versterking-voor-de-klimtrein-van-remco-evenepoel-en-co-red-bull-bora-hansgrohe-strikt-duits-klimtalent-georg-steinhauser~ada647ae/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "a9dc18c53695",
+   "t": "Bekræftet: Red Bull forstærker sig med tysk profil",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-13T09:13:48.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/bekraeftet-red-bull-forstaerker-sig-med-tysk-profil/11257130",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "1074bcfac872",
+   "t": "RED BULL BORA. UFFICIALE L'INGAGGIO DI STEINHAUSER",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-13T09:06:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/13/1786612818/ciclismo-mercato-ciclismo-red-bull-bora-hansgrohe-georg-steinhauser-corridori-tedeschi",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "152c3d2b798a",
+   "t": "Transferlisten 2026-2027 - WorldTouren",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-13T09:00:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/transferlisten-2026-2027-worldtouren/11244321",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "c5ea6ab08b44",
+   "t": "Remco Evenepoel krijgt klimmer Georg Steinhauser rond zich",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-13T08:58:21.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/remco-evenepoel-krijgt-klimmer-georg-steinhauser-rond-zich/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "ccb14f5e5609",
+   "t": "Vanvittigt bjerg på 80 kilometer: Tidligere EF-rytter sejrer",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-13T08:50:45.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/vanvittigt-bjerg-paa-80-kilometer-tidligere-ef-rytter-sejrer/11257079",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "7505da914108",
+   "t": "Jan Ullrich blikt terug op dopingverleden: “Ik had de hele wielersport kunnen laten ontploffen”",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-13T08:25:37.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/jan-ullrich-blikt-terug-op-dopingverleden-ik-had-de-hele-wielersport-kunnen-laten-ontploffen/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
    "id": "ade11b4adaf0",
    "t": "Hamburger Cyclassics im Rückblick: Die letzten zehn Jahre",
    "s": "",
@@ -145,6 +481,20 @@
      "n": "Cyclingnews",
      "u": "https://www.cyclingnews.com/cycling-tech-components/wheels-tyres/scope-r4g-gravel-wheels-review/",
      "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "e732335c8a84",
+   "t": "Alejandro Valverde vindt Tadej Pogacar niet onverslaanbaar: “Ik klopte hem bijna op m’n 42e”",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-13T07:47:49.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/alejandro-valverde-vindt-tadej-pogacar-niet-onverslaanbaar-ik-klopte-hem-bijna-op-mn-42e/",
+     "l": "nl"
     }
    ]
   },
@@ -2623,328 +2973,6 @@
      "n": "Radsport-News",
      "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146437.htm",
      "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "e45510a0633b",
-   "t": "Eibl will nach Titel auf einem Leihrad in die WorldTour wechseln",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-11T11:51:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146438.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "ff6ba1ae33f6",
-   "t": "'I wasn't as close as I thought I might be' - Paula Blasi recognises her first Tour de France Femmes was a tougher learning curve than expected",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-11T11:38:53.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/i-wasnt-as-close-as-i-thought-i-might-be-paula-blasi-recognises-her-first-tour-de-france-femmes-was-a-tougher-learning-curve-than-expected/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "9686701e5f39",
-   "t": "From the dominant to the anonymous –Rating every team's Tour de France Femmes performance",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-11T11:36:57.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/from-the-dominant-to-the-anonymous-rating-every-teams-tour-de-france-femmes-performance/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "39ff97abb15a",
-   "t": "Slemt styrt truer VM: Bissegger giver sig selv 50 procent chance",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-11T11:22:31.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/slemt-styrt-truer-vm-bissegger-giver-sig-selv-50-procent-chance/11255379",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "5294b4f4f5e0",
-   "t": "LE STATISTICHE DEL WORLDTOUR. BRENNER DICE 55, L'ITALIA SALE A QUOTA 14",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-11T11:02:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/11/1786446207/ciclismo-giro-di-polonia-jonathan-milan-world-tour-2026-velocisti",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "1114fa52781c",
-   "t": "LA BARDIANI-CSF 7 SABER FA ROTTA VERSO IL CZECH TOUR",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-11T10:58:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/11/1786456688/ciclismo-czech-tour-bardiani-csf-7-saber-corse-a-tappe-luca-covili",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "acb87ca1acca",
-   "t": "'His best is yet to come' – NSN Cycling add much-needed climbing quality with signing of Santiago Buitrago",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-11T10:56:53.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/transfers/his-best-is-yet-to-come-nsn-cycling-add-much-needed-climbing-quality-with-signing-of-santiago-buitrago/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "60d7cc4cbfd5",
-   "t": "Paula Blasi Learns to Take Care of Her Mental Health after Tour Experience",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-11T10:47:35.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/paula-blasi-learned-take-care-mental-health-from-tour-femmes-experience/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "737a6e0391b3",
-   "t": "Del Toro slår nu Pogacar: Her er de længste kontrakter",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-11T10:47:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/del-toro-slaar-nu-pogacar-her-er-de-laengste-kontrakter/11253567",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "cd46a31b9f94",
-   "t": "Longo Borghini joker: Hvilke løb er jeg ikke blevet nummer tre i?",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-11T10:30:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/longo-borghini-joker-hvilke-loeb-er-jeg-ikke-blevet-nummer-tre-i/11255222",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "cdeafbbb2b51",
-   "t": "Picnic PostNL gokt op vertrekker Pavel Bittner in ADAC Cyclassics, Bert Bolle maakt debuut in Noorwegen",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-11T10:26:17.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/picnic-postnl-gokt-op-vertrekker-pavel-bittner-in-adac-cyclassics-bert-bolle-maakt-debuut-in-noorwegen/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "a465b6683e5d",
-   "t": "From double stage winner to a supporting role – 2025's breakthrough star Maëva Squiban celebrates a different kind of success at the Tour de France Femmes",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-11T10:15:58.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/from-double-stage-winner-to-a-supporting-role-2025s-breakthrough-star-maeva-squiban-celebrates-a-different-kind-of-success-at-the-tour-de-france-femmes/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "2b341d611a3a",
-   "t": "Medie: Astana-profil smutter til Netcompany",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-11T09:45:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/medie-astana-profil-smutter-til-netcompany/11255191",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "152a047819a8",
-   "t": "DT Swiss ARC 1100 65 wheel review: Excellent high-speed performance, but can they keep up with lighter competitors?",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-11T09:34:20.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/cycling-tech-components/wheels-tyres/dt-swiss-arc-1100-65-wheel-review-excellent-high-speed-performance-but-can-they-keep-up-with-lighter-competitors/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "36a90895bdf4",
-   "t": "Jon Agirre seguirá dos años más en Euskaltel",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-11T09:25:47.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/08/11/jon-agirre-seguira-dos-anos-euskaltel.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "f64efaacaefb",
-   "t": "Legendärer Teamchef Ferretti gestorben",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-11T09:22:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146436.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "4df5da8375ad",
-   "t": "Biatleet met oorbel Marco Pantani rijdt eerste profkoersen voor Decathlon CMA CGM",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-11T09:09:34.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/biatleet-met-oorbel-marco-pantani-rijdt-eerste-profkoersen-voor-decathlon-cma-cgm/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "24e2466dbbc5",
-   "t": "VISMA, KRUIJSWIJK SI RITIRERÀ A FINE STAGIONE. NEL 2016 PERSE IL GIRO PER UNA CADUTA",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-11T09:08:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/11/1786439828/steven-kruijswijk-visma-|-lease-a-bike",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "12d48c902cd1",
-   "t": "Tadej Pogačar ‘WAG’ Gag Goes Viral at Tour de France Femmes",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-11T09:07:58.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/tadej-pogacar-urksa-zigart-wag-hab-goes-viral-tour-de-france-femmes/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "32168e812fc7",
-   "t": "Tre WorldTour-ryttere har stadig ikke kørt løb i 2026",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-11T09:05:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/tre-worldtour-ryttere-har-stadig-ikke-koert-loeb-i-2026/11255120",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "dffaa3048f73",
-   "t": "Tour-Streit zwischen FDJ United und Niewiadoma-Phinney beigelegt",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-11T08:53:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146435.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "c732935c2e1b",
-   "t": "Kasia Corner Was Not Controversial – It Was Normal: 9 Hot Takes from the Tour de France Femmes",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-11T08:41:24.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/tour-de-france-femmes-hot-takes-conclusions/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "f50280e3e53b",
-   "t": "Vueltaspillet: Pogacar sprænger rekord",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-11T08:30:24.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/vueltaspillet-pogacar-spraenger-rekord/11255137",
-     "l": "da"
     }
    ]
   }
