@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14T08:20:39.985Z",
+ "updated": "2026-08-14T11:50:01.121Z",
  "groups": [
   {
    "id": "results-2026-08-14",
@@ -7,7 +7,7 @@
    "t": "Laatste uitslagen — ProCyclingStats",
    "s": "",
    "c": "race",
-   "date": "2026-08-14T08:20:39.859Z",
+   "date": "2026-08-14T11:50:00.946Z",
    "rows": [
     {
      "race": "Volta a Portugal em Bicicleta | Stage 6",
@@ -79,6 +79,356 @@
    ]
   },
   {
+   "id": "d9287e809e7c",
+   "t": "Karenzzeit geändert? Drei UAE-Fahrer verpassen in Portugal Zeitlimit",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-14T11:50:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146451.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "ce590a9013ee",
+   "t": "Vollering's World Championships quest, Courtney's WorldTour debut and big transfer intrigue – Six compelling storylines to follow in women's cycling for the rest of 2026",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-14T11:24:38.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/vollerings-world-championships-quest-courtneys-worldtour-debut-and-big-transfer-intrigue-six-compelling-storylines-to-follow-in-womens-cycling-for-the-rest-of-2026/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "68d0c13136a8",
+   "t": "Redningskrans til lukningstruet Tour-hold?",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-14T11:15:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/redningskrans-til-lukningstruet-tour-hold/11258235",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "5e57f607dd89",
+   "t": "Vuelta a Colombia cancelled mid-race to help prioritise earthquake victim relief",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-14T11:01:32.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-colombia-cancelled-mid-race-to-help-prioritise-earthquake-victim-relief/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "1a2b81f278af",
+   "t": "Geen Vuelta, maar alternatief najaarsprogramma voor Juan Ayuso",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-14T10:52:44.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/geen-vuelta-maar-alternatief-najaarsprogramma-voor-juan-ayuso/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "665fb334c24b",
+   "t": "'The worst best decision I've ever made' – Chloé Dygert issues recovery update following double surgery",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-14T10:37:40.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/the-worst-best-decision-ive-ever-made-chloe-dygert-issues-recovery-update-following-double-surgery/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "8e4ac25b0519",
+   "t": "Medie: Ayuso har efterårsprogrammet klar - får speciel debut",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-14T10:35:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/medie-ayuso-har-efteraarsprogrammet-klar-faar-speciel-debut/11258145",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "a397d35e345b",
+   "t": "“Back to business”: Na twee maanden zonder koers maakt Dylan Groenewegen zich op voor druk najaar",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-14T10:12:27.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/back-to-business-na-twee-maanden-zonder-koers-maakt-dylan-groenewegen-zich-op-voor-druk-najaar/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "7eae3b49773f",
+   "t": "Fra Uruguay til Giroens førertrøje: Nu drømmer Silva om mere",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-14T10:07:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/fra-uruguay-til-giroens-foerertroeje-nu-droemmer-silva-om-mere/11258131",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "45d85ce3e26b",
+   "t": "Die Aufgebote für die Vuelta a Espana 2026",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-14T10:00:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146450.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "8a78fb1e11a8",
+   "t": "Pogačar 2019 Vuelta Debut vs. Pogačar 2026 Vuelta Return: How the GOAT Evolved",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-14T09:42:38.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/vuelta-a-espana/tadej-pogacar-2019-vs-2026-vuelta-espana/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "39c761854b94",
+   "t": "Julia Kopecky verlaat SD Worx-ProTime voor Lidl-Trek",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-14T09:42:15.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/julia-kopecky-verlaat-sd-worx-protime-voor-lidl-trek/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "9761c38fee52",
+   "t": "“Je hebt er tenminste nog een leven”: waarom het halve peloton naar Livigno trekt voor een hoogtestage",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-14T09:33:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/je-hebt-er-tenminste-nog-een-leven-waarom-het-halve-peloton-naar-livigno-trekt-voor-een-hoogtestage~ad61e2f2/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "630b97f2918c",
+   "t": "Officielt: Søjberg til WorldTour-løb - skal hjælpe supersprinter",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-14T09:30:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/officielt-soejberg-til-worldtour-loeb-skal-hjaelpe-supersprinter/11258196",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "e879939c4201",
+   "t": "Juan Ayuso focuses on Canadian Classics, World Championships and Monument debut at Il Lombardia for second half of season",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-14T09:29:20.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/juan-ayuso-focuses-on-canadian-classics-world-championships-and-monument-debut-at-il-lombardia-for-second-half-of-season/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "39c695a240bb",
+   "t": "'I really enjoy it when a race becomes difficult' – Femke Markus strengthens Visma-Lease a Bike Classics squad with switch from SD Worx-Protime",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-14T09:16:14.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/i-really-enjoy-it-when-a-race-becomes-difficult-femke-markus-strengthens-visma-lease-a-bike-classics-squad-with-switch-from-sd-worx-protime/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "ff8a4d04c098",
+   "t": "Tour de France Femmes stage winners Lorena Wiebes and Kim Le Court-Pienaar headline star-studded start list for Tour of Britain Women",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-14T09:05:39.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/tour-de-france-femmes-stage-winners-lorena-wiebes-and-kim-le-court-pienaar-headline-star-studded-start-list-for-tour-of-britain-women/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "742b7515f24e",
+   "t": "'Incredibly frustrating and disappointing' – Three UAE Team Emirates-XRG riders eliminated from Volta a Portugal as riders unaware of time limit change",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-14T09:04:38.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/incredibly-frustrating-and-disappointing-three-uae-team-emirates-xrg-riders-eliminated-from-volta-a-portugal-amid-claims-that-time-limit-was-changed-mid-stage/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "1e68cd1a1c90",
+   "t": "Spin Cycle: Roglič's last roll of the dice?",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-14T09:04:26.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/spin-cycle-roglics-last-roll-of-the-dice/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "85a9efe78408",
+   "t": "Veteraner forlænger: En af dem stopper om to år",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-14T08:56:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/veteraner-forlaenger-en-af-dem-stopper-om-to-aar/11258169",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "a0dc0015d899",
+   "t": "Matteo Trentin en Marco Haller blijven nog langer fundament van Tudor",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-14T08:54:02.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/matteo-trentin-en-marco-haller-blijven-nog-langer-fundament-van-tudor/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "a30158ab35bc",
+   "t": "Halve UAE-ploeg buiten tijd gereden in Ronde van Portugal na miscommunicatie",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-14T08:22:47.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/halve-uae-ploeg-buiten-tijd-gereden-in-ronde-van-portugal-na-miscommunicatie/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "4fdd0b895dc2",
+   "t": "Picnic-rytter brækker kravebenet i Norge",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-14T08:20:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/picnic-rytter-braekker-kravebenet-i-norge/11258107",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "c9d48f71dd51",
+   "t": "Transferlisten 2026-2027 - ProTeams",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-14T08:05:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/transferlisten-2026-2027-proteams/11248862",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "b12860b487ae",
+   "t": "‘Visma schiet omhoog, PostNL daalt in merkwaarde’, meldt Sponsorreport",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-14T08:02:31.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/visma-schiet-omhoog-postnl-daalt-in-merkwaarde-meldt-sponsorreport/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
    "id": "a90279a5af4c",
    "t": "ADDIO A GIANNI SOMMARIVA. L'UOMO CHE È STATO TANTE COSE",
    "s": "",
@@ -117,6 +467,20 @@
      "n": "Feltet.dk",
      "u": "https://feltet.dk/landevej/visma-snupper-rytter-fra-sd-worx/11258082",
      "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "8a73f6b1ba82",
+   "t": "Vuelta 2026: Wildcard-team Equipo Kern Pharma aan de start met ex-ritwinnaar",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-14T07:42:26.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/vuelta-2026-equipo-kern-pharma/",
+     "l": "nl"
     }
    ]
   },
@@ -2931,412 +3295,6 @@
      "n": "Bikerumor",
      "u": "https://bikerumor.com/wahoo-updates-app-and-adds-subscriptions/",
      "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "84c80bdf203d",
-   "t": "Un cartel de lujo en un escenario inmejorable",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-12T11:47:24.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/08/12/cartel-lujo-escenario-inmejorable.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "c2737360efc6",
-   "t": "LIDL TREK. IINCIDENTE IN ALLENAMENTO, TRE FRATTURE PER ALBERT PHILIPSEN",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-12T11:44:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/12/1786535238/ciclismo-lidl-trek-infortuni-albert-philipsen-ciclismo-professionistico",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "0c9aedb043a2",
-   "t": "Pech blijft toptalent Albert Philipsen achtervolgen: meerdere botbreuken na val op training",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-12T11:39:10.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/pech-blijft-toptalent-albert-philipsen-achtervolgen-meerdere-botbreuken-na-val-op-training/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "35341a384a76",
-   "t": "El Círculo Polar Ártico vuelve a iluminar el pelotón",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-12T11:31:33.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/08/12/circulo-polar-artico-vuelve-iluminar-peloton.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "cc575fa51b8c",
-   "t": "Albert Philipsen i nyt træningsstyrt: Pådrager sig flere brud",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-12T11:24:12.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/albert-philipsen-i-nyt-traeningsstyrt-paadrager-sig-flere-brud/11256342",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "ec7123eea8ec",
-   "t": "Dutch court declares Accell Group bankrupt",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-12T11:17:16.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/dutch-court-declares-accell-group-bankrupt/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "694cdb015a89",
-   "t": "Tiramisù might just be your best post-ride recovery snack",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-12T11:16:31.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/sections/healthnutrition/tiramisu-might-just-be-your-best-post-ride-recovery-snack/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "e36d48c86b2f",
-   "t": "Tour de France keert in 2027 mogelijk terug naar Col du Granon",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-12T11:03:05.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/tour-de-france-keert-in-2027-mogelijk-terug-naar-col-du-granon/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "f766e825bf51",
-   "t": "The latest gossip on Primož Roglič’s new team and Vuelta participation",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-12T10:59:17.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/sections/news/the-latest-gossip-on-primoz-roglics-new-team-and-vuelta-participation/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "7b1f666a30b2",
-   "t": "Sweet Protection Tucker III 2Vi review: Surprisingly airy and promises great aero",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-12T10:47:09.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/cycling-kit-accessories/sweet-protection-tucker-iii-helmet-review/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "fd6701d634af",
-   "t": "Hall steigt bei Bike Aid vom Mechaniker zum Stagiaire auf",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-12T10:44:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146440.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "21177e135441",
-   "t": "Everyone Wants Paul Seixas and the Top End of Cycling’s Transfer Market Is Frozen",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-12T10:42:55.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/news/paul-seixas-cycling-transfer-market-2026-2027/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "4794c61c62ba",
-   "t": "DELCOURT. «TOUR ECCEZIONALE, VOLLERING DI PIU'». E POI I CALENDARI, GERY, RED BULL, L'INNOVAZIONE...",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-12T10:36:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/12/1786444644/fdj-united-suez-tour-de-france-femmes-demi-vollering-red-bull",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "b39824325285",
-   "t": "Toptalent Megan Arens verbreekt contract bij Picnic PostNL en tekent per direct bij AG Insurance-Soudal",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-12T10:35:37.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/toptalent-megan-arens-verbreekt-contract-bij-picnic-postnl-en-tekent-per-direct-bij-ag-insurance-soudal/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "32375a0944fc",
-   "t": "Del Toro blandt stjernesprintere i Hamborg",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-12T10:35:06.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/del-toro-blandt-stjernesprintere-i-hamborg/11256297",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "bf044659d112",
-   "t": "2027 transfer drama heats up as Grand Tour champion Primoz Roglič reportedly eyes switch to Lotto-Intermarché for next season",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-12T10:30:19.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/transfers/2027-transfer-drama-heats-up-as-grand-tour-champion-primoz-roglic-reportedly-eyes-switch-to-lotto-intermarche-for-next-season/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "8445c544e77c",
-   "t": "“Zitten in laatste fase om beslissing te nemen richting Vuelta”: Sven Nys geeft update over gezondheidstoestand van zoon Thibau",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-12T10:21:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/zitten-in-laatste-fase-om-beslissing-te-nemen-richting-vuelta-sven-nys-geeft-update-over-gezondheidstoestand-van-zoon-thibau~adb445c7/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "88f5f7bd8db2",
-   "t": "ADAC CYCLASSICS HAMBURG. DOMENICA TORNA LA SFIDA TRA VELOCISTI E ATTACCANTI",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-12T10:16:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/12/1786529970/ciclismo-adac-cyclassics-velocisti-classiche-estive-worldtour",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "4625a10e8d98",
-   "t": "Hollandsk stortalent bryder med Picnic",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-12T10:11:33.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/hollandsk-stortalent-bryder-med-picnic/11256276",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "1c42340f7b95",
-   "t": "Vuelta a España 2026 in aantocht: begin nu aan je puzzel voor Wielerflits Ploegleider!",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-12T10:00:51.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/vuelta-a-espana-2026-in-aantocht-begin-nu-aan-je-puzzel-voor-wielerflits-ploegleider/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "5b8424800c5c",
-   "t": "Red Bull Rampage is Coming: 2026 Women’s Athlete Roster Revealed",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-12T10:00:00.000Z",
-   "sources": [
-    {
-     "n": "Bikerumor",
-     "u": "https://bikerumor.com/red-bull-rampage-is-coming-2026-womens-athlete-roster-revealed/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "c5b5c28d55b8",
-   "t": "ColoQuick-rytter påkørt frontalt under træning: Har brækket ryghvirvel",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-12T09:37:33.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/coloquick-rytter-paakoert-frontalt-under-traening-har-braekket-ryghvirvel/11256202",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "295be574778e",
-   "t": "Rosa Klöser’s satellite shifter placement is next-level gravel aero hackery",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-12T09:28:30.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/cycling-tech-components/rosa-klosers-satellite-shifter-placement-is-next-level-gravel-aero-hackery/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "479f8de1eec7",
-   "t": "Tudor Pro Cycling beloont Marco Brenner na grootste zege uit carrière met megacontract",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-12T09:18:45.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/tudor-pro-cycling-beloont-marco-brenner-na-grootste-zege-uit-carriere-met-megacontract/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "e64d1be95c27",
-   "t": "Efter gennembrudssejr: Tysker scorer lang kontrakt",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-12T09:06:13.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/efter-gennembrudssejr-tysker-scorer-lang-kontrakt/11256198",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "d7f8c98e92a4",
-   "t": "BRENNER RINNOVA CON LA TUDOR FINO AL 2030",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-12T08:59:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/12/1786524958/marco-brenner-tudor-rinnovo-2030",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "d900d253ce4c",
-   "t": "Red Bull Rookies messen sich an drei Bergankünften mit Landa",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-12T08:49:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146439.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "576ea78ff77c",
-   "t": "SKIL breidt wielersponsoring uit en verbindt zich aan twee Nederlandse klassiekers",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-12T08:46:56.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/skil-breidt-wielersponsoring-uit-en-verbindt-zich-aan-twee-nederlandse-klassiekers/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "39cba0247aed",
-   "t": "Bardet misser stort mål efter træningsstyrt",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-12T08:28:47.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/gravel/bardet-misser-stort-maal-efter-traeningsstyrt/11256151",
-     "l": "da"
     }
    ]
   }
