@@ -1,13 +1,27 @@
 {
- "updated": "2026-08-16T11:25:24.703Z",
+ "updated": "2026-08-16T16:31:38.743Z",
  "groups": [
+  {
+   "id": "eb564621c844",
+   "t": "Südamerikaner Silva holt sich Gesamtsieg nördlich des Polarkreises",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T16:50:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146466.htm",
+     "l": "de"
+    }
+   ]
+  },
   {
    "id": "results-2026-08-16",
    "type": "results",
    "t": "Laatste uitslagen — ProCyclingStats",
    "s": "",
    "c": "race",
-   "date": "2026-08-16T11:25:24.576Z",
+   "date": "2026-08-16T16:31:38.615Z",
    "rows": [
     {
      "race": "Nation's Cup Hungary | Stage 2",
@@ -79,6 +93,608 @@
    ]
   },
   {
+   "id": "63ff821feb68",
+   "t": "Magnier takes his first WorldTour one-day win at the Cyclassics in Hamburg",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T16:23:51.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/magnier-takes-his-first-worldtour-one-day-win-at-the-cyclassics-in-hamburg/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "5dbef17611de",
+   "t": "Cramps and goosebumps as Wout van Aert beaten by training partner Daan Soete at Belgian Gravel Championships",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T16:02:18.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/cramps-and-goosebumps-as-wout-van-aert-beaten-by-training-partner-daan-soete-at-belgian-gravel-championships/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "583eb3b7f218",
+   "t": "ARCTIC RACE OF NORWAY: COLPO DI CHRISTOPHERSEN NELL’ULTIMA TAPPA, 2º CRESCIOLI. LA GENERALE A SILVA, 3º PINARELLO",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T15:57:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/16/1786894080/arctic-race-of-norway-2026-christophersen-crescioli-silva-pinarello",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "0ac201cef684",
+   "t": "Christophersen laat Unibet Rose Rockets juichen in slotrit, Silva eindwinnaar Arctic Race of Norway",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T15:44:10.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/christophersen-laat-unibet-rose-rockets-juichen-in-slotrit-silva-eindwinnaar-arctic-race-of-norway/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "af12a01a8dca",
+   "t": "GP CAPODARCO. IMPRESA DEL POLACCO JACKOWIAK, SECONDO VESCO",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T15:43:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/16/1786895030/ciclismo-under-23-jackowiak-gran-premio-capodarco-bahrain-victorious-development",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "d10d87088271",
+   "t": "GP CUOIO E PELLI. BELLATO-MORETTI: DOPPIETTA D'AUTORE PER LA NERI SOTTOLI LUCCHINI ENERGY",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T15:40:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/16/1786895929/ciclismo-juniores-gran-premio-cuoio-neri-sottoli-lucchini-santa-croce-sull-arno",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "2c3adac94c56",
+   "t": "Danskere i udbrud da nordmand tog overraskende hjemmesejr",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T15:37:58.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/danskere-i-udbrud-da-nordmand-tog-overraskende-hjemmesejr/11259914",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "b3c5c075fca5",
+   "t": "Q&A: Catching up with Connor Delves on the success of his Cadel Evans play and plans for TV",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T15:34:24.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/q-a-catching-up-with-connor-delves-on-the-success-of-his-cadel-evans-play-and-plans-for-tv/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "8b8e7d17a96f",
+   "t": "Magnier in Hamburg nicht zu schlagen",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T15:28:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146465.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "d82222b4b990",
+   "t": "“Vind het heel jammer”: Belgisch kampioene gravel Nathalie Bex door nummers twee en drie beschuldigd van afsnijden",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T15:23:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/vind-het-heel-jammer-belgisch-kampioene-gravel-nathalie-bex-door-nummers-twee-en-drie-beschuldigd-van-afsnijden~af14eb95/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "ec8eb528c5ae",
+   "t": "Van Aert slået ved gravel-mesterskab",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T15:15:45.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/gravel/van-aert-slaaet-ved-gravel-mesterskab/11259894",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "41b6ac5e1de9",
+   "t": "Mission Accomplished: Rising Star AJ August Races in for First GC Victory of His Career",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T15:15:37.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/aj-august-first-gc-victory-of-career/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "3d4506168e78",
+   "t": "Hugo Page remporte la Polynormande 2026",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T15:13:29.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/courses/la-polynormande/hugo-page-remporte-la-polynormande-2026/",
+     "l": "fr"
+    }
+   ]
+  },
+  {
+   "id": "4a0be3168d61",
+   "t": "Wout van Aert niet teleurgesteld met zilver op BK Gravel: “Zat tegen de krampen aan”",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T15:12:54.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/wout-van-aert-niet-teleurgesteld-met-zilver-op-bk-gravel-zat-tegen-de-krampen-aan/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "f7b30bf507cb",
+   "t": "Fox 32\" XC fork spotted under Cube's first big-wheel bike",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T15:06:36.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/fox-32-xc-fork-spotted-under-cubes-first-big-wheel-bike/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "9f1a80aaf1aa",
+   "t": "Paul Magnier zet sprintersfestival in Hamburg naar z’n hand, Arnaud De Lie tiende bij rentree",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T15:02:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/paul-magnier-zet-sprintersfestival-in-hamburg-naar-zn-hand-arnaud-de-lie-tiende-bij-rentree~a98ef736/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "26cc21638045",
+   "t": "La Polynormande: Hugo Page powered to victory on uphill bunch sprint",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T14:54:52.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/la-polynormande-hugo-page-powered-to-victory-on-uphill-bunch-sprint/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "84786d9404d1",
+   "t": "Magnier klopt Teunissen in Hamburg Cyclassics in sprint zonder geloste Kooij",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T14:50:58.000Z",
+   "sources": [
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2627137",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "46b11dcfa3bb",
+   "t": "ADAC Cyclassics 2026 : Paul Magnier impérial",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T14:48:28.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/courses/adac-cyclassics/adac-cyclassics-2026-paul-magnier-imperial/",
+     "l": "fr"
+    }
+   ]
+  },
+  {
+   "id": "d57f02593944",
+   "t": "Hugo Page heeft de beste punch in La Polynormande, Jochem Kerckhaert zevende",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T14:45:58.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/hugo-page-heeft-de-beste-punch-in-la-polynormande-jochem-kerckhaert-zevende/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "ded874ff9d30",
+   "t": "ADAC Cyclassics Hamburg: Paul Magnier takes sprint win after Soudal-Quickstep takes control in final 10 kilometres",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T14:35:31.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/adac-cyclassics-hamburg-paul-magnier-takes-sprint-win-after-perfect-leadout/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "feeb94cc1a70",
+   "t": "Paul Magnier verslaat Mike Teunissen in ADAC Cyclassics, geen kans Kooij en Milan in Hamburg",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T14:28:18.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/paul-magnier-verslaat-mike-teunissen-in-adac-cyclassics-geen-kans-kooij-en-milan-in-hamburg/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "32676a1ddb41",
+   "t": "Fransk stjerne tager overbevisende WorldTour-sejr i Hamborg",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T14:25:09.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/fransk-stjerne-tager-overbevisende-worldtour-sejr-i-hamborg/11259839",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "2e79b819129e",
+   "t": "CLASSICA DI AMBURGO. MAGNIER BRUCIA IN VOLATA TEUNISSEN E PITHIE",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T14:25:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/16/1786890560/ciclismo-classica-di-amburgo-paul-magnier-soudal-quick-step-velocisti",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "9cb575762b13",
+   "t": "“We rijden al van kinds af aan over deze paadjes”: Wout van Aert “heeft genoten” van BK-zege boezemvriend Daan Soete in eigen achtertuin",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T14:18:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/we-rijden-al-van-kinds-af-aan-over-deze-paadjes-wout-van-aert-heeft-genoten-van-bk-zege-boezemvriend-daan-soete-in-eigen-achtertuin~a451df15/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "e1bde25c26c0",
+   "t": "Wout van Aert tweede achter nieuwe gravelkampioen Daan Soete op BK Gravel",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T14:16:57.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/wout-van-aert-tweede-achter-nieuwe-gravelkampioen-daan-soete-op-bk-gravel/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "e1ab4fb0b211",
+   "t": "Kæmpe Cofidis-triumf i Frankrig",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T14:13:23.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/kaempe-cofidis-triumf-i-frankrig/11259820",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "515fb8d6de89",
+   "t": "LA POLYNORMANDE. SPRINT VINCENTE DI PAGE! 9° BELLETTA",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T14:03:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/16/1786889710/la-polynormande-2026-vittoria-hugo-page",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "4c32839f22f2",
+   "t": "Czech Tour : Fancellu s’offre la dernière étape, le général pour August",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T13:48:23.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/courses/czech-tour/czech-tour-fancellu-soffre-la-derniere-etape-le-general-pour-august/",
+     "l": "fr"
+    }
+   ]
+  },
+  {
+   "id": "3879707ccda9",
+   "t": "EUROPEI DOWNHILL. DOMINIO AZZURRO CON SCARSI-WIDMANN E REVELLI-INTROZZI",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T13:38:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/16/1786894786/ciclismo-europei-downhill-mtb-gloria-scarsi-loris-revelli",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "4352d4a3320d",
+   "t": "Fancellu schlägt August zum Abschluss im Bergsprint",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T13:30:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146464.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "f136cdc4832d",
+   "t": "Bjergstjerne klar til comeback efter et års pause",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T13:23:22.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/bjergstjerne-klar-til-comeback-efter-et-aars-pause/11259768",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "498f8100495d",
+   "t": "Mt. Washington Hillclimb record obliterated as Peter Stetina sets PB but has to settle for second in 'farewell tour'",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T13:19:41.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/mt-washington-hillclimb-record-obliterated-as-peter-stetina-sets-pb-but-has-to-settle-for-second-in-farewell-tour/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "7c480f00dfbc",
+   "t": "Czech Tour: Andrew August seals overall title despite Fancellu coming back from pedal slip to win final stage",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T12:41:01.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/czech-tour-andrew-august-seals-overall-title-despite-fancellu-coming-back-from-pedal-slip-to-win-final-stage/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "da3ab27ab752",
+   "t": "“Ze hadden hem gezegd dat de koers al voorbij was”: Portugese politie lost nieuwe details over tragisch overlijden 19-jarige Finlay Tarling",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T12:29:50.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/ze-hadden-hem-gezegd-dat-de-koers-al-voorbij-was-portugese-politie-lost-nieuwe-details-over-tragisch-overlijden-19-jarige-finlay-tarling~aa504b80/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "f01c6f399d70",
+   "t": "CIAO FINLAY. LA RICOSTRUZIONE DELLA GNR:«IMMISSIONE SUL PERCORSO NON PRESIDIATA DAGLI AGENTI PERCHÉ SECONDARIA»",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T12:25:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/16/1786883195/volta-a-portugal-2026-incidente-finlay-tarling-sicurezza-stradale",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "71089d761320",
+   "t": "Andrew August grijpt eindzege in Czech Tour, eerste profzege voor Fancellu op slotdag",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T12:17:17.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/andrew-august-grijpt-eindzege-in-czech-tour-eerste-profzege-voor-fancellu-op-slotdag/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "fa3e271ad070",
+   "t": "Amerikansk stortalent cementerer første etapeløbstriumf",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T12:13:20.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/amerikansk-stortalent-cementerer-foerste-etapeloebstriumf/11259723",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "3b25b5aa82ec",
+   "t": "Profil kommer ikke til at køre et eneste løb i 2026",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T12:02:45.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/profil-kommer-ikke-til-at-koere-et-eneste-loeb-i-2026/11259722",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "eb164ecf0df0",
+   "t": "CZECH TOUR. È IL GIORNO DI FANCELLU A PUSTEVNY! GENERALE AD AUGUST",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T12:01:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/16/1786883053/czech-tour-2026-tappa-4-vittoria-alessandro-fancellu",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "98a16e730425",
+   "t": "Nieuwkomer Victor Lafay zal heel 2026 niet koersen voor Unibet Rose Rockets",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T11:58:07.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/nieuwkomer-victor-lafay-zal-heel-2026-niet-koersen-voor-unibet-rose-rockets/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "3ef93dd88594",
+   "t": "'A once-in-a-career kind of thing' – A year on from a stunning victory, Canada's top women riders look ahead to 'special' home Road World Championships",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T11:37:52.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/a-once-in-a-career-kind-of-thing-a-year-on-from-a-stunning-victory-canadas-top-women-riders-look-ahead-to-special-home-road-world-championships/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "4403b05a3ce2",
+   "t": "Familien Tarling reagerer: - Vi kan simpelthen ikke takke jer nok",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T11:15:10.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/familien-tarling-reagerer-vi-kan-simpelthen-ikke-takke-jer-nok/11259669",
+     "l": "da"
+    }
+   ]
+  },
+  {
    "id": "d2e9cba1b053",
    "t": "LIVE. Wout van Aert en co laten er geen gras over groeien: elitegroepje met ook Tim Merlier scheidt zich al vroeg af op BK gravel",
    "s": "",
@@ -88,6 +704,20 @@
     {
      "n": "HLN Wielrennen",
      "u": "https://www.hln.be/wielrennen/live-wout-van-aert-en-co-laten-er-geen-gras-over-groeien-elitegroepje-met-ook-tim-merlier-scheidt-zich-al-vroeg-af-op-bk-gravel~a451df15/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "3d487362045b",
+   "t": "BK Gravel met Wout van Aert is live op Belgische televisie te volgen",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T11:06:58.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/bk-gravel-met-wout-van-aert-is-live-op-belgische-televisie-te-volgen/",
      "l": "nl"
     }
    ]
@@ -172,6 +802,20 @@
     {
      "n": "HLN Wielrennen",
      "u": "https://www.hln.be/wielrennen/ik-ben-onder-de-indruk-wout-van-aert-ontvangt-huldeboek-met-4-027-felicitaties-na-fenomenale-zege-in-parijs-roubaix~a03c9f87/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "89803b09d340",
+   "t": "“Ik ben onder de indruk”: Wout van Aert ontvangt huldeboek met 4.027 (!) felicitaties van HLN-lezers na fenomenale zege in Parijs-Roubaix",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T09:58:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/ik-ben-onder-de-indruk-wout-van-aert-ontvangt-huldeboek-met-4-027-felicitaties-van-hln-lezers-na-fenomenale-zege-in-parijs-roubaix~a03c9f87/",
      "l": "nl"
     }
    ]
@@ -271,6 +915,20 @@
      "n": "Feltet.dk",
      "u": "https://feltet.dk/landevej/oversigt-disse-danskere-har-ikke-kontrakt-for-2027/11248836",
      "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "2d25848ac30a",
+   "t": "ETHICSPORT. STARTER 1000, IL PRE-WORKOUT CON NEWCAFF E SUPERCREA",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-16T08:54:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/16/1786885177/integratori-sportivi-pre-workout-performance-nutrizione-ciclistica",
+     "l": "it"
     }
    ]
   },
@@ -2399,832 +3057,6 @@
      "n": "Cyclingnews",
      "u": "https://www.cyclingnews.com/pro-cycling/racing/volta-a-portugal-organisers-confirm-death-of-finlay-tarling-after-serious-accident-during-stage-8/",
      "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "f3e03d15bc27",
-   "t": "Profwielerronde Etten-Leur verrast met komst Paul Seixas en Kasia Niewiadoma",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T16:31:21.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/profwielerronde-etten-leur-werkt-hard-aan-de-komst-van-paul-seixas/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "232fabb1bb93",
-   "t": "Finlay Tarling est décédé sur le Tour du Portugal",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T16:30:28.000Z",
-   "sources": [
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/actualite/cyclisme/finlay-tarling-est-decede-sur-le-tour-du-portugal/",
-     "l": "fr"
-    }
-   ]
-  },
-  {
-   "id": "02d710e698ed",
-   "t": "Finlay Tarling (19), de jongere broer van tijdritkampioen Joshua, overleden na frontale botsing met auto in Ronde van Portugal",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T16:30:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/finlay-tarling-19-de-jongere-broer-van-tijdritkampioen-joshua-overleden-na-frontale-botsing-met-auto-in-ronde-van-portugal~a4b89de5/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "27869dddd7cf",
-   "t": "Drama in wielerwereld: Finlay Tarling (19) overleden na frontale botsing met auto in Ronde van Portugal",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T16:30:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/drama-in-wielerwereld-finlay-tarling-19-overleden-na-frontale-botsing-met-auto-in-ronde-van-portugal~a4b89de5/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "5068a8823aaf",
-   "t": "In the Drops: Rapha Brevet kit, Tymewear breathing monitor, Shokz clip-on open-ear headphones and Phoebe Bridgers",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T16:27:21.000Z",
-   "sources": [
-    {
-     "n": "Cyclist (cyclist.co.uk)",
-     "u": "https://www.cyclist.co.uk/in-depth/rapha-brevet-kit-2026",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "d052406d405e",
-   "t": "She rode the Continental Divide with her dog",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T16:22:41.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/mtb/she-rode-the-continental-divide-with-her-dog/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "f2cd07cd2e52",
-   "t": "19-årige Finlay Tarling omkommet under Volta a Portugal",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T16:22:34.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/incoming/19-aarige-finlay-tarling-omkommet-under-volta-a-portugal/11258701",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "074b914fa1de",
-   "t": "Tragisch nieuws: wielrenner Finlay Tarling (19) overleden tijdens Ronde van Portugal",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T16:20:33.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/tragisch-nieuws-wielrenner-finlay-tarling-19-overleden-tijdens-ronde-van-portugal/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "908a37c0ff46",
-   "t": "Jakobsen wechselt mit sofortiger Wirkung zu Visma",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T16:20:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146454.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "69bc518887f8",
-   "t": "TRAGEDIA ALLA VOLTA A PORTUGAL. FINLAY TARLING PERDE LA VITA DURANTE LA CORSA. IN AGGIORNAMENTO",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T16:20:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/14/1786724952/ciclismo-volta-a-portugal-incidente-stradale-nsn-development-team-sicurezza",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "efa002b83fef",
-   "t": "Muere un ciclista en un accidente en la Vuelta a Portugal que acaba neutralizada",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T16:19:07.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/08/14/muere-ciclista-accidente-vuelta-portugal-acaba-neutralizada.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "33981eac8b7e",
-   "t": "Officielt: Dideriksen skifter hold",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T16:05:34.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/officielt-dideriksen-skifter-hold/11258690",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "7b79a87ca3fb",
-   "t": "Arctic Race of Norway: Erlend Blikra gets a home win on stage 2",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T16:02:08.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/arctic-race-of-norway-erlend-blikra-gets-a-home-win-on-stage-2/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "ba0b31dee427",
-   "t": "220 Miles on an Aero Race Bike, Seven Straight Centuries, and the 14-Pound Trek Domane 5",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T16:00:22.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-gear/podcast-big-dumb-rides-factor-one-trek-domane-5/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "390da7838f59",
-   "t": "ARCTIC RACE OF NORWAY: AD ANDENES SPRINT VINCENTE DI BLIKRA, LONARDI (3º) MANTIENE LA MAGLIA DI LEADER",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T16:00:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/14/1786722351/arctic-race-of-norway-2026-blikra-lonardi",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "aaf350cc83c0",
-   "t": "Fara Gr4 review: Norwegian sensibilities mate with an all-out race machine in perfect harmony",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T15:56:01.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/bikes/gravel/fara-gr4-review/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "3f7690078b71",
-   "t": "Erlend Blikra laat Uno-X en thuispubliek juichen in Arctic Race of Norway",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T15:54:11.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/erlend-blikra-laat-uno-x-en-thuispubliek-juichen-in-arctic-race-of-norway/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "b56b978b2efd",
-   "t": "Rebecca Henderson to retire from World Cup XC at the end of the season",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T15:52:30.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/rebecca-henderson-to-retire-from-world-cup-xc-at-the-end-of-the-season/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "29bcb7ddb36d",
-   "t": "Dansker med nøglerolle i norsk hjemmesejr",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T15:50:15.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/dansker-med-noeglerolle-i-norsk-hjemmesejr/11258671",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "85add649102a",
-   "t": "Visma-Lease a Bike Just Confirmed the Most Suprising Transfer of The Season So Far",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T15:44:51.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/visma-signs-jakobsen-in-suprise-mid-season-transfer/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "e21b54bdc27e",
-   "t": "August ist am Jested der Stärkste",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T15:43:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146453.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "692ac4d7c94e",
-   "t": "Fabio Jakobsen joins Visma-Lease a Bike immediately",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T15:40:13.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/sections/news/fabio-jakobsen-joins-visma-lease-a-bike-immediately/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "a487cb6fcce5",
-   "t": "VISMA LEASE A BIKE. ECCO JAKOBSEN: CONTRATTO FINO A FINE 2028",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T15:32:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/14/1786721618/fabio-jakobsen-team-visma-lease-a-bike-ciclismo-sprinter-mercato-ciclismo",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "c897eace29bb",
-   "t": "2ème étape Czech Tour : Andrew August fait coup double",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T15:30:05.000Z",
-   "sources": [
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/courses/czech-tour/2eme-etape-czech-tour-andrew-august-fait-coup-double/",
-     "l": "fr"
-    }
-   ]
-  },
-  {
-   "id": "fb3942b51628",
-   "t": "Jakobsen mikt op Visma-debuut in september of oktober: “Droom van weer wedstrijdje winnen”",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T15:29:36.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/jakobsen-mikt-op-visma-debuut-in-september-of-oktober-droom-van-weer-wedstrijdje-winnen/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "1c28bc09c186",
-   "t": "Jonathan Lastra seguirá de naranja: renueva con Euskaltel-Euskadi hasta 2028",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T15:27:25.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/08/14/jonathan-lastra-seguira-naranja-renueva-euskaltel-euskadi-2028.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "98efc3b2078a",
-   "t": "Fabio Jakobsen s’engage avec la Visma | Lease a Bike",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T15:21:07.000Z",
-   "sources": [
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/actualite/cyclisme/transferts/fabio-jakobsen-sengage-avec-la-visma-lease-a-bike/",
-     "l": "fr"
-    }
-   ]
-  },
-  {
-   "id": "87353aaf2117",
-   "t": "Jakobsen forklarer Visma-skifte",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T15:11:41.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/jakobsen-forklarer-visma-skifte/11258629",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "152c3d2b798a",
-   "t": "Transferlisten 2026-2027 - WorldTouren",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T15:00:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/transferlisten-2026-2027-worldtouren/11244321",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "2288b45dfa08",
-   "t": "Visma-Lease a Bike confirm Fabio Jakobsen joins team 'with immediate effect' after Picnic-PostNL departure",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T14:58:43.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/transfers/visma-lease-a-bike-confirm-fabio-jakobsen-joins-team-with-immediate-effect-after-picnic-postnl-departure/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "133e2b04143b",
-   "t": "Paula Blasi se apunta a Gran Canaria 365 tras brillar en LaVuelta y el Tour",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T14:58:21.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/08/14/paula-blasi-apunta-gran-canaria-365-brillar-lavuelta-tour.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "14a1393151f4",
-   "t": "“Nog veel onbenut potentieel aanwezig”: Fabio Jakobsen trekt met onmiddellijke ingang naar Visma-Lease a Bike",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T14:57:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/nog-veel-onbenut-potentieel-aanwezig-fabio-jakobsen-trekt-met-onmiddellijke-ingang-naar-visma-lease-a-bike~ada647ae/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "4415476f94b6",
-   "t": "Fabio Jakobsen per direct naar Visma | Lease a Bike, tekent tot eind 2027",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T14:49:09.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/fabio-jakobsen-per-direct-naar-visma-lease-a-bike-tekent-tot-eind-2027/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "3665149d79f7",
-   "t": "Fabio Jakobsen på plads hos Visma",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T14:48:31.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/fabio-jakobsen-paa-plads-hos-visma/11258617",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "1efb97f8489b",
-   "t": "Kort na ontbinden contract duikt Jakobsen op bij Visma-Lease a Bike",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T14:45:34.000Z",
-   "sources": [
-    {
-     "n": "NOS Wielrennen",
-     "u": "https://nos.nl/l/2626854",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "7bac46334771",
-   "t": "El Burgos Burpellet BH agita el mercado fichando a un ganador de etapa en el Giro como Caicedo",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T14:39:50.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/08/14/burgos-burpellet-bh-agita-mercado-fichando-ganador-etapa-giro-caicedo.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "eede73ad5555",
-   "t": "Czech Tour: Netcompany Ineos dominate stage 2 to deliver AJ August to mountaintop victory and race lead",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T14:38:08.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/czech-tour-netcompany-ineos-dominate-stage-2-to-deliver-aj-august-to-mountaintop-finish-victory/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "5030bc726858",
-   "t": "Dubbelslag voor AJ August in eerste bergrit Czech Tour, Mauri Vansevenant vijfde",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T14:32:51.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/dubbelslag-voor-aj-august-in-eerste-bergrit-czech-tour-mauri-vansevenant-vijfde/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "6b82df29f062",
-   "t": "Esteban Sánchez permanece \"estable dentro de la gravedad\" tras su caída en Budapest",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T14:31:57.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/08/14/esteban-sanchez-permanece-estable-gravedad-caida-budapest.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "ea120bde75db",
-   "t": "Kæmpetalent sikrer oprejsning til Netcompany Ineos",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T14:30:13.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/kaempetalent-sikrer-oprejsning-til-netcompany-ineos/11258549",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "77693da31eb5",
-   "t": "CZECH TOUR. AUGUST (NETCOMPANY) ANTICIPA FANCELLU E POZZOVIVO. 4° TURCONI. LO STATUNITENSE GUIDA LA GENERALE",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T14:28:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/14/1786717164/ciclismo-giro-della-cechia-tappa-2-vittoria-andrew-august-",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "0680384f7fb1",
-   "t": "‘Positieve geluiden over toekomst van TotalEnergies’",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T14:24:33.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/positieve-geluiden-over-toekomst-van-totalenergies/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "ab4ef936dce5",
-   "t": "Tour of Britain Women 2026 preview: Route, start list, how to watch and GC favourites",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T14:24:00.000Z",
-   "sources": [
-    {
-     "n": "Cyclist (cyclist.co.uk)",
-     "u": "https://www.cyclist.co.uk/news/tour-of-britain-women-preview",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "e4b762178de1",
-   "t": "Vuelta a Colombia abgebrochen",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T14:22:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146452.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "4d01d332c13d",
-   "t": "HALLER E TRENTIN RINNOVANO CON LA TUDOR FINO AL 2028",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T14:11:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/14/1786716713/marco-haller-matteo-trentin-tudor-rinnovo-2028",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "f0b1e0120262",
-   "t": "Cyclisme féminin : le tableau des transferts 2026-2027",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T14:04:09.000Z",
-   "sources": [
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/actualite/cyclisme/cyclisme-feminin-le-tableau-des-transferts-2026-2027/",
-     "l": "fr"
-    }
-   ]
-  },
-  {
-   "id": "de8eff652cd4",
-   "t": "Lorena Wiebes veilt gele trui en groene trui voor zwaargewonde Oekraïense wielrenster",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T13:44:41.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/lorena-wiebes-veilt-gele-trui-en-groene-trui-voor-zwaargewonde-oekraiense-wielrenster/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "fb124d905e8e",
-   "t": "NATION'S CUP HUNGARY. AZZURRI ANCORA PROTAGONISTI, FEDRIZZI VINCE L'ULTIMA TAPPA",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T13:22:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/14/1786713837/ciclismo-nazionale-italiana-juniores-nation-s-cup-hungary-talenti-italiani",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "646cc7b5c1c1",
-   "t": "Medie: Lidl-Trek hapser talentfuld tjekke",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T13:16:33.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/medie-lidl-trek-hapser-talentfuld-tjekke/11258489",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "abbef54c5fec",
-   "t": "Vuelta 2026: Voorbeschouwing op het parcours – Start in Monaco, zeven aankomsten bergop en slot in Granada",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T13:15:26.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/vuelta-2026-voorbeschouwing-op-het-parcours-start-in-monaco-zeven-aankomsten-bergop-en-slot-in-granada/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "7b87837d9901",
-   "t": "Banestjerne forlader Visma til fordel for ProTeam",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T13:03:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/banestjerne-forlader-visma-til-fordel-for-proteam/11258461",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "8fe3ffa6537a",
-   "t": "Tre lande har udtaget deres VM-trupper",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T12:58:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/tre-lande-har-udtaget-deres-vm-trupper/11258392",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "5b41f5394ccc",
-   "t": "From road to gravel then back to road: Why is Wout van Aert racing the Belgian Gravel Championships for the first time ever this Sunday?",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T12:40:25.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/from-road-to-gravel-then-back-to-road-why-is-wout-van-aert-racing-the-belgian-gravel-championships-for-the-first-time-ever-this-sunday/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "9c5aebf0f678",
-   "t": "Tidligere verdensmester ramt af bil i hård periode",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T12:27:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/tidligere-verdensmester-ramt-af-bil-i-haard-periode/11258406",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "a37f859c4cf5",
-   "t": "'I am not sure what will happen in a race' – Former biathlon champion Emilien Jacquelin set to make his pro cycling debut",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T12:16:57.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/i-am-not-sure-what-will-happen-in-a-race-former-biathlon-champion-emilien-jacquelin-set-to-make-his-pro-cycling-debut/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "d75dacfcce0c",
-   "t": "Zware aardbeving leidt tot stopzetting Ronde van Colombia",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T12:12:28.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/zware-aardbeving-leidt-tot-stopzetting-ronde-van-colombia/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "113a63e4ae03",
-   "t": "Spansk ProTeam tager etapevinder med til Vueltaen",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T11:55:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/spansk-proteam-tager-etapevinder-med-til-vueltaen/11258332",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "d9287e809e7c",
-   "t": "Karenzzeit geändert? Drei UAE-Fahrer verpassen in Portugal Zeitlimit",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T11:50:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146451.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "f4ecf4ca6380",
-   "t": "MARTINA FIDANZA FIRMA UN BIENNALE CON IL TEAM ST. MICHEL AUBER93",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-14T11:30:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/14/1786709851/ciclismo-mercato-ciclismo-martina-fidanza-st-michel-team-visma",
-     "l": "it"
     }
    ]
   }
