@@ -1,6 +1,860 @@
 {
- "updated": "2026-08-21T11:31:29.422Z",
+ "updated": "2026-08-21T16:40:39.151Z",
  "groups": [
+  {
+   "id": "ee69204dac5d",
+   "t": "2ème étape Tour de l’Avenir : Keije Solen vainqueur",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T16:31:43.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/courses/tour-de-lavenir/2eme-etape-tour-de-lavenir-keije-solen-vainqueur/",
+     "l": "fr"
+    }
+   ]
+  },
+  {
+   "id": "eadca41da1b2",
+   "t": "South African racer leaves Tour of Britain Women after returning out-of-competition positive test for synthetic peptide",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T16:26:06.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/doping/south-african-racer-leaves-tour-of-britain-women-after-returning-out-of-competition-positive-test-for-synthetic-peptide/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "fde2f7bcd828",
+   "t": "Berckmoes bezwingt die Muur und die Favoriten",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T16:26:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146531.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "f7b6958cf6eb",
+   "t": "“Ooit wereldkampioen worden blijft een groot doel”: Mathieu van der Poel maakt zich op voor “eerste echte test” bij rentree op mountainbike",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T16:15:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/ooit-wereldkampioen-worden-blijft-een-groot-doel-mathieu-van-der-poel-maakt-zich-op-voor-eerste-echte-test-bij-rentree-op-mountainbike~a98ef736/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "07e96c0e70bb",
+   "t": "Berckmoes wint derde rit en grijpt leiding in Renewi Tour, Kooij derde",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T16:11:12.000Z",
+   "sources": [
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2627761",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "9f3b08033f2c",
+   "t": "Tour d’Allemagne : Paul Magnier s’incline face au jeune Magagnotti",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T16:07:05.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/courses/tour-dallemagne/tour-dallemagne-paul-magnier-sincline-face-au-jeune-magagnotti/",
+     "l": "fr"
+    }
+   ]
+  },
+  {
+   "id": "6110293df25c",
+   "t": "Jordan Jegat va rejoindre la Lidl-Trek",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T16:02:28.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/actualite/cyclisme/transferts/jordan-jegat-va-rejoindre-la-lidl-trek/",
+     "l": "fr"
+    }
+   ]
+  },
+  {
+   "id": "dba67e9af55f",
+   "t": "Nachwuchsbulle Magagnotti schlägt Magnier im Sprint",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T16:02:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146530.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "267ecb5ac345",
+   "t": "Renewi Tour : Jenno Berckmoes fait coup double au Mur de Grammont",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T15:47:36.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/courses/renewi-tour/renewi-tour-jenno-berckmoes-fait-coup-double-au-mur-de-grammont/",
+     "l": "fr"
+    }
+   ]
+  },
+  {
+   "id": "f2e6d71e13e4",
+   "t": "'A shame I wasn't on Kim's wheel in the final corner' – Liane Lippert second behind unstoppable Le Court-Pienaar on Tour of Britain Women queen stage",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T15:45:55.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/a-shame-i-wasnt-on-kims-wheel-in-the-final-corner-liane-lippert-second-behind-unstoppable-le-court-pienaar-on-tour-of-britain-women-queen-stage/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "661d4e81d591",
+   "t": "Tour of Britain rider provisionally suspended after doping test",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T15:45:26.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/sections/news/tour-of-britain-rider-provisionally-suspended-after-doping-test/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "833fc9af0a34",
+   "t": "Is this Canada’s worst bikepacking route?",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T15:45:08.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/mtb/is-this-canadas-worst-bikepacking-route/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "3d6ac72ce933",
+   "t": "Journalist: Visma vil hente Giro-etapevinder",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T15:45:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/journalist-visma-vil-hente-giro-etapevinder/11264791",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "982d05aa5e02",
+   "t": "New road and gravel tyres from Silca signal a change in strategy for the Italian company",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T15:36:13.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/cycling-tech-components/wheels-tyres/new-road-and-gravel-tyres-from-silca-signal-a-change-in-strategy-for-the-italian-company/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "ff0128138b8a",
+   "t": "Keije Solen zorgt voor Nederlandse sprintzege in deels geneutraliseerde rit Tour de l’Avenir",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T15:31:49.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/keije-solen-zorgt-voor-nederlandse-sprintzege-in-geneutraliseerde-rit-tour-de-lavenir/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "03091f7aadef",
+   "t": "Deutschland Tour: Alessio Magagnotti lands stunning sprint win ahead of Paul Magnier on stage 2",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T15:30:33.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/deutschland-tour-alessio-magagnotti-lands-stunning-sprint-win-ahead-of-paul-magnier-on-stage-2/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "db98371bdc55",
+   "t": "Renewi Tour: Jenno Berckmoes pulls off a heist to snatch stage 3 and the leader's jersey on Tour of Flanders-inspired day",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T15:23:14.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/renewi-tour-jenno-berckmoes-pulls-off-a-heist-to-snatch-stage-3-and-the-leaders-jersey-on-tour-of-flanders-inspired-day/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "2f67803bba40",
+   "t": "Costiou genvinder fransk etapeløb",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T15:21:32.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/costiou-genvinder-fransk-etapeloeb/11264821",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "00b06870b56a",
+   "t": "MADE Show Announces New Venue for 2027, Official Show Bike Gallery Kicks Off 2026",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T15:11:03.000Z",
+   "sources": [
+    {
+     "n": "Bikerumor",
+     "u": "https://bikerumor.com/made-show-announces-new-venue-for-2027-official-show-bike-gallery-kicks-off-2026/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "09d79f587306",
+   "t": "Jenno Berckmoes wint koninginnenrit en is leider Renewi Tour, Philipsen beperkt schade door De Lie",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T15:08:36.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/jenno-berckmoes-wint-koninginnenrit-en-is-leider-renewi-tour-philipsen-beperkt-schade-door-de-lie/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "dea13a6e832c",
+   "t": "Lotto-rytter holder hjem for næsen af Philipsen",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T15:04:03.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/lotto-rytter-holder-hjem-for-naesen-af-philipsen/11264788",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "66e761f896b3",
+   "t": "RENEWI TOUR. IL PICCOLO FIANDRE È DI BERCKMOES, TAPPA E MAGLIA! 2° PHILIPSEN, 8° FIORELLI",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T15:04:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/21/1787317293/renewi-tour-2026-tappa-3-vittoria-jenno-berckmoes",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "f91ae2374d62",
+   "t": "Dansker i udbrud på dramatisk etape",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T15:03:54.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/dansker-i-udbrud-paa-dramatisk-etape/11264785",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "ef5e57cc0748",
+   "t": "Tour du Limousin : Isidore empoche la dernière étape, le général pour Costiou",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T15:02:05.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/courses/tour-du-limousin/tour-du-limousin-isisore-empoche-la-derniere-etape-le-general-pour-costiou/",
+     "l": "fr"
+    }
+   ]
+  },
+  {
+   "id": "421989da9b54",
+   "t": "“Mooiste overwinning van m’n carrière”: Jenno Berckmoes haalt verschroeiend uit en slaat dubbelslag op Muur van Geraardsbergen",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T15:02:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/mooiste-overwinning-van-mn-carriere-jenno-berckmoes-haalt-verschroeiend-uit-en-slaat-dubbelslag-op-muur-van-geraardsbergen~a921e7af/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "a79839549907",
+   "t": "AVENIR. MAXI CADUTA E NEUTRALIZZAZIONE, VINCE SOLEN SU CAPRA E DELLE VEDOVE: 5° STELLA, 6° LORELLO",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T15:02:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/21/1787316897/tour-de-l-avenir-ciclismo-keije-solen-giovani-talenti-volate",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "a4ee6e7681ea",
+   "t": "Magnier slået af 19-årig udviklingsrytter i kaotisk spurt",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T15:01:52.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/magnier-slaaet-af-19-aarig-udviklingsrytter-i-kaotisk-spurt/11264717",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "8f8633b97930",
+   "t": "Tour du Limousin: Ewen Costiou wins the overall for a second time as Noa Isadore wins his second stage of the week",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T15:01:13.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-du-limousin-ewen-costiou-wins-the-overall-for-a-second-time-as-noa-isadore-wins-his-second-stage-of-the-week/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "e1e16b2be33f",
+   "t": "Sprinttalent Alessio Magagnotti verrast Paul Magnier in massasprint Deutschland Tour",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T15:01:11.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/sprinttalent-alessio-magagnotti-verrast-paul-magnier-in-massasprint-deutschland-tour/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "380e1d728103",
+   "t": "DEUTSCHLAND TOUR. MAGAGNOTTI BATTE MAGNIER IN VOLATA",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T14:57:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/21/1787316985/ciclismo-deutschland-tour-tappa-3-vittoria-alessio-magagniotti",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "fde0a25f2e1b",
+   "t": "Noa Isidore pakt tweede ritzege in Tour du Limousin, eindzege voor Ewen Costiou",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T14:51:26.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/noa-isidore-pakt-tweede-ritzege-in-tour-du-limousin-eindzege-voor-ewen-costiou/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "34372dadeca7",
+   "t": "La startlist de La Vuelta 2026",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T14:49:56.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/courses/la-vuelta/la-startlist-de-la-vuelta-2026/",
+     "l": "fr"
+    }
+   ]
+  },
+  {
+   "id": "640577c509ca",
+   "t": "Alleen bij Eurosport en HBO Max kan je alles van de Vuelta a España zien op tv",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T14:42:18.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/alleen-bij-eurosport-en-hbo-max-kan-je-alles-van-de-vuelta-a-espana-zien-op-tv/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "d109a13474e1",
+   "t": "LIMOUSIN-PÉRIGORD. BIS DI ISIDORE NELL'ATTO CONCLUSIVO! 10° MERIS, GENERALE A COSTIOU",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T14:37:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/21/1787324191/tour-limousin-perigord-2026-tappa-4-vittoria-noa-isidore",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "fe638860fea5",
+   "t": "Opinion: There will never be another Julian Alaphilippe",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T14:28:27.000Z",
+   "sources": [
+    {
+     "n": "Cyclist (cyclist.co.uk)",
+     "u": "https://www.cyclist.co.uk/in-depth/opinion-there-will-never-be-another-julian-alaphilippe",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "485ab7676dbc",
+   "t": "Alle gegen Pogacar – Slowene jagt das Triple",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T14:15:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146528.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "403c29906285",
+   "t": "Jordan Jegat to step up to WorldTour with Lidl-Trek",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T14:14:32.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/jordan-jegat-to-step-up-to-worldtour-with-lidl-trek/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "a23f20ee1c88",
+   "t": "Sådan forløb styrtpræget etape i Tour de l'Avenir",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T14:04:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/saadan-forloeb-styrtpraeget-etape-i-tour-de-lavenir/11262258",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "ad46c37fe0ac",
+   "t": "Tweede etappe Tour de l’Avenir geneutraliseerd na massale valpartij",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T14:03:02.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tweede-etappe-tour-de-lavenir-geneutraliseerd-na-massale-valpartij/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "272115e48c03",
+   "t": "Le Court wint in Ronde van Groot-Brittannië en lost Wiebes af",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T14:00:59.000Z",
+   "sources": [
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2627743",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "0fa5e62bebbb",
+   "t": "Lidl-Trek præsenterer stærk franskmand",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T13:56:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/lidl-trek-praesenterer-staerk-franskmand/11264738",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "54fab3540a54",
+   "t": "Le Court-Pienaar blows away the competition in stage 3 finale",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T13:53:32.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/le-court-pienaar-blows-away-the-competition-in-stage-3-finale/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "bfd32fba2b1c",
+   "t": "Dit zijn de Pooltips van Wielerflits voor de Vuelta a España 2026",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T13:45:55.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/dit-zijn-de-pooltips-van-wielerflits-voor-de-vuelta-a-espana-2026/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "237e345fbd7c",
+   "t": "Tour of Britain Women: Kim Le Court-Pienaar soars to spectacular victory atop The Great Orme on stage 3",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T13:31:18.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/tour-of-britain-women-kim-le-court-pienaar-soars-to-spectacular-victory-atop-the-great-orme-on-stage-3/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "cbaff4699317",
+   "t": "Kim Le Court slaat dubbelslag op lastige aankomst in Tour of Britain",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T13:26:14.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/kim-le-court-slaat-dubbelslag-op-lastige-aankomst-in-tour-of-britain/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "8c8430dd18b1",
+   "t": "TOUR OF BRITAIN WOMEN. LE COURT PIENAAR SHOW A GREAT ORME, TAPPA E MAGLIA PER L'ATLETA DELLE MAURITIUS",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T13:23:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/21/1787316778/tour-of-britain-women-ciclismo-galles-gpm-sd-worx-protime",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "153b412c9db5",
+   "t": "Stjerne sætter Wiebes på plads - Uttrup i top fem",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T13:22:41.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/stjerne-saetter-wiebes-paa-plads-uttrup-i-top-fem/11264689",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "9d94a9d021aa",
+   "t": "Spanier stopper karrieren efter 21 profsejre",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T12:52:09.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/spanier-stopper-karrieren-efter-21-profsejre/11264641",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "5ae0a5924221",
+   "t": "Especial Vuelta a España 2026: favoritos, recorrido y todas las claves",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T12:49:01.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/08/21/especial-vuelta-espana-2026-favoritos-recorrido-todas-claves.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "9268eb5d8f2f",
+   "t": "Former South African Champion Suspended, Booted from Tour of Britain for Suspected Peptide Doping",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T12:46:53.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/sannara-grove-provisionally-suspended-for-peptides/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "f8d1124980d7",
+   "t": "Labor strikes possible during Montreal Worlds",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T12:42:46.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/labor-strikes-possible-during-montreal-worlds/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "a322c0d623aa",
+   "t": "Edinburgh’s 2027 Grand Départ presentation will be one to remember",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T12:34:56.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/edinburghs-2027-grand-depart-presentation-will-be-one-to-remember/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "e62da2e6c48e",
+   "t": "Vuelta 2026: Starttijden tijdrit in Monaco – Küng en Tarling voor 19 uur, Van Aert en Pogacar pas laat",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T12:33:27.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/vuelta-2026-starttijden-tijdrit-in-monaco-kung-en-tarling-voor-19-uur-van-aert-en-pogacar-pas-laat/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "22e94426abd8",
+   "t": "Ex-wielrenner Frans Verbeeck, bekend van uitspraak over Eddy Merckx, overleden op 85-jarige leeftijd: “Hij rijdt vijf kilometer per uur te snel voor ons”",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T12:30:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/ex-wielrenner-frans-verbeeck-bekend-van-uitspraak-over-eddy-merckx-overleden-op-85-jarige-leeftijd-hij-rijdt-vijf-kilometer-per-uur-te-snel-voor-ons~aaf7edcf/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "48733bc5e5c6",
+   "t": "Vuelta a España Preview",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T12:26:41.000Z",
+   "sources": [
+    {
+     "n": "The Inner Ring (inrng.com)",
+     "u": "https://inrng.com/2026/08/vuelta-a-espana-2026-preview/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "9953b755730a",
+   "t": "Canadian women’s team pursuit riders lose SDRCC appeal",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T12:25:08.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/sections/news/canadian-womens-team-pursuit-riders-lose-sdrcc-appeal/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "4724540be020",
+   "t": "Ritwinnaar Jonathan Milan moet na valpartij tóch opgeven in Renewi Tour",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T12:18:50.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/ritwinnaar-jonathan-milan-moet-na-valpartij-toch-opgeven-in-renewi-tour/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "c05fc558e292",
+   "t": "Vuelta a España 2026 Stage 1 Time Trial: Start Times, Rider Order, Roglič Goes Last",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T12:14:00.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/vuelta-a-espana/vuelta-a-espana-2026-stage-1-time-trial-start-times-rider-order-roglic-goes-last/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "8c7eec27fede",
+   "t": "Tarling trotz Tod des Bruders bei Vuelta am Start",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T11:45:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146526.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "48652597057e",
+   "t": "Marc Soler, la luz al final del túnel: el motivo de su sorpresiva ausencia en LaVuelta",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T11:39:35.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/08/21/marc-soler-luz-final-tunel-motivo-sorpresiva-ausencia-lavuelta.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "d13678fd08a1",
+   "t": "Dansker i kæmpe triumf: Slår altdominerende tysker",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T11:34:51.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/mountainbike/dansker-i-kaempe-triumf-slaar-altdominerende-tysker/11264551",
+     "l": "da"
+    }
+   ]
+  },
   {
    "id": "d61d3682a2f9",
    "t": "Lotte Kopecky pulls out of Tour of Britain Women",
@@ -12,6 +866,20 @@
      "n": "Cyclingnews",
      "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/lotte-kopecky-pulls-out-of-tour-of-britain-women/",
      "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "4696fb8bf09b",
+   "t": "Zuid-Afrikaanse S’annara Grove voorlopig geschorst na positieve dopingtest",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T11:26:08.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/zuid-afrikaanse-sannara-grove-voorlopig-geschorst-na-positieve-dopingtest/",
+     "l": "nl"
     }
    ]
   },
@@ -39,6 +907,20 @@
     {
      "n": "HLN Wielrennen",
      "u": "https://www.hln.be/vuelta/wout-van-aert-rolt-twee-minuten-voor-tadej-pogacar-van-het-podium-dit-zijn-de-starturen-van-favorieten-in-openingstijdrit-vuelta~adb525cc/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "1f2574a40128",
+   "t": "Vuelta 2026: Deze goedkope pareltjes pakten vorig jaar de meeste punten in Wielerflits Ploegleider",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T11:15:56.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/vuelta-2026-deze-goedkope-pareltjes-pakten-vorig-jaar-de-meeste-punten-in-wielerflits-ploegleider/",
      "l": "nl"
     }
    ]
@@ -268,6 +1150,20 @@
    ]
   },
   {
+   "id": "7a41a40f2040",
+   "t": "In the Drops: Ogio Alpha backpack, CeramicSpeed UFO wax, Sidi Aeron gravel shoes and Assos Equipe kit",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T09:50:42.000Z",
+   "sources": [
+    {
+     "n": "Cyclist (cyclist.co.uk)",
+     "u": "https://www.cyclist.co.uk/in-depth/sidi-aeron-gravel-shoes",
+     "l": "en"
+    }
+   ]
+  },
+  {
    "id": "20829b6c2d9c",
    "t": "Nils Eekhoff verlaat Picnic PostNL voor Decathlon CMA CGM",
    "s": "",
@@ -408,6 +1304,20 @@
    ]
   },
   {
+   "id": "d245f04970ff",
+   "t": "Berichte: Alaphilippe beendet Karriere mit sofortiger Wirkung",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T08:30:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146525.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
    "id": "6cd51bef2155",
    "t": "Tadej Pogacar voor de start van de Vuelta: “We willen niet te hebberig zijn”",
    "s": "",
@@ -544,6 +1454,20 @@
      "n": "Velo",
      "u": "https://velo.outsideonline.com/road/road-racing/julian-alaphilippe-retires-with-immediate-effect-claim-reports/",
      "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "1684a321f318",
+   "t": "Vuelta a Espana im Rückblick: Die letzten zehn Jahre",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T07:00:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_135450.htm",
+     "l": "de"
     }
    ]
   },
@@ -768,6 +1692,20 @@
      "n": "Feltet.dk",
      "u": "https://feltet.dk/landevej/wandahl-tror-paa-roglic-det-bliver-specielt/11263832",
      "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "97cdd72de55d",
+   "t": "Windkante vermasselte Nationalmannschaft den Avenir-Tag",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-21T05:57:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146524.htm",
+     "l": "de"
     }
    ]
   },
@@ -1080,6 +2018,20 @@
    ]
   },
   {
+   "id": "666bc99312c1",
+   "t": "Lidl - Trek greift mit Ciccone und Vacek nach dem D-Tour-Sieg",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-20T19:20:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146516.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
    "id": "7f12f53f46d2",
    "t": "Tadej Pogacar rolt meer dan één keer met de ogen in zijn Monaco: “Concurrentie zal in topvorm zijn”",
    "s": "",
@@ -1164,6 +2116,20 @@
    ]
   },
   {
+   "id": "59916a6077f9",
+   "t": "Radsport live im Stream, TV und Ticker: Die Rennen des Tages",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-20T18:48:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_144508.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
    "id": "628eda6c2809",
    "t": "A tumba abierta by AMIX: \"Será diferente al Tour, aquí Andorra debería no decidirlo todo\"",
    "s": "",
@@ -1202,6 +2168,20 @@
      "n": "Feltet.dk",
      "u": "https://feltet.dk/landevej/carapaz-jagter-klassementet-en-stor-udfordring/11263914",
      "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "8a11cdc05d87",
+   "t": "Zwei Freunde wollen sich das Bergtrikot der D-Tour teilen",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-20T18:23:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146515.htm",
+     "l": "de"
     }
    ]
   },
@@ -3194,6 +4174,20 @@
    ]
   },
   {
+   "id": "abbef54c5fec",
+   "t": "Vuelta 2026: Voorbeschouwing op parcours – Start in Monaco, zeven aankomsten bergop en slot in Granada",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-20T07:00:11.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/vuelta-2026-voorbeschouwing-op-het-parcours-start-in-monaco-zeven-aankomsten-bergop-en-slot-in-granada/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
    "id": "49f9b9a90312",
    "t": "El círculo perfecto de Pogacar: regresa a por la Triple Corona a LaVuelta",
    "s": "",
@@ -3764,776 +4758,6 @@
      "n": "Radsport-News",
      "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146491.htm",
      "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "a8e8a547b885",
-   "t": "Milan schlägt Kooij nach Foto-Finish-Entscheid",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T16:39:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146490.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "d5cb7ff9d71f",
-   "t": "Wout van Aert stoomt zich met Steven Kruijswijk en diens zoontje klaar voor Vuelta",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T16:35:29.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/wout-van-aert-stoomt-zich-met-steven-kruijswijk-en-diens-zoontje-klaar-voor-vuelta/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "6076703ffe32",
-   "t": "Første gang siden 2023: Pidcock byder van der Poel op til dans",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T16:24:06.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/mountainbike/foerste-gang-siden-2023-pidcock-byder-van-der-poel-op-til-dans/11262776",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "2cc8092489bb",
-   "t": "Twee druppels verschil: Milan klopt Kooij in verregende openingsrit Renewi Tour",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T16:23:56.000Z",
-   "sources": [
-    {
-     "n": "NOS Wielrennen",
-     "u": "https://nos.nl/l/2627511",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "bd7d2c1fa21e",
-   "t": "Milan holds off Kooij to win the opening stage of the Renewi Tour",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T16:17:14.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/milan-holds-off-kooij-to-win-the-opening-stage-of-the-renewi-tour/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "d31a5050151f",
-   "t": "“De Vuelta wordt loodzwaar, zelfs voor Tadej”: Jeroen Swart, Head of Performance bij UAE, ziet Pogacar niet zomaar domineren",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T16:13:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/vuelta/de-vuelta-wordt-loodzwaar-zelfs-voor-tadej-jeroen-swart-head-of-performance-bij-uae-ziet-pogacar-niet-zomaar-domineren~af3dadcf/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "a57fb9e24111",
-   "t": "“De Vuelta wordt loodzwaar, zelfs voor Tadej Pogacar”: topcoach bij UAE ziet wereldkampioen niet zomaar domineren in Ronde van Spanje",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T16:13:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/vuelta/de-vuelta-wordt-loodzwaar-zelfs-voor-tadej-pogacar-topcoach-bij-uae-ziet-wereldkampioen-niet-zomaar-domineren-in-ronde-van-spanje~af3dadcf/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "d42a2f07da01",
-   "t": "Welcome to the Real Unreal: Mammoth TUFF",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T16:10:10.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/gravel/gravel-racing/welcome-to-the-real-unreal-mammoth-tuff/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "5ca2e38d63d4",
-   "t": "'AI could reverse cycling 2.0's gains' – Why artificial intelligence could become an anti-doping scientist's worst nightmare",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T16:07:02.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/doping/ai-could-reverse-cycling-2-0s-gains-why-artificial-intelligence-could-become-an-anti-doping-scientists-worst-nightmare/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "8658d668417d",
-   "t": "Lieke Nooijen moet Tour of Britain verlaten na valpartij, naar ziekenhuis voor onderzoek",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T16:05:44.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/nederlands-kampioene-lieke-nooijen-valt-uit-in-tour-of-britain-naar-ziekenhuis-voor-onderzoek/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "8a41f10fbdb9",
-   "t": "Titelforsvar i sigte: Costiou i stort kup i Frankrig",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T15:54:48.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/titelforsvar-i-sigte-costiou-i-stort-kup-i-frankrig/11262709",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "936ef7012223",
-   "t": "Jonathan Milan wint eerste duel der topsprinters: “Haalt het beste in mij naar boven”",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T15:48:48.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/jonathan-milan-wint-eerste-duel-der-topsprinters-haalt-het-beste-in-mij-naar-boven/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "01205403c85c",
-   "t": "Review: Cannondale Made a Mistake and the CAAD14 Is Better for It",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T15:45:12.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-gear/cannondale-caad14-review/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "e1e353c42b1e",
-   "t": "When Is It Too Smoky to Ride Outside? A Cyclist’s Guide to Air Quality",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T15:38:33.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-training/cyclists-guide-wildfire-smoke-air-quality/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "174a736187ba",
-   "t": "Wiebes holt 17. Saisonsieg im Sprint",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T15:38:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146488.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "61f3c020ba15",
-   "t": "Mosaic Cycles Introduces Zero Components Starting w/ Carbon Forks for Road, All-Road, Gravel & 32″ Bikes",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T15:29:26.000Z",
-   "sources": [
-    {
-     "n": "Bikerumor",
-     "u": "https://bikerumor.com/mosaic-cycles-introduces-zero-components-starting-w-carbon-forks-for-road-all-road-gravel-32-bikes/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "ac98556b66db",
-   "t": "Renewi Tour: Jonathan Milan edges out Olav Kooij in photo finish to win a messy opening stage",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T15:25:57.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/renewi-tour-jonathan-milan-edges-out-olav-kooij-in-photo-finish-to-win-a-messy-opening-stage/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "61a0d963e79e",
-   "t": "“Wist niet zeker of ik gewonnen had”: Jonathan Milan houdt Olav Kooij nipt af en grijpt macht in prangende massasprint",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T15:20:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/wist-niet-zeker-of-ik-gewonnen-had-jonathan-milan-houdt-olav-kooij-nipt-af-en-grijpt-macht-in-prangende-massasprint~a0a72c31/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "9ffc9b9ad97d",
-   "t": "Målfoto: Milan var stærkest i regnfuld Renewi Tour-finale",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T15:18:01.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/maalfoto-milan-var-staerkest-i-regnfuld-renewi-tour-finale/11262713",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "0e59427f9423",
-   "t": "Jonathan Milan klopt Olav Kooij na zinderende openingsrit Renewi Tour",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T15:15:12.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/jonathan-milan-klopt-olav-kooij-na-zinderende-openingsrit-renewi-tour/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "07ac44425b17",
-   "t": "RENEWI TOUR. SOTTO LA PIOGGIA FA SUBITO FESTA MILAN! BATTUTO KOOIJ AL FOTOFINISH",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T15:12:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/19/1787149286/renewi-tour-2026-tappa-1-vittoria-jonathan-milan",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "60ac88804952",
-   "t": "Gravel tyre members survey: What does gravel really mean to you?",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T15:10:04.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/gravel-tyre-members-survey-what-does-gravel-really-mean-to-you/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "7688ada4f055",
-   "t": "Del Toro stößt im letzten Moment Magnier vom Hot Seat",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T15:09:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146487.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "3c687a6993ce",
-   "t": "Isaac Del Toro wint ultrakorte proloog in Ronde van Duitsland - Lorena Wiebes boekt al zestiende seizoenszege",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T15:06:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/isaac-del-toro-wint-ultrakorte-proloog-in-ronde-van-duitsland-lorena-wiebes-boekt-al-zestiende-seizoenszege~a98ef736/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "9e79790c35ab",
-   "t": "Isaac Del Toro wint ultrakorte proloog in Ronde van Duitsland - Steffen De Schuyteneer verlengt bij Lotto-Intermarché",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T15:06:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/isaac-del-toro-wint-ultrakorte-proloog-in-ronde-van-duitsland-steffen-de-schuyteneer-verlengt-bij-lotto-intermarche~a98ef736/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "b36f2f3f3d45",
-   "t": "ADDIO A NELLO OLIVETTI, VELOCISTA EMILIANO E MAESTRO DELL'OFFICINA",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T15:05:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/19/1787152010/ciclismo-storia-del-ciclismo-velocisti-emilia-romagna-meccanici-ciclistici",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "82cf5b1a3ce6",
-   "t": "How to watch the UCI Mountain Bike World Cup (and van der Poel) in Les Gets",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T15:02:24.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/mtb/how-to-watch-the-uci-mountain-bike-world-cup-and-van-der-poel-in-les-gets/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "d745e2f9c85f",
-   "t": "Finding the Edge: Behind the Scenes as We Test the Future of Gravel in Squamish",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T15:00:09.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/gravel/gravel-gear/testing-future-gravel-bikes-squamish-dropped/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "fb394b6c5ff8",
-   "t": "Barber van het peloton, Alpecin Hair Force 1, knipt en wast haren renners bij Vuelta-start",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T14:59:47.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/de-alpecin-barbershop-knipt-renners-en-staf-ook-voorafgaand-aan-vuelta-a-espana-2026/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "1fb0a531ba38",
-   "t": "Tour du Limousin: Ewen Costiou takes the overall lead after a solo stage 2 victory",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T14:57:33.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-du-limousin-ewen-costiou-takes-the-overall-lead-after-a-solo-stage-2-victory/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "5897430467d4",
-   "t": "Ewen Costiou soleert naar ritzege en leiderstrui in Tour du Limousin",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T14:49:18.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/ewen-costiou-soleert-naar-ritzege-en-leiderstrui-in-tour-du-limousin/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "456ce0220d8e",
-   "t": "LIMOUSIN-PÉRIGORD. COSTIOU FIRMA LA SECONDA TAPPA E VESTE LA MAGLIA DI LEADER",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T14:45:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/19/1787149163/ciclismo-tour-du-limousin-ewen-costiou-tappa-2",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "cb87c54f46fd",
-   "t": "Tour of Britain Women: Lorena Wiebes snatches sprint victory on stage 1 ahead of Chiara Consonni",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T14:40:11.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/tour-of-britain-women-lorena-wiebes-snatches-sprint-victory-on-stage-1-ahead-of-chiara-consonni/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "969d4c2839b0",
-   "t": "Lorena Wiebes wins opening stage of the Lloyd's Tour of Britain",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T14:32:04.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/lorena-wiebes-wins/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "6977d9819fff",
-   "t": "Aanval na aanval, maar Lorena Wiebes slaat na machtige sprint toe in Tour of Britain",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T14:25:11.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/aanval-na-aanval-maar-lorena-wiebes-slaat-na-machtige-sprint-toe-in-tour-of-britain/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "c46137aeb18e",
-   "t": "TOUR OF BRITAIN WOMEN. WIEBES BRUCIA TUTTE NELLA PRIMA TAPPA. 2a CONSONNI, 6a BORGHESI",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T14:25:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/19/1787149606/tour-of-britain-2026-lorena-wiebes-velociste-ciclismo-femminile",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "fa0ccdcb1383",
-   "t": "How to watch the Vuelta a España 2026",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T14:24:02.000Z",
-   "sources": [
-    {
-     "n": "Cyclist (cyclist.co.uk)",
-     "u": "https://www.cyclist.co.uk/news/how-to-watch-vuelta-espana",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "7239dba74e18",
-   "t": "Wiebes vinder begivenhedsrig etape",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T14:23:57.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/wiebes-vinder-begivenhedsrig-etape/11262674",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "8aa1969a0114",
-   "t": "Deutschland Tour: Isaac del Toro blasts to prologue victory ahead of Paul Magnier",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T14:07:29.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/deutschland-tour-isaac-del-toro-blasts-to-prologue-victory-ahead-of-paul-magnier/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "4d960022d77c",
-   "t": "GERMANIA. PROLOGO VINCENTE PER DEL TORO, BATTUTO PER 1''73 MAGNIER, IN TOP-10 RACCAGNI NOVIERO E CICCONE",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T14:06:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/19/1787148269/deutschland-tour-2026-tappa-1-prologo-vittoria-del-toro",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "5c2ae40c9249",
-   "t": "GARMIN. CON TACX NEO 2T DOTATO DI ZWIFT COG E CLICK L'ESPERIENZA VIRTUALE E' ANCORA PIU' FLUIDA",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T14:00:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/19/1787155924/smart-trainer-zwift-allenamento-indoor-garmin-tacx",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "ffba21af46fb",
-   "t": "El Burgos Burpellet BH ficha al campeón de Estonia Romet Pajur para 2027",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T13:58:03.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/08/19/burgos-burpellet-bh-ficha-campeon-estonia-romet-pajur-2027.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "38565e225ca3",
-   "t": "Late starter Isaac Del Toro houdt Paul Magnier van zege in proloog Lidl Deutschland Tour",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T13:54:17.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/late-starter-isaac-del-toro-houdt-paul-magnier-van-zege-in-proloog-lidl-deutschland-tour/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "360adc73793c",
-   "t": "Del Toro slår Magnier på vild prolog",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T13:53:06.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/del-toro-slaar-magnier-paa-vild-prolog/11262636",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "9b94f14d93d4",
-   "t": "INCIDENTE SUL NAVIGLIO PAVESE, CICLOAMATORE IN FIN DI VITA",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T13:32:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/19/1787146360/ciclismo-incidenti-stradali-milano-cicloamatori-sicurezza-in-bici",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "c2d2070c6170",
-   "t": "Kim A. ser ingen træthed hos Mads Pedersen",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T12:54:01.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/kim-a.-ser-ingen-traethed-hos-mads-pedersen/11262484",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "16c95215a623",
-   "t": "Last chance saloon – The riders and teams who need to turn their season around at the Vuelta a España",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T12:52:51.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/last-chance-saloon-the-riders-and-teams-who-need-to-turn-their-season-around-at-the-vuelta-a-espana/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "c9e7d488d8d4",
-   "t": "Vuelta 2026: Milan Vader een van de vele vrijbuiters bij Pinarello-Q36.5",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T12:31:30.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/vuelta-2026-milan-vader-een-van-de-vele-vrijbuiters-bij-pinarello-q36-5/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "de29e95f78e0",
-   "t": "Arnaud De Lie ziet transfer naar Tudor als ‘nieuwe pagina’ in carrière: “Had ik echt nodig”",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T12:22:11.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/arnaud-de-lie-ziet-transfer-naar-tudor-als-nieuwe-pagina-in-carriere-had-ik-echt-nodig/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "f94824879c04",
-   "t": "'The number of smaller races I've been to where there's traffic on the course is unreal' – Jonathan Vaughters calls for calendar reform following death of Finlay Tarling",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T12:17:20.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/the-number-of-smaller-races-ive-been-to-where-theres-traffic-on-the-course-is-unreal-jonathan-vaughters-calls-for-calendar-reform-following-death-of-finlay-tarling/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "7b55c87f5e10",
-   "t": "Intend Officially Drops the Elevator Dropper and Elevator Boy Remote",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T12:00:00.000Z",
-   "sources": [
-    {
-     "n": "Bikerumor",
-     "u": "https://bikerumor.com/intend-officially-drops-the-elevator-dropper-and-elevator-boy-remote/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "d0b23cf2d6ad",
-   "t": "Stor profil får uventet Vuelta-farvel",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T11:55:45.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/stor-profil-faar-uventet-vuelta-farvel/11262442",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "4399a08b8eec",
-   "t": "Abel Balderstone versterkt klimkern rond Tadej Pogacar bij UAE Team Emirates",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T11:51:35.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/abel-balderstone-versterkt-klimkern-rond-tadej-pogacar-bij-uae-team-emirates/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "1d7894170d02",
-   "t": "Abel Balderstone breaks contract to join UAE Team Emirates-XRG",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T11:36:53.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/transfers/abel-balderstone-breaks-contract-to-join-uae-team-emirates-xrg/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "f341c5432484",
-   "t": "Tadej Pogacar breekt zijn contract bij UAE Emirates XRG open tot en met 2031 of 2032",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-19T11:36:37.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/tadej-pogacar-breekt-zijn-miljoenencontract-bij-uae-emirates-xrg-open-tot-en-met-2032/",
-     "l": "nl"
     }
    ]
   }
