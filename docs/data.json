@@ -1,6 +1,944 @@
 {
- "updated": "2026-08-29T19:19:52.911Z",
+ "updated": "2026-08-30T12:42:23.023Z",
  "groups": [
+  {
+   "id": "e2b40dc8baa7",
+   "t": "“Hij was Vlaanderens meest begeerde man”: na de frappante uitspraak van Tom Boonen getuigt Michel Wuyts over zijn ongeziene populariteit",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T12:31:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/hij-was-vlaanderens-meest-begeerde-man-na-de-frappante-uitspraak-van-tom-boonen-getuigt-michel-wuyts-over-zijn-ongeziene-populariteit~aa19c271/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "ecc458521e6b",
+   "t": "Mads Pedersen heeft advies voor gehavende Pogacar: “Hij mag geen risico’s nemen”",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T12:25:02.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/mads-pedersen-heeft-advies-voor-gehavende-pogacar-hij-mag-geen-risicos-nemen/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "81084551a21e",
+   "t": "'Everything is possible' – Felix Gall says it's a new start for the Vuelta a España following Tadej Pogačar's abandon",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T12:23:39.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/everything-is-possible-felix-gall-says-its-a-new-start-for-the-vuelta-a-espana-following-tadej-pogacars-abandon/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "00f45cfaf72a",
+   "t": "MATXIN. «PROBABILMENTE TADEJ SARA' OPERATO DOMANI, POI NE SAPREMO TUTTI DI PIU'»",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T12:21:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/30/1788092839/tadej-pogacar-vuelta-a-espana-infortunio-uae-emirates",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "1d611003e2de",
+   "t": "Bernal involveret i trafikuheld: Taxachauffør efterlyser ham",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T12:16:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/bernal-involveret-i-trafikuheld-taxachauffoer-efterlyser-ham/11272721",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "ae17b5fe7c1b",
+   "t": "Dansk outsider misser VM-medalje",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T12:10:25.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/mountainbike/dansk-outsider-misser-vm-medalje/11272899",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "da9374443891",
+   "t": "LIVE. Nieuwe tactiek na uitvallen Tadej Pogacar: UAE-duo nestelt zich in sterke kopgroep met ook Ramses Debruyne",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T12:09:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/vuelta/live-nieuwe-tactiek-na-uitvallen-tadej-pogacar-uae-duo-nestelt-zich-in-sterke-kopgroep-met-ook-ramses-debruyne~a7e141ce/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "b4334dbbc65b",
+   "t": "Pablo Torres se retira de LaVuelta",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T11:48:21.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/08/30/pablo-torres-retira-lavuelta.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "7ef46566cf94",
+   "t": "Vuelta 2026: Nieuwe tegenvaller UAE Emirates XRG met uitvallen Pablo Torres",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T11:40:20.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/vuelta-2026-nieuwe-tegenvaller-uae-emirates-xrg-met-uitvallen-pablo-torres/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "76f73fcfce3d",
+   "t": "“Zeer moeilijk om de volgende drie à vier weken te sporten”: sportarts Tom Teulingkx schat in of WK haalbaar is voor Tadej Pogacar",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T11:31:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/vuelta/zeer-moeilijk-om-de-volgende-drie-a-vier-weken-te-sporten-sportarts-tom-teulingkx-schat-in-of-wk-haalbaar-is-voor-tadej-pogacar~a7177888/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "ab6bce895abb",
+   "t": "Movistar se aferra al rojo de Enric Mas: “Ha encontrado el golpe de pedal que merece”",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T11:16:14.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/08/30/movistar-aferra-rojo-enric-encontrado-golpe-pedal-merece.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "f74beb21b956",
+   "t": "UCI Mountain Bike World Championships: Nael Rouffiac wins men's U23 XCO race with attack two laps out from line",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T11:08:56.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/uci-mountain-bike-world-championships-nael-rouffiac-wins-mens-u23-xco-race-with-attack-two-laps-out-from-line/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "4962d415036e",
+   "t": "Verklaring ploeggenoot Pavel Sivakov werpt nieuw licht op valpartij Pogacar: “Het gebeurde zo snel”",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T11:02:33.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/verklaring-ploeggenoot-pavel-sivakov-werpt-nieuw-licht-op-valpartij-pogacar-het-gebeurde-zo-snel/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "d2f2aec3b895",
+   "t": "Matxin desvela la clave de la caída de Pogacar: “Estaba bebiendo agua y solo tenía una mano en el manillar...”",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T10:50:15.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/08/30/matxin-desvela-clave-caida-pogacar-bebiendo-agua-tenia-mano-manillar.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "be376a63f359",
+   "t": "'Just be super aggressive and try and make him proud' – UAE Team Emirates-XRG recalibrate Vuelta a España goals after losing Tadej Pogačar",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T10:49:43.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/just-be-super-aggressive-and-try-and-make-him-proud-uae-team-emirates-xrg-recalibrate-vuelta-a-espana-goals-after-losing-tadej-pogacar/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "2e300e4e957c",
+   "t": "Alex Carera frena los rumores sobre Pogacar: \"Nadie puede decir que su temporada ha terminado\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T10:40:12.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/08/30/alex-carera-frena-rumores-sobre-pogacar-nadie-decir-temporada-terminado.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "958a285c36cf",
+   "t": "Vuelta 2026: Wat de opgave van Pogacar betekent voor de strijd om de punten- en bergtrui",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T10:27:07.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/vuelta-2026-wat-de-opgave-van-pogacar-betekent-voor-de-strijd-om-de-punten-en-bergtrui/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "79c5def61502",
+   "t": "De Ronde van de Achterhoek is de enige Nederlandse 1.2-koers die Visma | Lease a Bike dit jaar rijdt",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T10:01:26.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/de-ronde-van-de-achterhoek-is-de-enige-nederlandse-1-2-koers-die-visma-lease-a-bike-dit-jaar-rijdt/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "b4d064743d5e",
+   "t": "CALVAGESE. OLIVIERO E MAZZANO DOMINANO LA SCENA: GAMBA FIRMA LA GARA DEL PRIMO ANNO. GALLERY",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T09:53:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/30/1788083617/ciclismo-esordienti-mazzano-asd-calvagese-della-riviera-brescia",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "24abf2baf340",
+   "t": "“Stayin´ Alive“: Pogacar meldet sich aus dem Krankenhaus",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T09:44:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146609.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "85adced2f9f3",
+   "t": "Vuelta a España stage 9 LIVE: Huge break finally allowed a gap by a very cagey peloton",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T09:34:45.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/live/vuelta-a-espana-stage-9-live-alto-de-aitana-awaits-as-race-carries-on-without-pogacar/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "457b6a546a87",
+   "t": "Tadej Pogacar, die met selfie vanuit ziekenhuis toont hoe hij eraan toe is, wordt allicht pas morgen geopereerd aan sleutelbeen",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T09:23:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/vuelta/tadej-pogacar-die-met-selfie-vanuit-ziekenhuis-toont-hoe-hij-eraan-toe-is-wordt-allicht-pas-morgen-geopereerd-aan-sleutelbeen~a1dd3521/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "76d46ee21de8",
+   "t": "MONDIALI MTB. IN VAL DI SOLE VALENTINA CORVI SI LAUREA CAMPIONESSA DEL MONDO UNDER 23",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T09:23:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/30/1788082021/campionati-mondiali-2026-mtbm-valentina-corvi-cross-country",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "bfb9a758e1aa",
+   "t": "Strijd ligt open na opgave Pogacar: wie gaat de Vuelta a España 2026 winnen?",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T09:22:46.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/strijd-ligt-open-na-opgave-pogacar-wie-gaat-de-vuelta-a-espana-2026-winnen/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "db1c25bcf1ac",
+   "t": "UCI Mountain Bike World Championships: Valentina Corvi wins women's U23 XCO title",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T09:12:42.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/uci-mountain-bike-world-championships-valentina-corvi-wins-womens-u23-xco-title/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "4873e8032a27",
+   "t": "CASTELFRANCO VENETO. VESCO TORNA A BRILLARE: MONTE TOMBA E' SUA, SESTA PERLA STAGIONALE. GALLERY",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T09:06:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/30/1788091673/ciclismo-juniores-riccardo-vesco-arrivi-in-salita-team-guerrini-senaghese",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "51bbc5f43e88",
+   "t": "VERTOVA. FEDRIZZI TRIONFA AL TROFEO MARMI PAGANESSI. GALLERY",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T09:00:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/30/1788089018/ciclismo-juniores-trofeo-paganessi-brandon-fedrizzi-vertova",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "bbcb28957429",
+   "t": "Am Alto de Aitana entbrennt der Kampf um das Rote Trikot",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T09:00:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146503.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "5d4d269617bd",
+   "t": "Vuelta 2026: Wat is de schade bij andere renners na etappe vol valpartijen?",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T08:33:30.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/vuelta-2026-wat-is-de-schade-bij-andere-renners-na-etappe-vol-valpartijen/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "f2595bff1bb4",
+   "t": "Specifieke coach moet Mathieu van der Poel en Puck Pieterse helpen in jacht op WK-titel",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T08:25:02.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/specifieke-coach-moet-mathieu-van-der-poel-en-puck-pieterse-helpen-in-jacht-op-wk-titel/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "933abb5a6a92",
+   "t": "Tadej Pogacar verliet ziekenhuis op brancard, geeft eerste teken van leven met disco-hit",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T08:12:24.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tadej-pogacar-verliet-ziekenhuis-op-brancard-geeft-eerste-teken-van-leven-met-disco-hit/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "253cdc9750fc",
+   "t": "“Te vroeg op het zadel springen kan grote gevolgen hebben”: is het wielerseizoen van Tadej Pogačar na zijn nekbreuk nu al definitief voorbij?",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T08:11:31.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/vtm-nieuws/te-vroeg-op-het-zadel-springen-kan-grote-gevolgen-hebben-is-het-wielerseizoen-van-tadej-pogacar-na-zijn-nekbreuk-nu-al-definitief-voorbij~af25a8f2/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "dc0daae354fc",
+   "t": "WK mountainbiken 2026 in Val di Sole: Programma en uitslagen",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T08:05:05.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/wk-mountainbiken-2026-in-val-di-sole-programma-en-uitslagen/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "2dd2f273a3b2",
+   "t": "POGACAR E IL MESSAGGIO SU INSTAGRAM CON LA CANZONE DEI BEE GEES: «STAYIN' ALIVE»",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T07:59:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/30/1788076799/ciclismo-pogacar-vuelta-a-espaA�a-caduta-ospedale",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "b56c9cd604b7",
+   "t": "La reparición de Pogacar desde el hospital tras su durísima caída en LaVuelta",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T07:31:58.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/08/30/reparicion-pogacar-hospital-durisima-caida-lavuelta.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "b8316aec329f",
+   "t": "'Stayin Alive' – Tadej Pogačar posts update from Barcelona hospital bed as question marks linger over cause of crash and rest of season after Vuelta a España abandon",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T07:24:44.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/tadej-pogacar-transferred-to-barcelona-hospital-by-ambulance-as-question-marks-linger-over-cause-of-crash-and-rest-of-season-after-vuelta-a-espana-abandon/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "108b78ccfd33",
+   "t": "Creating a Legacy: The Philadelphia Bike Race",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T07:15:29.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-culture/creating-a-legacy-the-philadelphia-bike-race/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "a184c2580d27",
+   "t": "Egan Bernal in conflict met taxichauffeur na verkeersongeval in Colombia",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T07:15:24.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/egan-bernal-in-conflict-met-taxichauffeur-na-verkeersongeval-in-colombia/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "4e4da342ce17",
+   "t": "La estadística más increíble de Tadej Pogacar que terminó con su caída en LaVuelta",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T06:49:25.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/08/30/estadistica-increible-tadej-pogacar-termino-caida-lavuelta.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "20cddc1b3f8f",
+   "t": "¿Y ahora qué? LaVuelta después de Pogacar: Enric Mas hereda el rojo y se abre una batalla total",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T06:37:18.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/08/30/lavuelta-despues-pogacar-enric-hereda-rojo-abre-batalla-total.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "8bbc79533d44",
+   "t": "WK op maat en EK in eigen land: najaarsdoelen Tadej Pogačar in gevaar",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T06:31:05.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/wk-op-maat-en-ek-in-eigen-land-najaarsdoelen-tadej-pogacar-in-gevaar/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "7c24255b8628",
+   "t": "LA CADUTA DI TADEJ, CULMINE DI TRE GIORNI… MALEDETTAMENTE UMANI",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T06:30:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/30/1788030557/ciclismo-vuelta-a-espana-tadej-pogacar-ritiro-grande-giro",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "aa45cd8ce8d7",
+   "t": "POGACAR, QUANDO IL NUMERO 1 FINISCE A TERRA",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T06:22:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/30/1788039988/tadej-pogacar-cadute-ciclismo-tour-de-france-resilienza",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "a1ab28367870",
+   "t": "El Movistar Team defiende el rojo en el infierno alicantino: 5.200 metros de desnivel para una etapa salvaje",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T06:20:44.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/08/30/movistar-team-defiende-rojo-infierno-alicantino-5-200-metros-desnivel-etapa-salvaje.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "1c33578756d5",
+   "t": "VAN AERT. «SO COSA STA VIVENDO TADEJ, SPERO CHE TORNI PRESTO A PEDALARE SENZA DOLORE»",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T06:20:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/30/1788039001/vuelta-spagna-2026-tadej-pogacar-wout-van-aert-infortuni",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "56b2cf26c221",
+   "t": "VUELTA. LA GIORNATA NERA DELLE CADUTE: 14 CORRIDORI A TERRA, 4 RITIRI (PER ORA)",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T06:17:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/30/1788076004/ciclismo-cadute-incidenti-pogacar-ritiri",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "0f62e9a434d8",
+   "t": "VUELTA. LA PRIMA SETTIMANA SI CHIUDE CON UN TAPPONE",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T06:15:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/30/1788014790/vuelta-a-espana-ciclismo-alto-di-aitana-tappone-montagna-costa-blanca",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "d8f32ddd9f15",
+   "t": "VAN ANROOIJ SCEGLIE CANYON SRAM PER CROSS E STRADA. KASTELIJN ALLA HUMAN POWERED E GEORGI ALLA UAE",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T06:00:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/08/30/1787992117/ciclismo-ciclomercato-van-anrooij-canyon-sram-ciclocross",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "e3039016560c",
+   "t": "Vuelta 2026: Liveblog etappe 9: Movistar laat twee grote groepen gaan, smelten ze nog samen?",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T05:00:00.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/live/vuelta-2026-liveblog-etappe-9",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "d5775b1f0257",
+   "t": "Bretagne-Klassiker in Plouay als Vuelta-Alternative am Wochenende",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-30T01:29:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146589.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "32241879fee9",
+   "t": "Balsamo pips Bredewold to win the Classic Lorient Agglomération",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-29T23:17:31.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/balsamo-pips-bredewold-to-win-the-classic-lorient-agglomeration/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "a7489a42d93e",
+   "t": "A tumba abierta by AMIX: \"Hay lecturas positivas tras una desgracia así\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-29T23:17:06.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/08/30/tumba-abierta-by-amix-hay-lecturas-positivas-desgracia-asi.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "b39773c1b103",
+   "t": "Cruel Blow for Pogačar Likely Tears up Remaining Targets of 2026",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-29T23:16:12.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/vuelta-a-espana/pogacar-crash-may-affect-next-targets/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "ddd727ea564b",
+   "t": "Ripoll pone plazo a la recuperación de Pogacar: \"Entre tres y cinco semanas\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-29T23:07:06.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/08/30/ripoll-pone-plazo-recuperacion-pogacar-tres-cinco-semanas.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "a4e9770090bc",
+   "t": "Pons: \"No estamos haciendo ‘El Día Menos Pensado VI’. Y sí, era buen año para hacerlo”",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-29T23:03:56.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/08/30/pons-haciendo-dia-pensado-vi-buen-ano-hacerlo.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "3d741858d30e",
+   "t": "El vídeo viral, ¿con la 'culpable' del adiós de Pogacar?: \"Seguramente será esto lo que ha provocado la caída”",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-29T22:52:43.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/08/30/video-viral-culpable-adios-pogacar-seguramente-sera-esto-provocado-caida.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "aeab435b715f",
+   "t": "Nothing lasts forever",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-29T21:42:08.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/tadej-pogacars-run-had-to-end-some-day-and-thats-what-made-it-so-special/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "4cfa00d58043",
+   "t": "Tadej Pogačar's brutally unexpected exit from the Vueltaa España is a massive reminder of cycling's intrinsic unpredictability - Analysis",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-29T21:37:12.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/tadej-pogacars-brutally-unexpected-exit-from-the-vuelta-a-espana-is-a-massive-reminder-of-cyclings-intrinsic-unpredictability-analysis/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "5ec1dea223ac",
+   "t": "From (Nearly) Zero to Hero: Enric Mas Has Had a Complicated Path to Vuelta Lead",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-29T21:23:59.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/vuelta-a-espana/mas-inherits-red-jersey-vuelta/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "b56d10ff76a9",
+   "t": "Disappointment at SD Worx-Protime as Mischa Bredewold misses fourth consecutive victory at Classic Lorient Agglomération",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-29T20:22:06.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/disappointment-at-sd-worx-protime-as-mischa-bredewold-misses-fourth-consecutive-victory-at-classic-lorient-agglomeration/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "d7353e8608fa",
+   "t": "Der Kampf um den Vuelta-Sieg ist nach Pogacars Aus völlig offen",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-29T20:03:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146608.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "ca5e9d6107a5",
+   "t": "Results & Photos: Stage 8 La Vuelta 2026",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-29T19:45:26.000Z",
+   "sources": [
+    {
+     "n": "Irish Cycling News",
+     "u": "https://www.irishcyclingnews.com/results-photos-stage-8-la-vuelta-2026/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "bf9d47cb8c68",
+   "t": "Did a Rock Cause Tadej Pogačar to Crash?",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-29T19:25:15.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/vuelta-a-espana/did-rock-cause-tadej-pogacar-crash/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "71670699b1b2",
+   "t": "Breuken in sleutelbeen en nek en hersenschudding voor Pogacar na val in Vuelta",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-29T19:22:24.000Z",
+   "sources": [
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2628849",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "db14182f7878",
+   "t": "Pogačar suffers fractured vertebra, broken collarbone and concussion in Vuelta crash",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-29T19:22:16.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/pogacar-suffers-fractured-vertebra-broken-collarbone-and-concussion-in-vuelta-crash/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "2f274a706ef1",
+   "t": "Meerdere breuken bij Tadej Pogacar, opereren nu nog niet mogelijk",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-29T18:56:51.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/schade-aanzienlijk-bij-tadej-pogacar-na-val-in-vuelta/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "4a42dd95a9f9",
+   "t": "'A lot of people thought they were superheroes today' – Matthew Brennan laments risk-taking in Vuelta a España peloton on a day marked by numerous crashes",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-29T18:55:26.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/a-lot-of-people-thought-they-were-superheroes-today-matthew-brennan-laments-risk-taking-in-vuelta-a-espana-peloton-on-a-day-marked-by-numerous-crashes/",
+     "l": "en"
+    }
+   ]
+  },
   {
    "id": "6f00fb2eb3ce",
    "t": "UPDATE. Tadej Pogacar loopt hersenschudding en breuken in het sleutelbeen én nekwervel op bij val in Vuelta",
@@ -72,6 +1010,34 @@
    ]
   },
   {
+   "id": "fbb8ca0c6679",
+   "t": "'It's a sad way to end it' - exit of Tadej Pogačar sparks wave of sympathy and regret in the Vuelta a España peloton",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-29T18:22:51.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/its-a-sad-way-to-end-it-exit-of-tadej-pogacar-sparks-wave-of-sympathy-and-regret-in-the-vuelta-a-espana-peloton/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "b314dcd90705",
+   "t": "Tadej Pogačar Diagnosed with Fractures to Neck and Collarbone, Concussion",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-29T18:08:06.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/vuelta-a-espana/tadej-pogacar-hospitalized-shoulder-fracture-head-injury-vuelta-crash/",
+     "l": "en"
+    }
+   ]
+  },
+  {
    "id": "e5241f14e806",
    "t": "“We moeten en mogen niemand de schuld geven”: Team UAE likt de wonden nadat het kopman Tadej Pogacar kwijtspeelt",
    "s": "",
@@ -96,6 +1062,20 @@
      "n": "Wielerflits",
      "u": "https://www.wielerflits.nl/nieuws/doe-mee-met-de-voorspelgame-tijdens-de-vuelta-2026-wie-wint-etappe-9/",
      "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "d6d53d63bf70",
+   "t": "‘Right now we have to be with Tadej the person' - UAE Team Emirates-XRG management prioritize Pogačar's recovery after Vuelta a España leader crashes out of race",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-29T17:50:52.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/right-now-we-have-to-be-with-tadej-the-person-uae-team-emirates-xrg-management-prioritize-pogacars-recovery-after-vuelta-a-espana-leader-crashes-out-of-race/",
+     "l": "en"
     }
    ]
   },
@@ -138,6 +1118,20 @@
      "n": "Wielerflits",
      "u": "https://www.wielerflits.nl/nieuws/eindelijk-raak-in-grote-ronde-voor-34-jarige-bryan-coquard-lang-op-gewacht/",
      "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "d7df104bda83",
+   "t": "'I think it's something to show respect to him' – New Vuelta a España leader Enric Mas refuses to wear red jersey on stage 8 podium after Tadej Pogačar's abandon",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-29T17:25:19.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/i-think-its-something-to-show-respect-to-him-new-vuelta-a-espana-leader-enric-mas-refuses-to-wear-red-jersey-on-stage-8-podium-after-tadej-pogacars-abandon/",
+     "l": "en"
     }
    ]
   },
@@ -408,6 +1402,34 @@
    ]
   },
   {
+   "id": "1d2237bbaed6",
+   "t": "Vuelta a España Stage 8: Coquard Wins First Grand Tour Stage, Pogačar Crashes Out",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-29T16:05:23.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/vuelta-a-espana/stage-8-results-coquard-wins-pogacar-crashes-out/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "e17a10d04077",
+   "t": "Vuelta a España: Bryan Coquard edges out Mads Pedersen to win crash-marred stage 8 as Tadej Pogačar abandons",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-29T16:00:45.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-bryan-coquard-edges-mads-pedersen-to-win-crash-marred-stage-8-as-tadej-pogacar-abandons/",
+     "l": "en"
+    }
+   ]
+  },
+  {
    "id": "a565a925b055",
    "t": "Coquard gana en Xeraco en el día más loco de LaVuelta: ¡Pogacar se retira y Mas es nuevo líder!",
    "s": "",
@@ -548,6 +1570,34 @@
    ]
   },
   {
+   "id": "94e7f2f4877b",
+   "t": "Tadej Pogačar suffers neck fracture and concussion in crash that ends his Vuelta a España",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-29T15:12:57.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/tadej-pogacar-abandons-the-vuelta-a-espana-after-crash-on-stage-8/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "3093a5709b70",
+   "t": "Tadej Pogačar Abandons 2026 Vuelta a España After Crash",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-29T15:12:54.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/vuelta-a-espana/tadej-pogacar-crashes-at-vuelta-a-espana/",
+     "l": "en"
+    }
+   ]
+  },
+  {
    "id": "e4dc3eff5f3b",
    "t": "¡Pogacar se retira de LaVuelta!",
    "s": "",
@@ -586,6 +1636,20 @@
      "n": "Wielerflits",
      "u": "https://www.wielerflits.nl/nieuws/vuelta-2026-tadej-pogacar-komt-zwaar-ten-val/",
      "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "f87baa2d7bb2",
+   "t": "Classic Lorient Agglomération: Elisa Balsamo overtakes three-time winner Mischa Bredewold to triumph in Plouay",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-29T15:00:27.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/category/womens-cycling/classic-lorient-agglomeration-elisa-balsamo-overtakes-three-time-winner-mischa-bredewold-to-triumph-in-plouay/",
+     "l": "en"
     }
    ]
   },
@@ -632,6 +1696,20 @@
    ]
   },
   {
+   "id": "20c169d12807",
+   "t": "The Specialized S-Works Torch shoe is the 'perfect blend of performance and comfort' — now 20% off and at its lowest price this year",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-29T14:53:03.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/cycling-kit-accessories/the-specialized-s-works-torch-shoe-is-the-perfect-blend-of-performance-and-comfort-now-20-percent-off-and-at-its-lowest-price-this-year/",
+     "l": "en"
+    }
+   ]
+  },
+  {
    "id": "e18926f5b469",
    "t": "Elisa Balsamo houdt Mischa Bredewold van vierde zege op rij in Classic Lorient Agglomération",
    "s": "",
@@ -642,6 +1720,34 @@
      "n": "Wielerflits",
      "u": "https://www.wielerflits.nl/nieuws/elisa-balsamo-houdt-mischa-bredewold-van-vierde-zege-op-rij-in-classic-lorient-agglomeration/",
      "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "73324b7d7d42",
+   "t": "Cracked Rib, No Drama: Kevin Vermaerke Downplays Viral Video About Injury",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-29T14:48:03.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/vuelta-a-espana/kevin-vermaerke-downplays-injury/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "52d626a62e1d",
+   "t": "‘It was fair that I got it' - Alessandro Romele accepts yellow card for crash incident that led to Luca Van Boven Vuelta a España abandon",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-29T14:44:51.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/it-was-fair-that-i-got-it-alessandro-romele-accepts-yellow-card-for-crash-incident-that-led-to-luca-van-boven-vuelta-a-espana-abandon/",
+     "l": "en"
     }
    ]
   },
@@ -1696,6 +2802,20 @@
    ]
   },
   {
+   "id": "a786f8ba1ca2",
+   "t": "‘It needs more space to shine’: Photographer Dominique Powers talks capturing history at the Tour de France Femmes",
+   "s": "",
+   "c": "other",
+   "date": "2026-08-28T19:39:43.000Z",
+   "sources": [
+    {
+     "n": "Cyclist (cyclist.co.uk)",
+     "u": "https://www.cyclist.co.uk/in-depth/dominique-powers-tour-de-france-femmes-interview",
+     "l": "en"
+    }
+   ]
+  },
+  {
    "id": "2e3e5a1b2d8e",
    "t": "Attacke bei bei Kilometer 0: Van Aert investiert viel für Grün",
    "s": "",
@@ -2588,580 +3708,6 @@
      "n": "Wielerflits",
      "u": "https://www.wielerflits.nl/nieuws/op-deze-tv-zenders-kijk-je-het-wk-mountainbike-2026-met-mathieu-van-der-poel-en-puck-pieterse/",
      "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "84099ef7b511",
-   "t": "Is Tadej Pogačar Getting Cocky? Rival Warned Him of Danger Moments Before He Nearly Crashed",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T12:40:33.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/vuelta-a-espana/is-tadej-pogacar-getting-cocky-at-the-vuelta-a-espana/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "74fcd264ef57",
-   "t": "Bretagne Classic im Rückblick: Die letzten zehn Jahre",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T12:30:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_139115.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "865404555e92",
-   "t": "Sandra Alonso vuelve al pelotón profesional con el Laboral Kutxa tras ser madre",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T12:19:44.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/08/28/sandra-alonso-vuelve-peloton-profesional-laboral-kutxa-madre.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "334a2bd04eae",
-   "t": "'We don't know if he was racing at 100%' – Ineos DS on Pogačar's Vuelta stage 6 performance",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T12:09:02.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/we-dont-know-if-he-was-racing-at-100-ineos-ds-on-pogacars-vuelta-stage-6-performance/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "dea9cde061a6",
-   "t": "Lotto forlænger med italiensk profil",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T12:00:25.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/lotto-forlaenger-med-italiensk-profil/11271283",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "5a60e0822d1d",
-   "t": "Meet the maker: Rob Quirk of Quirk Cycles",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T11:56:46.000Z",
-   "sources": [
-    {
-     "n": "Cyclist (cyclist.co.uk)",
-     "u": "https://www.cyclist.co.uk/in-depth/meet-the-maker-rob-quirk-quirk-cycles",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "532f8493d848",
-   "t": "Bausager vurderer: Var Pogacar i krise?",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T11:54:51.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/bausager-vurderer-var-pogacar-i-krise/11271055",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "bfacc3a5f2d2",
-   "t": "As it happened: win goes to the breakaway and more gaps among the GC riders on stage 7 of the Vuelta a España",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T11:20:40.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/live/vuelta-a-espana-stage-7-live-tadej-pogacars-form-to-be-tested-in-the-mountains/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "38cb77922d5e",
-   "t": "Journalist: UAE jagter ikke længere Seixas",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T11:15:52.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/journalist-uae-jagter-ikke-laengere-seixas/11271230",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "345165b0cbe4",
-   "t": "Former British champion Pfeiffer Georgi ends 8-year Picnic-PostNL spell to join UAE Team L'IMAD",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T11:07:39.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/former-british-champion-pfeiffer-georgi-ends-8-year-picnic-postnl-spell-to-join-uae-team-limad/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "0d51e013523c",
-   "t": "Bart Lemmen verlengt bij Visma-Lease a Bike - Juan Molano trekt naar Lotto Intermarché",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T09:36:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/bart-lemmen-verlengt-bij-visma-lease-a-bike-juan-molano-trekt-naar-lotto-intermarche~ada647ae/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "1d2c189e1640",
-   "t": "'I was pretty useless' – Oscar Onley 'overcooks' gravel climb at Vuelta a España and pays the price",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T09:32:35.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/i-was-pretty-useless-oscar-onley-overcooks-gravel-climb-at-vuelta-a-espana-and-pays-the-price/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "aaaa124777e2",
-   "t": "'We don't know if he was racing at 100%' – Rival sports director believes Vuelta a España leader Pogačar's failure to finish solo on stage 6 delivers mixed messages",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T09:07:40.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/we-dont-know-if-he-was-racing-at-100-percent-today-rival-sports-director-believes-vuelta-a-espana-leader-pogacars-failure-to-finish-solo-on-stage-6-delivers-mixed-messages/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "c127285f9be6",
-   "t": "A CHIURO IL GRAPPOLO D'ORO SI APRE CON IL CONVEGNO SUL CICLOTURISMO",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T08:34:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/28/1787906202/valtellina-convegno-cicloturismo-cassani",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "a2ae0fef596b",
-   "t": "A qué hora es la Vuelta a España, etapa 7: recorrido, perfil, horario y dónde ver hoy en TV y online",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T08:17:49.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/08/28/hora-vuelta-espana-etapa-7-recorrido-perfil-horario-ver-hoy-tv-online.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "ecaa3a9e457b",
-   "t": "'Full focus on World Championships' – Mads Würtz Schmidt chasing a set of rainbow bands to add to The Traka and Unbound titles in 2026",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T08:03:29.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/full-focus-on-world-championships-mads-wurtz-schmidt-chasing-a-set-of-rainbow-bands-to-add-to-the-traka-and-unbound-titles-in-2026/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "db4981779a44",
-   "t": "VERSO I MONDIALI. VOECKLER:«SEIXAS SARÀ CAPITANO, AVRÀ LA FRANCIA TUTTA PER LUI»",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T07:55:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/28/1787900158/ciclismo-mondiali-2026-paul-seixas-francia-montreal",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "2b08c3d77299",
-   "t": "VELO'. SE VOLETE RIVEDERE LA PUNTATA DI QUESTA SETTIMANA...",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T07:47:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/28/1787914237/vuelta-a-espana-pogaA�ar-velo-rete8",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "f05e4d0b4adb",
-   "t": "One Month to Montréal Road Worlds: Ranking the Favorites for the Rainbow Jersey",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T07:46:27.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/ranking-the-favorites-for-uci-road-world-championships/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "119567d5cc35",
-   "t": "JACQUELIN, ALL’ORIZZONTE SI PROFILA UN’ALTRA STAGIONE NEL CICLISMO",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T07:15:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/28/1787872715/jacquelin-decathlon-cga-cgm-futuro",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "cc56528937d3",
-   "t": "De Le Lioran a El Bartolo: Enric Mas firma el primer 'jaque' a Pogacar desde 2024",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T06:42:25.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/08/28/le-lioran-bartolo-enric-firma-primer-jaque-pogacar-2024.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "0128d3ad518c",
-   "t": "L'ULTIMA VUELTA DI LUTSENKO. «A FINE STAGIONE SMETTO»",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T06:28:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/28/1787879401/ciclismo-alexey-lutsenko-ritiro-vuelta-a-espana-carriera",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "7c3313de428c",
-   "t": "IL GIRO DEL VENETO PROF TORNA SUL MONTE BERICO",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T06:25:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/28/1787868454/giro-del-veneto-ciclismo-colli-berici-veneto-classic-classiche-italiane",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "e0994a649d3e",
-   "t": "QUELLA VOLTA CHE GIGI MELE FECE IMPAZZIRE L'IMPERATORE DI HERENTALS",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T06:20:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/28/1787677869/gigi-mele-classiche-italiane-rik-van-looy-storia-del-ciclismo-sassari-cagliari",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "8f4b4c4961b3",
-   "t": "DEBRUYNE, LA RIVELAZIONE CHE ARRIVA DAL GHIACCIO",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T06:20:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/28/1787867858/ciclismo-vuelta-a-espaA�a-ramses-debruyne-giovani-talenti-lavuelta26",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "bf30e6eb4ae7",
-   "t": "‘UAE Emirates XRG haakt af in de strijd om Paul Seixas’",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T06:18:59.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/uae-emirates-xrg-haakt-af-in-de-strijd-om-paul-seixas/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "b3feb823a5e2",
-   "t": "Con Tarling en la cabeza: “Nos da una motivación extra para pedalear por él y mantenerlo siempre en el recuerdo”",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T06:15:26.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/08/28/tarling-cabeza-da-motivacion-extra-pedalear-mantenerlo-siempre-recuerdo.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "aebefd668f13",
-   "t": "MAS. «UN PASSO ALLA VOLTA, POSSO SOLO DIRE CHE MI SENTO MOLTO BENE»",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T06:15:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/28/1787867561/vuelta-a-espana-ciclismo-enric-mas-tadej-pogacar-lavuelta26",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "2757413b4761",
-   "t": "SIDI TORNA ALL'IBF CON TANTE NOVITA' PER LA PROSSIMA STAGIONE",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T06:15:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/28/1787868514/sidi-scarpe-da-strada-gravel-innovazione-international-bike-festival",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "8c66a83704e3",
-   "t": "\"No es tiempo de pasar facturas, sí de sacar la trompeta\"",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T06:12:39.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/opinion/2026/08/28/pasar-facturas-sacar-trompeta.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "be3e341574a5",
-   "t": "BIESSE CARRERA PREMAC. TRIS DI APPUNTAMENTI IN UN WEEKEND LUNGO",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T06:10:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/28/1787867062/team-biesse-carrera-continental-gran-premio-carnaghese-freccia-dei-vini-circuito-di-cesa",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "94cf8e5db65a",
-   "t": "Zelfs een auto ging bijna het decor in: nieuwe beelden tonen hoe Tadej Pogacar niet de enige was die zich verkeek op verraderlijke bocht",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T06:08:27.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/vuelta/zelfs-een-auto-ging-bijna-het-decor-in-nieuwe-beelden-tonen-hoe-tadej-pogacar-niet-de-enige-was-die-zich-verkeek-op-verraderlijke-bocht~a9b4c65b/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "89bdd9e76bb0",
-   "t": "PICCOLA SANREMO, PRESENTATA UFFICIALMENTE L'EDIZIONE 2026",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T06:05:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/28/1787867223/ciclismo-piccola-sanremo-elite-under-23-sovizzo-classicissime",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "cb0d6f66734f",
-   "t": "VUELTA, SECONDO ARRIVO IN SALITA, SI APPRODA IN ARAGONA",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T06:00:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/28/1787847621/ciclismo-vuelta-a-espana-pogacar-montagna-lavuelta26",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "a633dd3ad111",
-   "t": "TRITTICO ROSA ALTA MARCA TREVIGIANA, DA OGGI SI PEDALA A VALDOBBIADENE",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T06:00:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/08/28/1787868001/ciclismo-ciclismo-femminile-valdobbiadene-trittico-rosa-gare-giovanili",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "23543ee11b58",
-   "t": "Ramses y Sinuhé, del Antiguo Egipto a brillar en LaVuelta cuatro mil años 'después': \"¿Pogacar? Otro nivel\"",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T05:40:51.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/08/28/ramses-sinuhe-antiguo-egipto-brillar-lavuelta-cuatro-mil-anos-despues-pogacar-nivel.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "fda223db0f5f",
-   "t": "Rick Pluimers geeft renners stem binnen KNWU: “Als je ergens mee zit, kun je mij gewoon appen”",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T05:30:43.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/rick-pluimers-geeft-renners-stem-binnen-knwu-als-je-ergens-mee-zit-kun-je-mij-gewoon-appen/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "06a4db51066d",
-   "t": "Tong uit de mond en compleet oververhit, maar twee jonge Belgen pronken in Vuelta bovenin: “Ik dacht niet dat ze bang zouden zijn van Ramses Debruyne”",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-28T05:07:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/tong-uit-de-mond-en-compleet-oververhit-maar-twee-jonge-belgen-pronken-in-vuelta-bovenin-ik-dacht-niet-dat-ze-bang-zouden-zijn-van-ramses-debruyne~aaf82095/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "2c2229fb30e6",
-   "t": "Results & Photos: Stage 6 La Vuelta 2026",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-27T21:29:05.000Z",
-   "sources": [
-    {
-     "n": "Irish Cycling News",
-     "u": "https://www.irishcyclingnews.com/results-photos-stage-6-la-vuelta-2026/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "4b5f184acc90",
-   "t": "'Hopefully I can get a start to my season' - After injury-plagued season, Jay Vine finds form supporting Tadej Pogačar at Vuelta a España",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-27T20:47:46.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/hopefully-i-can-get-a-start-to-my-season-after-injury-plagued-season-jay-vine-finds-form-supporting-tadej-pogacar-at-vuelta-a-espana/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "21b1e5411aa6",
-   "t": "A qué hora es la Vuelta a España, etapa 7: recorrido, perfil, horario y dónde ver hoy en TV y online",
-   "s": "",
-   "c": "other",
-   "date": "2026-08-27T20:42:58.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/08/27/hora-vuelta-espana-etapa-7-recorrido-perfil-horario-ver-hoy-tv-online.html",
-     "l": "es"
     }
    ]
   }
