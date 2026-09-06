@@ -1,6 +1,1098 @@
 {
- "updated": "2026-09-06T11:35:27.912Z",
+ "updated": "2026-09-06T18:09:59.638Z",
  "groups": [
+  {
+   "id": "e90d5762f7a6",
+   "t": "Red Bull Rookies mit vier starken Tagen im Sauerland",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T18:38:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146696.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "2ef34fd4bb40",
+   "t": "Mageres “Fluchtgruppengeschäft“ in der Hitzeschlacht",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T18:05:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146695.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "8cf11526cf91",
+   "t": "Nummer twee voor meesterlijke Wout van Aert na Belgische finale: “Agressief koersen, zo doe ik het graag”",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T18:04:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/vuelta/nummer-twee-voor-meesterlijke-wout-van-aert-na-belgische-finale-agressief-koersen-zo-doe-ik-het-graag~ac594d46/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "4ea2424be283",
+   "t": "GP Industria & Artigianato : Tom Pidcock vainqueur",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T18:03:19.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/courses/gp-industria-artigianato/gp-industria-artigianato-tom-pidcock-vainqueur/",
+     "l": "fr"
+    }
+   ]
+  },
+  {
+   "id": "95a7453b2835",
+   "t": "'If the stage had been 80 kilometres longer, I think the same rider would have won' - Vuelta a España leader Enric Mas backs shortening of stage as extreme heat batters race",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T18:01:36.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/if-the-stage-had-been-80-kilometres-longer-i-think-the-same-rider-would-have-won-vuelta-a-espana-leader-enric-mas-backs-shortening-of-stage-as-extreme-heat-batters-race/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "2ef1926214b3",
+   "t": "I VOTI DI STAGI. VAN AERT MAESTRO, ROMELE STUDENTE MODELLO",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T17:51:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/09/06/1788717148/lavuelta26-pagelle-stagi-van-aert-alessandro-romele-",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "02467fd445b8",
+   "t": "Week na wereldtitel mountainbiken wint Pidcock alweer op de weg, ook zege Wellens en Vacek",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T17:50:34.000Z",
+   "sources": [
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2629977",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "7bc51bf33b6e",
+   "t": "15ème étape La Vuelta : Wout van Aert tout en maîtrise",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T17:49:20.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/courses/la-vuelta/15eme-etape-la-vuelta-wout-van-aert-tout-en-maitrise/",
+     "l": "fr"
+    }
+   ]
+  },
+  {
+   "id": "1d21ac220f75",
+   "t": "Doe mee met de voorspelgame tijdens de Vuelta 2026: wie wint etappe 16?",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T17:30:03.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/doe-mee-met-de-voorspelgame-tijdens-de-vuelta-2026-wie-wint-etappe-16/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "f069886e6a82",
+   "t": "Medie: Pogacars monsterforlængelse kunne have været endnu længere",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T17:21:07.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/medie-pogacars-monsterforlaengelse-kunne-have-vaeret-endnu-laengere/11280741",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "619622437c47",
+   "t": "A tumba abierta by AMIX: \"El ciclismo tendría que plantearse que una etapa no tiene que terminar a las cinco y media de la tarde\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T17:20:07.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/09/06/tumba-abierta-by-amix-ciclismo-tendria-plantearse-etapa-terminar-cinco-media-tarde.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "f70fe8e7fa90",
+   "t": "Vuelta 2026: Dit is de stand van zaken voor de tweede rustdag",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T17:18:12.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/vuelta-2026-dit-is-de-stand-van-zaken-voor-de-tweede-rustdag/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "c2a95ed69c21",
+   "t": "Vuelta 2026: Voorbeschouwing etappe 16 – Matthew Brennan kan zijn kwartet volmaken",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T17:00:23.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/vuelta-2026-voorbeschouwing-etappe-16-matthew-brennan-kan-zijn-kwartet-volmaken/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "2a06992557be",
+   "t": "Ramses Debruyne (4e) speelt weer hoofdrol in Vuelta: “Maar in de sprint is het moeilijk”",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T16:56:10.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/ramses-debruyne-4e-speelt-weer-hoofdrol-in-vuelta-maar-in-de-sprint-is-het-moeilijk/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "13d79b143416",
+   "t": "'It wouldn't surprise me if a few bodies left in an ambulance' – Triple stage winner Matthew Brennan pulls no punches in assessment of sweltering heat at Vuelta a España",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T16:51:02.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/it-wouldnt-surprise-me-if-a-few-bodies-left-in-an-ambulance-with-heatstroke-matthew-brennan-offers-honest-assessment-of-sweltering-temperatures-at-vuelta-a-espana/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "20d6dce23feb",
+   "t": "Gemengde gevoelens bij Thibau Nys: “Meer ballen nodig om langer te wachten”",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T16:50:14.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/gemengde-gevoelens-bij-thibau-nys-meer-ballen-nodig-om-langer-te-wachten/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "4b34b86d289a",
+   "t": "VAN AERT. «ORGOGLIOSO DI QUESTA SQUADRA, SIAMO STATI PERFETTI»",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T16:41:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/09/06/1788712892/ciclismo-vuelta-a-espaA�a-wout-van-aert-visma-lease-a-bike-tappe",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "271ea575f258",
+   "t": "Rasende Brennan: Nogen tager hjem i ambulance i aften",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T16:33:23.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/rasende-brennan-nogen-tager-hjem-i-ambulance-i-aften/11280659",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "8d5b0d50650f",
+   "t": "Visma-talent Henry Hobbs pakt eerste profzege op 19-jarige leeftijd: “Niet zo snel verwacht”",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T16:32:35.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/visma-talent-henry-hobbs-pakt-eerste-profzege-op-19-jarige-leeftijd-niet-zo-snel-verwacht/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "45330fe3d81d",
+   "t": "Brennan: “Wir wollen noch mehr“",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T16:30:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146694.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "bd994fca0b92",
+   "t": "Emotionele Romele: “Tweede achter een monster als Van Aert, is een geweldig resultaat”",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T16:27:18.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/emotionele-romele-tweede-achter-een-monster-als-van-aert-is-een-geweldig-resultaat/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "5df26ae4ff4e",
+   "t": "“Wow“ van Aert schlägt Romele und Nys bei über 40 Grad",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T16:26:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146688.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "ad13f42c30a6",
+   "t": "Dansk stortalent sikrer samlet sejr i Belgien",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T16:25:38.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/dansk-stortalent-sikrer-samlet-sejr-i-belgien/11280647",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "fe19704900cd",
+   "t": "Skjelmose har planen klar for tredje uge",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T16:16:48.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/skjelmose-har-planen-klar-for-tredje-uge/11280628",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "1a6f7f5d6f8b",
+   "t": "ROMELE. «UN SECONDO POSTO DIETRO VAN AERT E' QUALCOSA CHE VALE TANTO»",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T16:10:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/09/06/1788712416/ciclismo-vuelta-a-espaA�a-alessandro-romele-van-aert-lavuelta26",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "6c17b5fe1378",
+   "t": "Wout van Aert slaat opnieuw toe in Vuelta: “We wilden het peloton echt verrassen”",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T16:06:35.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/wout-van-aert-slaat-opnieuw-toe-in-vuelta-we-wilden-het-peloton-echt-verrassen/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "fb4696af33ea",
+   "t": "Así está la clasificación general de LaVuelta tras la etapa 14: Enric Mas llega de rojo al segundo descanso",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T16:06:26.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/09/06/asi-clasificacion-general-lavuelta-etapa-14-enric-llega-rojo-segundo-descanso.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "14d7a0274cff",
+   "t": "Vuelta a España Stage 15: Van Aert in Complete Control for Second Win in Three Days",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T16:05:00.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/vuelta-a-espana/vuelta-a-espana-stage-15-van-aert-in-complete-control-for-second-win-in-three-days/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "7b92b34b3a9d",
+   "t": "Cort forklarer besynderligt angreb",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T16:01:53.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/cort-forklarer-besynderligt-angreb/11280603",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "09f6b638515d",
+   "t": "LIVE: Dedikerer andenplads til afdød",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T16:00:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/live-dedikerer-andenplads-til-afdoed/11262246",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "24c7fdd2d9a7",
+   "t": "Van Aert takes Visma's fifth win of the Vuelta on shortened stage 15",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T15:59:50.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/van-aert-takes-vismas-fifth-win-of-the-vuelta-on-shortened-stage-15/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "10dd13abcabf",
+   "t": "A qué hora es la etapa 16 de la Vuelta a España: perfil, recorrido, horario y dónde ver en TV",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T15:58:05.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/09/06/hora-etapa-16-vuelta-espana-perfil-recorrido-horario-ver-tv.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "ddc176a7de8a",
+   "t": "Luxemburgse Nina Berton aan het feest in knotsgekke Pointe du Raz Ladies Classic",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T15:55:26.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/luxemburgse-nina-berton-aan-het-feest-in-knotsgekke-pointe-du-raz-ladies-classic/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "e8ca314e4367",
+   "t": "On heat-shortened day Wout Van Aert wins another 2026 Vuelta a España stage",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T15:54:03.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/sections/news/on-heat-shortened-day-wout-van-aert-wins-another-2026-vuelta-a-espana-stage/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "4e5d1cbce021",
+   "t": "Van Aert wint tweede Vuelta-rit in drie dagen en volgt zichzelf op in Córdoba",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T15:51:51.000Z",
+   "sources": [
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2629956",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "6aedcc7c3ceb",
+   "t": "Van Aerts sats betalte sig: - Folk ville ikke forvente det",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T15:51:14.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/van-aerts-sats-betalte-sig-folk-ville-ikke-forvente-det/11280567",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "7af19f648e3b",
+   "t": "Vuelta a España: Wout van Aert wins stage 15 from a five-rider breakaway",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T15:48:53.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-wout-van-aert-wins-stage-15-from-a-five-rider-breakaway/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "89a5a4cd147c",
+   "t": "Van Aert gana la batalla del fuego: la 'avispa' triunfa en una jornada recortada por el calor",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T15:42:35.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/09/06/aert-gana-batalla-fuego-avispa-triunfa-jornada-recortada-calor.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "05b990135f10",
+   "t": "Tim Wellens resiste en Earslton para ganar el Tour de Gran Bretaña",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T15:39:00.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/09/06/tim-wellens-resiste-earslton-ganar-tour-gran-bretana.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "940b6aee5de0",
+   "t": "MONTECOSARO. BUTI ANTICIPA RUBIO E CONQUISTA IL TROFEO SS ADDOLORATA",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T15:39:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/09/06/1788709189/ciclismo-andrea-buti-dilettanti-trofeo-addolorata-vittorie",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "5d27e920c34a",
+   "t": "Vuelta 2026: Meesterlijke Wout van Aert snelt in Córdoba naar tweede ritzege",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T15:37:17.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/vuelta-2026-meesterlijke-wout-van-aert-snelt-in-cordoba-naar-tweede-ritzege/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "9d28377d3a23",
+   "t": "Van Aert tager ny Vuelta-triumf",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T15:35:37.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/van-aert-tager-ny-vuelta-triumf/11280473",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "08fa09252db6",
+   "t": "VUELTA. VAN AERT DOMINA ANCORA, SECONDO ROMELE. TAPPA PIÙ CORTA PER IL CALDO",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T15:30:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/09/06/1788709287/vuelta-a-espana-2026",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "d8ea1cea284e",
+   "t": "Devo-Fahrer Henry Hobbs düpiert die Profis",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T15:23:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146693.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "7b90eb4edbbe",
+   "t": "Tom Pidcock se exhibe en el Gran Premio Industria y Artesanado de Larciano",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T15:12:52.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/09/06/tom-pidcock-exhibe-gran-premio-industria-artesanado-larciano.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "de7c9f290d50",
+   "t": "Pointe du Raz Ladies Classic: Nina Berton swipes victory from breakaway duo on final 50 metres in Plouhinec",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T15:09:25.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/pointe-du-raz-ladies-classic-nina-berton-swipes-victory-from-breakaway-duo-on-final-50-metres-in-plouhinec/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "eebd8adcb7fd",
+   "t": "Politt vergoldet UAE-Traumtag und widmet Sieg seinem Großvater",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T14:57:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146691.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "53164069ba00",
+   "t": "“Gar nicht so schlecht!“ – Pidcock findet Straßenbeine schnell wieder",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T14:55:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146692.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "762db31c38e0",
+   "t": "POINTE DU RAZ. GIORNATA DI GLORIA PER NINA BERTON, 5a QUAGLIOTTO E 8a LONGO BORGHINI",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T14:55:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/09/06/1788705608/ciclismo-femminile-pointe-du-raz-ladies-classic-nina-berton-bretagna",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "9e048b896bba",
+   "t": "UAE dominates Tour of Britain finale as Politt wins stage 5 and Wellens seals overall",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T14:38:30.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/uae-dominates-tour-of-britain-finale-as-politt-wins-stage-5-and-wellens-seals-overall/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "4e1130ebc1d8",
+   "t": "Visma-talent tager sidste stik i Lidl-Treks triumftog",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T14:30:52.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/visma-talent-tager-sidste-stik-i-lidl-treks-triumftog/11280454",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "ba509f7e105d",
+   "t": "GP Industria & Artigianato: Tom Pidcock backs up his MTB Worlds success with victory in Italy",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T14:30:28.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/gp-industria-artigianato-tom-pidcock-backs-up-his-mtb-worlds-success-with-victory-in-italy/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "80a13a3cfd17",
+   "t": "Mas and Gall set a new climbing record on Vuelta stage 14",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T14:29:37.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/mas-and-gall-set-a-new-climbing-record-on-vuelta-stage-14/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "a567c5b97d42",
+   "t": "PIDCOCK. «HO TROVATO BUONE SENSAZIONI E VITTORIA. L’IRIDE SU STRADA? NON VADO IN CANADA PER VACANZA»",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T14:20:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/09/06/1788704516/ciclismo-tom-pidcock-gp-larciano-strada-mondiale",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "61f41192cc01",
+   "t": "IO GIRO DEL FRIULI. TRIONFO FINALE DI GARIBBO, ROGERS CHIUDE ALLO SPRINT L'ULTIMA TAPPA",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T14:12:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/09/06/1788703983/ciclismo-giro-friuli-venezia-giulia-team-ukyo-nicolo-garibbo-cameron-rogers",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "578feb893a93",
+   "t": "CLUSONE. MINOIA FA SUO IL CRITERIUM 648 ANTICIPANDO ORENGO E MARTINELLI. GALLERY",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T14:10:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/09/06/1788705130/ciclismo-juniores-criterium-648-alessandro-minoia-biesse-carrera-premac",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "58bb38d9cd23",
+   "t": "UAE-show i Britain - Bornholmerne i top-5",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T14:09:45.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/uae-show-i-britain-bornholmerne-i-top-5/11280381",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "9409de957198",
+   "t": "ZLM TOUR, L’ULTIMA TAPPA SORRIDE A HOBBS: L’INGLESE FULMINA ALLO SPRINT WALSCHEID E KOCKELMANN. GENERALE A VACEK",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T14:09:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/09/06/1788704218/zlm-tour-2026-hobbs-walscheid-kockelmann-vacek",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "8f967a4dece8",
+   "t": "Piepjonge Henry Hobbs bezorgt Visma toch nog zege in ZLM Tour, Vacek eindwinnaar",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T14:06:17.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/piepjonge-henry-hobbs-bezorgt-visma-toch-nog-zege-in-zlm-tour-vacek-eindwinnaar/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "b626fee521f0",
+   "t": "Kristian Østergaard y Tessa Kortekaas se proclaman ganadores de la 24ª edición de la 4 Stage MTB Race Lanzarote de Club La Santa",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T14:05:40.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/09/06/kristian-ostergaard-tessa-kortekaas-proclaman-ganadores-24-edicion-4-stage-mtb-race-lanzarote-club-santa.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "58a7a86b1aa6",
+   "t": "FABBRICA DI PECCIOLI. TARALLO PER DISTACCO NEL TROFEO SAN ROCCO: BATTUTI COLELLA E GAGGIOLI",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T14:03:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/09/06/1788708879/juniores-trofeo-san-rocco-andrea-tarallo-vangi-tommasini",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "28f41aaee082",
+   "t": "Belgisch succes: Tim Wellens geeft eindwinst in Groot-Brittannië niet meer af",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T14:02:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/belgisch-succes-tim-wellens-geeft-eindwinst-in-groot-brittannie-niet-meer-af~a98ef736/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "f70236d1177b",
+   "t": "BRITAIN. LA UAE PRENDE TUTTO: TAPPA A POLITT, TOUR A WELLENS",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T13:59:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/09/06/1788703365/tour-of-britain-2026-uae-emirates-xrg-nils-politt-tim-wellens",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "4690fb2a5d71",
+   "t": "Tour of Britain Men: Nils Politt strikes for solo stage 5 win while Tim Wellens secures overall title",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T13:58:13.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-of-britain-men-nils-politt-strikes-for-solo-stage-5-win-while-tim-wellens-secures-overall-title/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "ef7d02a31ecb",
+   "t": "UAE Emirates zet puntjes op de i in Tour of Britain: Politt wint waaierrit, eindwinst voor Wellens",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T13:52:29.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/uae-emirates-zet-puntjes-op-de-i-in-tour-of-britain-politt-wint-waaierrit-eindwinst-voor-wellens/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "e049ebe764a7",
+   "t": "Topresultat af Charmig, da Pidcock viste stor VM-form",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T13:52:05.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/topresultat-af-charmig-da-pidcock-viste-stor-vm-form/11280385",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "4fda3edaac90",
+   "t": "Tom Pidcock toont WK-vorm met solozege in GP Industria & Artigianato",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T13:45:47.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tom-pidcock-toont-wk-vorm-met-solozege-in-gp-industria-artigianato/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "2fc4a4c70416",
+   "t": "GP LARCIANO. PIDCOCK CENTRA IL BERSAGLIO: 2° SCARONI, 3° CHARMIG. FANCELLU E TIBERI IN TOP-10",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T13:44:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/09/06/1788686312/gp-larciano-vittoria-tom-pidcock-pinarello",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "60482d576d9f",
+   "t": "Are Stars Aligning for a Tour Down Under Return for Tadej Pogačar?",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T13:22:42.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/stars-aligning-tour-down-under-tadej-pogacar/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "bfd0422f9766",
+   "t": "Gallery: The evolution of Enric Mas",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T13:21:26.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/gallery-the-evolution-of-enric-mas/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "caa747bb35a1",
+   "t": "Thibau Nys verwacht een Spaanse ‘kermiskoers’: “Deze rit toch wel aangekruist”",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T13:06:09.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/thibau-nys-verwacht-een-spaanse-kermiskoers-deze-rit-toch-wel-aangekruist/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "a7ce527ae93d",
+   "t": "Guillén explica el recorte por el calor: “La iniciativa de activar el protocolo parte de los corredores”",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T12:59:50.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/09/06/guillen-explica-recorte-calor-iniciativa-activar-protocolo-parte-corredores.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "b34678abf0c4",
+   "t": "Wout van Aert verwacht na inkorting ‘heel andere rit’: “We hebben onze aanpak gewijzigd”",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T12:54:36.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/wout-van-aert-verwacht-na-inkorting-heel-andere-rit-we-hebben-onze-aanpak-gewijzigd/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "22a65b1e8b2c",
+   "t": "Fietzke gewinnt Sauerlandrundfahrt, Wallenborn holt Schlussetappe",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T12:40:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146690.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "ac59a5bd4676",
+   "t": "Crankworx Mont-Sainte-Anne gets real as Canadians sweep the men’s downhill podium",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T12:38:31.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/mtb/crankworx-mont-sainte-anne-gets-real-as-canadians-sweep-the-mens-downhill-podium/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "c1e9adbae295",
+   "t": "Et sidste farvel: Quintana får flot afsked med Colombia",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T12:34:57.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/et-sidste-farvel-quintana-faar-flot-afsked-med-colombia/11280339",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "9efadb6338c6",
+   "t": "As it happened: shortened stage 15 of the Vuelta a España goes to a breakaway",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T12:31:28.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/live/vuelta-a-espana-stage-15-live-enric-mas-defends-lead-on-hilly-and-undulating-terrain-in-shortened-stage/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "5d4c226d1a9f",
+   "t": "Jeroen Meijers begint met dubbelslag aan Tour of Salalah",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T12:25:39.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/jeroen-meijers-begint-tour-of-salalah-met-dubbelslag/",
+     "l": "nl"
+    }
+   ]
+  },
   {
    "id": "fd82939e4f5d",
    "t": "Temperaturen über 40 Grad: Grenze des Machbaren erreicht?",
@@ -12,6 +1104,34 @@
      "n": "Radsport-News",
      "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146689.htm",
      "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "171044f5ab16",
+   "t": "SAUERLAND. BALLABIO TERZO NELL'ULTIMA TAPPA, CORSA DOMINATA DAI BABY DELLA RED BULL",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T11:52:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/09/06/1788695802/ciclismo-sauerlandrundfahrt-team-lotto-kern-haus-corse-a-tappe-germania",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "19b2311a0992",
+   "t": "Kalenderwijziging in vrouwenwielrennen: Vuelta Femenina verhuist naar het najaar",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-06T11:50:11.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/kalenderwijziging-in-vrouwenwielrennen-vuelta-femenina-verhuist-naar-het-najaar/",
+     "l": "nl"
     }
    ]
   },
@@ -3036,1182 +4156,6 @@
      "n": "Feltet.dk",
      "u": "https://feltet.dk/landevej/boegh-wallin-og-dideriksen-vinder-joergen-leths-mindeloeb/11279168",
      "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "91328e1ba323",
-   "t": "'A serious confidence boost for the Worlds' - as rainbow jersey battle looms, Wout van Aert shows stunning form and racecraft in Vuelta a España",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T18:04:43.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/a-serious-confidence-boost-for-the-worlds-as-rainbow-jersey-battle-looms-wout-van-aert-shows-stunning-form-and-racecraft-in-vuelta-a-espana/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "9bc86005277b",
-   "t": "Update over zwaar gevallen Ezra Caudell: Vooral ernstige verwondingen aan longen en hoofd",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T18:01:30.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/update-over-zwaar-gevallen-ezra-caudell-vooral-ernstige-verwondingen-aan-longen-en-hoofd/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "7975ed985154",
-   "t": "Zur Sierra de la Pandera wird es richtig steil",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T18:00:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146511.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "e8ac4077c314",
-   "t": "19-årige Ezra Caudell i kunstig koma efter styrt",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T18:00:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/19-aarige-ezra-caudell-i-kunstig-koma-efter-styrt/11278935",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "b9896c06c30f",
-   "t": "Vuelta 2026: Medisch bulletin en juryrapport – Geen straffen uitgedeeld tijdens dertiende etappe",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T17:55:06.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/vuelta-2026-medisch-bulletin-en-juryrapport-cian-uijtdebroeks-niet-ongeschonden-uit-val/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "a38f8be1d10d",
-   "t": "Jasper De Buyst denkt al als performance manager: “Weet hoe je renners beter en gelukkig maakt”",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T17:50:24.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/jasper-de-buyst-denkt-nu-al-als-performance-manager-weet-hoe-je-renners-beter-en-gelukkig-maakt/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "de7e0c7c97d7",
-   "t": "Velo Podcast: Is 1x the Future of Road Bikes? Plus, 13-Speed Shimano",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T17:46:14.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-gear/velo-podcast-1x-vs-2x/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "695fe063d7cf",
-   "t": "Bock siegt solo, Fietzke übernimmt Gesamtführung",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T17:39:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146665.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "7fa031538cee",
-   "t": "Doe mee met de voorspelgame tijdens de Vuelta 2026: wie wint etappe 14?",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T17:30:14.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/doe-mee-met-de-voorspelgame-tijdens-de-vuelta-2026-wie-wint-etappe-14/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "0c9e709f9b0d",
-   "t": "Brennan: - Bedre end at vinde selv",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T17:30:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/brennan-bedre-end-at-vinde-selv/11279141",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "527dd8c96e4d",
-   "t": "'I have tough memories of that year' - Enric Mas looks to avoid repeat of 2022 time loss to Roglič on Sierra de la Pandera",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T17:25:22.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/i-have-tough-memories-of-that-year-enric-mas-looks-to-avoid-repeat-of-2022-time-loss-to-roglic-on-sierra-de-la-pandera/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "e21aa67cb67d",
-   "t": "Mit Streckenkenntnis: Kooij revanchiert sich und schlägt Merlier",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T17:16:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146668.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "9e74f8f0dad5",
-   "t": "I VOTI DI STAGI. VAN AERT VOLA LEGGERO E POTENTE VERSO IL MONDIALE, PECCATO CHE...",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T17:13:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/09/04/1788542361/ciclismo-vuelta-a-espana-wout-van-aert-prestazioni-mondiali",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "9d4fdaeec6f2",
-   "t": "VAN AERT: «SQUADRA PERFETTA, BRENNAN ECCEZIONALE, EMOZIONI DA BRIVIDI...»",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T17:08:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/09/04/1788542021/vuelta-espana-2026-wout-van-aert-visma-lease-a-bike-lavoro-di-squadra",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "8807d665d403",
-   "t": "'I don't think I was very popular in that breakaway' – Matthew Brennan locks down rivals' attacks with imperious performance to repay Wout van Aert in Vuelta a España",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T17:04:07.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/i-dont-think-i-was-very-popular-in-that-breakaway-matthew-brennan-locks-down-rivals-attacks-with-imperious-performance-to-repay-wout-van-aert-in-vuelta-a-espana/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "e2e3ccf86ece",
-   "t": "Van Aert on Vuelta win: ‘The way we rode as a team today was a masterclass’",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T17:03:23.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/sections/news/van-aert-on-vuelta-win-the-way-we-rode-as-a-team-today-was-a-masterclass/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "3e6e936be168",
-   "t": "Vuelta 2026: Voorbeschouwing etappe 14 – Dag voor de klimmers met spectaculair slot",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T17:00:24.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/vuelta-2026-voorbeschouwing-etappe-14-deelt-enric-mas-volgende-tik-uit-op-bekende-slotklim/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "d9cc0f90aea7",
-   "t": "The Seven Tires that Define Gravel Riding in 2026",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T17:00:13.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/gravel/gravel-gear/seven-best-gravel-tires-2026/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "d4fe8164802d",
-   "t": "A tumba abierta by AMIX: “La batalla de La Pandera va a ser absolutamente definitiva para la Vuelta a España”",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T16:54:34.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/09/04/tumba-abierta-by-amix-batalla-pandera-absolutamente-definitiva-vuelta-espana.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "d0e23fdd8f99",
-   "t": "Déjà vu bij vijfde seizoenszege Olav Kooij: “Kon parcourskennis goed gebruiken”",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T16:44:49.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/deja-vu-bij-vijfde-seizoenszege-olav-kooij-kon-parcourskennis-goed-gebruiken/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "73beab585329",
-   "t": "Onley: Skjelmose har virkelig høj klasse",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T16:42:27.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/onley-skjelmose-har-virkelig-hoej-klasse/11279133",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "a897f1c4123c",
-   "t": "Jarno Widar vierde ondanks krampen en oververhitting: “Ik zat op mijn limiet”",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T16:40:39.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/jarno-widar-vierde-ondanks-krampen-en-oververhitting-ik-zat-op-mijn-limiet/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "a86e0f242e45",
-   "t": "In The Drops: Rapha’s David Carson kit, Breitling’s Eddy Merckx watch, Povec electrochromic glasses, For a Yellow Jersey book and pubs",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T16:39:44.000Z",
-   "sources": [
-    {
-     "n": "Cyclist (cyclist.co.uk)",
-     "u": "https://www.cyclist.co.uk/in-depth/in-the-drops-rapha-david-carson-kit",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "0b1dc5dfe269",
-   "t": "Dalby: “Überall sind Stars und dann ich“",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T16:30:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146667.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "f5236f4882b8",
-   "t": "Results & Photos: Stage 13 La Vuelta 2026",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T16:24:34.000Z",
-   "sources": [
-    {
-     "n": "Irish Cycling News",
-     "u": "https://www.irishcyclingnews.com/results-photos-stage-13-la-vuelta-2026/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "027539bbbbed",
-   "t": "Axel van der Tuuk toont Euskaltel in waaierspel: “Hopelijk volgend jaar Vuelta met Mikel Landa”",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T16:22:27.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/axel-van-der-tuuk-toont-euskaltel-in-waaierspel-hopelijk-volgend-jaar-vuelta-met-mikel-landa/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "e1893d9acd9a",
-   "t": "Skjelmose var upopulær i udbrud: - De brugte ufine taktikker",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T16:22:18.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/skjelmose-var-upopulaer-i-udbrud-de-brugte-ufine-taktikker/11279114",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "2f868154d354",
-   "t": "The ramifications of Tadej Pogačar’s Vuelta a España abandonment",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T16:19:52.000Z",
-   "sources": [
-    {
-     "n": "Cyclist (cyclist.co.uk)",
-     "u": "https://www.cyclist.co.uk/in-depth/the-ramifications-of-tadej-pogacars-vuelta-a-espana-abandonment",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "0e6b282db8d3",
-   "t": "Rolf Sørensen hylder ung dansker: - Hans internationale gennembrud",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T16:15:41.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/rolf-soerensen-hylder-ung-dansker-hans-internationale-gennembrud/11279110",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "30131a10527c",
-   "t": "Results & Photos: Stage 3 Lloyds Tour of Britain 2026",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T16:05:23.000Z",
-   "sources": [
-    {
-     "n": "Irish Cycling News",
-     "u": "https://www.irishcyclingnews.com/results-photos-stage-3-lloyds-tour-of-britain-2026/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "daa22af50115",
-   "t": "Nach Visma-Gala: Van Aert jubelt erstmals bei dieser Vuelta",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T16:05:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146660.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "8c2860b06e08",
-   "t": "Matthew Brennan reed in dienst Wout van Aert: “Nog mooier dan een overwinning”",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T16:03:17.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/matthew-brennan-reed-in-dienst-wout-van-aert-nog-mooier-dan-een-overwinning/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "b56b8a864a6b",
-   "t": "Max Walscheid onder de indruk na waaiers in ZLM Tour: “We vlogen bijna van onze fiets”",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T16:00:36.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/max-walscheid-onder-de-indruk-na-waaiers-in-zlm-tour-we-vlogen-bijna-van-onze-fiets/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "d47d4a3b6883",
-   "t": "Wout van Aert bezorgt dominant Visma vierde ritzege: “Plan heeft perfect uitgepakt”",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T16:00:23.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/wout-van-aert-bezorgt-dominant-visma-vierde-ritzege-plan-heeft-perfect-uitgepakt/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "bf7ca701fe3b",
-   "t": "More motorists on course in the opening stage of the Sauerlandrundfahrt",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T15:56:18.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/more-motorists-on-course-in-the-opening-stage-of-the-sauerlandrundfahrt/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "160b73865d40",
-   "t": "UAE se queda en cuadro: de perder a Pogacar a afrontar media Vuelta con sólo cuatro corredores",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T15:56:11.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/09/04/uae-queda-cuadro-perder-pogacar-afrontar-media-vuelta-cuatro-corredores.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "86647c4f24ea",
-   "t": "Van Aert havde forudset vigtig detalje i finalen",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T15:55:11.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/van-aert-havde-forudset-vigtig-detalje-i-finalen/11279085",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "f6588fb9da58",
-   "t": "Así está la clasificación general de LaVuelta tras la etapa 13: Enric Mas, de rojo ante el reto de La Pandera",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T15:52:14.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/09/04/asi-clasificacion-general-lavuelta-etapa-13-enric-rojo-reto-pandera.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "73854a8d58f5",
-   "t": "Kron i tårer: - Jeg kørte for noget større",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T15:44:09.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/kron-i-taarer-jeg-koerte-for-noget-stoerre/11279074",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "043e7645ff87",
-   "t": "Van Aert zegeviert in Vuelta na hete dag in de vlucht",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T15:41:58.000Z",
-   "sources": [
-    {
-     "n": "NOS Wielrennen",
-     "u": "https://nos.nl/l/2629679",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "35093a204774",
-   "t": "Skjelmose-kup var 'overhovedet ikke planlagt'",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T15:40:49.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/skjelmose-kup-var-overhovedet-ikke-planlagt/11279076",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "3fe93cca1397",
-   "t": "David de la Cruz se va al suelo en LaVuelta y estalla: “P*** bidón”",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T15:39:04.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/09/04/david-cruz-suelo-lavuelta-estalla-p-bidon.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "eec679801fa9",
-   "t": "Walscheid sprintet bei ZLM Tour schneller als Magagnotti",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T15:37:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146666.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "435992ba2c8e",
-   "t": "Vuelta: Van Aert gets his win on stage 13",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T15:36:30.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/van-aert-gets-his-win-on/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "01a9250dd2d4",
-   "t": "A qué hora es la Vuelta a España, etapa 14: perfil, recorrido, horario y dónde ver en TV",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T15:35:53.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/09/04/hora-vuelta-espana-etapa-14-perfil-recorrido-horario-ver-tv.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "f882e7cca508",
-   "t": "UCI to require safer barriers along race finishes in 2027, seven years after Fabio Jakobsen's Tour de Pologne crash",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T15:34:06.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/safety/uci-to-require-safer-barriers-along-race-finishes-in-2027-seven-years-after-fabio-jakobsens-tour-de-pologne-crash/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "ce95337314e0",
-   "t": "“Mooie vertrouwensboost voor WK”: Wout van Aert snelt na dolle finale naar zege en zorgt voor eerste Belgische ritwinst",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T15:34:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/vuelta/mooie-vertrouwensboost-voor-wk-wout-van-aert-snelt-na-dolle-finale-naar-zege-en-zorgt-voor-eerste-belgische-ritwinst~aecf05a0/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "dc4566934bb7",
-   "t": "Vuelta green jersey Wout Van Aert wins from a breakaway",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T15:25:26.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/sections/news/vuelta-green-jersey-wout-van-aert-wins-from-a-breakaway/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "2d38d788c8fb",
-   "t": "VUELTA, ARRIVA IL GIORNO DI VAN AERT: ALLUNGO NEL FINALE E SPRINT VINCENTE CONTRO PARET-PEINTRE. 5° ALBANESE",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T15:21:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/09/04/1788534510/vuelta-espana-2026-van-aert-paret-peintre-albanese",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "a592f5be7340",
-   "t": "Vuelta a España Stage 13: Wout van Aert Snags His Win After Breakaway Blitz",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T15:20:07.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/vuelta-a-espana/vuelta-a-espana-stage-13-results-standings/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "6f3297ae9c97",
-   "t": "Van Aert activa el 'modo cohete' en Loja: crece la lista de heridos",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T15:18:04.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/09/04/aert-activa-cohete-loja-crece-lista-heridos.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "f3a0c130c837",
-   "t": "Vuelta a España: Wout van Aert finally takes a victory on stage 13 as breakaway stays away",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T15:17:21.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-wout-van-aert-finally-takes-a-victory-on-stage-13/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "fd5325739efc",
-   "t": "Vuelta 2026: Wout van Aert rondt ploegenspel Visma | Lease a Bike perfect af met ritwinst",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T15:14:07.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/vuelta-2026-wout-van-aert-rondt-ploegenspel-visma-lease-a-bike-perfect-af-met-ritwinst/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "49fc9693357c",
-   "t": "Van Aert tager endelig etapesejren - Skjelmose henter tid tilbage",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T15:13:21.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/van-aert-tager-endelig-etapesejren-skjelmose-henter-tid-tilbage/11279048",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "32e42d14811c",
-   "t": "Walscheid wint waaieretappe in ZLM Tour en helpt Lidl-Trek aan drie op drie",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T15:12:50.000Z",
-   "sources": [
-    {
-     "n": "NOS Wielrennen",
-     "u": "https://nos.nl/l/2629676",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "46292dfb99fb",
-   "t": "A fine vintage: L’Eroica sportive",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T15:03:01.000Z",
-   "sources": [
-    {
-     "n": "Cyclist (cyclist.co.uk)",
-     "u": "https://www.cyclist.co.uk/in-depth/a-fine-vintage-leroica-sportive",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "674f9de6a8a1",
-   "t": "Rás na mBan 2026 Stage 3 Full Results & Photos",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T14:58:42.000Z",
-   "sources": [
-    {
-     "n": "Irish Cycling News",
-     "u": "https://www.irishcyclingnews.com/ras-na-mban-2026-stage-3-full-results-photos/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "d4af3ed15778",
-   "t": "Kooij troeft Merlier in de sprint nu wel af in Ronde van Groot-Brittannië",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T14:57:26.000Z",
-   "sources": [
-    {
-     "n": "NOS Wielrennen",
-     "u": "https://nos.nl/l/2629671",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "9d1c3d885c43",
-   "t": "Lidl-Trek-dominansen fortsætter i Holland",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T14:57:10.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/lidl-trek-dominansen-fortsaetter-i-holland/11279026",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "1239f863255c",
-   "t": "DOPO IL TRICOLORE, SI TORNA NELLE LANGHE PER IL GRANPIEMONTE",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T14:54:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/09/04/1788537274/gran-piemonte-2026-ciclismo-cuneo-corse-professionistiche-langhe",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "74afbdf0f44a",
-   "t": "Cambios UCI para 2027: seguimiento GPS, maillot para el mejor local y nueva fecha para LaVuelta Femenina",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T14:12:52.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/09/04/cambios-uci-2027-seguimiento-gps-maillot-mejor-local-nueva-fecha-lavuelta-femenina.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "3a4967e857a1",
-   "t": "Crece la lista de abandonos con una baja sensible para Gall mientras no para el drama de UAE",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T14:08:44.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/09/04/crece-lista-abandonos-baja-sensible-gall-drama-uae.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "3a2a4c88d5f9",
-   "t": "Max Walscheid de snelste van de kopgroep na nieuwe waaierkoers in ZLM Tour",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T14:07:38.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/max-walscheid-de-snelste-van-de-kopgroep-na-nieuwe-waaierkoers-in-zlm-tour/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "a9a639839b13",
-   "t": "ZLM TOUR, WALSCHEID BEFFA LA RED BULL, SECONDO MAGAGNOTTI E TERZO VAN POPPEL",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T14:03:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/09/04/1788531130/ciclismo-zlm-tour-2026-lidl-trek",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "6506a5d900fd",
-   "t": "SICUREZZA ED EVOLUZIONE DEL CICLISMO: L'UCI DISCUTERA' A MONTREAL LE PROPOSTE DEL PROFESSIONAL CYCLING COUNCIL",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T13:58:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/09/04/1788530291/ciclismo-sicurezza-uci-tracciamento-gps-riforme",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "0d70822ce7e7",
-   "t": "Kooij out-sprints Merlier on stage 3 of the Tour of Britain",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T13:57:51.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/kooij-out-sprints-merlier-on-stage-3-of-the-tour-of-britain/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "c5a8d9a471cd",
-   "t": "Tour of Britain Men: Olav Kooij turns the tables on Tim Merlier to win stage 3",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T13:54:46.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-of-britain-olav-kooij-turns-the-tables-on-tim-merlier-to-win-stage-3/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "1f95afc69d7c",
-   "t": "Kooij klasker Merlier i kaotisk syrespurt",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T13:53:22.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/kooij-klasker-merlier-i-kaotisk-syrespurt/11278995",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "d321fc624d87",
-   "t": "TOUR OF BRITAIN. KOOIJ SHOW, BATTUTI MERLIER E KALLBERG, 5° MOSCHETTI",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T13:51:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/09/04/1788530236/ciclismo-tour-of-britain-olav-kooij",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "4367fa59ff48",
-   "t": "Gallery: The 2026 Escape Member Summit bikes",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T13:49:51.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/gallery-the-2026-escape-member-summit-bikes/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "59651f2b99d1",
-   "t": "De rollen omgedraaid in de Tour of Britain: deze keer is Olav Kooij sneller dan Tim Merlier",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T13:49:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/de-rollen-omgedraaid-in-de-tour-of-britain-deze-keer-is-olav-kooij-sneller-dan-tim-merlier~a98ef736/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "f0d8a9ba840a",
-   "t": "Olav Kooij klopt Tim Merlier op lastige aankomst in Tour of Britain",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T13:48:23.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/olav-kooij-klopt-tim-merlier-op-lastige-aankomst-in-tour-of-britain/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "3592255bf1d3",
-   "t": "Sivakov becomes the fourth UAE rider to abandon the Vuelta",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T13:12:15.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/sivakov-becomes-the-fourth-uae-rider-to-abandon-the-vuelta/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "d06655075d2d",
-   "t": "Vuelta 2026: UAE Emirates XRG ook verder zonder Sivakov, Alpecin-Premier Tech raakt tweetal kwijt",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T13:11:12.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/vuelta-2026-uae-emirates-xrg-ook-verder-zonder-sivakov-alpecin-premier-tech-raakt-tweetal-kwijt/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "e590bcad470b",
-   "t": "Commerciële teams weigeren renners af te staan voor WK wielrennen: logisch of abnormaal?",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T13:04:20.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/commerciele-teams-weigeren-renners-af-te-staan-voor-wk-wielrennen-logisch-of-abnormaal/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "1d73c1b4c101",
-   "t": "Roberts hofft auf die steilen Berge: “Ab morgen wird das anders“",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T12:51:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146663.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "884d439ea7dc",
-   "t": "Nog 13 Belgen in Vuelta, Mathieu van der Poel kent ploegmaats voor WK, Remco Evenepoel treft Isaac Del Toro in Canadese GP’s",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T12:31:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/nog-13-belgen-in-vuelta-mathieu-van-der-poel-kent-ploegmaats-voor-wk-remco-evenepoel-treft-isaac-del-toro-in-canadese-gps~aab72151/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "70e593d6eb40",
-   "t": "Decathlon CMA CGM lose key climber as Gregor Mühlberger crashes out of ninth overall on stage 13 of the Vuelta a España",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T12:24:12.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/decathlon-cma-cgm-lose-key-climber-as-gregor-muhlberger-crashes-out-of-ninth-overall-on-stage-13-of-the-vuelta-a-espana/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "341039d5ee76",
-   "t": "TOUR OF ISTANBUL. A SILE PODIO TUTTO ITALIANO: LONARDI DAVANTI A GAZZOLI E REGNANTI",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T12:16:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/09/04/1788524373/ciclismo-tour-of-istanbul-lonardi-polti-visitmalta",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "8ec3ce609467",
-   "t": "IO GIRO DEL FRIULI. UKYO PADRONA, A RAVASCLETTO VINCE GARIBBO (NUOVO LEADER), 3° RACCANI, 5° DATI",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T12:09:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/09/04/1788531762/giro-friuli-venezia-giulia-garibbo-team-ukyo",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "42d769a9064e",
-   "t": "Gall loses key domestique Mühlberger on Vuelta stage 13",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T12:03:02.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/gall-loses-key-domestique-muhlberger-on-vuelta-stage-13/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "ec7ca8476551",
-   "t": "Klimaanlage defekt: Red Bull bei Vuelta ohne Teambus",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T11:58:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146662.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "255a41ddfff3",
-   "t": "LIVE. Wout van Aert glipt meteen mee met ruime kopgroep van 43 (!) renners in etappe “die hem op het lijf geschreven is”",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T11:53:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/vuelta/live-wout-van-aert-glipt-meteen-mee-met-ruime-kopgroep-van-43-renners-in-etappe-die-hem-op-het-lijf-geschreven-is~aecf05a0/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "e0b214940ef9",
-   "t": "Lidl-Trek Future rider forced to swerve to avoid oncoming driver in concerning time trial incident",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-04T11:42:23.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/safety/lidl-trek-future-rider-swerves-to-avoid-two-drivers-at-sauerlandrundfahrt-time-trial-in-another-car-related-life-threatening-situation/",
-     "l": "en"
     }
    ]
   }
