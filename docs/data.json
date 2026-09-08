@@ -1,6 +1,944 @@
 {
- "updated": "2026-09-07T19:46:16.658Z",
+ "updated": "2026-09-08T12:04:00.925Z",
  "groups": [
+  {
+   "id": "d06520ec5828",
+   "t": "Groenewegen has a lucky escape after 'collision with a motorcyclist' during training",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T11:58:54.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/groenewegen-has-a-lucky-escape-after-collision-with-a-motorcyclist-during-training/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "ca49d69745c0",
+   "t": "LIVE. Vlucht van de dag lijkt vertrokken, Wout van Aert en co controleren in het peloton",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T11:54:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/vuelta/live-vlucht-van-de-dag-lijkt-vertrokken-wout-van-aert-en-co-controleren-in-het-peloton~a8994b5b/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "8798cb067d3b",
+   "t": "Bahrain henter Vuelta-kaptajn",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T11:45:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/bahrain-henter-vuelta-kaptajn/11282705",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "7dbc26d5fdd1",
+   "t": "Bahrain verstärkt Fraktion der Rundfahrer mit Cristian Rodriguez",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T11:30:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146628.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "73042866aaa6",
+   "t": "Universe-ploeg rijdt Ronde van Ecuador in speciaal tenue met 1.633 sterren als eerbetoon",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T11:17:11.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/universe-ploeg-rijdt-ronde-van-ecuador-in-speciaal-tenue-met-1-633-sterren-als-eerbetoon/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "412dba514a4e",
+   "t": "‘The Sooner, the Better’: Pro Riders Are Surprisingly Bullish on Airbags",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T11:11:55.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/pro-cycling-airbags-riders-back-new-safety-tech/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "152c3d2b798a",
+   "t": "Transferlisten 2026-2027 - WorldTouren",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T11:10:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/transferlisten-2026-2027-worldtouren/11244321",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "0a89c4618e02",
+   "t": "La Copa del Mundo de Ciclocross UCI - Benidorm Costa Blanca abre la venta de entradas para 2027",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T11:09:03.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/09/08/copa-mundo-ciclocross-uci-benidorm-costa-blanca-abre-venta-entradas-2027.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "9f959c45dc68",
+   "t": "The Sarah Gigante comeback is finally on – Australian climber named for first race in over a year",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T11:04:32.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/the-sarah-gigante-comeback-is-finally-on-australian-climber-named-for-first-race-in-over-a-year/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "18515171b3d6",
+   "t": "LIVE: Dansker har ramt udbruddet!",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T11:01:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/live-dansker-har-ramt-udbruddet/11262246",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "182cf5842675",
+   "t": "Giro-treer gør comeback efter over et år på sidelinjen",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T11:00:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/giro-treer-goer-comeback-efter-over-et-aar-paa-sidelinjen/11282563",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "d1f70ee01cc1",
+   "t": "Cristian Rodríguez firma dos años con Baharain Victorious",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T10:59:28.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/09/08/cristian-rodriguez-firma-dos-anos-baharain-victorious.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "1fa10e19cbbc",
+   "t": "GIRO DI CAMPANIA. PERCORSO E TV: 192,5 KM CON AGEROLA A CINQUANTA DALL'ARRIVO, DIRETTA RAI ORE 13:30",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T10:49:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/09/08/1788864523/giro-di-campania-2026-percorso-agerola",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "848274f46046",
+   "t": "Cristián Rodríguez, op weg naar top-10 in Vuelta, verlaat XDS Astana al na één jaar",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T10:36:57.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/cristian-rodriguez-op-weg-naar-top-10-in-vuelta-verlaat-xds-astana-al-na-een-jaar/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "f602aa3a794c",
+   "t": "Visma responds to rumours Vingegaard is racing again soon",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T10:23:24.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/sections/news/visma-responds-to-rumours-vingegaard-is-racing-again-soon/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "e47e56f42e8c",
+   "t": "Casper P. får debut i WorldTour-løb",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T10:15:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/casper-p.-faar-debut-i-worldtour-loeb/11282532",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "e2c7797043f0",
+   "t": "Elósegui, el ciclista diferente que habla japonés y brilla en LaVuelta, ante el abismo: “Si no sale nada, me retiro”",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T10:12:39.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/09/08/elosegui-ciclista-diferente-habla-japones-brilla-lavuelta-abismo-sale-me-retiro.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "981ad114410d",
+   "t": "Groenewegen kommt bei Trainingscrash glimpflich davon",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T10:12:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146709.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "c76540d21ab0",
+   "t": "Vuelta a España stage 16 LIVE: Can anyone challenge Visma-Lease a bike's sprinting dominance?",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T10:10:23.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/live/vuelta-a-espana-stage-16-live-can-anyone-challenge-visma-lease-a-bikes-sprinting-dominance/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "6d59f26ae741",
+   "t": "Geen vervroegde rentree Jonas Vingegaard, Visma | Lease a Bike distantieert zich van speculaties",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T10:10:07.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/geen-vervroegde-rentree-jonas-vingegaard-visma-lease-a-bike-distantieert-zich-van-speculaties/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "3e62027aab84",
+   "t": "Dylan Groenewegen hit by motorcyclist while training, shares injury update and photos of broken bike",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T10:03:34.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/dylan-groenewegen-hit-by-motorcyclist-while-training-shares-injury-update-and-photos-of-broken-bike/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "2987b7a958b6",
+   "t": "2026 Vuelta a España Stage 16 preview: Back to work",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T09:51:10.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/sections/news/2026-vuelta-a-espana-stage-16-preview-back-to-work/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "24b315a73ce9",
+   "t": "Konkurrenterne flyver forbi Danmark",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T09:47:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/konkurrenterne-flyver-forbi-danmark/11137242",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "971962a50c5e",
+   "t": "In de voetsporen van Kooij en Brennan? Henry Hobbs (19) koerst zonder angst en met olympische droom",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T09:37:46.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/in-de-voetsporen-van-kooij-en-brennan-henry-hobbs-19-koerst-zonder-angst-en-met-olympische-droom/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "e0b74ad023f2",
+   "t": "I 60 ANNI DI DANIELE PONTONI. «IO, CICLISTA (E CAMPIONE) PER TESTARDAGGINE»",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T09:30:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/09/08/1788857509/ciclocross-daniele-pontoni-commissario-tecnico-talenti-italiani",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "d70f7b74b644",
+   "t": "Vueltaen bliver nok Magnus Corts sidste cykelløb",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T09:30:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/vueltaen-bliver-nok-magnus-corts-sidste-cykelloeb/11282499",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "ad9e8a992114",
+   "t": "'I never expected to be going this well' – Primož Roglič says 'anything could happen' in Vuelta a España GC battle with Enric Mas and Felix Gall",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T09:28:41.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/i-never-expected-to-be-going-this-well-primoz-roglic-says-anything-could-happen-in-vuelta-a-espana-gc-battle-with-enric-mas-and-felix-gall/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "1c4d016e63d5",
+   "t": "Tidligere holdleder og sportsdirektør får ophævet lang karantæne",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T09:10:43.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/tidligere-holdleder-og-sportsdirektoer-faar-ophaevet-lang-karantaene/11282463",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "e6c2dd634902",
+   "t": "Visma-Lease a Bike beloont Tim Rex met contractverlenging tot eind 2029",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T09:10:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/visma-lease-a-bike-beloont-tim-rex-met-contractverlenging-tot-eind-2029~ada647ae/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "df912de30525",
+   "t": "(Annonce) Glem asfalten: Vejle skal opleves på mountainbike",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T09:00:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/mountainbike/annonce-glem-asfalten-vejle-skal-opleves-paa-mountainbike/11267801",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "45fa45121ff1",
+   "t": "IL TROFEO MATTEOTTI PREMIA RABOTTINI E FORCELLA PER LA TRASMISSIONE “VELO'”",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T08:46:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/09/08/1788857523/velo-premio-trofeo-matteotti-luciano-rabottini-jacopo-forcella-uc-fernando-perna-stefano-giuliani",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "0806abb51d67",
+   "t": "Vingegaards Giro-hjælper underskriver lang forlængelse",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T08:33:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/vingegaards-giro-hjaelper-underskriver-lang-forlaengelse/11282391",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "d9489c7b3e2f",
+   "t": "Vrijspraak voor oud-managers Vini Zabù die vijf jaar geschorst waren",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T08:16:04.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/vrijspraak-voor-oud-managers-vini-zabu-die-vijf-jaar-geschorst-waren/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "431846c569d1",
+   "t": "Visma afviser rygte om Vingegaard",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T08:15:43.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/visma-afviser-rygte-om-vingegaard/11282370",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "08dc351f9c24",
+   "t": "La batalla final de LaVuelta: \"No tenemos miedo\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T08:09:00.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/09/08/batalla-final-lavuelta-miedo.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "382bded55849",
+   "t": "Visma | Lease a Bike legt Tim Rex (22) na sterk eerste profjaar vast tot eind 2029",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T08:04:52.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/visma-lease-a-bike-legt-tim-rex-22-na-sterk-eerste-profjaar-vast-tot-eind-2029/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "a8d2b27af4fc",
+   "t": "De laatste dagen van Kruijswijk als profrenner: 'Het afzien is na 17 jaar wel genoeg'",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T08:04:48.000Z",
+   "sources": [
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2630156",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "b675aaf03cb0",
+   "t": "‘Bra Doping’ Debunked: UCI Fears of Padded Bras Found to Be Oversized",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T07:53:30.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/bra-doping-debunked-uci-fears-found-to-be-oversized/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "3d0ef084fd61",
+   "t": "Iniesta lleva Capitten a LaVuelta con un maillot especial del NSN Cycling Team",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T07:53:12.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/09/08/iniesta-lleva-capitten-lavuelta-maillot-especial-nsn-cycling-team.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "d496e53211a2",
+   "t": "El NSN de Iniesta visita al Sevilla en plena Vuelta... y Navas al UAE",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T07:48:38.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/09/08/nsn-iniesta-visita-sevilla-plena-vuelta-navas-uae.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "dde29e8ca8ad",
+   "t": "Luisle mira a LaVuelta desde Lanzarote: “Enric está en el mejor momento de su carrera”",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T07:40:37.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/09/08/luisle-mira-lavuelta-lanzarote-enric-mejor-momento-carrera.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "5e6ce2f2f1d4",
+   "t": "“Dit had veel erger kunnen aflopen”: Dylan Groenewegen op training aangereden door motor",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T07:39:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/dit-had-veel-erger-kunnen-aflopen-dylan-groenewegen-op-training-aangereden-door-motor~a98ef736/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "018cd6c6c77c",
+   "t": "Zumer Gesamtsechster, Schleuniger zweimal im Fotofinish geschlagen",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T07:28:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146708.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "d6ebff80a761",
+   "t": "WK 2026: Thibau Nys met duidelijke rol voor Van Aert en Evenepoel naar Montréal",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T07:24:36.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/wk-2026-thibau-nys-met-duidelijke-rol-voor-van-aert-en-evenepoel-naar-montreal/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "2f861cb97b43",
+   "t": "A qué hora es la etapa 16 de la Vuelta a España: perfil, recorrido, horario y dónde ver hoy en TV",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T07:21:51.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/09/08/hora-etapa-16-vuelta-espana-perfil-recorrido-horario-ver-hoy-tv.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "2bc149ff18db",
+   "t": "Ballabio beschert Vorarlberg zum Abschluss ein Podium",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T07:20:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146707.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "03a23421171e",
+   "t": "Groenewegen kolliderer med motorcykel under træning",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T07:13:43.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/groenewegen-kolliderer-med-motorcykel-under-traening/11282241",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "c7e14fb29ba7",
+   "t": "VUELTA. SI RIPARTE CON UN'OCCASIONE PER GLI SPRINTER MA ATTENTI AI VENTAGLI",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T06:55:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/09/08/1788798339/vuelta-a-espana-ciclismo-tappa-16-sprint-ventagli",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "8facfc38fd28",
+   "t": "Roglic optimistisch en realistisch voor slotweek Vuelta: “Denk niet dat tijdrit alles op zijn kop zet”",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T06:52:55.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/roglic-optimistisch-en-realitisch-voor-slotweek-vuelta-tijdrit-gaat-niet-alles-op-zijn-kop-zetten/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "4718f9e5aae6",
+   "t": "MAS. «DUE SETTIMANE BELLISSIME E ORA, LO CONFESSO, SOGNO GRANADA»",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T06:30:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/09/08/1788798333/vuelta-a-espana-2026-ciclismo-enric-mas-lavuelta26-grande-giro",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "c8bc5f773bc4",
+   "t": "IL CICLISMO HA UN PROBLEMA DI LIQUIDITÀ, NON SOLO DI RISORSE",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T06:26:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/09/08/1788798382/organizzazione-gare-economia-capitale-circolante-finanziamenti",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "d70d96269799",
+   "t": "UNIBET ROSE ROCKETS, GROENEWEGEN INVESTITO DA UN MOTOCICLISTA: STRAPPO MUSCOLARE PER L’OLANDESE",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T06:24:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/09/08/1788816543/unibet-rose-rockets-groenwegen-incidente-moto",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "30a640b7718c",
+   "t": "ADDIO A FRANCO CAVENAGHI, MANAGER DELLE ORGANIZZAZIONI GAZZETTA: AVEVA 91 ANNI",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T06:24:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/09/08/1788853774/franco-cavenaghi-gazzetta-dello-sport-storia-del-ciclismo-museo-del-ghisallo",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "9672b3e03f40",
+   "t": "BUGNO. «IL RICORDO DI BENIDORM? NON ERO FAVORITO MA... LA MAGLIA AZZURRA? E' PER SEMPRE»",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T06:20:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/09/08/1788798327/gianni-bugno-mondiale-1992-storia-del-ciclismo-campioni-azzurri",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "57f2d42e9084",
+   "t": "BELGIO, KOPECKY CAPITANA AI MONDIALI. IL CT WILLEMS: «LOTTE PUÒ FARE TRIS COME SUO SUOCERO EDDY MERCKX»",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T06:20:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/09/08/1788834744/ciclismo-mondiali-2026-lotte-kopecky-ciclismo-femminile-montreal",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "af8335a33252",
+   "t": "AZZURRO IRIDE. EDIZIONE ARRICCHITA E AGGIORNATA PER IL LIBRO CHE RACCONTA LA STORIA DELL'ITALIA AI MONDIALI",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T06:15:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/09/08/1788795475/ciclismo-mondiali-storia-del-ciclismo-azzurro-iride-archivio-ciclistico",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "54f8be42df70",
+   "t": "COPPA ITALIA DELLE REGIONI. ECCO LE CLASSIFICHE AGGIORNATE DOPO LARCIANO",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T06:10:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/09/08/1788800764/ciclismo-coppa-italia-regioni-2026-gp-larciano-classifiche-ciclocross",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "8de8290746a7",
+   "t": "UAE TEAM L’IMAD. GRETA MARTURANO RINNOVA PER LA STAGIONE 2027",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T06:05:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/09/08/1788798663/ciclismo-uae-team-l-imad-greta-marturano-rinnovo-contratto-ciclismo-femminile",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "ff347efc8734",
+   "t": "Ryan Kamp en Mees Hendrikx belangrijk in opbouw BOMBA JOIN: “Laurens ten Dam is nobody in cross”",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T06:04:12.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/ryan-kamp-en-mees-hendrikx-belangrijk-in-opbouw-bomba-join-laurens-ten-dam-is-nobody-in-cross/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "b6d44094106a",
+   "t": "TEAM ECOTEK ZERO24, PER IL 2027 ARRIVA ANCHE SAMUELE BRUSTIA",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T06:00:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/09/08/1788798518/ciclismo-juniores-team-ecotek-zero24-talenti-italiani-mercato-ciclismo",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "c850c225b805",
+   "t": "Vuelta 2026: Liveblog etappe 16: Vijf renners rukken zich los in sprintersetappe",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T05:00:00.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/live/vuelta-2026-liveblog-etappe-16",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "991677cb989b",
+   "t": "Buitrago frygter Van Aert i kampen om bjergtrøjen",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T05:00:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/buitrago-frygter-van-aert-i-kampen-om-bjergtroejen/11281940",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "0930ccd01abf",
+   "t": "Vuelta 2026: Waarom Orluis Aular niet meer in zijn kampioenstrui mag starten",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T04:30:05.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/vuelta-2026-waarom-orluis-aular-niet-meer-in-zijn-kampioenstrui-mag-starten/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "62ec81f21967",
+   "t": "Gallery: the staff bikes of the 2026 Escape Member Summit",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-08T01:04:48.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/gallery-the-staff-bikes-of-the-2026-escape-member-summit/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "70c4cceda0a0",
+   "t": "No Canadian GPs for De Lie",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-07T23:42:14.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/no-canadian-gps-for-de-lie/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "de25d5a0382c",
+   "t": "Groenewegen loopt spierscheuring op tijdens trainingsongeluk",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-07T21:20:09.000Z",
+   "sources": [
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2630125",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "14dadb5cc2d0",
+   "t": "Racing Against Junior Men: Kopecky Takes an Unconventional Approach to Worlds",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-07T20:27:06.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/kopecky-takes-unconventional-approach-worlds/",
+     "l": "en"
+    }
+   ]
+  },
   {
    "id": "59916a6077f9",
    "t": "Radsport live im Stream, TV und Ticker: Die Rennen des Tages",
@@ -12,6 +950,34 @@
      "n": "Radsport-News",
      "u": "\r\n      http://www.radsport-news.com/sport/sportnews_144508.htm",
      "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "66bf3809da2a",
+   "t": "French Days 2026 chez EKOI : Notre sélection de produits en promo jusqu’à -60%",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-07T19:51:19.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/bons-plans/french-days-2026-ekoi-promo-selection/",
+     "l": "fr"
+    }
+   ]
+  },
+  {
+   "id": "4aa63cff9107",
+   "t": "BLABLABIKE, MATTIUSSI: «OMRZEL, GIOVANE INGEGNERE RISERVATO, LEGATISSIMO AI NUMERI, DAL RECUPERO SORPRENDENTE»",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-07T19:47:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/09/07/1788808952/podcast-blablabike-alessio-mattiussi-vuelta-omrzel-bahrain",
+     "l": "it"
     }
    ]
   },
@@ -963,6 +1929,20 @@
     {
      "n": "HLN Wielrennen",
      "u": "https://www.hln.be/wielrennen/nog-13-belgen-in-vuelta-arnaud-de-lie-past-door-naweeen-van-ziekte-voor-canadese-gps-waar-remco-evenepoel-paul-seixas-en-isaac-del-toro-treft~aab72151/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "4bb5bdc7aca7",
+   "t": "Nog 13 Belgen in Vuelta, Remco Evenepoel treft Paul Seixas en Isaac Del Toro in GP’s van Quebec en Montréal, Florian Lipowitz maakt rentree in Italië",
+   "s": "",
+   "c": "other",
+   "date": "2026-09-07T12:06:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/nog-13-belgen-in-vuelta-remco-evenepoel-treft-paul-seixas-en-isaac-del-toro-in-gps-van-quebec-en-montreal-florian-lipowitz-maakt-rentree-in-italie~aab72151/",
      "l": "nl"
     }
    ]
@@ -3161,636 +4141,6 @@
     {
      "n": "Radsport-News",
      "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146689.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "171044f5ab16",
-   "t": "SAUERLAND. BALLABIO TERZO NELL'ULTIMA TAPPA, CORSA DOMINATA DAI BABY DELLA RED BULL",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T11:52:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/09/06/1788695802/ciclismo-sauerlandrundfahrt-team-lotto-kern-haus-corse-a-tappe-germania",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "19b2311a0992",
-   "t": "Kalenderwijziging in vrouwenwielrennen: Vuelta Femenina verhuist naar het najaar",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T11:50:11.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/kalenderwijziging-in-vrouwenwielrennen-vuelta-femenina-verhuist-naar-het-najaar/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "3a56434ce941",
-   "t": "CONCESIO. ASSOLI DI PUPILLO E REVOLTI, BONINI E MANESSI CAMPIONI PROVINCIALI. GALLERY",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T11:32:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/09/06/1788694465/ciclismo-esordienti-trofeo-madonna-del-tronto-concesio-giovani-talenti",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "fb74243a017b",
-   "t": "TOUR OF ISTANBUL. BAGATIN 3° NELLA CRONO FINALE VINTA DA VADIC: AL FRANCESE ANCHE LA GENERALE",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T11:04:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/09/06/1788692845/ciclismo-tour-of-istanbul-cronometro-christian-bagatin-mbh-bank-csb-telecom-fort",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "45f4314ed250",
-   "t": "Noah Lindholm leverer stort resultat i Tyskland",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T11:03:37.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/noah-lindholm-leverer-stort-resultat-i-tyskland/11280250",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "2161dcde15c2",
-   "t": "Hugo Houle out of La Vuelta a España",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T11:03:28.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/sections/news/hugo-houle-out-of-la-vuelta-a-espana/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "8a33c2bbf01f",
-   "t": "Lefevere retter skarp kritik mod belgiske ryttere",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T10:53:31.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/lefevere-retter-skarp-kritik-mod-belgiske-ryttere/11280246",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "a0d1f00313a6",
-   "t": "Vuelta a España 2026 Stage 15 preview: Shortened day, tough finish into Córdoba",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T10:45:07.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/sections/news/vuelta-a-espana-2026-stage-15-preview-shortened-day-tough-finish-into-cordoba/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "e443a42995b9",
-   "t": "Victor Campenaerts commits to his domestique role at Visma-Lease a Bike until the end of 2028",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T10:30:16.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/transfers/victor-campenaerts-commits-to-hs-domestique-role-at-visma-lease-a-bike-until-the-end-of-2028/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "1088ad572cf0",
-   "t": "Lotto-Intermarché legt oudgediende Stan Dewulf tot eind 2028 vast",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T10:18:40.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/lotto-intermarche-legt-oudgediende-stan-dewulf-tot-eind-2028-vast/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "fa5886e4c59e",
-   "t": "Dansk talent i top fem ved stort juniorløb",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T10:10:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/dansk-talent-i-top-fem-ved-stort-juniorloeb/11280216",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "7dbc26d5fdd1",
-   "t": "Dewulf kehrt zu Lotto – Intemarché zurück",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T10:05:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146628.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "2994b86b100f",
-   "t": "History says Enric Mas won't win this Vuelta a España, but he's had the answer for everything since inheriting red and distancing Primož Roglič – GC analysis",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T09:59:50.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/history-says-enric-mas-wont-win-this-vuelta-a-espana-but-hes-had-the-answer-for-everything-since-inheriting-red-and-distancing-primoz-roglic-gc-analysis/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "3fc48d4cf31f",
-   "t": "DRALI, SPECIALIZED, MERIDA, LIDL, TREK, MBH BANK: QUANTI MOVIMENTI",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T09:59:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/09/06/1788688849/cicli-drali-repsol-mbh-bank-csb-telecom-fort-trek-merida-spezialized",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "5f46d9448038",
-   "t": "Der fünfte Gesamtsieg scheint für Roglic in weite Ferne gerückt",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T09:46:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146687.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "46c032d32330",
-   "t": "Lidl-Trek gaat in zee met Italiaans juniorenteam",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T09:44:17.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/lidl-trek-gaat-in-zee-met-italiaans-juniorenteam/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "9f87a18da5b8",
-   "t": "LIVE: Forkortet etape kan gå flere veje",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T09:28:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/live-forkortet-etape-kan-gaa-flere-veje/11262246",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "a690d0e99467",
-   "t": "Red Bull har store planer med 19-årig: Skal være ny sprinterkonge",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T09:25:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/red-bull-har-store-planer-med-19-aarig-skal-vaere-ny-sprinterkonge/11280158",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "b9c21f06a1b4",
-   "t": "Vuelta-renners gaan gebukt onder extreme hitte: “Het was echt gestoord”",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T08:48:33.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/vuelta-renners-gaan-gebukt-onder-extreme-hitte-het-was-echt-gestoord/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "66877fc769b5",
-   "t": "Klassikerrytter vender hjem efter seks år",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T08:25:44.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/klassikerrytter-vender-hjem-efter-seks-aar/11280162",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "6128d568874b",
-   "t": "Stan Dewulf keert terug naar Lotto-Intermarché - Visma-Lease a Bike gaat langer door met Victor Campenaerts",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T08:13:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/stan-dewulf-keert-terug-naar-lotto-intermarche-visma-lease-a-bike-gaat-langer-door-met-victor-campenaerts~ada647ae/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "246a01b82b2c",
-   "t": "Enric Mas entra en una lista de otra época: nadie lo hacía desde Contador",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T08:09:38.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/09/06/enric-entra-lista-epoca-nadie-contador.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "4885411f842a",
-   "t": "Roglic tabte tid igen: - Mas er svær at slå",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T08:03:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/roglic-tabte-tid-igen-mas-er-svaer-at-slaa/11280123",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "2817c1fdd439",
-   "t": "El calor se cuela en LaVuelta: así funciona el protocolo de calor extremo que ha 'recortado' la etapa",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T07:30:09.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/09/06/calor-cuela-lavuelta-asi-funciona-protocolo-calor-extremo-recortado-etapa.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "c372ac34a6b9",
-   "t": "Mas fik værdifuld hjælp: - Vi gjorde det perfekt",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T07:25:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/mas-fik-vaerdifuld-hjaelp-vi-gjorde-det-perfekt/11280101",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "3821c71860ee",
-   "t": "La máquina de 15.000 euros de UAE… y el secreto que nadie puede comprar: “Tadej”",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T07:24:15.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/09/06/maquina-15-000-euros-uae-secreto-nadie-comprar-tadej.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "3289914bd5f6",
-   "t": "Kasper schnappt sich in Dänemark ihren zweiten UCI-Gravelsieg",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T07:23:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146684.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "be936373a301",
-   "t": "Red Bull-BORA-hansgrohe ziet Roglic opnieuw tijd prijsgeven: “Mas is moeilijk te verslaan”",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T07:17:42.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/red-bull-bora-hansgrohe-ziet-roglic-opnieuw-tijd-prijsgeven-mas-is-moeilijk-te-verslaan/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "de6a19d5f152",
-   "t": "A qué hora es la Vuelta a España hoy, domingo, etapa 15: perfil, recorrido, horario y dónde ver en TV y online",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T07:01:06.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/vuelta-espana/2026/09/06/hora-vuelta-espana-hoy-domingo-etapa-15-perfil-recorrido-horario-ver-tv-online.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "6fc306b94e36",
-   "t": "Honoré gør comeback efter skrækstyrt",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T07:00:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/honore-goer-comeback-efter-skraekstyrt/11280040",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "3271870548d2",
-   "t": "TOUR OF SHANGHAI: L’ULTIMA TAPPA È DI RASCH, TAROZZI CONQUISTA LA GENERALE",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T06:46:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/09/06/1788677316/tour-of-shanghai-2026-rasch-tarozzi",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "bf700e23025e",
-   "t": "VUELTA. TAPPA ACCORCIATA A CAUSA DEL CALDO, MA C'E' TANTO TERRENO PER ATTACCARE",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T06:45:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/09/06/1788636288/vuelta-a-espana-ciclismo-caldo-estremo-lavuelta26-tappa-cA�rdoba",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "9b0833358b7c",
-   "t": "Cees Bol beëindigt lange periode van droogte met unicum: “Andere zeges waren in de sprint”",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T06:36:27.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/cees-bol-beeindigt-lange-periode-van-droogte-met-unicum-andere-zeges-waren-in-de-sprint/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "9cd7e16d3b4c",
-   "t": "TROFEO MATTEOTTI, PESCARA E MONTESILVANO PRONTE AD ACCOGLIERE LA 78a EDIZIONE",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T06:30:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/09/06/1788627843/ciclismo-trofeo-matteotti-classiche-italiane-pescara-world-tour",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "fa24ccd67c66",
-   "t": "FANINI. «CARO AMADIO, PER IL MONDIALE PUNTA TUTTO SU FINN»",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T06:20:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/09/06/1788614216/ciclismo-lorenzo-finn-mondiale-montreal-2026-tadej-pogacar-talenti-italiani",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "4cd75e1edb75",
-   "t": "GP LARCIANO. SI APRE L'AUTUNNO CALDO DEL CICLISMO ITALIANO.",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T06:15:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/09/06/1788627475/gran-premio-larciano-uci-proseries-tom-pidcock-lenny-martinez",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "2f86fadeb78d",
-   "t": "LE IRIDATE AGATA CAMPANA E MAYA FERRANTE MADRINE DI UNA COPPETTA D'ORO DA RECORD",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T06:06:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/09/06/1788634972/ciclismo-ciclismo-giovanile-coppetta-d-oro-borgo-valsugana-campionesse-mondiali",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "2ce7bee0aba0",
-   "t": "ACDM. PROROGATA FINO AL 31 DICEMBRE LA MOSTRA «ALESSANDRIA E IL GIRO D'ITALIA»",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T06:00:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/09/06/1788511854/ciclismo-acdb-museo-giro-d-italia-teatro-alessandria",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "f54dbfa84a7f",
-   "t": "Project Maga: Red Bull-BORA-hansgrohe ziet 19-jarige Italiaan als nieuwe sprintkopman",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T05:45:00.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/project-maga-waarom-red-bull-bora-hansgrohe-19-jarige-italiaan-als-toekomstige-sprintkopman-ziet/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "dc9061d0a161",
-   "t": "Vuelta 2026: Liveblog etappe 15: Kansen voor sprinters en vluchters in kortgewiekte overgangsrit",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-06T05:00:00.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/live/vuelta-2026-liveblog-etappe-15",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "31859df615df",
-   "t": "Decathlon bestätigt: Mühlberger zog sich Gehirnerschütterung zu",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-05T22:55:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146685.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "04478633ef14",
-   "t": "‘Mega Hot’ Conditions to Force Serious Changes to Vuelta a España Stage 15",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-05T21:59:09.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/vuelta-a-espana/mega-hot-conditions-force-serious-changes/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "d8df23c53530",
-   "t": "Wie fit sind die Sprinter am Ende der zweiten Woche noch?",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-05T21:42:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146517.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "3811504fd124",
-   "t": "'Enric is proving hard to match' - Red Bull-Bora-Hansgrohe management recognise strength of Vuelta a España leader Mas as Primož Roglič ships more time",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-05T20:38:15.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/enric-is-proving-hard-to-match-red-bull-bora-hansgrohe-management-recognise-strength-of-vuelta-a-espana-leader-mas-as-primoz-roglic-ships-more-time/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "e2f7c51e1978",
-   "t": "Brenner nach Sturz und Krankheit endlich am Ziel",
-   "s": "",
-   "c": "other",
-   "date": "2026-09-05T20:18:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146683.htm",
      "l": "de"
     }
    ]
