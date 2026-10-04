@@ -1,6 +1,874 @@
 {
- "updated": "2026-10-04T13:06:34.877Z",
+ "updated": "2026-10-04T19:23:15.401Z",
  "groups": [
+  {
+   "id": "72cb6a203254",
+   "t": "Herzog feiert EM-Top-Ten–mit-Wermutstrophen",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T19:51:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146975.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "4c37305d28b0",
+   "t": "Eerst handtekeningen aan hotel, nadien laat hij champagnekurken knallen: Remco Evenepoel viert Europese titel",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T18:42:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/eerst-handtekeningen-aan-hotel-nadien-laat-hij-champagnekurken-knallen-remco-evenepoel-viert-europese-titel~a73296f7/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "277ce9185e17",
+   "t": "Van motivatie om iets recht te zetten tot perfecte jump: de vier sleutels achter het EK-succes van Remco Evenepoel",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T18:42:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/van-motivatie-om-iets-recht-te-zetten-tot-perfecte-jump-de-vier-sleutels-achter-het-ek-succes-van-remco-evenepoel~adbd369e/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "395c38b295b6",
+   "t": "Team cars, crashes and mind games: How Evenepoel became European champ",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T18:40:46.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/team-cars-crashes-and-mind-games-how-evenepoel-became-european-champ/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "9a9496693502",
+   "t": "Evenepoel maakt na WK-deceptie truienverzameling compleet op EK: 'Groots vieren'",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T18:29:03.000Z",
+   "sources": [
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2633660",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "0f62ff8fc676",
+   "t": "Charm City Cross Day 1: Manon Bakker and Tofik Beshir take solo victory in C1 races",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T18:12:35.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/charm-city-cross-day-1-manon-bakker-and-tofik-beshir-solo-to-victory-c1-races/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "b575a40e2e3f",
+   "t": "“Hij doet zich graag stoerder voor dan hij is”: glunderende Oumi onthult hoe Remco Evenepoel zich “écht schuldig” voelde na WK-ontgoocheling",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T18:10:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/hij-doet-zich-graag-stoerder-voor-dan-hij-is-glunderende-oumi-onthult-hoe-remco-evenepoel-zich-echt-schuldig-voelde-na-wk-ontgoocheling~add59feb/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "74865b50eb0a",
+   "t": "Skujins: “Die Zusammenarbeit war schrecklich“",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T17:56:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146974.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "98f5ea40d0b8",
+   "t": "Roglic erkender: - Jeg var ikke på mit bedste",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T17:45:37.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/incoming/roglic-erkender-jeg-var-ikke-paa-mit-bedste/11310036",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "582f27bcd4c1",
+   "t": "AGOSTONI, MCNULTY SI CONFERMA COMPETITIVO DOPO IL SUCCESSO IRIDATO: “SODDISFATTO DELLA MIA GIORNATA”",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T17:31:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/04/1791136559/coppa-agostoni-2026-mcnulty-secondo-posto-maglia-iridata",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "c27ed9f68dae",
+   "t": "Tour de Vendée: Alexis Renard sprints to first professional victory of his career",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T17:09:53.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-vendee-alexis-renard-sprints-to-first-professional-victory-of-his-career/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "27c053e52178",
+   "t": "EK 2026: Tijmen Graat is beste Nederlander in de uitslag",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T17:09:39.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/ek-2026-tijmen-graat-is-beste-nederlander-in-de-uitslag/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "f1075d4abbc1",
+   "t": "Ryder Wilson wins his first World Cup in Lake Placid",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T17:08:51.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/mtb/ryder-wilson-wins-his-first-world-cup-in-lake-placid/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "49621ea3a172",
+   "t": "Mørkøv reagerer på EM-skuffelse",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T17:04:32.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/moerkoev-reagerer-paa-em-skuffelse/11309995",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "8c54bfe56545",
+   "t": "'Finished the season on a high' – Riley Pickrell and Modern Adventure reap the rewards of a season of building the lead out at Le Tour de Langkawi",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T17:04:24.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/finished-the-season-on-a-high-riley-pickrell-and-modern-adventure-reap-the-rewards-of-a-season-of-building-the-lead-out-at-le-tour-de-langkawi/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "2635c4754610",
+   "t": "AGOSTONI, FELICITA' LAPEIRA: «AVRO' UNA FOTO IN CUI BATTO IL CAMPIONE DEL MONDO...»",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T17:02:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/04/1791133500/coppa-agostoni-2026-lapeira-vittoria-decathlon-cma-cgm",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "074e5ed38fd1",
+   "t": "Remco Evenepoel to skip the European Championships time trial to concentrate on next Sunday's Il Lombardia",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T16:59:16.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/remco-evenepoel-to-skip-the-european-championships-time-trial-to-concentrate-on-next-sundays-il-lombardia/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "d02c62582df4",
+   "t": "Evenepoel overcomes crash to win European title in dramatic duel with Ciccone",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T16:56:00.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/evenepoel-overcomes-crash-to-win-european-title-in-dramatic-duel-with-ciccone/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "13db611c753f",
+   "t": "Lapeira schlägt bei der Coppa Agostoni den Weltmeister",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T16:35:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146973.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "61e7d9b4bef5",
+   "t": "Ciccone had plannetje om Evenepoel te kloppen: \"Dacht alleen maar aan die bocht\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T16:34:28.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/ciccone-had-plannetje-om-evenepoel-te-kloppen-dacht-alleen-maar-aan-die-bocht/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "d7668987f43b",
+   "t": "CICCONE. «LA SENSAZIONE PEGGIORE DELLA MIA CARRIERA, ANCHE PERCHE' NON HO SBAGLIATO NULLA»",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T16:30:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/04/1791127372/giulio-ciccone-campionati-europei-2026-remco-evenepoel-slovenia",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "06a5053f145b",
+   "t": "Taber med millimeter: - Ja, jeg er virkelig skuffet",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T16:24:40.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/taber-med-millimeter-ja-jeg-er-virkelig-skuffet/11309964",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "c36404560b41",
+   "t": "AMADIO. «SI E' CREATO UN GRANDE GRUPPO, I RAGAZZI HANNO CORSO DAVVERO UN GRANDE EUROPEO»",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T16:23:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/04/1791133027/ciclismo-campionati-europei-giulio-ciccone-nazionale-italiana-mondiali",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "7ceccccd0bd4",
+   "t": "Evenepoel schlägt nach Zielfotoentscheid Ciccone",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T16:11:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146972.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "fcf2cbbae906",
+   "t": "Blijdschap bij Belgische bondscoach: \"Ik dacht dat we verloren hadden\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T16:08:22.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/blijdschap-bij-belgische-bondscoach-ik-dacht-dat-we-verloren-hadden/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "76c1eb29de38",
+   "t": "Xabier Berasategi roza su primera victoria profesional en el Tour de Vendée",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T16:00:58.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/10/04/xabier-berasategi-roza-primera-victoria-profesional-tour-vendee.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "4631a85a958a",
+   "t": "Coppa Agostini: Paul Lapeira returns to winning ways taking a breakaway sprint victory",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T15:49:53.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/coppa-agostini-paul-lapeira-returns-to-winning-ways-taking-a-breakaway-sprint-victory/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "c9bae96a667e",
+   "t": "GIRO DELLE VALLI ARETINE. MORETTI VINCE LO SPRINT A QUATTRO E TRIONFA A RIGUTINO. GALLERY",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T15:49:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/04/1791129030/ciclismo-juniores-giro-delle-valli-aretine-mattia-moretti-neri-sottoli-lucchini-energy",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "db35e85ad8e7",
+   "t": "Tadej Pogacar geeft toe dat hij EK graag wilde rijden: \"Maar ik weet nu dat mijn vorm heel slecht is\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T15:47:54.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tadej-pogacar-geeft-toe-dat-hij-ek-graag-wilde-rijden-maar-ik-weet-nu-dat-mijn-vorm-heel-slecht-is/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "f14b636c36b3",
+   "t": "Evenepoel rejste sig: - Det var ærlig talt en meget hård uge",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T15:46:36.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/evenepoel-rejste-sig-det-var-aerlig-talt-en-meget-haard-uge/11309918",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "96d1ccbe1c52",
+   "t": "Tour de Vendée 2026 : Alexis Renard ouvre son compteur",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T15:46:28.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/courses/cyclisme/tour-de-vendee-2026-alexis-renard-ouvre-son-compteur/",
+     "l": "fr"
+    }
+   ]
+  },
+  {
+   "id": "5498866a8410",
+   "t": "EVENEPOEL. «ORA HO VINTO TUTTI I TITOLI E SPERO DI AVER RESO TUTTI ORGOGLIOSI»",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T15:45:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/04/1791127360/remco-evenepoel-campionati-europei-ciclismo-2026-giulio-ciccone-volata",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "e4b195ff155c",
+   "t": "Søjberg leverer topresultat i Frankrig",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T15:41:34.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/soejberg-leverer-topresultat-i-frankrig/11309911",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "466114d151e2",
+   "t": "Al zijn titels op een rijtje: Remco Evenepoel vinkt bingokaart volledig af",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T15:41:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/al-zijn-titels-op-een-rijtje-remco-evenepoel-vinkt-bingokaart-volledig-af~ab8bc5cf/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "5278ca5e47a1",
+   "t": "Remco Evenepoel maakt bingokaart vol op EK: \"Dacht in de sprint dat ik het niet meer zou halen\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T15:40:48.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/remco-evenepoel-maakt-bingokaart-vol-op-ek-dacht-in-de-sprint-dat-ik-het-niet-meer-zou-halen/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "eadaadbed24a",
+   "t": "TOUR DE VENDEE. RENARD (ALLA PRIMA DA PROF) E' IL PIU' VELOCE, 3° LONARDI",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T15:40:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/04/1791122068/tour-vendee-2026-cofidis-alexis-renard-corse-francesi",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "0dd0b77a08a0",
+   "t": "EM-live: Ciccone græder efter sølv!",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T15:40:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/live/em-live-ciccone-graeder-efter-soelv/11307002",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "7a4627a55c19",
+   "t": "\"Plots zag ik hem vertragen\": herbeleef hoe Remco Evenepoel vanuit verloren positie toch nog Europees kampioen werd in laatste meters",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T15:39:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/plots-zag-ik-hem-vertragen-herbeleef-hoe-remco-evenepoel-vanuit-verloren-positie-toch-nog-europees-kampioen-werd-in-laatste-meters~a72fe1ef/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "17b5d5c68c66",
+   "t": "Alex Renard sprint naar zege in Tour de Vendée, top-vijf voor Joren Bloem",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T15:31:54.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/alex-renard-sprint-naar-zege-in-tour-de-vendee-top-vijf-voor-joren-bloem/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "40fb43dc984b",
+   "t": "Remco Evenepoel sacré champion d’Europe devant Ciccone",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T15:31:12.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/courses/championnats-deurope-sur-route/remco-evenepoel-sacre-champion-deurope-devant-ciccone/",
+     "l": "fr"
+    }
+   ]
+  },
+  {
+   "id": "22d21ed06c91",
+   "t": "Paul Lapeira remporte la Coppa Agostoni 2026",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T15:27:03.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/courses/coppa-agostoni/paul-lapeira-remporte-la-coppa-agostoni-2026/",
+     "l": "fr"
+    }
+   ]
+  },
+  {
+   "id": "fe9e6ce6f3c1",
+   "t": "BUSCOLDO DI CURTATONE. ASSOLO DI NEMBRINI CHE ANTICIPA BOTTI E BRAMINI GORETTI",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T15:27:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/04/1791127698/ciclismo-juniores-mirko-nembrini-ciclistica-trevigliese-memorial-affini",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "367bd33f99d9",
+   "t": "Evenepoel Pips Ciccone in Desperate Sprint to Become European Champion",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T15:19:09.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/evenepoel-pips-ciccone-in-desperate-sprint-to-become-european-champion/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "ff055ccc8bcc",
+   "t": "Verdensmesteren slået på stregen af franskmand",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T15:18:34.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/verdensmesteren-slaaet-paa-stregen-af-franskmand/11309791",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "ce439ab4c13d",
+   "t": "UEC European Championships: Remco Evenepoel snatches photo finish victory in the elite men's race after two-man sprint",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T15:14:41.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/uec-european-championships-remco-evenepoel-snatches-photo-finish-victory-in-the-elite-mens-race-after-two-man-sprint/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "562221e4ee87",
+   "t": "Evenepoel na val en millimetersprint Europees kampioen, unieke verzameling compleet",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T15:13:11.000Z",
+   "sources": [
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2633634",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "387877ac382d",
+   "t": "Dworatzek: “Wir hatten uns eine Medaille vorgenommen“",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T15:11:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146971.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "e240eb85269f",
+   "t": "EUROPEI ELITE. SOLO EVENEPOEL BATTE CICCONE E SCARONI",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T15:10:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/04/1791120455/europei-ciclismo-remco-evenepoel-vittoria",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "966947b67085",
+   "t": "Evenepoel vinder vanvittig tæt spurt - Stor dansk nedtur",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T15:09:17.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/evenepoel-vinder-vanvittig-taet-spurt-stor-dansk-nedtur/11309755",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "01d21f45bba9",
+   "t": "EK 2026: Evenepoel kroont zich ondanks val en slepende Ciccone tot Europees kampioen",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T15:06:32.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/ek-2026-evenepoel-kroont-zich-ondanks-val-en-slepende-ciccone-tot-europees-kampioen/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "68330a0c0586",
+   "t": "Paul Lapeira houdt wereldkampioen McNulty van de zege in Coppa Agostoni",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T15:04:45.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/paul-lapeira-houdt-wereldkampioen-mcnulty-van-de-zege-in-coppa-agostoni/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "489a4d16f716",
+   "t": "BUSCOLDO DI CURTATONE. STOCCATA DI BONINI NELLA GARA UNICA MANTOVANA. GALLERY",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T15:01:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/04/1791128012/ciclismo-esordienti-pietro-bonini-brescia-giovani-talenti",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "69c8fa79b55e",
+   "t": "EK wielrennen 2026 in Slovenië: Programma en uitslagen",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T15:00:08.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/ek-wielrennen-2026-in-slovenie-programma-en-uitslagen/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "969cb27df931",
+   "t": "COPPA AGOSTONI. LAPEIRA BRUCIA MCNULTY E RACCAGNI NOVIERO",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T14:55:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/04/1791122033/ciclismo-coppa-agostoni-trittico-lombardo-paul-lapeira-classiche-italiane",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "2b90e22c38e5",
+   "t": "EK 2026: Tadej Pogacar komt toch juichend over de finish",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T14:44:43.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/ek-2026-tadej-pogacar-komt-toch-juichend-over-de-finish/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "283ac9d2cde7",
+   "t": "KIJK. Ferm schrikmoment: zo ging Remco Evenepoel na aanval pardoes onderuit in linke bocht",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T14:42:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/kijk-ferm-schrikmoment-zo-ging-remco-evenepoel-na-aanval-pardoes-onderuit-in-linke-bocht~a3146758/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "bd47d892762c",
+   "t": "The race within the race – Pride and purpose fuel chase for top spots in Best Asian Rider category at Le Tour de Langkawi",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T14:35:02.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/the-race-within-the-race-pride-and-purpose-fuel-chase-for-top-spots-in-best-asian-rider-category-at-le-tour-de-langkawi/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "1dc84e6165af",
+   "t": "EK 2026: Remco Evenepoel komt tijdens aanval ten val",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T14:23:53.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/ek-2026-remco-evenepoel-komt-tijdens-aanval-ten-val/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "9c71b28fa6fa",
+   "t": "SOMMA LOMBARDO. SPRINT VINCENTE DI BUDA SU BASSO E GAMBA",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T14:09:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/04/1791122999/ciclismo-dilettanti-gran-premio-somma-lombardo-varesotto-volata",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "d0945b83078b",
+   "t": "EUROPEI. CHE FESTA A MOŽJANCA: TANTO PUBBLICO E SALITA CHIUSA ALLE BICI. POGACAR A BORDO STRADA PER L’ULTIMA DI MEZGEC",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T13:50:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/04/1791122026/europei-ciclismo-moA�janca-tadej-pogacar-luka-mezgec-ljubljana",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "b6a04b558dfd",
+   "t": "'Corona gaf een enorme impuls aan de E-bike'",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T13:47:27.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/corona-gaf-een-enorme-impuls-aan-de-e-bike/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "def4d232d54c",
+   "t": "KIJK. Wie we daar hebben: grote afwezige Tadej Pogacar komt eindelijk kijkje nemen op EK wielrennen",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T13:30:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/kijk-wie-we-daar-hebben-grote-afwezige-tadej-pogacar-komt-eindelijk-kijkje-nemen-op-ek-wielrennen~ae82e63b/",
+     "l": "nl"
+    }
+   ]
+  },
   {
    "id": "b209a4993ecf",
    "t": "Tim Merlier treft Jasper Philipsen in Münsterland, Maxim Van Gils en Ramses Debruyne trekken meteen na EK naar Italië",
@@ -86,6 +954,20 @@
    ]
   },
   {
+   "id": "88822cafc631",
+   "t": "AZZURRA BALLAN, VIAGGIO NEL MONDO DELLA NUOVA CAMPIONESSA D'EUROPA",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T12:43:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/04/1791121596/azzurra-ballan-europei-junior-campionessa-mondiale-castelfranco-veneto",
+     "l": "it"
+    }
+   ]
+  },
+  {
    "id": "09312c03d0d9",
    "t": "Caroline Andersson reveals full extent of nasty injuries from Worlds crash",
    "s": "",
@@ -96,6 +978,34 @@
      "n": "Escape Collective",
      "u": "https://escapecollective.com/carol/",
      "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "f71256160b6d",
+   "t": "MAROSTICA. VIERO FA SUA LA COPPA BORGO PANICA BATTENDO SALMASO E PADOVAN. GALLERY",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T12:00:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/04/1791130504/ciclismo-juniores-coppa-borgo-panica-guido-viero-classiche",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "937338f7d625",
+   "t": "EK 2026: Voorbeschouwing wegrit mannen - Kan Remco Evenepoel zich revancheren?",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T11:55:00.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/ek-2026-voorbeschouwing-wegrit-mannen-is-er-iets-te-doen-aan-remco-evenepoel/",
+     "l": "nl"
     }
    ]
   },
@@ -179,6 +1089,34 @@
     {
      "n": "HLN Wielrennen",
      "u": "https://www.hln.be/wielrennen/dj-sessie-en-kusje-voor-vrouwlief-oumi-goedgemutste-remco-evenepoel-leeft-ontspannen-toe-naar-afspraak-met-geschiedenis~afe3c2c4/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "48180f9d2514",
+   "t": "Een dj-sessie en een kusje voor vrouwlief Oumi: goedgemutste Remco Evenepoel leeft ontspannen toe naar afspraak met geschiedenis",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T11:10:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/een-dj-sessie-en-een-kusje-voor-vrouwlief-oumi-goedgemutste-remco-evenepoel-leeft-ontspannen-toe-naar-afspraak-met-geschiedenis~afe3c2c4/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "796ebd4eebbf",
+   "t": "Koos Moerenhout voor EK: “Zonder Mathieu van der Poel is er heel andere dynamiek”",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T11:08:00.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/koos-moerenhout-voor-ek-zonder-mathieu-van-der-poel-is-er-heel-andere-dynamiek-1/",
      "l": "nl"
     }
    ]
@@ -320,6 +1258,20 @@
      "n": "Cyclingnews",
      "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/uec-european-championships-azzura-ballan-masters-a-four-woman-sprint-to-take-the-junior-womens-title/",
      "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "66c0e8443ea5",
+   "t": "Oversigt: EM på landevej 2026",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-04T09:10:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/oversigt-em-paa-landevej-2026/11304708",
+     "l": "da"
     }
    ]
   },
@@ -1131,6 +2083,20 @@
     {
      "n": "Canadian Cycling Magazine",
      "u": "https://cyclingmagazine.ca/sections/news/sarah-van-dam-2nd-at-giro-dellemilia/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "895ab0c7e403",
+   "t": "Sarah Van Dam 2nd at Giro dell’Emilia",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-03T18:13:48.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/sections/feature/sarah-van-dam-2nd-at-giro-dellemilia/",
      "l": "en"
     }
    ]
@@ -3148,818 +4114,6 @@
      "n": "Irish Cycling News",
      "u": "https://www.irishcyclingnews.com/uec-road-european-championships-day-one/",
      "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "963d0a837c75",
-   "t": "“Al wou hij zijn tandenborstel niet delen”: bagage van Maxim Van Gils bleef achter in België, maar gelukkig schiet Remco Evenepoel te hulp",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T18:30:17.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/al-wou-hij-zijn-tandenborstel-niet-delen-bagage-van-maxim-van-gils-bleef-achter-in-belgie-maar-gelukkig-schiet-remco-evenepoel-te-hulp~a921e310/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "c388eda62ec9",
-   "t": "Bock: “Einzige Chance war es, am Anstieg zu attackieren",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T18:29:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146953.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "74fa958969fe",
-   "t": "UEC European Championships 2026 Women’s Elite Road Race: Our form guide",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T18:26:27.000Z",
-   "sources": [
-    {
-     "n": "Cyclist (cyclist.co.uk)",
-     "u": "https://www.cyclist.co.uk/in-depth/uec-european-championships-2026-womens-elite-road-race-our-form-guide",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "338ca039fa2f",
-   "t": "How to watch the European road championships for free in Canada",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T18:10:44.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/sections/news/how-to-watch-the-european-road-championships-for-free-in-canada/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "bff2a5cbfa43",
-   "t": "Vergeet de Tour Down Under: seizoensopener in 2027 in Mexico of op Canarische eilanden",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T18:01:22.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/vergeet-de-tour-down-under-seizoensopener-in-2027-in-mexico-of-op-canarische-eilanden/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "8d46914b5d48",
-   "t": "A leaked 2027 World Series calendar points to more expansion. Is XC ready?",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T17:58:19.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/2027-uci-mtb-world-series-calendar/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "d2d1c5111b60",
-   "t": "UEC European Championships 2026 Men’s Elite Road Race: Our form guide",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T17:54:53.000Z",
-   "sources": [
-    {
-     "n": "Cyclist (cyclist.co.uk)",
-     "u": "https://www.cyclist.co.uk/in-depth/uec-european-championships-2026-mens-elite-road-race-our-form-guide",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "73a3779c73fe",
-   "t": "Lachlan Morton set to leave EF Education-EasyPost",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T17:52:26.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/lachlan-morton-set-to-leave-ef-education-easypost/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "46812ac3acc0",
-   "t": "EM-live: Havde guldvinder Mads P.-billede på hjelmen!?",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T17:50:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/live/em-live-havde-guldvinder-mads-p.-billede-paa-hjelmen/11307002",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "0d869632a088",
-   "t": "Mørkøv: Opløftende for Mads P.",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T17:40:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/moerkoev-oploeftende-for-mads-p./11308546",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "bf3d58e4964f",
-   "t": "Belgian prospect Van Kerckhove is reportedly heading to Visma despite prior agreement with Decathlon",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T17:31:22.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/belgian-prospect-van-kerckhove-is-reportedly-heading-to-visma-despite-prior-agreement-with-decathlon/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "88021e9fbc00",
-   "t": "“Beslissing hoeft niet op klim te vallen”: hoe wil Remco Evenepoel, die zich nooit ziek heeft gevoeld, wegrit op EK naar zijn hand zetten?",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T17:30:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/beslissing-hoeft-niet-op-klim-te-vallen-hoe-wil-remco-evenepoel-die-zich-nooit-ziek-heeft-gevoeld-wegrit-op-ek-naar-zijn-hand-zetten~a73296f7/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "e64950a87767",
-   "t": "A tumba abierta by AMIX: el reto de conquistar el Pico de las Nieves y una mirada a los Europeos",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T17:19:15.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/10/02/tumba-abierta-by-amix-reto-conquistar-pico-nieves-mirada-europeos.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "d08b0a0962d7",
-   "t": "McNulty erstmals im Regenbogen gesichtet",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T17:10:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146952.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "60193525b219",
-   "t": "Michael Matthews bijt van zich af na kritiek op koerswijze: \"Geen idee welke wedstrijd jij hebt gekeken\"",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T16:56:27.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/michael-matthews-bijt-van-zich-af-na-kritiek-op-koerswijze-geen-idee-welke-wedstrijd-jij-hebt-gekeken/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "eb281db6ecbb",
-   "t": "Rafaelle Carrier podiums again in slippery Lake Placid World Cup XCC",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T16:55:15.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/mtb/rafaelle-carrier-podiums-again-in-slippery-soldier-hollow-world-cup-xcc/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "796ebd4eebbf",
-   "t": "Koos Moerenhout voor EK: “Zonder Mathieu van der Poel is er heel andere dynamiek”",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T16:32:22.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/koos-moerenhout-voor-ek-zonder-mathieu-van-der-poel-is-er-heel-andere-dynamiek-1/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "e697cc0b07db",
-   "t": "Pogačar says he is 'getting better each day after the crash'",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T16:30:21.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/pogacar-says-he-is-getting-better-each-day-after-the-crash/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "a4cda632ec06",
-   "t": "Mørkøv fremhæver 'nyt' talent: - Bygget til at køre opad",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T16:18:03.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/moerkoev-fremhaever-nyt-talent-bygget-til-at-koere-opad/11308487",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "49905fb4214f",
-   "t": "Ronan Augé of Unibet Rose Rockets in induced coma but stable after Langkawi crash",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T16:14:47.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/ronan-auge-of-unibet-rose-rockets-in-induced-coma-but-stable-after-langkawi-crash/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "66c0e8443ea5",
-   "t": "Oversigt: EM på landevej 2026",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T16:10:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/oversigt-em-paa-landevej-2026/11304708",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "0aff335a41e4",
-   "t": "Waarom artificiële intelligentie in het wielrennen volgens NSN (nog) niet tot een revolutie leidt",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T16:05:24.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/waarom-artificiele-intelligentie-in-het-wielrennen-volgens-nsn-nog-niet-tot-een-revolutie-leidt/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "c7ea1760c9d2",
-   "t": "U23-Europameister Alvarez bricht seinen Sieg-Bann",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T16:04:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146951.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "83779af0c21a",
-   "t": "The Rapha Meltdown, Worlds Drama, and Selling $6,500 Wheels in 2026 | The Velo Podcast",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T16:03:33.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-gear/rapha-marketing-fail-worlds-recap-high-dollar-gear/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "12c9954d7b5e",
-   "t": "‘Tudor gaat aan de haal met Primoz Roglic’",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T16:02:54.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/tudor-gaat-aan-de-haal-met-primoz-roglic/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "b5604107b9fe",
-   "t": "Lachlan Morton Has a New Challenge: Beat the Horses of the Old Pony Express",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T16:00:20.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/news/lachlan-morton-pony-express/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "979e3af37ecf",
-   "t": "UNA TRE VALLI VARESINE PER GRANDI NOMI: MCNULTY, EVENEPOEL, PIDCOCK, PELLIZZARI, CICCONE, MAS...",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T16:00:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/10/02/1790959347/ciclismo-tre-valli-varesine-professionisti-campioni-del-mondo-varese",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "1fd4ea3e2f5c",
-   "t": "Lachlan Morton is racing the Pony Express, will leave EF in 2027",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T15:59:31.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/lachlan-morton-is-racing-the-pony-express-will-leave-ef-in-2027/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "9f8877a44984",
-   "t": "UAE signs French youngster Gautherat from Decathlon",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T15:50:48.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/uae-signs-french-youngster-gautherat-from-decathlon/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "937338f7d625",
-   "t": "EK 2026: Voorbeschouwing wegrit mannen - Kan Remco Evenepoel zich revancheren?",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T15:45:00.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/ek-2026-voorbeschouwing-wegrit-mannen-is-er-iets-te-doen-aan-remco-evenepoel/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "a05bdb89db2a",
-   "t": "Pogacar med nyt: - Hun tørrer gulv med mig",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T15:45:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/pogacar-med-nyt-hun-toerrer-gulv-med-mig/11308293",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "0d379ccbfb67",
-   "t": "Ontario cyclist dies after being struck by motorist",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T15:42:24.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/sections/news/ontario-cyclist-dies-after-being-struck-by-motorist/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "ff9888790772",
-   "t": "22-jarige Franse wielrenner Ronan Augé in kunstmatige coma na val, “toestand wel stabiel”",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T15:40:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/22-jarige-franse-wielrenner-ronan-auge-in-kunstmatige-coma-na-val-toestand-wel-stabiel~a5f4e322/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "471014c6d3ad",
-   "t": "Niels Driesen zorgt met brons in wegrit voor beloften voor eerste Belgische EK-medaille: “Ik voelde me nochtans niet super”",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T15:35:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/niels-driesen-zorgt-met-brons-in-wegrit-voor-beloften-voor-eerste-belgische-ek-medaille-ik-voelde-me-nochtans-niet-super~a9d5372b/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "e74543304e2f",
-   "t": "Paula Blasi no participará en el Europeo de Eslovenia",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T15:22:57.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/10/02/paula-blasi-participara-europeo-eslovenia.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "e9c3f9319cba",
-   "t": "Hector Alvarez sacré champion d’Europe chez les Espoirs",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T15:14:01.000Z",
-   "sources": [
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/courses/championnats-deurope-sur-route/hector-alvarez-sacre-champion-deurope-chez-les-espoirs/",
-     "l": "fr"
-    }
-   ]
-  },
-  {
-   "id": "f5fa6831b2ef",
-   "t": "¡Héctor Álvarez se corona campeón de Europa Sub 23 tras un doble ataque!",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T15:09:24.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/10/02/hector-alvarez-corona-campeon-europa-sub-23-doble-ataque.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "69c8fa79b55e",
-   "t": "EK wielrennen 2026 in Slovenië: Programma en uitslagen",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T15:00:09.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/ek-wielrennen-2026-in-slovenie-programma-en-uitslagen/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "eee665f55169",
-   "t": "Nieuw record: Liefst 372 kinderen in actie tijdens Rabobank Dikke Banden Races in Leiden",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T14:56:18.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/nieuw-record-liefst-372-kinderen-in-actie-tijdens-rabobank-dikke-banden-races-in-leiden/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "50be99be555f",
-   "t": "EUROPEI. ATTACCO (E RILANCIO) VINCENTE DI ALVAREZ TRA GLI UNDER 23, 5° NEGRENTE",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T14:55:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/10/02/1790941245/europei-slovenia-2026-gara-under-23-vittoria-alvarez-spagna",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "0059b2824f75",
-   "t": "Kæmpetalent vinder EM - skuffende dansk dag",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T14:52:07.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/kaempetalent-vinder-em-skuffende-dansk-dag/11308345",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "e482af63d7fc",
-   "t": "UEC European Championships: Héctor Alvárez solos to victory in under-23 men's road race",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T14:50:57.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/uec-european-championships-hector-alvarez-solos-to-victory-in-under-23-mens-road-race/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "698ed97c94be",
-   "t": "El francés Ronan Auge, en coma inducido tras un accidente",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T14:49:26.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/10/02/frances-ronan-auge-coma-inducido-accidente.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "443a4b52cbd8",
-   "t": "EK 2026: Héctor Álvarez bezorgt Spanje Europese beloftentitel, brons voor Belg Niels Driesen",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T14:47:25.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/ek-2026-hector-alvarez-bezorgt-spanje-europese-beloftentitel-brons-voor-belg-niels-driesen/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "1c29fe05af03",
-   "t": "I used the Montreal bike share to get around at the road worlds and it was fantastic",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T14:46:29.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/sections/news/i-used-the-montreal-bike-share-to-get-around-at-the-road-worlds-and-it-was-fantastic/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "575543d262a2",
-   "t": "Pickrell on Langkawi win: ‘We’ve been so close, we knew it was coming’",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T14:46:09.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/sections/news/pickrell-on-langkawi-win-weve-been-so-close-we-knew-it-was-coming/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "8bdb6009a124",
-   "t": "‘I prefer to choose my danger’: Canadian BMX Olympian questions Riyadh world champs",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T14:29:19.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/mtb/i-prefer-to-choose-my-danger-canadian-bmx-olympian-questions-riyadh-world-champs/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "917536632083",
-   "t": "Debat: EM, en ligegyldig trøstepræmie? - og det bedste VM... Nogensinde?",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T14:24:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/incoming/debat-em-en-ligegyldig-troestepraemie-og-det-bedste-vm...-nogensinde/11307663",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "7bc98af94fa3",
-   "t": "Heidemann rückt für Kämna ins EM-Aufgebot",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T14:21:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146949.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "8b49da48c7d6",
-   "t": "Grote rondes van twee weken? UCI publiceert document met mogelijk ingrijpende veranderingen",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T14:17:41.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/grote-rondes-van-twee-weken-uci-publiceert-document-met-mogelijk-ingrijpende-veranderingen/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "7c15174233b9",
-   "t": "UAE Team Emirates-XRG bolster Classics squad with young Frenchman from Decathlon CMA CGM",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T13:59:24.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/transfers/uae-team-emirates-xrg-bolster-classics-squad-with-young-frenchman-from-decathlon-cma-cgm/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "d88ef44a7163",
-   "t": "Ronan Augé placé dans un coma artificiel",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T13:39:54.000Z",
-   "sources": [
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/actualite/cyclisme/ronan-auge-place-dans-un-coma-artificiel/",
-     "l": "fr"
-    }
-   ]
-  },
-  {
-   "id": "f2b1f7d53f9b",
-   "t": "Reichen Vollering zwei Anstiege zur Titelverteidigung?",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T13:38:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146950.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "66a21e6422e4",
-   "t": "EM-live: Nu skal U23-herrerne kæmpe om guld!",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T13:25:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/live/em-live-nu-skal-u23-herrerne-kaempe-om-guld/11307002",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "651b480b249c",
-   "t": "Taco van der Hoorn maakt zes weken na dubbele armbreuk rentree",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T13:22:16.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/taco-van-der-hoorn-maakt-zes-weken-na-dubbele-armbreuk-rentree/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "5b7dee2460f0",
-   "t": "UAE oficializa el fichaje de Gautherat y suma pólvora para el gran objetivo de Pogacar: la París-Roubaix",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T13:16:56.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/10/02/uae-oficializa-fichaje-gautherat-suma-polvora-gran-objetivo-pogacar-paris-roubaix.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "7f51f56bcb59",
-   "t": "Pierre Gautherat file chez UAE",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T13:15:42.000Z",
-   "sources": [
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/actualite/cyclisme/transferts/pierre-gautherat-file-chez-uae/",
-     "l": "fr"
-    }
-   ]
-  },
-  {
-   "id": "d48a498addfc",
-   "t": "UAE Emirates XRG onthult regenboogtrui en bijpassende fiets Brandon McNulty",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-02T13:07:48.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/uae-emirates-xrg-onthult-regenboogtrui-en-bijpassende-fiets-brandon-mcnulty/",
-     "l": "nl"
     }
    ]
   }
