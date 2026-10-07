@@ -1,6 +1,664 @@
 {
- "updated": "2026-10-07T14:21:20.303Z",
+ "updated": "2026-10-07T21:08:39.123Z",
  "groups": [
+  {
+   "id": "59916a6077f9",
+   "t": "Radsport live im Stream, TV und Ticker: Die Rennen des Tages",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T21:04:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_144508.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "4fca6d6cc131",
+   "t": "Koch erlebt in Sencur keine WM-Magie",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T20:15:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147007.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "8ab25c171911",
+   "t": "Preview: Il Lombardia will crown a new champion for the first time in years",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T20:11:46.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/2026-il-lombardia-preview/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "c15c8a2a8dba",
+   "t": "Van Baarle breaks wrist in training crash involving car",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T20:02:18.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/van-baarle-breaks-wrist-in-training-crash-involving-car/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "0b80b87cf3f7",
+   "t": "Van Baarle loopt polsbreuk op bij ongeluk: 'Helm heeft zijn leven gered'",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T19:47:51.000Z",
+   "sources": [
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2634065",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "a991f0fa6304",
+   "t": "Magnus Sheffield to leave Netcompany Ineos for four-year contract with Uno-X Mobility",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T19:40:32.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/transfers/magnus-sheffield-to-leave-netcompany-ineos-for-four-year-contract-with-uno-x-mobility/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "c9fafc985b6d",
+   "t": "Wilco Kelderman wil in het rood-wit-blauw naar Amstel Gold Race en Ardennenklassiekers",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T19:30:00.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/wilco-kelderman-wil-in-het-rood-wit-blauw-naar-amstel-gold-race-en-ardennenklassiekers/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "98914e9c1a1e",
+   "t": "EM-Silber: Vollering “mental nicht mehr ganz bei der Sache“",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T19:22:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147006.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "c60bffe53947",
+   "t": "Sheffield signs with Uno-X",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T19:21:10.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/sheffield-signs-with-uno-x/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "329e5b050dbc",
+   "t": "Magnus Sheffield Embraces Norwegian Roots With Move to Uno-X",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T19:03:06.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/magnus-sheffield-embraces-norwegian-roots-with-move-to-uno-x/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "65c31ea63567",
+   "t": "Roglic beschert Slowenien einen krönenden EM-Abschluss",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T18:41:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147005.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "db544e4c1fa4",
+   "t": "'Fingers crossed for that scenario' - Dutch squad aligned for Marianne Vos to recapture rainbow jersey at Gravel World Championships",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T18:26:00.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/fingers-crossed-for-that-scenario-dutch-squad-aligned-for-marianne-vos-to-recapture-rainbow-jersey-at-gravel-world-championships/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "4787be665049",
+   "t": "'I will definitely remember this for the rest of my life' – No Pogačar, no problem as veteran Primož Roglič saves Slovenia at the last with fairytale European title triumph",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T18:09:58.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/i-will-definitely-remember-this-for-the-rest-of-my-life-no-pogacar-no-problem-as-veteran-primoz-roglic-saves-slovenia-at-the-last-with-fairytale-european-title-triumph/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "c0499681f581",
+   "t": "INCIDENTE IN ALLENAMENTO, FRATTURA DEL POLSO PER VAN BAARLE",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T18:00:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/07/1791399613/ciclismo-incidente-stradale-dylan-van-baarle-infortuni-stagione-2026",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "f06277c8bb24",
+   "t": "Uno-X verpflichtet Magnus ”Bratli”, Movistar wirbt UAE-Talent ab",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T17:45:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146938.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "85ffe7d1b1e3",
+   "t": "Primož Roglič rules at home to win European time trial title",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T17:39:04.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/sections/news/primoz-roglic-rules-at-home-to-win-european-time-trial-title/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "eaf47362a2c1",
+   "t": "Movistar slaat flinke transferslag met binnenhalen Ecuadoraans toptalent",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T17:37:54.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/movistar-slaat-flinke-transferslag-met-binnenhalen-ecuadoraans-toptalent/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "dad94d9252b4",
+   "t": "Waarom de zege van Primoz Roglic geen verrassing is: “Je denkt: ‘Amai, dan moet ik zoveel watt duwen’. Ja, dat gaat gewoon niet, hé”",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T17:34:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/waarom-de-zege-van-primoz-roglic-geen-verrassing-is-je-denkt-amai-dan-moet-ik-zoveel-watt-duwen-ja-dat-gaat-gewoon-niet-he~a452e59a/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "ba922f6ebc9e",
+   "t": "Tour of Norway opnieuw zonder subsidie, toekomst 'ernstig in gevaar'",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T17:25:32.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/tour-of-norway-opnieuw-zonder-subsidie-toekomst-ernstig-in-gevaar/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "3c4fca995756",
+   "t": "Ondanks lopend contract bij Netcompany Ineos: Filippo Ganna op weg naar Lidl-Trek, Giulio Ciccone verlaat Duitse formatie",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T17:25:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/ondanks-lopend-contract-bij-netcompany-ineos-filippo-ganna-op-weg-naar-lidl-trek-giulio-ciccone-verlaat-duitse-formatie~a5fb5e50/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "25c1b1c5ec29",
+   "t": "Heidemanns EM-Zeitfahren “anstrengend“ und “ultrageil“",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T17:24:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147004.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "cd96f2353113",
+   "t": "How ‘by women, for women’ brands are pushing the cycling clothing industry forward",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T17:23:47.000Z",
+   "sources": [
+    {
+     "n": "Cyclist (cyclist.co.uk)",
+     "u": "https://www.cyclist.co.uk/in-depth/how-by-women-for-women-brands-are-pushing-the-cycling-clothing-industry-forward",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "25332376f46c",
+   "t": "Preview: How (and when) to watch 2026 Red Bull Rampage",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T17:22:08.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/mtb/og-but-bigger-red-bull-rampage-goes-home-for-25th-anniversary/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "633c0f706831",
+   "t": "Highlight-Video des EM-Zeitfahrens der Männer",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T17:17:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147003.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "fd0840dbd63d",
+   "t": "Tour of Norway's future 'in serious danger' without government funding",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T16:58:59.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/tour-of-norways-future-in-serious-danger-without-government-funding/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "587c0040a64a",
+   "t": "Richard Sachs is writing it all down",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T16:55:05.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/richard-sachs-is-writing-it-all-down/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "260db8a71c89",
+   "t": "Magnus Sheffield maakt overstap naar 'thuisploeg' Uno-X Mobility: \"Cirkel is rond\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T16:54:10.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/magnus-sheffield-maakt-zeer-opvallende-overstap-naar-uno-x-mobility/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "86976c874197",
+   "t": "Ilan Van Wilder baalt niet echt van vierde plek: \"Blij dat ik tijdrijder in mezelf heb teruggevonden\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T16:41:37.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/ilan-van-wilder-baalt-niet-echt-van-vierde-plek-blij-dat-ik-tijdrijder-in-mezelf-heb-teruggevonden/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "4d5a4055d8f1",
+   "t": "Voorbeschouwing: Ronde van Lombardije 2026 - Strijd tussen Evenepoel, Seixas en Del Toro",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T16:35:00.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/voorbeschouwing-ronde-van-lombardije-2026-strijd-tussen-evenepoel-seixas-en-del-toro/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "6c484cac99e0",
+   "t": "Roglic im Zeitfahren ohne Radio und nach Gefühl zu EM-Gold",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T16:27:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146999.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "bc0cd2a8eb18",
+   "t": "Demi Vollering sluit wonderjaar af met EK-zilver: \"Mentaal was ik er niet meer helemaal bij\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T16:24:03.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/demi-vollering-sluit-wonderjaar-af-met-ek-zilver-mentaal-was-ik-er-niet-meer-helemaal-bij/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "19af10c6550f",
+   "t": "Mooi zilver en brons, helaas net geen goud: hoe de kampioenschapstrend bij onze florerende Belgische wielerjeugd zich ook doortrekt op de weg",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T16:00:19.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/mooi-zilver-en-brons-helaas-net-geen-goud-hoe-de-kampioenschapstrend-bij-onze-florerende-belgische-wielerjeugd-zich-ook-doortrekt-op-de-weg~a4505aca/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "dfa08250385f",
+   "t": "Primoz Roglic wordt in zijn Slovenië Europees kampioen: \"Dit is echt prachtig\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T15:55:55.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/primoz-roglic-wordt-in-zijn-slovenie-europees-kampioen-dit-is-echt-prachtig/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "19b5e55b6cd8",
+   "t": "Roglič wins elite men's TT at Euros",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T15:51:20.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/roglic-wins-elite-mens-tt-at-euros/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "3643e2f0023f",
+   "t": "Sloveen Roglic snelt voor eigen publiek naar EK-goud op tijdrit",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T15:50:07.000Z",
+   "sources": [
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2634036",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "77d5b7896230",
+   "t": "UEC European Championships: Primož Roglič takes 'beautiful' victory to win his first European title on home roads",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T15:39:33.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/uec-european-championships-primoz-roglic-takes-beautiful-victory-to-win-his-first-european-title-the-on-home-roads/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "50ce2038cf6b",
+   "t": "EK 2026: Primoz Roglic zorgt voor Sloveens wielersprookje met winst in tijdrit",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T15:27:48.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/ek-2026-primoz-roglic-zorgt-voor-sloveens-wielersprookje-met-winst-in-tijdrit/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "636ab48b6a8d",
+   "t": "“Het kan niet elk jaar meezitten”: Ilan Van Wilder neemt “na rotjaar” vrede met vierde plek op vijf (!) seconden van podium",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T15:26:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/het-kan-niet-elk-jaar-meezitten-ilan-van-wilder-neemt-na-rotjaar-vrede-met-vierde-plek-op-vijf-seconden-van-podium~a7f00040/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "cae0a08c6ae3",
+   "t": "EUROPEI. ROGLIČ PROFETA IN PATRIA, È CAMPIONE EUROPEO A CRONO! 7° FRIGO",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T15:12:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/07/1791387275/europei-cronometro-2026",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "864a3566ceec",
+   "t": "Joint winners, overturned results and long-lasting controversies – Some of cycling's most memorable photo finishes",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T15:10:58.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/rules/joint-winners-overturned-results-and-long-lasting-controversies-some-of-cyclings-most-memorable-photo-finishes/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "94b93d7694f8",
+   "t": "Designed to withstand ten cutting discs, Kryptonite's strongest bike lock is now discounted",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T14:55:36.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/cycling-tech-components/designed-to-withstand-ten-cutting-discs-kryptonites-strongest-bike-lock-is-now-discounted/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "fc6322dc0b5e",
+   "t": "Marlen Reusser snags 5th European time trial title",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T14:53:15.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/sections/news/marlen-reusser-snags-5th-european-time-trial-title/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "7038fe2cc998",
+   "t": "PELLA, VALDENGO E Il BIELLESE PRONTI PER OSPITARE I CAMPIONATI ITALIANI CRONOMETRO",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T14:53:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/07/1791385073/roberto-pella-cronometro-tricolori-elisa-longo-borghini-piemonte-valdengo-biellese",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "dde8cd6a1747",
+   "t": "Jasper Stuyven wordt voor de eerste keer vader",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T14:52:53.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/jasper-stuyven-wordt-voor-de-eerste-keer-vader/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "8ae191d24075",
+   "t": "Our top-rated heart rate monitor for cycling has just hit its lowest price of the year in the Amazon Prime Big Deal Days sale. But this offer ends tonight",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T14:35:25.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/cycling-tech-components/our-top-rated-heart-rate-monitor-for-cycling-has-just-hit-its-lowest-price-of-the-year/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "d21c7807b89e",
+   "t": "US racer Ezra Caudell leaves hospital, makes 'remarkable' recovery progress 31 days after being left in critical condition by crash at Philadelphia Cycling Classic",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T14:33:27.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/us-racer-ezra-caudell-leaves-hospital-makes-remarkable-recovery-progress-31-days-after-being-left-in-critical-condition-by-crash-at-philadelphia-cycling-classic/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "07cbff7f7e2d",
+   "t": "Marlen Reusser laat met vijfde Europese titel Ellen van Dijk achter zich",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T14:31:24.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/marlen-reusser-laat-met-vijfde-europese-titel-ellen-van-dijk-achter-zich/",
+     "l": "nl"
+    }
+   ]
+  },
   {
    "id": "8f168d634802",
    "t": "Reusser gelingt souveräne Titelverteidigung vor Vollering",
@@ -26,6 +684,20 @@
      "n": "HLN Wielrennen",
      "u": "https://www.hln.be/wielrennen/live-op-een-goeie-dag-is-medaille-misschien-wel-mogelijk-kan-ilan-van-wilder-verrassen-met-nieuw-eremetaal-bij-elite-mannen~a7f00040/",
      "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "bb33cacc5821",
+   "t": "The Lego Icons Road Bike drops again in price for the third consecutive week – it's now just £78 for Amazon Prime Big Deal Days",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T14:08:11.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/cycling-culture/the-lego-icons-road-bike-drops-again-in-price-for-the-third-consecutive-week-its-now-just-gbp78-for-amazon-prime-big-deal-days/",
+     "l": "en"
     }
    ]
   },
@@ -68,6 +740,20 @@
      "n": "NOS Wielrennen",
      "u": "https://nos.nl/l/2634018",
      "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "f4e6cd98552e",
+   "t": "UEC European Championships: Marlen Reusser beats Demi Vollering to win her fifth elite women's time trial title",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T13:35:34.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/uec-european-championships-marlen-reusser-beats-demi-vollering-to-win-her-fifth-elite-womens-time-trial-title/",
+     "l": "en"
     }
    ]
   },
@@ -170,6 +856,48 @@
    ]
   },
   {
+   "id": "5370d773215f",
+   "t": "Hayden Zablotny’s Rampage bike reaches back to freeride’s Canadian past",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T13:21:40.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/sections/news/hayden-zablotnys-rampage-bike-reaches-back-to-freerides-canadian-past/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "b185d29144e0",
+   "t": "You thought the triple chainset was dead? Self-shifting, battery-free system for 32\" bikes offers glimpse of the future",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T13:19:40.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/cycling-tech-components/groupsets/you-thought-the-triple-chainset-was-dead-self-shifting-battery-free-system-for-32-bikes-offers-glimpse-of-the-future/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "6574921487fc",
+   "t": "Our top-rated winter cycling jacket is now 45% off, saving almost $200 just in time for it getting cold",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T13:11:24.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/cycling-tech-components/our-top-rated-winter-cycling-jacket-is-now-45-percent-off-saving-almost-usd200/",
+     "l": "en"
+    }
+   ]
+  },
+  {
    "id": "42001f84f0dd",
    "t": "COPPA ITALIA DELLE REGIONI. PELLIZZARI E GASPARRINI AL COMANDO, ECCO LE CLASSIFICHE AGGIORNATE",
    "s": "",
@@ -212,6 +940,20 @@
    ]
   },
   {
+   "id": "7790979cfa5c",
+   "t": "UEC European Championships: Nienke Vinke storms to victory in U23 women's time trial title",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T12:51:22.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/uec-european-championships-nienke-vinke-storms-to-victory-in-u23-womens-time-trial-title/",
+     "l": "en"
+    }
+   ]
+  },
+  {
    "id": "beac73d5461f",
    "t": "El Euskaltel-Euskadi sigue desatado en busca del 'milagro': doblete con Mintegi y Hennequin",
    "s": "",
@@ -222,6 +964,20 @@
      "n": "Marca Ciclismo",
      "u": "https://www.marca.com/ciclismo/2026/10/07/euskaltel-euskadi-sigue-desatado-busca-milagro-doblete-mintegi-hennequin.html",
      "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "4e2d208c46d1",
+   "t": "UEC European Championships: Héctor Álvarez does the double with men's U23 time trial success",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T12:29:26.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/uec-european-championships-hector-alvarez-does-the-double-with-mens-u23-time-trial-success/",
+     "l": "en"
     }
    ]
   },
@@ -268,6 +1024,62 @@
    ]
   },
   {
+   "id": "c9c7533a9399",
+   "t": "Get 10% off the Zwift Ride V2 bundle, and gear up for indoor riding with the ultimate Zwift indoor cycling setup",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T12:21:11.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/cycling-tech-components/smart-trainers/get-10-percent-off-the-zwift-ride-v2-bundle/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "d6b8e7b7833d",
+   "t": "The warmest and most breathable deep-winter gloves from Gore Wear are now half price at Competitive Cyclist, but when they're gone, they're gone",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T12:08:55.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/cycling-kit-accessories/the-warmest-and-most-breathable-deep-winter-gloves-from-gore-wear-are-now-half-price-at-competitive-cyclist-but-when-theyre-gone-theyre-gone/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "266d27720fde",
+   "t": "'A serious incident, one we must not underestimate' – Coppa Bernocchi organisers respond after delivery van driver swung onto race route between groups",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T11:59:44.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/safety/a-serious-incident-one-we-must-not-underestimate-coppa-bernocchi-organisers-respond-after-delivery-van-driver-swung-onto-race-route-between-groups/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "43b72bfc484e",
+   "t": "Pinarello-Q36.5 confirm ninth rider signing for 2027 as Ethan Hayter joins from Soudal-QuickStep",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T11:48:18.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/transfers/pinarello-q36-5-confirm-ninth-rider-signing-for-2027-as-ethan-hayter-joins-from-soudal-quickstep/",
+     "l": "en"
+    }
+   ]
+  },
+  {
    "id": "e84f50ff7a40",
    "t": "Risbjerg millimeter fra guld: - Gør selvfølgelig ondt",
    "s": "",
@@ -278,6 +1090,20 @@
      "n": "Feltet.dk",
      "u": "https://feltet.dk/landevej/risbjerg-millimeter-fra-guld-goer-selvfoelgelig-ondt/11312950",
      "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "782bd80bb9f0",
+   "t": "It's naive to think that trade team loyalties will disappear at the Gravel World Championships, I expect some of the season's strangest tactics yet",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T11:43:25.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/its-naive-to-think-that-trade-team-loyalties-will-disappear-at-the-gravel-world-championships-i-expect-some-of-the-seasons-strangest-tactics-yet/",
+     "l": "en"
     }
    ]
   },
@@ -394,6 +1220,20 @@
    ]
   },
   {
+   "id": "fe84e7acc5e8",
+   "t": "'Sad that you have to risk your life to race' – Marcel Camprubí shows damage to his bike after being struck by vehicle at Tre Valli Varesine",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T11:06:02.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/safety/sad-that-you-have-to-risk-your-life-to-race-marcel-camprubi-shows-damage-to-his-bike-after-being-struck-by-vehicle-at-tre-valli-varesine/",
+     "l": "en"
+    }
+   ]
+  },
+  {
    "id": "446c3ad8422f",
    "t": "Evenepoel, Roglic, Pidcock, Carapaz y Ayuso, debutante en monumentos, copan el cartel de Il Lombardía",
    "s": "",
@@ -418,6 +1258,20 @@
      "n": "Radsport-News",
      "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146995.htm",
      "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "967c166ff332",
+   "t": "I've highlighted the best fall/winter road riding gear with seriously reduced prices in the Competitive Cyclist three-day sale – ends tomorrow!",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T10:52:09.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/cycling-kit-accessories/clothing-shoes/get-premium-fall-winter-road-riding-gear-with-seriously-reduced-prices-in-the-competitive-cyclist-three-day-sale-ends-tomorrow/",
+     "l": "en"
     }
    ]
   },
@@ -450,6 +1304,20 @@
    ]
   },
   {
+   "id": "3a8647189be7",
+   "t": "UEC European Championships: Ineos-bound super talent Benjamín Noval maintains Worlds form to win junior men's time trial",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T10:40:19.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/uec-european-championships-ineos-bound-super-talent-benjamin-noval-maintains-worlds-form-to-win-junior-mens-time-trial/",
+     "l": "en"
+    }
+   ]
+  },
+  {
    "id": "a427885d74dc",
    "t": "EK 2026: Nienke Vinke en Megan Arens bezorgen Nederland één-tweetje in tijdrit",
    "s": "",
@@ -460,6 +1328,20 @@
      "n": "Wielerflits",
      "u": "https://www.wielerflits.nl/nieuws/ek-2026-nienke-vinke-en-megan-arens-bezorgen-nederland-een-tweetje-in-beloftentijdrit-1/",
      "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "67ae1ee9fa1a",
+   "t": "Ethan Hayter moves to Pinarello Q36.5 for 2027",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T10:29:14.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/sections/news/ethan-hayter-moves-to-pinarello-q36-5-for-2027/",
+     "l": "en"
     }
    ]
   },
@@ -515,6 +1397,34 @@
     {
      "n": "Velo",
      "u": "https://velo.outsideonline.com/road/road-racing/il-lombardia-2026-cheat-sheet-route-favorites-how-to-watch/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "1cceaa197586",
+   "t": "UEC European Championships: Top Spanish talent Alejandra Neira claims junior women's time trial title",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T10:07:13.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/uec-european-championships-top-spanish-talent-alejandra-neira-claims-junior-womens-time-trial-title/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "1d3583bc805e",
+   "t": "How to watch the European TT championships for free in Canada",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T10:00:24.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/sections/news/how-to-watch-the-european-tt-championships-free-in-canada/",
      "l": "en"
     }
    ]
@@ -786,6 +1696,48 @@
    ]
   },
   {
+   "id": "ef7d402013bd",
+   "t": "Colnago’s new G5-X gravel race bike is ‘everything in only one package’",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T08:22:55.000Z",
+   "sources": [
+    {
+     "n": "Cyclist (cyclist.co.uk)",
+     "u": "https://www.cyclist.co.uk/news/colnago-g5-x-gravel-bike",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "4536dc9c12c0",
+   "t": "Save $127 on the Wahoo Kickr V6 – our top choice for a smart trainer is at its lowest price of the year in the Amazon Prime Big Deal Days sale",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T08:21:21.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/cycling-tech-components/save-usd127-on-the-wahoo-kickr-v6-our-top-choice-for-a-smart-trainer-is-at-its-lowest-price-of-the-year-in-the-amazon-prime-big-deal-days-sale/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "54bba2ac817c",
+   "t": "Amazon Prime Day Bike Deals Live: Fresh deals and discounts on day two from Amazon and beyond",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T08:21:12.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/cycling-tech-components/live/amazon-prime-day-2026-live-day-two/",
+     "l": "en"
+    }
+   ]
+  },
+  {
    "id": "d03a6ee38cc4",
    "t": "POLTI VISITMALTA VERSO UN GRAN PIEMONTE NELLE TERRE DI ELLENA... E DEL FRANCESE GIULIANO",
    "s": "",
@@ -796,6 +1748,20 @@
      "n": "TuttoBiciWeb",
      "u": "https://www.tuttobiciweb.it/article/2026/10/07/1791361265/gran-piemonte-2026-formazione-polti-visitmalta-ellena-giuliano-pesenti-gomez",
      "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "35cb8bd02b09",
+   "t": "'You can't simply borrow road metrics' - Colnago launches new G5-X gravel bike",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T08:04:20.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/bikes/gravel/you-cant-simply-borrow-road-metrics-colnago-launches-new-g5-x-gravel-bike/",
+     "l": "en"
     }
    ]
   },
@@ -996,6 +1962,132 @@
    ]
   },
   {
+   "id": "b7f9df9b5c80",
+   "t": "TIZZA, L'EMOZIONE DELLA PRIMA AGOSTONI VISSUTA DA EX E CON IL CUORE IN MANO",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T06:22:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/07/1791306952/coppa-agostoni-2026-marco-tizza-brianza-solidarieta",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "d0c215d4a8b3",
+   "t": "UNO-X, BYSTROM E BUGGE APPENDONO LA BICI E DALL’ANNO PROSSIMO SALIRANNO IN AMMIRAGLIA",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T06:20:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/07/1791309934/uno-x-mobility-bystrom-bugge-ritiro-ammiraglia",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "eca341f97a73",
+   "t": "EUROPEI. CRONO DAY, E' IL MOMENTO DELLE RAGAZZE UNDER 23",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T06:18:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/07/1791231112/campionati-europei-2026-cronometro-donne-under-23-lubiana",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "9ddd166f6dea",
+   "t": "EUROPEI. CRONO DAY, IL VIA CON LE RAGAZZE JUNIORES: ITALIA CON RAPPORTI E ACUTI",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T06:15:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/07/1791230894/europei-ciclismo-2026-cronometro-juniores-ciclismo-femminile-lubiana",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "83cfd579308a",
+   "t": "EUROPEI. CRONO DAY, TOCCA AGLI JUNIOR: L'ITALIA TIFA BALLIANA E PEZZO ROSOLA",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T06:14:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/07/1791231007/campionati-europei-2026-cronometro-juniores-lubiana-2026-benjamin-noval",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "5c36f03098fd",
+   "t": "MODERN ADVENTURE. CAUDELL DIMESSO DOPO 31 GIORNI, LO ATTENDE UNA LUNGA RIABILITAZIONE",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T06:10:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/07/1791307473/ezra-caudell-modern-adventure-riabilitazione-philadelphia-cycling-classic",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "cd95ad3a4a0f",
+   "t": "TOSCANA. LA STAGIONE DEGLI ALLIEVI: FROSINI IL MIGLIORE, TRA LE RAGAZZE BRAVA CASTELLI",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T06:04:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/07/1791304593/ciclismo-allievi-toscana-riccardo-frosini-stagione-2026",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "f9877390c117",
+   "t": "BLABLABIKE, LONGO BORGHINI: «CON BALLAN, ROSSIGNOLI & CO. FUTURO ASSICURATO! LA CRONO EUROPEA È ADATTA A ME»",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T06:02:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/07/1791234189/podcast-blablabike-elisa-longo-borghini-europei-2026",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "11c46f7fce3b",
+   "t": "NALINI ROAD SERIES, QUATTRO I PERCORSI DELLA GRAVEL DEL SALE FANTINI CLUB",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T06:00:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/07/1791307952/gravel-ciclismo-nalini-road-series-romagna-strade-bianche",
+     "l": "it"
+    }
+   ]
+  },
+  {
    "id": "d67cd1021ce3",
    "t": "Albert Torres lo apuesta todo a Los Ángeles 2028",
    "s": "",
@@ -1020,6 +2112,20 @@
      "n": "Radsport-News",
      "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146989.htm",
      "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "378951f03cfc",
+   "t": "Gravel grid anomalies, national teams in name only and self funding – Explaining the workings of a UCI Gravel World Championships",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-07T05:13:47.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/gravel-grid-anomalies-national-teams-in-name-only-and-self-funding-explaining-the-workings-of-a-uci-gravel-world-championships/",
+     "l": "en"
     }
    ]
   },
@@ -1062,6 +2168,20 @@
      "n": "Radsport-News",
      "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147000.htm",
      "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "6e57440e86ab",
+   "t": "'It's more a personal battle' - Sofia Gomez Villafañe locked in all year for significant climbing and 'wide open gravel' at UCI Gravel World Championships",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-06T22:01:48.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/its-more-a-personal-battle-sofia-gomez-villafane-locked-in-all-year-for-significant-climbing-and-wide-open-gravel-at-uci-gravel-world-championships/",
+     "l": "en"
     }
    ]
   },
@@ -3330,804 +4450,6 @@
      "n": "Escape Collective",
      "u": "https://escapecollective.com/2026-uci-mtb-world-series-season-in-review/",
      "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "e6854df042ff",
-   "t": "Giulio Ciccone Questions European Championships Photo Finish Against Remco Evenepoel",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T20:55:31.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/giulio-ciccone-evenepoel-european-championships-photo-finish/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "aba4a5d4ca6f",
-   "t": "BLABLABIKE, AMADIO: «CICCONE È UN CAMPIONE, NON GLI PIACEVA NON TIRARE. CERTE CONCOMITANZE DI GARE VANNO EVITATE»",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T20:52:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/10/05/1791233520/podcast-blablabike-roberto-amadio-europei-2026-ciccone-photofinish",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "e84e1de3d0d2",
-   "t": "F1 star Valtteri Bottas is cycling from Malaysia to Singapore for his next race",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T19:45:12.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/f1-star-valtteri-bottas-is-cycling-from-malaysia-to-singapore-for-his-next-race/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "2470927506d1",
-   "t": "Ciccone beklaagt zich over EK-finish, Europese wielerunie verdedigt foto",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T19:34:44.000Z",
-   "sources": [
-    {
-     "n": "NOS Wielrennen",
-     "u": "https://nos.nl/l/2633803",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "d539c3149df2",
-   "t": "RACCAGNI NOVIERO. CADUTA ALLA BERNOCCHI, FRATTURA DELLA TERZA VERTEBRA CERVICALE",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T19:30:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/10/05/1791228870/coppabernocchi-andrea-raccagnii-infortunio-frattura-cervicale",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "a657a5246491",
-   "t": "Ciccone questions photo finish at Euros",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T19:24:18.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/ciccone-questions-photo-finish-at-euros/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "f440f14432fa",
-   "t": "Skylux vervangt Pauwels Sauzen vanaf 1 januari bij crossploeg van Jurgen Mettepenningen",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T19:16:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/veldrijden/skylux-vervangt-pauwels-sauzen-vanaf-1-januari-bij-crossploeg-van-jurgen-mettepenningen~a217922c/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "af330fef8555",
-   "t": "Jurgen Mettepenningen verliest Pauwels Sauzen, maar vindt meteen nieuwe hoofdsponsor voor team Michael Vanthourenhout",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T19:12:05.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/jurgen-mettepenningen-verliest-pauwels-sauzen-maar-vindt-meteen-nieuwe-hoofdsponsor-voor-michael-vanthourenhout-en-co/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "9834541e401c",
-   "t": "De hele foto is de finishlijn: zo besliste een toestel van 3.500 beelden per seconde het EK van Remco Evenepoel",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T18:51:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/de-hele-foto-is-de-finishlijn-zo-besliste-een-toestel-van-3-500-beelden-per-seconde-het-ek-van-remco-evenepoel~aa465caa/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "bb37fc2501eb",
-   "t": "European championships time trial preview: A super-tough course",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T18:50:24.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/sections/news/european-championships-time-trial-preview-a-super-tough-course/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "ce4ff4a342a7",
-   "t": "Europese wielerbond verdedigt fotofinish, nadat Giulio Ciccone die in twijfel trok: “Ik wil het beeld op de echte aankomst zien”",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T18:28:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/europese-wielerbond-verdedigt-fotofinish-nadat-giulio-ciccone-die-in-twijfel-trok-ik-wil-het-beeld-op-de-echte-aankomst-zien~a66a738a5/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "cab05da9c5fe",
-   "t": "ARANBURU. CADUTA ALLA BERNOCCHI, FRATTURA DELLA CLAVICOLA E DELLA CRESTA ILIACA",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T18:24:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/10/05/1791232141/ciclismo-aranburu-cofidis-caduta-coppabernocchi",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "3f6e6663af15",
-   "t": "Stages' new SB200 smart bike is built to wobble",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T18:23:52.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/stages-new-sb200-smart-bike-is-built-to-wobble/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "ddd22d878be4",
-   "t": "FOTOFINISH EUROPEO. EVODATA SPIEGA LA TECNOLOGIA, I PIXEL, I 3 MM... IL COMUNICATO DELLA UEC",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T18:10:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/10/05/1791227125/fotofinish-europei-strada-evenepoel-tecnologia",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "59916a6077f9",
-   "t": "Radsport live im Stream, TV und Ticker: Die Rennen des Tages",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T18:04:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_144508.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "b163e12a780f",
-   "t": "EK 2026: Starttijden Mixed Relay - Tweestrijd tussen Italië en Frankrijk",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T17:56:50.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/ek-2026-starttijden-mixed-relay-tweestrijd-tussen-italie-en-frankrijk/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "d0f7f8c13688",
-   "t": "‘Innovate or die’: Migration Gravel Race organisers believe team classifications can make gravel worth following",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T17:51:01.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/innovate-or-die-migration-gravel-race-organisers-believe-team-classifications-can-make-gravel-worth-following/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "2f5b1c0f0c5a",
-   "t": "Aerts udpeger særligt mål for comeback: Det vil jeg ikke misse",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T17:50:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/aerts-udpeger-saerligt-maal-for-comeback-det-vil-jeg-ikke-misse/11311148",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "0cf0111748d7",
-   "t": "Realini will leave Lidl-Trek at the end of the season",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T17:40:12.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/realini-will-leave-lidl-trek-at-the-end-of-the-season/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "f75650a49054",
-   "t": "EK 2026: Dit is het pittige parcours van het EK tijdrijden in Slovenië",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T17:36:00.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/ek-2026-dit-is-het-pittige-parcours-van-het-ek-tijdrijden-in-slovenie/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "0e9dd57e0692",
-   "t": "Is Mountains of the Moon the best action sports movie in a decade?",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T17:31:45.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/mtb/is-mountains-of-the-moon-the-best-action-sports-movie-in-a-decade/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "3bf9b4912961",
-   "t": "Sven Erik Bystrøm, ooit wereldkampioen bij de beloften, hangt fiets aan de wilgen",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T17:23:03.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/sven-erik-bystr-m-ooit-wereldkampioen-bij-de-beloften-hangt-fiets-aan-de-wilgen/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "623afee0ded4",
-   "t": "Euskaltel-Euskadi aprieta por el top 30: Danny van der Tuuk suma en Argelia la cuarta victoria",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T17:18:00.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/10/05/euskaltel-euskadi-aprieta-top-30-danny-der-tuuk-suma-argelia-cuarta-victoria.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "1a6a2a80a343",
-   "t": "Cadex releases a new top-end XC wheelset",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T17:12:19.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/cadex-releases-a-new-top-end-xc-wheelset/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "a05a8d73a4f4",
-   "t": "EK 2026: Mathias Vacek mist tijdritkampioenschap door gebroken neus",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T17:03:47.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/ek-2026-mathias-vacek-mist-tijdritkampioenschap-door-gebroken-neus/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "64c30869c753",
-   "t": "Ciccone will Foto der “echten Ziellinie“ sehen",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T17:03:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146981.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "631646d0bec3",
-   "t": "Orluis Aular se sube al podio en la Copa Bernocchi",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T16:43:57.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/10/05/orluis-aular-sube-podio-copa-bernocchi.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "912317857a4f",
-   "t": "COPPA BERNOCCHI, ISIDORE AL TERZO ACUTO DEL 2026: “FELICE DI RIPAGARE LE OPPORTUNITÀ DATEMI DAL TEAM”",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T16:43:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/10/05/1791218685/coppa-bernocchi-2026-vittoria-isidore-decathlon-cma-cgm",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "22b60f219f79",
-   "t": "Pro Log: Ganna linked to Lidl-Trek; Evenepoel and Vollering win European titles; Ronan Augé out of medically induced coma",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T16:34:11.000Z",
-   "sources": [
-    {
-     "n": "Cyclist (cyclist.co.uk)",
-     "u": "https://www.cyclist.co.uk/news/pro-cycling-news-2026-filippo-ganna-lidl-trek",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "f06277c8bb24",
-   "t": "Realini verlässt Lidl - Trek zum Saisnende",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T16:30:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146938.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "4e010c06d64b",
-   "t": "Mørkøv fornemmer: Vingegaard vil stadig køre VM",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T16:27:16.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/moerkoev-fornemmer-vingegaard-vil-stadig-koere-vm/11311002",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "a0eb01098cb8",
-   "t": "Lidl-Trek en Gaia Realini in onderling overleg eerder uit elkaar",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T16:27:12.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/lidl-trek-en-gaia-realini-in-onderling-overleg-eerder-uit-elkaar/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "ba66478d1edd",
-   "t": "These Rock Bros aero socks beat big-name competition and are now just $14.99",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T16:24:10.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/cycling-tech-components/these-rock-bros-aero-socks-beat-big-name-competition-and-are-now-just-usd14-99/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "79ce13dd3fd6",
-   "t": "Lidl-Trek and Gaia Realini agree to end contract a year early",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T16:13:46.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/lidl-trek-and-gaia-realini-agree-to-end-contract-a-year-early/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "d46c39719f74",
-   "t": "Lidl-Trek bryder med tidligere komet",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T16:05:41.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/lidl-trek-bryder-med-tidligere-komet/11311092",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "7c6519a9ab8f",
-   "t": "Apple AirPods Pro 3 have a whopping $70 off in this early Amazon Prime Day deal",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T16:00:00.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/cycling-tech-components/apple-airpods-pro-3-have-a-whopping-usd70-off-in-this-early-amazon-prime-day-deal/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "dc22ffe3f222",
-   "t": "French youngster Isidore wins Coppa Bernocchi",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T15:59:48.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/french-youngster-isidore-wins-coppa-bernocchi/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "73c17e9a1f97",
-   "t": "EK 2026: Axel van der Tuuk moet passen voor individuele tijdrit",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T15:59:37.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/ek-2026-axel-van-der-tuuk-moet-passen-voor-individuele-tijdrit/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "54ef44d78382",
-   "t": "Pinarello’s new X series: X marks the sweet spot",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T15:59:00.000Z",
-   "sources": [
-    {
-     "n": "Cyclist (cyclist.co.uk)",
-     "u": "https://www.cyclist.co.uk/sponsored/pinarello-new-x-series",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "b9cfabfee71f",
-   "t": "Calgary councillor is pushing for bike-lane projects to be put on ice",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T15:58:51.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/sections/news/calgary-councillor-is-pushing-for-bike-lane-projects-to-be-put-on-ice/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "c2191cbd73c9",
-   "t": "Silca Protocol RCR 29 Review: Not Groundbreaking",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T15:58:29.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-gear/silca-protocol-rcr-29-review/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "86481aa8f76b",
-   "t": "REALINI E LIDL TREK SI SEPARERANNO A FINE 2026",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T15:52:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/10/05/1791215570/gaia-realini-lidl-trek-conclusione-contratto",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "f2b5c4f28d62",
-   "t": "Ciccone wants a normal finish line photo that shows who won Euros",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T15:49:19.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/ciccone-wants-an-actual-finish-line-photo/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "b339a3a60896",
-   "t": "Toch geen podiumplek voor Marijn van den Berg: Nederlander gedeclasseerd in Coppa Bernocchi",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T15:36:41.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/toch-geen-podiumplek-voor-marijn-van-den-berg-nederlander-gedeclasseerd-in-coppa-bernocchi/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "d07d49f6427e",
-   "t": "Isidore feiert bei Coppa Bernocchi größten Karrieresieg",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T15:35:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146980.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "32454ae08d89",
-   "t": "Norsk profil stopper karrieren",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T15:34:34.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/incoming/norsk-profil-stopper-karrieren/11311067",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "93d879d89774",
-   "t": "CASTIGLION FIBOCCHI. ASSOLO DI MAGLI CHE ANTICIPA IL GIOVANE JUNIORES BELLATO",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T15:31:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/10/05/1791214357/ciclismo-dilettanti-filippo-magli-team-hoppla-trofeo-madonna-del-rosario",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "a7ebf2cb5895",
-   "t": "ALE CX TEAM. BUONA LA PRIMA, A TARVISIO VINCE ZANOLINI. BRONZO PERUTA TRA LE DONNE",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T15:28:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/10/05/1791216616/ciclocross-ale-cx-team-giro-delle-regioni-pablo-zanolini-sara-peruta",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "28a456030e79",
-   "t": "Nathan van Hooydonck is now sporting director for Visma-Lease a Bike",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T15:24:12.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/nathan-van-hooydonck-is-now-sporting-director-for-visma-lease-a-bike/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "4ef4d3d2f8e8",
-   "t": "Giulio Ciccone trekt fotofinish die Remco Evenepoel uitriep tot Europees kampioen in twijfel: “Ik wil het beeld op de echte aankomst zien”",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T15:21:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/giulio-ciccone-trekt-fotofinish-die-remco-evenepoel-uitriep-tot-europees-kampioen-in-twijfel-ik-wil-het-beeld-op-de-echte-aankomst-zien~a66a738a5/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "57528e6841a6",
-   "t": "Giulio Ciccone trekt finishfoto EK in twijfel: \"Ik vraag om iets heel simpels\"",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T15:09:23.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/giulio-ciccone-trekt-finishfoto-ek-in-twijfel-ik-vraag-om-iets-heel-simpels/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "f00efafbb0c9",
-   "t": "Ciccone reclama ver la foto finish real del Europeo: \"Una diferencia de 2,8 milisegundos exige la máxima precisión\"",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T15:08:58.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/10/05/ciccone-reclama-ver-foto-finish-real-europeo-diferencia-2-8-milisegundos-exige-maxima-precision.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "8bddafc6fc4a",
-   "t": "Noa Isidore remporte la Coppa Bernocchi 2026",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T14:52:05.000Z",
-   "sources": [
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/courses/coppa-bernocchi/noa-isidore-remporte-la-coppa-bernocchi-2026/",
-     "l": "fr"
-    }
-   ]
-  },
-  {
-   "id": "f76dd937fc29",
-   "t": "Fransk stortalent vinder i Italien - Mads P. sat",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T14:38:43.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/fransk-stortalent-vinder-i-italien-mads-p.-sat/11310982",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "a887c3ad5267",
-   "t": "Noa Isidore sprints to Coppa Bernocchi victory to claim another Italian win for Decathlon CMA CGM",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T14:34:07.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/noa-isidore-sprints-to-coppa-bernocchi-victory-to-claim-another-italian-win-for-decathlon-cma-cgm/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "9ee273553eba",
-   "t": "Noa Isidore toont snelle benen met winst in Coppa Bernocchi, Marijn van den Berg gedeclasseerd",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T14:32:35.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/noa-isidore-toont-nogmaals-snelle-benen-met-winst-in-coppa-bernocchi-van-den-berg-gedeclasseerd/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "2d810de19315",
-   "t": "Weiterer Umbruch in der Visma-Führungsetage",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-05T14:25:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146979.htm",
-     "l": "de"
     }
    ]
   }
