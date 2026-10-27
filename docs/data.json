@@ -1,6 +1,776 @@
 {
- "updated": "2026-10-26T20:57:10.682Z",
+ "updated": "2026-10-27T13:05:18.839Z",
  "groups": [
+  {
+   "id": "42175486a3e4",
+   "t": "Advarer mod strenge sikkerhedskrav: - Det er fucking dyrt!",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T12:49:50.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/incoming/advarer-mod-strenge-sikkerhedskrav-det-er-fucking-dyrt/11334536",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "c10f0cb6522f",
+   "t": "Hoe snel wil je weten hoeveel punten je hebt?",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T12:39:16.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/hoe-snel-wil-je-weten-hoeveel-punten-je-hebt/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "bf08ac3e627e",
+   "t": "Nathan Van Hooydonck en zijn vrouw verwelkomen zoontje Sandro",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T12:37:10.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/nathan-van-hooydonck-en-zijn-vrouw-verwelkomen-zoontje-sandro/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "1a1d4a675b19",
+   "t": "Neue Chance in Liga 2: Hajek fährt 2027 für Bardiani",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T12:37:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147154.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "c2cae6d1e62e",
+   "t": "Ikonisk Indurain-sponsor vender tilbage",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T12:36:27.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/incoming/ikonisk-indurain-sponsor-vender-tilbage/11334471",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "25e47cd22310",
+   "t": "Jayco præsenterer fem nye forlængelser",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T12:18:04.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/jayco-praesenterer-fem-nye-forlaengelser/11334483",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "27c566f77f0b",
+   "t": "Netcompany INEOS maakt zich geen zorgen: \"Egan Bernal keert terug\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T12:10:36.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/netcompany-ineos-maakt-zich-geen-zorgen-egan-bernal-keert-terug/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "33b8a58d7d02",
+   "t": "DAL WORLD TOUR AL MONDO CONTINENTAL: VAN BELLE FIRMA CON LA BEAT",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T12:03:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/27/1793102951/ciclomercato-visma-lease-a-bike-beat-cycling-van-belle-toorney-2027",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "5a14e78f27ee",
+   "t": "Wielrennen op TV: X2O Trofee Koppenbergcross",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T12:00:05.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/wielrennen-op-tv/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "d6713b2acbab",
+   "t": "TotalEnergies announce Pardus partnership in step towards licence renewal",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T11:52:38.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/totalenergies-announce-pardus-partnership-in-step-towards-licence-renewal/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "9325f4ff9923",
+   "t": "Jay Vine extends with UAE until 2029",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T11:46:59.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/jay-vine-extends-with-uae-until-2029/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "e0bce0851ecd",
+   "t": "Abus Hyp-E helmet review: An urban e-bike helmet that's ready for anything",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T11:44:38.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/cycling-kit-accessories/helmets/abus-hyp-e-helmet-review/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "761e4c04c84d",
+   "t": "Canyon Grail CF SLX review: More capable than ever before, but perhaps not quite as fun",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T11:40:03.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/bikes/gravel/canyon-grail-review-2026/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "c04f28cab0d1",
+   "t": "Fietspaden Flevoland in gevaar: petitie aangeboden aan provincie",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T11:36:31.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/fietspaden-flevoland-onder-druk-petitie-aangeboden-aan-provincie/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "9248e1b73571",
+   "t": "BARDIANI-CSF 7 SABER. ARRIVA ALEXANDER HAJEK, EX CAMPIONE NAZIONALE AUSTRIACO",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T11:34:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/27/1793101022/mercato-ciclismo-bardiani-csf-alexander-hajek-scalatori",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "10b0cc51196b",
+   "t": "VINE RINNOVA CON LA UAE TEAM EMIRATES-XRG PER 3 ANNI",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T11:18:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/27/1793100453/jay-vine-contratto-uae-team-emirates",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "853111973a06",
+   "t": "XDS ASTANA, ESTENSIONE BIENNALE PER IL CAMPIONE CINESE SU",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T11:12:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/27/1793101026/ciclomercato-xds-astana-rinnovo-biennale-haoyu-su",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "94fd7c02c232",
+   "t": "Rolf om Tour-starten: - Jeg frygter det lidt",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T11:06:59.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/rolf-om-tour-starten-jeg-frygter-det-lidt/11334384",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "47990e3da993",
+   "t": "'Still so much I want to achieve' – Jay Vine commits future to UAE Team Emirates-XRG with 2029 contract extension",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T11:02:52.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/still-so-much-i-want-to-achieve-jay-vine-commits-future-to-uae-team-emirates-xrg-with-2029-contract-extension/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "e5951a76b1d5",
+   "t": "Volgende stap in redding TotalEnergies na aankondiging Chinese fietsenmerk Pardus",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T10:59:00.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/volgende-stap-in-redding-totalenergies-na-aankondiging-partnership-met-chinese-fietsenmerk-pardus/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "0ef108df2eae",
+   "t": "Alain Suárez completa el Euskaltel-Euskadi de Landa: firma hasta 2028 y llega desde la cantera",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T10:51:37.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/10/27/alain-suarez-completa-euskaltel-euskadi-landa-firma-2028-llega-cantera.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "cb1c8d6191dc",
+   "t": "After three-decade gap, Basque company Etxeondo joins forces again with Movistar as apparel sponsor",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T10:45:52.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/cycling-kit-accessories/clothing-shoes/after-three-decade-gap-basque-company-etxeondo-joins-forces-again-with-movistar-as-apparel-sponsor/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "35f347fca5a2",
+   "t": "Meet Engyne Health: Yanto Barker’s new do-it-all training (and money-saving) app",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T10:36:45.000Z",
+   "sources": [
+    {
+     "n": "Cyclist (cyclist.co.uk)",
+     "u": "https://www.cyclist.co.uk/sponsored/engyne-health",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "44b1c34ac59b",
+   "t": "Yana Seel keert terug als algemeen directeur bij XDS Astana: “Niet om met Aleksandr Vinokourov te vechten”",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T10:36:15.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/yana-seel-keert-terug-als-algemeen-directeur-bij-xds-astana-niet-om-met-aleksandr-vinokourov-te-vechten/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "737fc802a836",
+   "t": "2026 Canadian cyclocross championships comes to Hardwood",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T10:27:55.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/sections/news/2026-canadian-cyclocross-championships-comes-to-hardwood/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "7f328b305d10",
+   "t": "Her er, hvad Red Bull har lært af Remcos debutsæson",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T10:26:10.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/her-er-hvad-red-bull-har-laert-af-remcos-debutsaeson/11334154",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "1ae1d7e82756",
+   "t": "Aniek van Alphen wil breken met terugkerend probleem: \"Misschien wel belangrijker dan twee Wereldbekers winnen\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T10:25:00.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/aniek-van-alphen-wil-breken-met-terugkerend-probleem-misschien-wel-belangrijker-dan-twee-wereldbekers-winnen/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "4921449b1379",
+   "t": "Ung klatrer rakte ud til Moberg - det gav pote",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T10:15:16.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/ung-klatrer-rakte-ud-til-moberg-det-gav-pote/11334281",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "2f4377e78bae",
+   "t": "$85 Million Costs and $130 Tickets: The 2027 Tour de France Grand Départ is Blowing the Budget",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T10:14:54.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/2027-tour-de-france-grand-depart-85m-cost-130-tickets/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "4970c080e492",
+   "t": "Mads Pedersen among group of Danish athletes suing HBO over use of their images for advertising",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T10:11:39.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/mads-pedersen-among-group-of-danish-athletes-suing-hbo-over-use-of-their-images-for-advertising/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "e2d712e45769",
+   "t": "Holm ser særlig fordel ved Honoré-skifte",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T10:01:34.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/holm-ser-saerlig-fordel-ved-honore-skifte/11334144",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "14c9dd3b7b06",
+   "t": "Plots rijdt Zwitser Kevin Kuhn voor het podium in de cross: \"Joris Nieuwenhuis is een geweldige ploeggenoot\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T09:47:00.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/plots-rijdt-zwitser-kevin-kuhn-voor-het-podium-in-de-cross-joris-nieuwenhuis-is-een-geweldige-ploeggenoot/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "9a7ddf961dc9",
+   "t": "Jay Vine breekt contract bij UAE Emirates XRG open tot eind 2029",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T09:41:40.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/jay-vine-breekt-contract-bij-uae-emirates-xrg-open-tot-eind-2029/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "353d10e0fb6c",
+   "t": "Seixas über seine Zukunft: “Noch keine Entscheidung getroffen“",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T09:22:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147153.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "7c45a251682a",
+   "t": "UAE-stjerne tager tre år mere",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T09:10:11.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/uae-stjerne-tager-tre-aar-mere/11334131",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "36039cd6f0ea",
+   "t": "Paul Seixas begint genoeg te krijgen van contractperikelen: \"Steeds beklemmender\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T09:06:22.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/paul-seixas-begint-genoeg-te-krijgen-van-contractperikelen-steeds-beklemmender/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "55918321a84d",
+   "t": "SEIXAS. «IL TOUR MI STUZZICA, MA CONSIDERO ANCHE L'IPOTESI GIRO»",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T08:30:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/27/1793094583/paul-seixas-tour-de-france-giro-d-italia-mondiali-ruanda",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "060815f42286",
+   "t": "L'ORA DEL PASTO. QUEL CAVALLO CICLISTA CHE A FERRARA...",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T08:06:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/27/1793088914/tour-de-france-curiosita-ciclistiche-personaggi-giro-d-italia",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "d7631df8ced7",
+   "t": "GERY. «HO UN PROBLEMA ALL'ARTERIA ILIACA, DOVRÒ FERMARMI PER UN PO’»",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T08:00:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/27/1793084057/celia-gery-infortunio-specialized-tmrw",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "0aa6b053cb96",
+   "t": "Metec-Solarwatt presenteert vier aanwinsten voor 2027",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T07:30:00.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/metec-solarwatt-presenteert-vier-aanwinsten-voor-2027-houdt-plek-vrij-voor-renner-picnic-postnl/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "21fc1ca81f15",
+   "t": "OSCAR ALLIEVI. VITALI SUPERA GUALTIERI, MATTEINI COMPLETA IL PODIO",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T07:26:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/27/1792949495/oscar-tuttobici-gran-premio-system-cars-classifica-allievi",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "e913611e03a1",
+   "t": "SELLE ITALIA. SLR ENDURANCE, LE LUNGHE DISTANZE SONO IL SUO PANE...",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T07:25:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/27/1793091709/componenti-ciclismo-selle-endurance-selle-italia",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "f5dc495a33ff",
+   "t": "El 'milagro' del Burgos, rompe su techo y promete más batalla para 2027: \"Dimos un paso adelante\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T07:23:13.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/10/27/milagro-burgos-rompe-techo-promete-batalla-2027-dimos-paso-adelante.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "f6f4c47eb75e",
+   "t": "DOMENICA TORNA AL MUGELLO CIRCUIT IL TROFEO CITTA’ DI FIRENZE",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T07:15:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/27/1793045658/ciclocross-trofeo-citta-firenze-mugello-circuit-scarperia",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "532c776084fa",
+   "t": "POLINI. UN GRANDE TRIONFO PER E-P3+ NEL CAMPIONATO ITALIANO E-BIKE ENDURO FMI 2026",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T07:11:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/27/1793091229/e-bike-enduro-campionati-italiani-polini-ciclismo-vkt",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "aaec9027238b",
+   "t": "ALE CX TEAM. CON AZZETTI, SCALORBI E ZANOLINI E' TRIS DI SUCCESSI AL GIRO DELLE REGIONI",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T07:10:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/27/1793034830/ale-cx-team-giro-regioni-ciclocross-campionato-italiano-nicole-azzetti",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "62b83391b48f",
+   "t": "Yana Seel weer aan het roer bij XDS Astana als algemeen directeur: “Ik ben niet teruggekomen om met Vinokourov te vechten”",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T07:08:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/yana-seel-weer-aan-het-roer-bij-xds-astana-als-algemeen-directeur-ik-ben-niet-teruggekomen-om-met-vinokourov-te-vechten~a48683ff/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "ec750164b830",
+   "t": "VERSO IL 2027. LA POL. TRIPETETOLO SEANESE ANTICIPA TUTTI",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T07:05:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/27/1793046126/tripetetolo-seanese-squadre-ciclistiche-ciclismo-toscano-mercato-ciclismo",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "f06277c8bb24",
+   "t": "Arvanitou wird bei XDS Profi, Burnett zu Modern Adventure",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T07:00:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146938.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "b00456a652fa",
+   "t": "SUCCESSO DEL RITROVO DEI GIUDICI E DIRETTORI DI CORSA DELLA TOSCANA",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T07:00:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/27/1793045894/giudici-di-gara-toscana-ciclismo-italiano-organizzazione",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "6d16c6e1fc09",
+   "t": "Het sprookje van Denise Betsema: hoe de afgeschreven Texelse zich voor de derde keer naar de veldrittop knokte",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T06:30:07.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/het-sprookje-van-denise-betsema-hoe-de-afgeschreven-texelse-zich-voor-de-derde-keer-naar-de-veldrittop-knokte/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "54a6ea929f49",
+   "t": "Droppet som Pogacars rival? - Dét mangler Vingegaard på Tour-ruten",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T06:30:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/droppet-som-pogacars-rival-det-mangler-vingegaard-paa-tour-ruten/11333788",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "1bb1dbaf0fea",
+   "t": "UCI Gravel World Series: Former junior champion steps up to claim elite women's win at a muddy Gravelista while rowing Olympic medallist sails away for elite men's victory",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-27T01:38:37.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/uci-gravel-world-series-former-junior-australian-gravel-champion-steps-up-to-claim-elite-womens-win-at-a-muddy-gravelista-while-rowing-olympic-medallist-sails-away-for-elite-mens-victory/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "b7ec5ba9dac5",
+   "t": "BLABLABIKE, DAMIANI: «DOPO 43 ANNI, LA VACANZA PIÙ BELLA… È A LEGNANO! NON TORNO IN AMMIRAGLIA, MA NON FARÒ \"L'UMARELL\"»",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-26T22:00:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/10/26/1793047370/podcast-blablabike-roberto-damiani-pensione",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "a475c97f3f15",
+   "t": "Review: Mons Royale merino makes every ride more comfortable",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-26T21:49:07.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/mtb/review-mons-royale-merino-makes-every-ride-more-comfortable/",
+     "l": "en"
+    }
+   ]
+  },
   {
    "id": "10b7c9ffaa7d",
    "t": "I found out what happens when a near miss isn't a miss",
@@ -100,6 +870,20 @@
    ]
   },
   {
+   "id": "a0b7f601c098",
+   "t": "Waarom Julia Kopecky SD Worx-Protime verlaat voor Lidl-Trek",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-26T18:29:01.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/waarom-julia-kopecky-sd-worx-protime-verlaat-voor-lidl-trek/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
    "id": "88e0d2840276",
    "t": "'I'm fed up with this'- Paul Seixas says making decision about future team after 2027 is an 'increasingly oppressive' process",
    "s": "",
@@ -138,6 +922,20 @@
      "n": "Wielerflits",
      "u": "https://www.wielerflits.nl/nieuws/unibet-rose-rockets-bindt-owen-geleijn-langer-aan-zich/",
      "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "507c430181f2",
+   "t": "What if every rider had a digital clone? The next frontier of scouting, training, racing and recovery using data",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-26T18:02:18.000Z",
+   "sources": [
+    {
+     "n": "Cyclist (cyclist.co.uk)",
+     "u": "https://www.cyclist.co.uk/in-depth/digital-twin-cycling",
+     "l": "en"
     }
    ]
   },
@@ -236,6 +1034,20 @@
      "n": "Wielerflits",
      "u": "https://www.wielerflits.nl/nieuws/ek-veldrijden-2026-belgie-trekt-met-verwachte-namen-naar-zeddam/",
      "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "731ce5f48136",
+   "t": "Pro Log: Movistar confirm lucrative signing of Paula Blasi; 2027 Tour de France routes revealed; Jolanda Neff signs for WorldTour team",
+   "s": "",
+   "c": "other",
+   "date": "2026-10-26T16:58:37.000Z",
+   "sources": [
+    {
+     "n": "Cyclist (cyclist.co.uk)",
+     "u": "https://www.cyclist.co.uk/news/pro-cycling-news-2026-paula-blasi",
+     "l": "en"
     }
    ]
   },
@@ -2028,426 +2840,6 @@
      "n": "Feltet.dk",
      "u": "https://feltet.dk/incoming/afghansk-rytter-flygtede-fra-taliban-mere-end-en-medalje/11332067",
      "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "bce91472cd9b",
-   "t": "'Life had other plans for me' - Belgian cyclo-cross champion Marion Norbert Riberolle undergoes procedure to correct cardiac arrhythmia",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-25T12:43:25.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/life-had-other-plans-for-me-belgian-cyclo-cross-champion-marion-norbert-riberolle-undergoes-procedure-to-correct-cardiac-arrhythmia/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "7c0e852d18d1",
-   "t": "Superprestige Overijse is in België enkel te zien achter betaalmuur",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-25T12:41:35.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/superprestige-overijse-is-in-belgie-enkel-te-zien-achter-betaalmuur/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "475927a27dd5",
-   "t": "SVIZZERA. FAS AIRPORT GUERCIOTTI A FORZA QUATTRO: VINCONO DELL'OLIO, LONGHI, IRENE E NICOLE RIGHETTO",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-25T12:41:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/10/25/1792932233/ciclocross-swiss-cup-francesco-dell-olio-juniores-fas-airport-services-guerciotti",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "5aa35a7c68d8",
-   "t": "Voorbeschouwing: Superprestige Overijse 2026 - Vanthourenhout topfavoriet, enkele afwezigen bij de vrouwen",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-25T12:15:06.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/voorbeschouwing-superprestige-overijse-2026-vanthourenhout-topfavoriet-enkele-afwezigen-bij-de-vrouwen/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "6e70411cb976",
-   "t": "Tim Merlier telt mogelijke sprints in Tour 2027: \"Laten we hopen op 6 of 7 kansen\"",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-25T12:15:03.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/tim-merlier-telt-mogelijke-sprints-in-tour-2027-laten-we-hopen-op-6-of-7-kansen/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "61f713c58c9d",
-   "t": "Specialized TMRW : une équipe à l’approche multidisciplinaire",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-25T12:12:15.000Z",
-   "sources": [
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/actualite/cyclo-cross/specialized-tmrw-une-equipe-a-lapproche-multidisciplinaire/",
-     "l": "fr"
-    }
-   ]
-  },
-  {
-   "id": "cee6c1d940e0",
-   "t": "Gleb Syritsa leaves XDS Astana for China Anta-Mentech as part of ambitious 2027 project",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-25T12:10:41.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/gleb-syritsa-leaves-xds-astana-for-china-anta-mentech-as-part-of-ambitious-2027-project/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "63b6dfcb2df9",
-   "t": "SLOVACCHIA. BORILE (DP66 PINARELLO) CONCEDE IL BIS A TOPOLCIANKY",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-25T12:07:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/10/25/1792936156/ciclismo-juniores-alessio-borile-dp66-pinarello-slovacchia",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "5a14e78f27ee",
-   "t": "Wielrennen op TV: Superprestige Overijse",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-25T12:00:07.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/wielrennen-op-tv/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "f118aef84969",
-   "t": "Late inhaalacties en slalommen door verkeer: kritiek op 'roekeloos' rijgedrag Tadej Pogacar",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-25T11:47:16.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/late-inhaalacties-en-slalommen-door-verkeer-kritiek-op-roekeloos-rijgedrag-tadej-pogacar/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "ec5861cf94d6",
-   "t": "Why Netcompany Ineos let Filippo Ganna leave early",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-25T11:15:33.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/sections/news/why-netcompany-ineos-let-filippo-ganna-leave-early/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "79b31dbd9c47",
-   "t": "BARDIANI-CSF 7 SABER. ARRIVA DAVIDE DE CASSAN, QUATTRO VITTORIE PER LUI NEL 2026",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-25T11:11:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/10/25/1792941332/ciclomercato-ciclismo-bardiani-csf-7-saber-scalatori-stagione-2027",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "7cc7e3a09301",
-   "t": "Jente Michels moet in extremis passen voor Superprestige Overijse",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-25T11:10:58.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/jente-michels-moet-in-extremis-passen-voor-superprestige-overijse/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "f06277c8bb24",
-   "t": "Bardiani – CSF verstärkt Kletterfraktion mit De Cassan",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-25T11:09:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146938.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "3dd1ca8d7c3c",
-   "t": "Jarenlang trainen verandert je hart structureel: zó is fietsen goed voor je hart",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-25T11:05:00.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/jarenlang-trainen-verandert-je-hart-structureel-zo-is-fietsen-goed-voor-je-hart/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "3d68759e4786",
-   "t": "LeMond: Han er den næste Hinault",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-25T10:27:21.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/lemond-han-er-den-naeste-hinault/11331944",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "396a4cef2e86",
-   "t": "Herzrhythmusstörungen: Norbert-Riberolle operiert",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-25T10:15:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147141.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "355bf79dd048",
-   "t": "Kritiek op veldritploeg Laurens ten Dam: waarom Bomba Join geen vrouwelijke crosser in de selectie heeft",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-25T10:00:06.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/kritiek-op-veldritploeg-laurens-ten-dam-waarom-bomba-join-geen-vrouwelijke-crosser-in-de-selectie-heeft/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "1e9ef929373d",
-   "t": "Denk rät Evenepoel vom Giro-Tour-Double ab",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-25T09:35:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147140.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "e88f77a1dd42",
-   "t": "Vildt forsøg: WorldTour-hold jagter ny ernæringsgrænse",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-25T09:25:24.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/vildt-forsoeg-worldtour-hold-jagter-ny-ernaeringsgraense/11331903",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "63eff94a0033",
-   "t": "Marion Norbert-Riberolle emotioneel na hartproblemen: “Het leven had andere plannen met mij”",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-25T08:49:07.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/marion-norbert-riberolle-emotioneel-na-hartproblemen-het-leven-had-andere-plannen-met-mij/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "80f146fa34c1",
-   "t": "Geraint Thomas afslører: Derfor lod vi Ganna gå",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-25T08:45:53.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/geraint-thomas-afsloerer-derfor-lod-vi-ganna-gaa/11331850",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "a5987555cfe9",
-   "t": "Telenet Superprestige Overijse 2026: Programma en uitslagen",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-25T07:56:02.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/telenet-superprestige-overijse-2026-programma-en-uitslagen/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "a0b7f601c098",
-   "t": "Waarom Julia Kopecky SD Worx-Protime verlaat voor Lidl-Trek",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-25T07:23:02.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/waarom-julia-kopecky-sd-worx-protime-verlaat-voor-lidl-trek/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "9b3c8f935425",
-   "t": "PLUGGE. «CREDO CHE VINGEGGARD POSSA PUNTARE ANCORA A VINCERE IL TOUR, LAVORIAMO PER QUESTO»",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-25T07:20:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/10/25/1792871081/tour-de-france-jonas-vingegaard-tadej-pogacar-visma-lease-a-bike",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "c453084e18e9",
-   "t": "PRUDHOMME. «TOUR 2027, POGACAR E' IL FAVORITO CON QUALUNQUE PERCORSO, MA COME TORNERA' DOPO LA CADUTA'»",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-25T07:10:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/10/25/1792870682/tour-de-france-2027-tadej-pogacar-grande-boucle-vuelta-a-espaA�a",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "88b5efe53c2e",
-   "t": "Héctor Álvarez, la joya que reina en Europa: “Me gustaría correr San Remo, Flandes y Roubaix”",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-25T07:03:16.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/10/25/hector-alvarez-joya-reina-europa-me-gustaria-correr-san-remo-flandes-roubaix.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "c4be3e3132a3",
-   "t": "E-SPORTS. A GAGGIOLI IL «PREMIO FRANCESCO CESARINI - DREAM AHEAD\" E IL TRICOLORE DAVANTI A PINOTTI E CATTANEO",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-25T07:00:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/10/25/1792919451/ciclismo-esport-campionato-italiano-juniores-velodromo-montichiari",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "91fc39010959",
-   "t": "Welk buitenkansje maakt de selectie van Visma | Lease a Bike 2027 compleet?",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-25T06:31:00.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/welk-buitenkansje-maakt-de-selectie-van-visma-lease-a-bike-2027-compleet/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "a51d840268e2",
-   "t": "Tour de France 2027: What Do Extra TT Kms Mean for Evenepoel’s Prospects?",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-24T22:04:49.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/extra-tt-kms-remco-evenepoel/",
-     "l": "en"
     }
    ]
   }
