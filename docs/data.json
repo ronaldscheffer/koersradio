@@ -1,6 +1,398 @@
 {
- "updated": "2026-11-01T14:38:16.278Z",
+ "updated": "2026-11-01T20:54:45.478Z",
  "groups": [
+  {
+   "id": "61486dcae16b",
+   "t": "Doblete de Felipe Orts en Euskadi: el campeón de España vuela de naranja",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-01T20:46:00.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/11/01/doblete-felipe-orts-euskadi-campeon-espana-vuela-naranja.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "02a87c651e86",
+   "t": "BMX'ster Smulders verovert voor zesde keer wereldbeker, ook Brink pakt eindzege",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-01T20:33:42.000Z",
+   "sources": [
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2637662",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "8d5cf840acff",
+   "t": "Brand ook soeverein in befaamde Koppenbergcross, Nys valt en wint bij rentree in veld",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-01T19:55:31.000Z",
+   "sources": [
+    {
+     "n": "NOS Wielrennen",
+     "u": "https://nos.nl/l/2637660",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "e54d8bcf2856",
+   "t": "Matt Beers defends Gravel Burn title as Nele Laing led from start to finish across South Africa’s Great Karoo",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-01T18:24:46.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/gravel-burn-matt-beers-defends-title-as-nele-laing-led-from-start-to-finish-across-south-africas-great-karoo/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "f2e9e3a8a9b7",
+   "t": "Overrasket Brand: - Det er aldrig sket før",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-01T17:44:25.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/cross/overrasket-brand-det-er-aldrig-sket-foer/11339871",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "e5eef3c14a28",
+   "t": "X2O Badkamers Trofee Koppenbergcross Oudenaarde 2026: Programma en uitslagen",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-01T17:30:15.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/x2o-badkamers-trofee-koppenbergcross-oudenaarde-programma-en-uitslagen/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "65996f3314f6",
+   "t": "Seixas 2027 zum Giro? “Derzeit ist alles möglich“",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-01T17:28:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147189.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "b6625431fd99",
+   "t": "14.000 fans schreeuwen Thibau Nys naar zege op de Koppenberg: \"De cross is zeker niet dood\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-01T17:25:00.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/14-000-fans-schreeuwen-thibau-nys-naar-zege-op-de-koppenberg-de-cross-is-zeker-niet-dood/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "f7fe39f1e3fd",
+   "t": "Iserbyt kommer med Van Aert-forudsigelse",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-01T16:41:32.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/cross/iserbyt-kommer-med-van-aert-forudsigelse/11339819",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "1f8a3750d5e8",
+   "t": "South Africa’s Lisa Bone makes the leap to the WorldTour with EF Education-Oatly",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-01T16:34:44.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/south-africas-lisa-bone-makes-the-leap-to-the-worldtour-with-ef-education-oatly/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "ba01e5375ebc",
+   "t": "Zelfs papa Sven wist van niks: Thibau Nys laat in het grootste geheim rode broek maken, een vette knipoog naar... Paul Herygers",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-01T16:20:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/veldrijden/zelfs-papa-sven-wist-van-niks-thibau-nys-laat-in-het-grootste-geheim-rode-broek-maken-een-vette-knipoog-naar-paul-herygers~ada65dd2/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "3c09f991d80f",
+   "t": "Terwijl collega's afzien op de Koppenberg, geniet Mathieu van der Poel al trainend van Spaanse zon",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-01T16:05:10.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/terwijl-collega-s-afzien-op-de-koppenberg-geniet-mathieu-van-der-poel-al-trainend-van-spaanse-zon/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "d96a9b9e0bbb",
+   "t": "Canadian Cyclo-cross National Championships: Tyler Clark claims back-to-back elite men's title",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-01T15:56:00.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/canadian-cyclo-cross-national-championships-tyler-clark-claims-back-to-back-elite-mens-title/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "20daac476024",
+   "t": "Koppenbergcross : Thibau Nys lance sa saison",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-01T15:48:01.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/courses/x2o-trophy/koppenbergcross-thibau-nys-lance-sa-saison/",
+     "l": "fr"
+    }
+   ]
+  },
+  {
+   "id": "baa5eea7df42",
+   "t": "Nedbank Gravel Burn stage 7: Beers and Laing Conquer the Great Karoo",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-01T15:45:51.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/nedbank-gravel-burn-stage-7-beers-and-laing-conquer-the-great-karoo/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "869e7d3bdd8b",
+   "t": "'Harder than hard' – Brand and Nys take team sweep at Koppenbergcross",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-01T15:43:10.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/harder-than-hard-brand-and-nys-take-team-sweep-at-koppenbergcross/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "718dac947dff",
+   "t": "Supertalent Aubin Sparfel verslaat Giel Lejeune in U23-versie Koppenbergcross",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-01T15:39:22.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/supertalent-aubin-sparfel-verslaat-giel-lejeune-in-u23-versie-koppenbergcross/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "5c64b3411928",
+   "t": "Nys efter sejr: - Teknisk skal jeg forbedre mig en del",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-01T15:38:32.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/cross/nys-efter-sejr-teknisk-skal-jeg-forbedre-mig-en-del/11339747",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "1cb9d9a4c27f",
+   "t": "The Four-Hour Training Week: How to Get Faster as a Time-Crunched Cyclist",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-01T15:37:09.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-training/the-four-hour-training-week/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "34fc5e28e42b",
+   "t": "X2O Trofee Oudenaarde: Thibau Nys wins Koppenbergcross after heated battle with Michael Vanthourenhout",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-01T15:26:49.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/x2o-trofee-oudenaarde-thibau-nys-wins-koppenbergcross-after-heated-battle-with-michael-vanthourenhout/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "a056e24b955c",
+   "t": "Thibau Nys zelfkritisch ondanks gedenkwaardige zege: \"Het moet technisch echt wel beter\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-01T15:25:18.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/thibau-nys-zelfkritisch-ondanks-gedenkwaardige-zege-het-moet-technisch-echt-wel-beter/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "8c5eba605a7a",
+   "t": "“Eentje die gaat bijblijven”: Thibau Nys overwint “eigen stommiteiten” en triomfeert voor derde keer op mythische Koppenberg",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-01T15:21:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/veldrijden/eentje-die-gaat-bijblijven-thibau-nys-overwint-eigen-stommiteiten-en-triomfeert-voor-derde-keer-op-mythische-koppenberg~acb06bbb/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "c63a676d7d37",
+   "t": "Thibau macht am Koppenberg das “Nys-Dutzend“ voll",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-01T15:18:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147187.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "b7f746a227f6",
+   "t": "‘I was really depressed’ – Pogačar opens up about difficult recovery",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-01T15:14:27.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/i-was-really-depressed-pogacar-opens-up-about-difficult-recovery/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "ba6ec8dd3d90",
+   "t": "Thibau Nys races to amazing win in the Koppenbergcross",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-01T15:12:06.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/cyclocross/thibau-nys-races-to-amazing-win-in-the-koppenbergcross/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "911ff8fd3209",
+   "t": "KOPPENBERGCROSS. NYS BATTE VANTHOURENHOUT SUL PAVE DELL'ICONICO KOPPENBERG",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-01T15:05:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/11/01/1793545732/ciclocross-thibau-nys-koppenbergcross-trofeo-x2o-badkamers-belgio",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "1c0f42bff6fe",
+   "t": "Ondanks twee valpartijen en een schuiver: Thibau Nys wint zinderende editie Koppenbergcross",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-01T15:04:15.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/ondanks-twee-valpartijen-en-een-schuiver-thibau-nys-wint-zinderende-editie-koppenbergcross/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "761474029528",
+   "t": "Nys vinder efter hæsblæsende forfølgelsesløb",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-01T15:04:13.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/cross/nys-vinder-efter-haesblaesende-forfoelgelsesloeb/11339687",
+     "l": "da"
+    }
+   ]
+  },
   {
    "id": "0ec9951c00a4",
    "t": "LIVE. Ondanks stevige valpartij: Thibau Nys gaat flink tekeer in achtervolging en nadert tot op 15 seconden van leider Michael Vanthourenhout",
@@ -376,6 +768,20 @@
      "n": "Feltet.dk",
      "u": "https://feltet.dk/landevej/pogacar-afsloerer-kan-ende-som-hjaelperytter/11339455",
      "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "75f9e97871e0",
+   "t": "Voorbeschouwing: X2O Trofee Koppenberg 2026 - Comeback van Thibau Nys en speciale cross voor Fem van Empel",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-01T10:45:00.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/voorbeschouwing-x2o-trofee-koppenberg-de-comeback-van-thibau-nys-en-speciale-cross-voor-fem-van-empel/",
+     "l": "nl"
     }
    ]
   },
@@ -2028,468 +2434,6 @@
      "n": "Canadian Cycling Magazine",
      "u": "https://cyclingmagazine.ca/sections/news/mel-pemble-podiums-at-para-track-world-championships/",
      "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "780a8a565325",
-   "t": "French Para-Cyclist Suspended in EPO Doping Case at Worlds",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-30T20:09:58.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/news/french-para-cyclist-thomas-peyroton-dartet-suspended-epo-doping-worlds/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "e5eef3c14a28",
-   "t": "X2O Badkamers Trofee Koppenbergcross Oudenaarde 2026: Programma en uitslagen",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-30T20:00:07.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/x2o-badkamers-trofee-koppenbergcross-oudenaarde-programma-en-uitslagen/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "32ed961adb5d",
-   "t": "Thomus Maxon signs first non-Swiss rider (and it’s a big one)",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-30T19:48:57.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/mtb/thomus-maxon-signs-first-non-swiss-rider-and-its-a-big-one/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "277a496f543b",
-   "t": "GIOELE BERTOLINI E LUCIA BRAMATI BRILLANO AL 47° GP GUERCIOTTI, CARRETTA E DELL'OLIO OK TRA GLI JUNIOR. GALLERY",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-30T19:39:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/10/30/1793382428/ciclocross-mamma-e-papa-guerciotti-gioele-bertolini-lucia-bramati",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "39bad4636f58",
-   "t": "Factor Bikes Returns to Men’s WorldTour With Major Bahrain Deal",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-30T19:16:44.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-gear/factor-bikes-returns-mens-worldtour-bahrain-victorious/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "a76a06d6ef69",
-   "t": "Crossers op hun hoede voor comeback Thibau Nys op Koppenberg, maar: \"Het is goed dat hij zo snel begint\"",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-30T18:36:00.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/crossers-op-hun-hoede-voor-thibau-nys-bij-comeback-op-koppenberg/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "32f9f74018c0",
-   "t": "'A contract is about more than salary' - The Cyclists' Alliance 2026 rider survey finds financial insecurity, health and safety issues among the main concerns of the women's peloton",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-30T18:31:04.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/a-contract-is-about-more-than-salary-the-cyclists-alliance-2026-rider-survey-finds-financial-insecurity-health-and-safety-issues-among-the-main-concerns-of-the-womens-peloton/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "84ac5500fe85",
-   "t": "In The Drops: Ahooga folding bike, Magicshine Purple Collection, Great Scottish Bike Rides and Charlie Skien",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-30T18:20:23.000Z",
-   "sources": [
-    {
-     "n": "Cyclist (cyclist.co.uk)",
-     "u": "https://www.cyclist.co.uk/in-depth/ahooga-folding-bike",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "757e2cce7460",
-   "t": "Dubbel goud, zilver en brons voor Oranje bij paralympisch WK baanwielrennen",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-30T18:17:50.000Z",
-   "sources": [
-    {
-     "n": "NOS Wielrennen",
-     "u": "https://nos.nl/l/2637350",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "33909db53071",
-   "t": "Calgary council says nope to pause upcoming bike lanes",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-30T18:16:23.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/sections/news/calgary-council-says-nope-to-pause-upcoming-bike-lanes/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "e87473798a49",
-   "t": "Van Aert still isn't sure about his 'cross program",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-30T17:47:00.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/van-aert-still-isnt-sure-about-his-cross-program/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "c68ee092307f",
-   "t": "Bram Welten (29) moet noodgedwongen op zoek naar zichzelf: “Een heel groot deel van mijn identiteit is wielrennen”",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-30T17:44:02.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/bram-welten-29-moet-noodgedwongen-op-zoek-naar-zichzelf-een-heel-groot-deel-van-mijn-identiteit-is-wielrennen/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "152c3d2b798a",
-   "t": "Transferlisten 2026-2027 - WorldTouren",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-30T17:40:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/transferlisten-2026-2027-worldtouren/11244321",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "d711d36841ee",
-   "t": "Søjberg til Japan med Seixas",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-30T17:31:54.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/soejberg-til-japan-med-seixas/11338460",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "e2515cad1018",
-   "t": "Paralympic gold medalist Thomas Peyroton-Dartet suspended after EPO positive",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-30T17:07:46.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/paralympic-gold-medalist-thomas-peyroton-dartet-suspended-after-epo-positive/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "78fdcda0b2c6",
-   "t": "Review: The Exposure Strada 13 RS Light Begs You to Ride a Little Longer",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-30T17:03:38.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-gear/review-exposure-strada-13-rs/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "f895c5d79171",
-   "t": "Indoor cycling is boring, discuss – A for-and-against debate on the sport's most polarising training tool",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-30T16:58:49.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/cycling-tech-components/smart-trainers/indoor-cycling-is-boring-discuss-a-for-and-against-debate-on-the-sports-most-polarising-training-tool/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "1d837afab3bc",
-   "t": "Who Really Deserves the Vélo d’Or? Let the Debate Begin",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-30T16:54:18.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/best-cyclist-2026-velo-dor-nominees/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "32515b33ed02",
-   "t": "Best gravel race bikes 2026 reviewed",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-30T16:53:15.000Z",
-   "sources": [
-    {
-     "n": "Cyclist (cyclist.co.uk)",
-     "u": "https://www.cyclist.co.uk/buying-guides/best-gravel-race-bikes",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "edb0f934c64d",
-   "t": "Safety and development highlighted as key concerns in TCA's 2026 rider survey",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-30T16:41:38.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/race-safety-and-rider-development-highlighted-as-key-concerns-in-tca-2026-rider-survey/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "effe5fba8efd",
-   "t": "Tom Wijfje boekt in Tour du Faso eerste Nederlandse UCI-zege van... 2027",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-30T16:38:11.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/tom-wijfje-boekt-in-tour-du-faso-eerste-nederlandse-uci-zege-van-2027/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "75f9e97871e0",
-   "t": "Voorbeschouwing: X2O Trofee Koppenberg 2026 - Comeback van Thibau Nys en speciale cross voor Fem van Empel",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-30T16:06:00.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/voorbeschouwing-x2o-trofee-koppenberg-de-comeback-van-thibau-nys-en-speciale-cross-voor-fem-van-empel/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "484c8d6c23b8",
-   "t": "USPro criterium star Luke Elphingstone, 'a Michael Matthews kind of rider', among three national champions featured in younger Project Echelon Racing squad for 2027",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-30T16:03:44.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/uspro-criterium-star-luke-elphingstone-a-michael-matthews-kind-of-rider-among-three-national-champions-featured-in-younger-project-echelon-racing-squad-for-2027/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "10d1c4e09e7f",
-   "t": "Stap nu in de Fantasy Game veldrijden en begin met een voordeel op de andere spelers",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-30T16:00:07.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/stap-nu-in-de-fantasy-game-veldrijden-en-begin-met-een-voordeel-op-de-andere-spelers/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "4493c3d3df18",
-   "t": "Might Paul Seixas have surprising 2027 Grand Tour plans?",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-30T15:56:41.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/sections/news/might-paul-seixas-have-surprising-2027-grand-tour-plans/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "61dc5c40b227",
-   "t": "Nederlandse toprenners maken zich op voor WielerZesdaagse Rotterdam",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-30T15:44:24.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/nederlandse-toprenners-maken-zich-op-voor-wielerzesdaagse-rotterdam/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "6c867ff8ccbc",
-   "t": "Tobias Aagaard har styr på fremtiden",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-30T15:30:49.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/tobias-aagaard-har-styr-paa-fremtiden/11338374",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "b2d3790682b8",
-   "t": "We turned an old city cruiser into an ebike. Was it worth it?",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-30T15:28:27.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/sections/news/we-turned-an-old-city-cruiser-into-an-ebike-was-it-worth-it/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "bf65e7d02081",
-   "t": "Marc Sergeant ziet Remco Evenepoel liever niet in de Giro: \"Zou het toch een beetje als een verloren jaar zien\"",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-30T15:14:22.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/marc-sergeant-ziet-remco-evenepoel-liever-niet-in-de-giro-zou-het-toch-een-beetje-als-een-verloren-jaar-zien/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "68d0e3cfdcfe",
-   "t": "Pivot LES SL Drop Bar Review: Taking Gravel to the Extreme",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-30T15:01:49.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/gravel/gravel-gear/pivot-les-sl-drop-bar-review/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "8a92bebf8ff0",
-   "t": "The Coros Dura 2, Spooky Bike Stories, and Cycling’s Jorts Problem",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-30T15:00:01.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-gear/velo-podcast-coros-dura-ohlins-fork-spooky-stories/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "7c1745b17587",
-   "t": "How to watch Cyclo-Cross: Live streams, TV channels and schedule for all races and major championships during the 2026-27 season",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-30T15:00:00.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/cycling-culture/streaming/how-to-watch-cyclo-cross-live-streams-tv-channels-and-schedule-for-all-races-and-major-championships-during-the-2026-27-season/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "f06277c8bb24",
-   "t": "Pozzovivo auch mit 44 noch Profi? Teuns steigt vom Rad",
-   "s": "",
-   "c": "other",
-   "date": "2026-10-30T15:00:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_146938.htm",
-     "l": "de"
     }
    ]
   }
