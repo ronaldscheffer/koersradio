@@ -1,6 +1,986 @@
 {
- "updated": "2026-11-04T22:17:18.398Z",
+ "updated": "2026-11-05T15:58:13.471Z",
  "groups": [
+  {
+   "id": "e883fa34d5a2",
+   "t": "Giro-etapevinderen Gianluca Pierobon er død",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T15:49:30.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/giro-etapevinderen-gianluca-pierobon-er-doed/11344807",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "8fdec25c2423",
+   "t": "Opmerkelijk: UCI nomineert Evenepoel, Van Aert en Van der Poel voor nieuwe award, maar houdt zich niet aan eigen format",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T15:24:02.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/uci-nomineert-evenepoel-van-aert-en-van-der-poel-voor-nieuwe-award-maar-houdt-zich-niet-aan-eigen-format/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "4b29335f8f5e",
+   "t": "Save up to 40% on Hunt wheels this Black Friday",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T15:22:49.000Z",
+   "sources": [
+    {
+     "n": "Cyclist (cyclist.co.uk)",
+     "u": "https://www.cyclist.co.uk/sponsored/hunt-wheels-black-friday-2026",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "4864f76cff7f",
+   "t": "Curt Harnett: Transformed by a shampoo ad and now changing lives with bikes",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T15:00:48.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/cycling-magazine-podcast/curt-harnett-transformed-by-a-shampoo-ad-and-now-changing-lives-with-bikes/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "f584944e0186",
+   "t": "Gavin Hlady makes the jump to the WorldTour",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T14:55:59.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/sections/news/gavin-hlady-makes-the-jump-to-the-worldtour/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "599c0851c445",
+   "t": "“Hij staat boven mij”: Eddy Merckx en andere wielericonen over de vraag of Tadej Pogacar nu écht de allerbeste is",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T14:50:43.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/hij-staat-boven-mij-eddy-merckx-en-andere-wielericonen-over-de-vraag-of-tadej-pogacar-nu-echt-de-allerbeste-is~a19ab829/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "0a6fb4fe27cd",
+   "t": "Zwift Gets the Last Laugh with Amusing New Sprint Zone After Roadside Potty Break Surprise",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T14:43:04.000Z",
+   "sources": [
+    {
+     "n": "Bikerumor",
+     "u": "https://bikerumor.com/zwift-gets-the-last-laugh-with-amusing-new-sprint-zone-after-roadside-potty-break-surprise/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "0b7ddb509793",
+   "t": "The Traka World Series 'natural evolution' of Gravel Earth Series with collection of seven races, €84,000 prize purse and promise of live streaming",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T14:40:50.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/the-traka-world-series-natural-evolution-of-gravel-earth-series-with-collection-of-seven-races-eur84-000-prize-purse-and-promise-of-live-streaming/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "079a48764e5b",
+   "t": "Présentation des championnats d’Europe de cyclo-cross 2026",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T14:29:55.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/courses/championnats-deurope-cyclocross/presentation-des-championnats-deurope-de-cyclo-cross-2026/",
+     "l": "fr"
+    }
+   ]
+  },
+  {
+   "id": "64d0b289b8cf",
+   "t": "Geraint Thomas ziet ondanks teleurstellend seizoen aanknopingspunten voor Netcompany INEOS",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T14:28:35.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/geraint-thomas-ziet-ondanks-teleurstellend-seizoen-aanknopingspunten-voor-netcompany-ineos/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "4d12e55cb242",
+   "t": "State Bicycle Co. Turns the 4130 Trail Into a Multi-Bike Platform That’s Still Crazy Affordable",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T14:02:52.000Z",
+   "sources": [
+    {
+     "n": "Bikerumor",
+     "u": "https://bikerumor.com/state-bicycle-co-affordable-steel-4130-trail-hardtail-mountain-bike/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "82840991a92f",
+   "t": "Schaatser Jenning de Boo loopt typische wielerblessure op bij val van fiets",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T13:35:20.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/schaatser-jenning-de-boo-loopt-typische-wielerblessure-op-bij-val-van-fiets/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "748937f28ed2",
+   "t": "EK veldrijden in Zeddam stevent af op 10.000 toeschouwers, met opvallend aantal... Duitsers",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T13:34:13.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/ek-veldrijden-in-zeddam-stevent-af-op-10-000-toeschouwers-met-opvallend-aantal-duitsers/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "669fe50473e4",
+   "t": "Elite Square smart frame review: A serious alternative to the Zwift Ride",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T13:22:03.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/cycling-tech-components/smart-trainers/elite-square-smart-frame-review/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "b46a94c809be",
+   "t": "'I didn't agree with their way of working' – Ellen van Dijk critical of Picnic-PostNL management but says she didn't experience culture of fear",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T13:13:07.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/i-didnt-agree-with-their-way-of-working-ellen-van-dijk-critical-of-picnic-postnl-management-but-says-she-didnt-experience-culture-of-fear/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "a98e2dab14fd",
+   "t": "UAE-manager Matxin waarschuwt: \"Pogacar gaat in 2027 nog beter zijn dan dit jaar\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T13:12:28.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/uae-manager-matxin-waarschuwt-pogacar-gaat-in-2027-nog-beter-zijn-dan-dit-jaar/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "30529e8ae9cd",
+   "t": "Merckx über Pogacar in TV-Doku: “Er ist jetzt über mir“",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T13:07:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147211.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "5e71c7d994e2",
+   "t": "Danske profiler tror på EM-resultat til 15-årig komet",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T12:56:52.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/cross/danske-profiler-tror-paa-em-resultat-til-15-aarig-komet/11344335",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "555a202d5d0d",
+   "t": "UAE TEAM EMIRATES, MATXIN: «INSEGUIAMO I TRE GRANDI GIRI IN UN ANNO, COME LA VISMA NEL 2023»",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T12:49:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/11/05/1793883237/uea-team-emirates-giro-italia-2027-tour-de-france-2027-vuelta-espana-2027",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "524a3c7b7ff2",
+   "t": "Leidert wechselt von Lidl - Trek Future Racing nach Belgien",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T12:40:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147185.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "cc54bb03b866",
+   "t": "Big Ride: Life on Mars in Tenerife",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T12:21:49.000Z",
+   "sources": [
+    {
+     "n": "Cyclist (cyclist.co.uk)",
+     "u": "https://www.cyclist.co.uk/in-depth/teide-tenerife-cycling",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "133628983f7b",
+   "t": "UAE Team Emirates-XRG manager reveals 'ambitious dream' to emulate Visma in 2027 Grand Tours, but Pogačar and Del Toro's schedules still under wraps",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T12:13:43.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/uae-team-emirates-xrg-manager-reveals-ambitious-dream-to-emulate-visma-in-2027-grand-tours-but-pogacar-and-del-toros-schedules-still-under-wraps/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "e23a068779cf",
+   "t": "Superprestige Middelkerke vanavond alleen achter de betaalmuur te zien in België",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T12:01:55.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/superprestige-middelkerke-vanavond-alleen-achter-de-betaalmuur-te-zien-in-belgie/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "99836988d28d",
+   "t": "Alle helden van wielerjaar 2026 op één cover: dit is de nieuwe Wintergids van Wielerflits Magazine!",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T12:00:07.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/alle-helden-van-wielerjaar-2026-op-een-cover-dit-is-de-nieuwe-wintergids-van-wielerflits-magazine/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "5135a0954fd8",
+   "t": "Ineos-Renndirektor Thomas bittet um Geduld: Schritt für Schritt",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T11:59:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147210.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "186e0a6cb473",
+   "t": "Godt nyt fra Ronan Auge: Udskrevet fra hospitalet",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T11:56:40.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/godt-nyt-fra-ronan-auge-udskrevet-fra-hospitalet/11344509",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "7eb574c2809f",
+   "t": "78 Crashes and Pogačar Sidelined. UAE Has One Huge Ambition After Season of Carnage",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T11:47:56.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/uae-pogacar-78-crashes-grand-tour-sweep-2027/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "869e5988d9e9",
+   "t": "Throwing Van der Poel a bone: What do we make of the 2027 Giro d’Italia route?",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T11:43:05.000Z",
+   "sources": [
+    {
+     "n": "Cyclist (cyclist.co.uk)",
+     "u": "https://www.cyclist.co.uk/in-depth/2027-giro-ditalia-analysis",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "82d609365ad6",
+   "t": "Nieuwe Eurosport-documentaire onderzoekt dominantie Pogacar, lovende Merckx: \"Hij staat boven mij\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T11:42:19.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/nieuwe-eurosport-documentaire-onderzoekt-dominantie-pogacar-lovende-merckx-hij-staat-boven-mij/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "a7e11ec71965",
+   "t": "'Not exactly how I had planned' – Geerike Schreurs finally home in the Netherlands after horror crash at Gravel World Championships",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T11:38:04.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/not-exactly-how-i-had-planned-geerike-schreurs-finally-home-in-the-netherlands-after-horror-crash-at-gravel-world-championships/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "eb01251586ff",
+   "t": "EK veldrijden 2026 in Zeddam: Programma en uitslagen",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T11:30:07.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/ek-veldrijden-2026-in-zeddam-programma-en-uitslagen/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "5469ffe6ecdc",
+   "t": "'The Tour of Flanders is becoming increasingly difficult, especially with the presence of Pogačar and Evenepoel' – Wout van Aert realistic about chances of finally landing his home Monument",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T11:28:42.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/the-tour-of-flanders-is-becoming-increasingly-difficult-especially-with-the-presence-of-pogacar-and-evenepoel-wout-van-aert-realistic-about-chances-of-finally-landing-his-home-monument/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "599271eec87e",
+   "t": "European cyclocross championships: 100 steps and a whole lot of racing",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T11:27:45.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/sections/news/european-cyclocross-championships-100-steps-and-a-whole-lot-of-racing/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "f4d00580a890",
+   "t": "Vergeet je Fantasy Game-opstelling voor de Superprestige Middelkerke niet aan te passen",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T11:19:46.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/vergeet-je-fantasy-game-opstelling-voor-de-superprestige-middelkerke-niet-aan-te-passen/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "1c782d0a33eb",
+   "t": "Early access: Watch our video review of the new Argon 18 Nitrogen Pro before anyone else",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T11:15:05.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/bikes/early-access-watch-our-video-review-of-the-new-argon-18-nitrogen-pro-before-anyone-else/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "2ddca131d9ae",
+   "t": "EK veldrijden 2026 in Zeddam - Voorbeschouwing beloften mannen - Toptalenten Sparfel en Lejeune tegenover elkaar",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T11:11:28.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/ek-veldrijden-2026-in-zeddam-voorbeschouwing-beloften-mannen-strijd-tussen-toptalenten-sparfel-en-lejeune/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "2f04bf97621e",
+   "t": "Hochzeit: Aus Ferrand-Prévot wird Pauline van Baarle",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T11:10:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147209.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "a60bb49a8c7e",
+   "t": "Who will actually ride the Giro d’Italia in 2027? Analysing the choices facing Pogačar, Vingegaard, Seixas, Evenepoel, Del Toro and more",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T11:04:40.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/who-will-actually-ride-the-giro-ditalia-in-2027-analysing-the-choices-facing-pogacar-vingegaard-seixas-evenepoel-del-toro-and-more/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "a9590cbaf0ef",
+   "t": "Medie: Stjerne skifter efter svær sæson",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T11:04:38.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/medie-stjerne-skifter-efter-svaer-saeson/11344457",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "d5dc4e29bc71",
+   "t": "Medien: Auch Q36.5 keine Option mehr für Roglic",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T11:03:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147208.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "e5c44ab72923",
+   "t": "Nu met gratis verzending: Pre-order de nieuwe Wielerflits Magazine Wintergids 2026",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T11:00:06.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/een-winter-lang-leesplezier-pre-order-nu-de-nieuwe-wielerflits-magazine-wintergids-2026/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "d6780aba5d26",
+   "t": "Zero to hero? Wind tunnel testing the new Look 795 Blade RS",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T10:43:42.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/bikes/road/zero-to-hero-wind-tunnel-testing-the-new-look-795-blade-rs/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "3110f963c33e",
+   "t": "MBH BANK VERSO UN ALTRO RINFORZO DI PESO PER IL 2027: VICINA LA FIRMA DI FORMOLO",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T10:40:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/11/05/1793875486/ciclomercato-mbh-bank-formolo-2027-indiscrezione",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "bfb03c86ddc5",
+   "t": "Dan toch geen Witse Meeussen in Middelkerke, ook wijziging in Belgische EK-selectie",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T10:25:41.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/dan-toch-geen-witse-meeussen-in-middelkerke-ook-wijziging-in-belgische-ek-selectie/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "a001d7f69ade",
+   "t": "Get set for cyclo-cross season: Stream every race from anywhere with this early Black Friday VPN deal",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T10:21:16.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/cycling-culture/streaming/get-set-for-cyclo-cross-season-stream-every-race-from-anywhere-with-this-early-black-friday-vpn-deal/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "7542dc06e542",
+   "t": "Gummi garanterer danske Giro-debutanter",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T10:13:07.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/gummi-garanterer-danske-giro-debutanter/11344342",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "4b5ac3b2926d",
+   "t": "RADIOCORSA. APPUNTAMENTO ALLE 19 CON GUERCILENA PER CAPIRE CHI POTRA' VENIRE AL GIRO",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T10:05:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/11/05/1793873883/giro-italia-2027-europei-ciclocross-paraciclismo-radiocorsa",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "ced444cb5b46",
+   "t": "Roval Rapide Sprint CLX wheelset review: Forward thinking depth optimised for ‘old school’ tyre widths",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T10:00:00.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/cycling-tech-components/wheels-tyres/roval-rapide-sprint-clx-review/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "477039aa159f",
+   "t": "Eddy Merckx cierra definitivamente el debate con Pogacar: “Ahora está por encima de mí\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T09:32:16.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/11/05/eddy-merckx-cierra-definitivamente-debate-pogacar-encima-mi.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "9f0c2b43429d",
+   "t": "Deelnemers EK veldrijden 2026 in Zeddam (mannen en vrouwen)",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T09:30:00.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/deelnemers-ek-veldrijden-2026-in-zeddam-mannen-en-vrouwen/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "18d1a922719c",
+   "t": "ADDIO A GIANLUCA PIEROBON: L'EX PROF VARESINO AVEVA 59 ANNI",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T09:12:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/11/05/1793870219/gianluca-pierobon-professionisti-anni-90-giro-d-italia-necrologio",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "30dd5073e0d4",
+   "t": "Deutscher Tour-Start 2029 soll 50 Millionen Euro kosten",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T09:10:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147205.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "51054923823e",
+   "t": "EM i Bike Trial kommer til Danmark",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T08:57:03.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/em-i-bike-trial-kommer-til-danmark/11344302",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "5b8f61af1886",
+   "t": "CAMPANA APPRODA ALLA \"DEVO\" DELLA CANYON SRAM: SIGLATO UN BIENNALE",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T08:43:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/11/05/1793868219/ciclismo-canyon-sram-generation-agata-campana-velociste-mercato-ciclismo",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "afa4f9d62508",
+   "t": "Merckx kapitulerer: - Han er over mig nu",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T08:37:30.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/merckx-kapitulerer-han-er-over-mig-nu/11344253",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "fb9f43b82850",
+   "t": "UAE-Boss Fernandez will Visma-Errungenschaft jagen",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T08:32:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147204.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "a80574926dd9",
+   "t": "GALLINA ECOTEK EUROFEED COLOSIO, DAL 2027 RITORNA NEL CIRCUITO UCI CONTINENTAL",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T08:27:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/11/05/1793867402/ciclismo-uci-continental-gallina-ecotek-colosio-ciclismo-professionistico-team-bresciano",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "6f463d7ddde6",
+   "t": "SALUS SEREGNO DE ROSA. DEFINITA LA FORMAZIONE PER LA STAGIONE 2027",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T08:21:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/11/05/1793867641/ciclismo-juniores-salus-seregno-de-rosa-mercato-ciclismo-settore-giovanile",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "3885a63a6be1",
+   "t": "Zwift Clears Up the Stink of its Rogue Pooper with Hilarious New Update",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T07:46:45.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/news/zwift-clears-up-guy-taking-a-dump-in-new-real-world-video/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "2bacf391d776",
+   "t": "Lidl wird Hauptsponsor von Vuelta und anderen spanischen Rundfahrten",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T07:36:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147203.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "438c0d9584e8",
+   "t": "TOWARDS TOMORROW EUROPEAN BIKE SHOW, NUOVA FIERA B2B NEL 2027 A COLONIA. DE ROSA: «SOVRAPPOSIZIONE CON MISANO, NON FACCIAMO SISTEMA»",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T07:21:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/11/05/1793841426/towards-tomorrow-european-bike-show-fiera-colonia-cristiano-de-rosa",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "0dbe84bb2d19",
+   "t": "TELETUTTO. VEROLA PARACYCLING CUP, LE EMOZIONI DI UNA DUE GIORNI DAVVERO SPECIALE",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T07:12:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/11/05/1793782596/teletutto-stasera-ciclismo-oggi-verola-nuova-paracyling",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "16198f49141a",
+   "t": "DALLA VALLAGARINA ALLE DOLOMITI DI BRENTA, IN TRENTINO SARÀ ANCORA GIRO D'ITALIA",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T07:12:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/11/05/1793810640/giro-italia-2027-tappe-trentino",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "a48d9ade64a2",
+   "t": "CONTIN. «IL PRESTIGIO D'ORO ALÉ È STATO UNA BELLISSIMA AVVENTURA, MA È GIUNTO IL MOMENTO DI FERMARSI»",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T07:06:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/11/05/1793783712/ciclismo-giovanile-challenge-prestigio-oro-agostino-contin-storia-del-ciclismo",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "e5992b7998a5",
+   "t": "ADRIATICO CROSS TOUR. SPETTACOLO TRA PIOGGIA E FANGO A CERRATINA DI PIANELLA",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T07:00:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/11/05/1793783067/ciclocross-abruzzo-campionati-regionali-adriatico-cross-tour-fuoristrada",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "2965a3ef8588",
+   "t": "CORSE E RICORSI. MOTTA, I BARONCHELLI, CASSANI E CHINETTI NEL RICORDO DELLA VOGHERA-PASSO DEL BRALLO",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T07:00:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/11/05/1793803048/ciclismo-classiche-italiane-storia-del-ciclismo-voghera-tradizione-ciclistica",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "815398aff31b",
+   "t": "Geen Mathieu van der Poel, Wout van Aert of Thibau Nys, maar vanavond is er in Middelkerke wel een avondcross met start om 20u30: “Er is veel animo”",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T06:07:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/veldrijden/geen-mathieu-van-der-poel-wout-van-aert-of-thibau-nys-maar-vanavond-is-er-in-middelkerke-wel-een-avondcross-met-start-om-20u30-er-is-veel-animo~a2855bdc/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "355b8fcb5b88",
+   "t": "Redshift expands Mousetrap flat pedal adapters to Shimano SPD-SL and Look Keo",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T06:02:16.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/redshift-expands-mousetrap-flat-pedal-adapters-to-shimano-spd-sl-and-look-keo/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "530c854a0574",
+   "t": "Efter syv års fravær: Stjernetræf tilbage",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T06:00:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/efter-syv-aars-fravaer-stjernetraef-tilbage/11343828",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "58fe7d3d4b53",
+   "t": "The hammer on the wall",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-05T01:22:10.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/the-hammer-on-the-wall/",
+     "l": "en"
+    }
+   ]
+  },
   {
    "id": "7eb492f59756",
    "t": "Don’t let your pain cave become a petri dish",
@@ -2070,1042 +3050,6 @@
      "n": "Feltet.dk",
      "u": "https://feltet.dk/landevej/talent-skal-laere-en-saerlig-ting-efter-skifte-fra-storhold/11342337",
      "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "0c40947b94b9",
-   "t": "Pro cycling has a visa problem",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T15:54:08.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/pro-cyclings-visa-problem-and-how-to-solve-it/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "92def6a842f4",
-   "t": "Aike Visbeek gaat nieuwe uitdaging aan bij Unibet Rose Rockets van Bas Tietema",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T15:51:00.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/aike-visbeek-gaat-nieuwe-uitdaging-aan-bij-unibet-rose-rockets-van-bas-tietema/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "f4061c331404",
-   "t": "“Het kan gezien worden als verdoken faalangst”: Jan Bakelants raadt Remco Evenepoel de dubbel Giro-Tour af",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T15:45:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/tour-de-france/het-kan-gezien-worden-als-verdoken-faalangst-jan-bakelants-raadt-remco-evenepoel-de-dubbel-giro-tour-af~ae7ecab5/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "62f68865a94b",
-   "t": "Elmar Abma vindt met EEW-VDK nog een nieuwe ploeg",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T15:36:03.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/elmar-abma-vindt-met-eew-vdk-nog-een-nieuwe-ploeg/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "ead5e6cc940a",
-   "t": "AiRO VAYU Uses AI-based Physics Model for Real-Time Aero Testing in Bike Fits",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T15:32:04.000Z",
-   "sources": [
-    {
-     "n": "Bikerumor",
-     "u": "https://bikerumor.com/airo-vayu-real-time-aero-bike-fitting/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "0e22c3b8e873",
-   "t": "Wereldkampioen Ryan Gal voor drie jaar naar Alpecin-Premier Tech",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T15:24:00.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/kogel-door-de-kerk-wereldkampioen-ryan-gal-voor-drie-jaar-naar-alpecin-premier-tech/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "b1a9321dca0a",
-   "t": "Profil om Giro-ruten: - Jeg fik gåsehud",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T15:17:05.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/profil-om-giro-ruten-jeg-fik-gaasehud/11342305",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "7e46fca513ac",
-   "t": "Shirin van Anrooij duikt in de winter weer het veld in: \"Kijk echt uit naar het WK\"",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T15:10:37.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/shirin-van-anrooij-duikt-in-de-winter-weer-het-veld-in-kijk-echt-uit-naar-het-wk/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "87783b7e0eaf",
-   "t": "ALE CX TEAM. BERTOLINI E CARRETTA, DAL SUCCESSO AL GUERCIOTTI ALL'AZZURRO EUROPEO",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T14:46:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/11/03/1793717559/ciclocross-ale-cx-team-gioele-bertolini-matilde-carretta-europei-ciclocross",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "f4058496e835",
-   "t": "EF forfremmer fire talenter",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T14:37:22.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/ef-forfremmer-fire-talenter/11342245",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "fb5f2f2c09cd",
-   "t": "LA VAL BREMBANA PROTAGONISTA AL GIRO 2027: ALINO E PIANI DI BOBBIO DUE SALITE INEDITE TUTTE DA SCOPRIRE",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T14:28:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/11/03/1793727328/giro-d-italia-ciclismo-val-brembana-bergamo-salite",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "47488218c0be",
-   "t": "Wielerploeg Hitec Products verdwijnt na 18 jaar uit peloton",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T14:26:01.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/wielerploeg-hitec-products-verdwijnt-na-18-jaar-uit-peloton/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "1c1ae726d226",
-   "t": "Tadej Pogacar zal volgend jaar in enkele koersen knechten voor wereldkampioen McNulty",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T14:05:36.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/tadej-pogacar-zal-volgend-jaar-in-enkele-koersen-knechten-voor-wereldkampioen-mcnulty/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "0a871a46ca9d",
-   "t": "Vuelve el Giro más salvaje con dos mitos: doble Mortirolo, Gavia y Zoncolan para decidir la maglia rosa",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T13:58:49.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/giro-italia/2026/11/03/vuelve-giro-salvaje-dos-mitos-doble-mortirolo-gavia-zoncolan-decidir-maglia-rosa.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "f77dbf513bdd",
-   "t": "Caja Rural vinker farvel til seks ryttere",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T13:57:18.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/caja-rural-vinker-farvel-til-seks-ryttere/11342136",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "a1d3fa9882c9",
-   "t": "GATTI & MISFATTI. BENE IL GIRO, BENE ALLOCCHIO, BENE GUERCILENA, UN PO’ MENO IL RAGIONIERE",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T13:53:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/11/03/1793714455/giro-italia-2026-montagne-leggendarie-mortirolo-allocchio",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "235d558d4089",
-   "t": "Turbo Cross met influencers keert met nieuw format terug in Hofstade",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T13:44:46.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/turbo-cross-met-influencers-keert-met-nieuw-format-terug-in-hofstade/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "055b32c67ca4",
-   "t": "Giro d’Italia 2027 Route Reveal: Two Time Trials and Return of Zoncolan in Savage Final Week",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T13:42:04.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/giro-ditalia/giro-ditalia-2027-route-monte-zoncolan/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "1d96dffac85f",
-   "t": "Zwift Rider Spots ‘A Guy Taking a Dump’ in New Real-World Video Package",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T13:36:51.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/news/zwift-rider-spots-a-guy-taking-a-dump-in-new-real-world-video-package/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "e10c558535ce",
-   "t": "'Too ambitious in too many segments' – Bianchi to renegotiate debt repayments amid financial woes",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T13:36:45.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/cycling-tech-components/too-ambitious-in-too-many-segments-bianchi-to-renegotiate-debt-repayments-amid-financial-woes/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "c7f10025c519",
-   "t": "Giro d'Italia 2027 route – A comprehensive guide to all 21 stages",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T13:22:27.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/giro-d-italia-2027-route-a-comprehensive-guide-to-all-21-stages/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "8834d0e3ff3e",
-   "t": "LE GRANDI SALITE DI BORMIO ANCORA PROTAGONISTA AL GIRO D'ITALIA",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T13:13:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/11/03/1793712065/giro-italia-2027-bormio-montagna-scalate-alpine",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "4e344269e5b8",
-   "t": "Veel klimwerk in Giro-parcours 2027 bij vrouwen, mannen gaan door Slovenië",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T13:11:02.000Z",
-   "sources": [
-    {
-     "n": "NOS Wielrennen",
-     "u": "https://nos.nl/l/2637869",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "9e5b968a7ea1",
-   "t": "Tidligere sprintprofil bliver sportsdirektør på EF",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T13:06:52.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/tidligere-sprintprofil-bliver-sportsdirektoer-paa-ef/11342034",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "b99107c5a1bc",
-   "t": "CASTELLI. SORPASSO PRO, NUOVA GENERAZIONE DELLA SALOPETTE LUNGA. ARRIVA ANCHE LA LINEA ESTREMO 2 RINNOVATA",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T13:01:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/11/03/1793707768/castelli-abbigliamento-ciclismo-equipaggiamento-invernale-sorpasso-pro-estremo-2",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "f13730d99f53",
-   "t": "Alle Etappen des Giro d´Italia im Detail",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T13:00:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147196.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "107cec77b3e1",
-   "t": "Giro d'Italia 2027: Sloveens uitstapje, dubbele Mortirolo en gevreesde Monte Zoncolan",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T12:50:01.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/giro-d-italia-2027-sloveens-uitstapje-dubbele-mortirolo-en-gevreesde-monte-zoncolan/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "46e6d2de42b8",
-   "t": "Giro d’Italia Women 2027 Route Reveal: Uphill Time Trial and Monte Bianco Finale",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T12:47:41.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/2027-giro-ditalia-women-route-stages/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "5fa6b6fff5e1",
-   "t": "Giro d'Italia 2027 route revealed – A climber's paradise with double Mortirolo ascent and return to iconic Monte Zoncolan and Passo Gavia",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T12:30:23.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/giro-d-italia-2027-route-revealed-a-climbers-paradise-with-double-mortirolo-ascent-and-return-to-iconic-monte-zoncolan-and-passo-gavia/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "3c6c885a9c2f",
-   "t": "GIRO D'ITALIA 110. DA TRIESTE A ROMA, SARANNO 8 GLI ARRIVI IN SALITA. TUTTE LE ALTIMETRIE",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T12:30:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/11/03/1793625387/giro-italia-2027-percorso-tappe-altimetrie-salite",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "7cc55d481ca4",
-   "t": "Giro d'Italia Women 2027: Drie bergritten en klimtijdrit kruiden veeleisend parcours",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T11:55:01.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/giro-d-italia-women-2027-drie-bergritten-en-klimtijdrit-kruiden-veeleisend-parcours/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "d279703bb03c",
-   "t": "Shimano Dura Ace C50 wheel review: Rock solid all-round performance and the update the flagship wheelset needed",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T11:53:51.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/cycling-tech-components/wheels-tyres/shimano-dura-ace-c50-wheel-review/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "b29711525c18",
-   "t": "Alle Etappen des Giro d´Italia Women 2027 im Detail",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T11:50:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147195.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "2c85025ec8b9",
-   "t": "Giro d'Italia Women 2027 route – The complete stage-by-stage guide",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T11:48:13.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/giro-d-italia-women-2027-route-the-complete-stage-by-stage-guide/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "c5fee55f0f1a",
-   "t": "Giro d'Italia Women 2027 route revealed – Uphill time trial and brutal final mountain stage feature on climber-friendly course",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T11:47:10.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/giro-ditalia-women-2027-route-revealed-uphill-time-trial-and-brutal-final-mountain-stage-feature-on-climber-friendly-course/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "500d0b5ba7cb",
-   "t": "GIRO WOMEN 2027. DAL TIRRENO AL MONTE BIANCO. TUTTE LE ALTIMETRIE",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T11:45:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/11/03/1793627949/giro-italia-women-2027-percorso-tappe-altimetrie-salite",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "ba25a1102508",
-   "t": "Bondscoach Laurens ten Dam heeft lovende woorden voor zijn ‘dream team’",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T11:40:33.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/bondscoach-laurens-ten-dam-heeft-lovende-woorden-voor-zijn-dream-team/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "eb01251586ff",
-   "t": "EK veldrijden 2026 in Zeddam: Programma en uitslagen",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T11:30:04.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/ek-veldrijden-2026-in-zeddam-programma-en-uitslagen/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "b889b9d661e0",
-   "t": "'Lack of funding' forces long-standing women's Continental team to close after 18 seasons",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T11:11:41.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/lack-of-funding-forces-long-standing-womens-continental-team-to-close-after-18-seasons/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "e95c9acde59b",
-   "t": "One of the most exciting prospects in pro cycling graduates to the WorldTour",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T11:07:28.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/sections/news/one-of-the-most-exciting-prospects-in-pro-cycling-graduates-to-the-worldtour/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "e5c44ab72923",
-   "t": "Nu met gratis verzending: Pre-order de nieuwe Wielerflits Magazine Wintergids 2026",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T11:00:06.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/een-winter-lang-leesplezier-pre-order-nu-de-nieuwe-wielerflits-magazine-wintergids-2026/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "a9a68a93c05c",
-   "t": "Mathieu van der Poel krijgt lachers op zijn hand met dankwoord op Wielergala",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T10:58:00.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/mathieu-van-der-poel-krijgt-lachers-op-zijn-hand-met-dankwoord-op-wielergala/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "a4b21b0832f2",
-   "t": "Ikoniske bjerge skal afgøre Giroen",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T10:50:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/live/ikoniske-bjerge-skal-afgoere-giroen/11341638",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "e5d3f5f1a11c",
-   "t": "EF Education-EasyPost Reinvents Itself as Cycling’s Super Teams Get Richer",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T10:38:38.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/ef-education-easypost-2027-rebuild-superteam-arms-race/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "4daac17d192a",
-   "t": "Leo van Vliet ontvangt oeuvreprijs op Wielergala",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T10:27:00.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/leo-van-vliet-ontvangt-oeuvreprijs-op-wielergala/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "a15d4f6bfe40",
-   "t": "Bianchi meldes at være i store økonomiske problemer",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T10:12:16.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/bianchi-meldes-at-vaere-i-store-oekonomiske-problemer/11341812",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "2edd4057d285",
-   "t": "Nog maximaal 11 contracten vrij in de WorldTour voor 2027, tientallen renners zoeken nog",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T10:00:06.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/nog-maximaal-11-contracten-vrij-in-de-worldtour-voor-2027-tientallen-renners-zoeken-nog/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "242ccbcd45de",
-   "t": "POELS RINNOVA PER UN ALTRO ANNO CON LA UNIBET ROSE ROCKETS",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T09:59:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/11/03/1793700042/wout-poels-contratto-rinnovo-unibet-rose-rockets",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "9973c8577737",
-   "t": "Mørkøv udpeger sine idoler",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T09:39:43.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/moerkoev-udpeger-sine-idoler/11341624",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "524a3c7b7ff2",
-   "t": "Poels hängt noch ein Jahr dran",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T09:30:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147185.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "23f1568264aa",
-   "t": "Wout Poels (39) gaat nog een jaar door en koerst ook in 2027 voor Unibet Rose Rockets",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T09:27:11.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/wout-poels-39-gaat-nog-een-jaar-door-en-koerst-ook-in-2027-voor-unibet-rose-rockets/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "4d26d98e76d4",
-   "t": "Rolf imod nyt Tour-tiltag",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T08:53:43.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/rolf-imod-nyt-tour-tiltag/11341676",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "cdda26dc592b",
-   "t": "Frans toptalent Aubin Sparfel wil zijn hele carrière blijven crossen: \"Ik ben anders dan Seixas\"",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T08:48:56.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/frans-toptalent-aubin-sparfel-wil-zijn-hele-carriere-blijven-crossen-ik-ben-anders-dan-seixas/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "18d48b066c6e",
-   "t": "Fietsenmerk Bianchi in grote financiële problemen",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T08:45:23.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/fietsenmerk-bianchi-in-grote-financiele-problemen/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "c911f35dc105",
-   "t": "#EUROCROSS26. ZEDDAM PRONTA PER DUE GIORNI DI GRANDE CICLOCROSS",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T08:33:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/11/03/1793695327/campionati-europei-ciclocross-2026-zeddam-2026-paesi-bassi-ciclocross-professionistico",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "9aaa5d4880d6",
-   "t": "Danskerhold drejer nøglen om",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T08:30:48.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/danskerhold-drejer-noeglen-om/11341613",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "c5bd881a4f2b",
-   "t": "Test Dahon Mariner D8 : un vélo pliant polyvalent pour la ville",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T08:30:05.000Z",
-   "sources": [
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/materiels/teste-par-velo101/test-dahon-mariner-d8-un-velo-pliant-polyvalent-pour-la-ville/",
-     "l": "fr"
-    }
-   ]
-  },
-  {
-   "id": "0dd578971580",
-   "t": "GIRO D'ITALIA E GIRO WOMEN, OGGI A ROMA LA PRESENTAZIONE DEI PERCORSI",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T08:02:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/11/03/1793696948/giro-italia-2027-percorso-tappe-altimetrie-salite",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "0de099bdaf21",
-   "t": "Pivot Enters the Road Bike World with the Pravia, ‘A Race Bike for Humans’",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T08:01:50.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-gear/pivot-enters-road-bike-world-with-pravia/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "cb078944c2d8",
-   "t": "Pivot Pravia: An MTB brand hits the road",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T08:01:00.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/pivot-pravia-review/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "cafd6c45c749",
-   "t": "Pivot Delivers a Race-Ready Road Bike Built For Performance",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T08:01:00.000Z",
-   "sources": [
-    {
-     "n": "Bikerumor",
-     "u": "https://bikerumor.com/pivot-delivers-a-race-ready-road-bike-built-for-performance/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "257a4c16eabb",
-   "t": "Tadej Pogačar Wants to Try Gravel, but Online Racing? No Chance: ‘Too Much Suffering’",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T07:46:52.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/pogacar-thinks-online-racing-is-too-hard-for-him/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "000c830d81fa",
-   "t": "«SENZA FINANZIAMENTI NON POSSIAMO CONTINUARE», IL TEAM HITEC CHIUDE DOPO 18 ANNI E OLTRE 100 VITTORIE",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T07:25:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/11/03/1793642578/ciclismo-squadre-femminili-team-hitec-ciclismo-professionistico-crisi-finanziaria",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "ca8f891f4471",
-   "t": "MET. NUOVO CASCO TRENTA 2, PIU' SPAZIO PER L'ARIA TRA TESTA E CALOTTA E MASSIMA PROTEZIONE",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T07:22:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/11/03/1793697324/ciclismo-caschi-met-trenta-2-protezione-ventilazione",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "11b5ff41088d",
-   "t": "VUELTA. «LA PROPOSTA DI UN TRATTO IN STERRATO SULL'ANGLIRU? PRONTI A VALUTARE LA POSSIBILITA?»",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T07:17:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/11/03/1793653154/vuelta-espana-2027-angliru-sterrato-anticipazioni",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "93e8246a4bca",
-   "t": "L'ORA DEL PASTO. BIBLIOTECA GIANNI MURA, IL BOOKCLUB E QUELL'APERTURA AI GIOVANI...",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T07:15:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/11/03/1793642528/gianni-mura-book-club-sportivo-ciclismo-marco-pantani-letteratura-sportiva",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "3b58c8fda6fd",
-   "t": "LIVORNO. IL G.S. MONTENERO PEDALA CON PASSIONE DA CENT'ANNI",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T07:05:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/11/03/1793639797/ciclismo-storia-del-ciclismo-livorno-cycling-societa-ciclistiche-coppa-montenero",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "b58148bfa460",
-   "t": "El Giro de Italia 2027 apunta a un recorrido brutal: las claves del trazado que se desvela este martes",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T05:30:43.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/giro-italia/2026/11/03/giro-italia-2027-apunta-recorrido-brutal-claves-trazado-desvela-martes.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "b2ae0ae0623f",
-   "t": "Red Bull confirma el salto de su gran joya: Lorenzo Finn, al WorldTour tras una temporada que le encumbra",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T05:20:33.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/11/03/red-bull-confirma-salto-gran-joya-lorenzo-finn-worldtour-temporada-le-encumbra.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "add6e2673ded",
-   "t": "A tumba abierta by AMIX: \"Pogacar va a tener que tener mucho cuidado a patir de ahora\"",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T05:14:58.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/11/03/tumba-abierta-by-amix-pogacar-cuidado-patir.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "dc5bd2618590",
-   "t": "Keuze van Remco Evenepoel lijkt zonneklaar: Giro richt zich op klimmers met meer aankomsten bergop en minder tijdritkilometers dan de Tour",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T05:06:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/giro/keuze-van-remco-evenepoel-lijkt-zonneklaar-giro-richt-zich-op-klimmers-met-meer-aankomsten-bergop-en-minder-tijdritkilometers-dan-de-tour~a96d79ed/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "5b641f4d8093",
-   "t": "Best Gifts For Cyclists: What to Get Your Favorite Bike Rider",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T03:30:19.000Z",
-   "sources": [
-    {
-     "n": "Bikerumor",
-     "u": "https://bikerumor.com/cycling-holiday-gift-guide-best-gifts-cyclists/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "3b249339166c",
-   "t": "German Steel and American Bling: The Custom Sour Purple Haze",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-03T00:38:08.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/gravel/gravel-gear/sour-bicycles-purple-haze-gravel-bike-check/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "b6a4d0104820",
-   "t": "‘We have been too ambitious’ - Bianchi fights to survive after years of losses",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-02T22:38:45.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/bianchi-files-for-restructuring/",
-     "l": "en"
     }
    ]
   }
