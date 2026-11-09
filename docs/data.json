@@ -1,6 +1,776 @@
 {
- "updated": "2026-11-08T20:54:58.807Z",
+ "updated": "2026-11-09T18:04:12.586Z",
  "groups": [
+  {
+   "id": "7b23f37fa4fc",
+   "t": "The Mirror Test: What Our Helmet Poll Revealed About Modern Cyclists",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T18:03:05.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-gear/bike-helmet-poll-results/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "2a8deb03208e",
+   "t": "Lees onze E-bike Special van 34 pagina's: de dominante fiets in de winkel is elektrisch",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T17:25:00.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/lees-onze-e-bike-special-van-34-pagina-s-de-dominante-fiets-in-de-winkel-is-elektrisch/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "23d3edacb625",
+   "t": "Na haar val op het EK: Ceylin Alvarado moet verstek geven voor veldrit in Niel door verreking in haar duim",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T17:17:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/na-haar-val-op-het-ek-ceylin-alvarado-moet-verstek-geven-voor-veldrit-in-niel-door-verreking-in-haar-duim~a98ef736/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "8f95649ccdfd",
+   "t": "Het bijzondere verhaal van Fariba Hashimi, de Afghaanse kampioene die zich als man verkleedde om te kunnen trainen",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T17:06:00.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/het-bijzondere-verhaal-van-fariba-hashimi-de-afghaans-kampioene-die-zich-als-man-verkleedde-om-te-kunnen-trainen/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "d72421ad6fc7",
+   "t": "Lars van der Haar: \"Met drie of vier crossen voor WK kan Van der Poel nog steeds wereldkampioen worden\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T16:53:00.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/lars-van-der-haar-met-drie-of-vier-crossen-voor-het-wk-kan-van-der-poel-nog-steeds-wereldkampioen-worden/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "75b057c62076",
+   "t": "Visconti als Sportlicher Leiter zurück bei Movistar",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T16:42:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147249.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "2ef21cf14285",
+   "t": "'Niemand is blij met dit jurybesluit op het EK veldrijden in Zeddam'",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T16:41:00.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/niemand-is-blij-met-dit-jurybesluit-op-het-ek-veldrijden-in-zeddam/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "1cd8d3794d0e",
+   "t": "Worlds is the 'absolute priority' for Paul Seixas in 2027",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T16:31:54.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/worlds-is-the-absolute-priority-for-paul-seixas-in-2027/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "c31583fea5d9",
+   "t": "Ceylin del Carmen Alvarado is voorlopig uit de roulatie na val op EK",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T16:22:38.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/ceylin-del-carmen-alvarado-is-voorlopig-uit-de-roulatie-na-val-op-ek/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "6084c2d53b5b",
+   "t": "Juryvoorzitter die Schreiber declasseerde, was ook betrokken bij Giro-diskwalificatie Wiebes",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T16:02:00.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/juryvoorzitter-die-schreiber-declasseerde-was-ook-betrokken-bij-giro-diskwalificatie-wiebes/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "89a4a38078df",
+   "t": "Seixas in Zukunft nach Roubaix? “Mag das Pflaster“",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T16:00:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147248.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "73f50a4688a1",
+   "t": "'If I start discussing contracts here, I think I'll go crazy' –Paul Seixas not thinking about future deal as off-season rolls on",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T15:58:23.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/if-i-start-discussing-contracts-here-i-think-ill-go-crazy-paul-seixas-not-thinking-about-future-deal-as-off-season-rolls-on/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "0a308067d72a",
+   "t": "Salsa Fargo 32 Review: An Intriguing First Move for 32-Inch Gravel",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T15:42:24.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/gravel/gravel-gear/salsa-fargo-32-review/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "2d9f362accec",
+   "t": "A modest proposal: Someone in Toronto has started a petition to remove all car lanes on Bloor",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T15:27:22.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/sections/news/a-modest-proposal-someone-in-toronto-has-started-a-petition-to-remove-all-car-lanes-on-bloor/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "ddb240de25d5",
+   "t": "Paul Seixas droomt op termijn ook van Ronde en Roubaix: \"Ik hou echt van de kasseien\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T15:26:30.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/paul-seixas-droomt-op-termijn-ook-van-ronde-en-roubaix-ik-hou-echt-van-de-kasseien/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "b4655de7ebee",
+   "t": "Brandon McNulty Prepares to Debut Rainbow Jersey in USA as Hilarious Off-Season Photo Emerges",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T15:23:31.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/news/mcnulty-brings-rainbows-to-tour-de-tucson/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "ac39d47fbf0e",
+   "t": "Paul Herygers ziet Thibau Nys 2.0: \"Minder speelvogel, het is menens\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T15:04:32.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/paul-herygers-ziet-thibau-nys-2-0-minder-speelvogel-het-is-menens/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "70f50f9759c7",
+   "t": "Telenet Superprestige Jaarmarktcross Niel 2026: Programma en uitslagen",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T14:53:21.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/telenet-superprestige-jaarmarktcross-niel-2026-programma-en-uitslagen/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "139132e7dffc",
+   "t": "Niet alleen Lorenzo Finn: Red Bull-BORA-hansgrohe hevelt nog twee Italiaanse toptalenten over",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T14:36:42.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/niet-alleen-lorenzo-finn-red-bull-bora-hansgrohe-hevelt-nog-twee-italiaanse-toptalenten-over/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "2504b3fe31d2",
+   "t": "EF’s Two New American Pros Prove You Don’t Have to Be a Teenage Prodigy To Hit the WorldTour",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T14:27:22.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/gavin-sherry-gavin-hlady-ef-worldtour-american-pros/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "074732361a0a",
+   "t": "Roglic in Taiwan wieder auf dem Rad – aber ohne Team",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T14:15:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147247.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "9dde8b2f43e1",
+   "t": "Shimano presenteert omzetgroei van bijna 5%",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T14:00:55.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/shimano-presenteert-omzetgroei-van-bijna-5/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "bd81273214e9",
+   "t": "Toyota Sienna Torklift EcoHitch Review: From Mini- to Adventure Van with Big Bike Rack-Capable Hitch",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T13:57:09.000Z",
+   "sources": [
+    {
+     "n": "Bikerumor",
+     "u": "https://bikerumor.com/toyota-sienna-torklift-ecohitch-review-from-mini-to-adventure-van-with-big-bike-rack-capable-hitch/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "46266612e42e",
+   "t": "Relaxed Primož Roglič gets back on the bike for Taiwan Masters Ride despite time and options for finding new team in 2027 running low",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T13:07:24.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/relaxed-primoz-roglic-gets-back-on-the-bike-for-taiwan-masters-ride-despite-time-and-options-for-finding-new-team-in-2027-running-low/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "0b9ba4ddc98b",
+   "t": "Marianne Vos, Lotte Kopecky, Mathieu van der Poel, and Maddy Nutt among stars set to headline Rouleur Live in London",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T12:56:05.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/marianne-vos-lotte-kopecky-mathieu-van-der-poel-and-maddy-nutt-among-stars-set-to-headline-rouleur-live-in-london/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "d853fbf66337",
+   "t": "Marie Schreiber hekelt houding juryvoorzitter na omstreden declassering: \"Het is respectloos\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T12:39:59.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/marie-schreiber-hekelt-houding-juryvoorzitter-na-omstreden-declassering-het-is-respectloos/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "9b167ccad105",
+   "t": "Luxembourg federation lodges official complaint over Marie Schreiber's lost European title, but how can they hope to overturn the decision?",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T12:39:56.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/luxembourg-federation-lodges-official-complaint-over-marie-schreibers-lost-european-title-but-how-can-they-hope-to-overturn-the-decision/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "8b89b0d46745",
+   "t": "Héctor Álvarez: \"Quiero ser un ciclista valiente\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T12:25:55.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/11/09/hector-alvarez-quiero-ciclista-valiente.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "0ffad624fb43",
+   "t": "BURGOS BURPELLET BH, PROMOZIONE E BIENNALE PER IL GIOVANE STATUNITENSE PRESLEY",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T12:18:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/11/09/1794227017/ciclomercato-burgos-burpellet-bh-presley-evans-2027",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "9e2b328df3c7",
+   "t": "Classic climb: Col du Grand Colombier, the monster in France’s Jura mountains that will tie you in knots",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T11:56:53.000Z",
+   "sources": [
+    {
+     "n": "Cyclist (cyclist.co.uk)",
+     "u": "https://www.cyclist.co.uk/in-depth/col-du-grand-colombier-cycling",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "44fd3db61f04",
+   "t": "Nederland afgetroefd door België op EK, maar dat kan bondscoach Gerben de Knegt wel plaatsen",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T11:54:09.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/nederland-afgetroefd-door-belgie-op-ek-maar-dat-kan-bondscoach-gerben-de-knegt-wel-plaatsen/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "46c4413c784f",
+   "t": "Zwei neue Sprint-Hoffnungen im Red-Bull-WorldTeam",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T11:45:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147246.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "080fad8d3012",
+   "t": "Oud-renner Giovanni Visconti krijgt belangrijke rol bij Movistar",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T11:39:29.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/oud-renner-giovanni-visconti-krijgt-belangrijke-rol-bij-movistar/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "d8d2b030f59f",
+   "t": "'Give Mathieu those five seconds, and you won’t see him again' – Thibau Nys chasing Van der Poel's level of cyclo-cross dominance",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T11:38:12.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/give-mathieu-those-five-seconds-and-you-wont-see-him-again-thibau-nys-chasing-van-der-poels-level-of-cyclo-cross-dominance/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "d01b05673c3c",
+   "t": "Schreiber’s stolen European title fight is far from over",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T11:26:35.000Z",
+   "sources": [
+    {
+     "n": "Canadian Cycling Magazine",
+     "u": "https://cyclingmagazine.ca/sections/news/schreibers-stolen-european-title-fight-is-far-from-over/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "3c7dc6f29372",
+   "t": "Laurens Sweeck heeft geen verklaring voor mindere prestaties: \"We zoeken verder naar oplossing\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T11:18:33.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/laurens-sweeck-heeft-geen-verklaring-voor-mindere-prestaties-we-zoeken-verder-naar-oplossing/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "23616c5eb4e6",
+   "t": "GARMIN. EDGE EXPLORE 3 PLUS: TOUCHSCREEN A COLORI, COMANDI VOCALI E BEN 14 ORE DI AUTONOMIA",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T11:00:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/11/09/1794230670/garmin-edge-explore-3-plus-cicloturismo-bike-computer-navigazione-gps-ciclismo-e-bike-tecnologia-ciclistica",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "f860dfede1a7",
+   "t": "RED BULL BORA. DONATI E MAGAGNOTTI PROMOSSI AL WORLD TEAM",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T10:30:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/11/09/1794223672/red-bull-bora-hansgrohe-davide-donati-alessio-magagnotti-talenti-italiani-worldteam",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "e704bc7f1b18",
+   "t": "Joran Wyseure reflecteert over stap naar de veldrittop: \"Vijf jaar geleden had ik je nooit geloofd\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T10:17:15.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/joran-wyseure-reflecteert-over-stap-naar-de-veldrittop-vijf-jaar-geleden-had-ik-je-nooit-geloofd/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "7361dbfc5863",
+   "t": "Zonneveld wehrt sich gegen Vorwürfe von Picnic-Chef",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T10:00:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147244.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "180096039058",
+   "t": "Tadej Pogačar Shared His Freakish Heart Rate Data – Here’s What It Actually Means",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T09:56:18.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/tadej-pogacar-shared-his-freakish-heart-rate-data-heres-what-it-actually-means/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "276d4733582f",
+   "t": "Nu al grote staat van dienst, toch is Europees beloftekampioen Aubin Sparfel emotioneel: \"Daarom hou ik van crossen\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T09:47:00.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/europees-beloftekampioen-aubin-sparfel-emotioneel-in-zeddam-daarom-hou-ik-van-crossen/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "f5fd9bb1b21d",
+   "t": "Marie Schreiber : « C’est irrespectueux de voler ainsi le plus beau moment de ma carrière »",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T09:40:35.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/actualite/cyclo-cross/championnats-europe-cyclo-cross-marie-schreiber-declassement/",
+     "l": "fr"
+    }
+   ]
+  },
+  {
+   "id": "524a3c7b7ff2",
+   "t": "Einhorn verlässt NSN in Richtung Italien",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T08:45:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147185.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "9f32c27bf0b4",
+   "t": "SOLUTION TECH NIPPO RALI, IL PRIMO ACQUISTO E' ITAMAR EINHORN",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T08:20:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/11/09/1794213055/ciclismo-mercato-ciclismo-velocisti-solution-tech-nippo-rali-worldtour",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "30ee7069c8eb",
+   "t": "Diese WorldTour-Profis sind für 2027 offiziell noch ohne Vertrag",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T07:30:00.000Z",
+   "sources": [
+    {
+     "n": "Radsport-News",
+     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147166.htm",
+     "l": "de"
+    }
+   ]
+  },
+  {
+   "id": "96cfa25cffad",
+   "t": "IRMA SIRI. «NUOVA AVVENTURA CON LA HORIZONS, IL SOGNO E' LA SANREMO». E IL CT VILLA LA ASPETTA IN PISTA. GALLERY",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T07:15:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/11/09/1794059688/irma-siri-mercato-ciclismo-talenti-femminili-horizons",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "1869ccf695b8",
+   "t": "L'ORA DEL PASTO. I CAPELLI DEL TRISABILE (CHE NON E' UN MOSTRO...)",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T07:15:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/11/09/1794162172/mauro-battistin-trike-riabilitazione-resilienza-storie-di-sport",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "8cf24dab0693",
+   "t": "NYS. «HO SORPRESO ANCHE ME STESSO, MA HO ANCORA MOLTO LAVORO DA FARE»",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T07:10:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/11/09/1794173594/thibau-nys-campionati-europei-ciclocross-2026-zeddam",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "7c5b183993f8",
+   "t": "TEAM ECOTEK ZERO24, ECCO IL ROSTER PER LA STAGIONE 2027",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T07:06:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/11/09/1794174220/ciclismo-juniores-team-ecotek-zero24-formazione-2027-vivaio",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "2bddd4a59f2b",
+   "t": "UNA NUOVA SEDE PER IL COMITATO PROVINCIALE DI PISTOIA. GALLERY",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T07:00:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/11/09/1794173823/federciclismo-pistoia-toscana-sede-provinciale",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "1374d8cfc35a",
+   "t": "Pogacar se quita la capa de superhéroe: “Nunca pensé que pudiera ganar el Tour de Francia”",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T05:09:33.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/11/09/pogacar-quita-capa-superheroe-nunca-pense-pudiera-ganar-tour-francia.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "453038bba555",
+   "t": "Seixas: \"No sé si iré al próximo Tour, ahora el Mundial es mi prioridad total\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-09T03:02:33.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/11/09/seixas-ire-proximo-tour-mundial-mi-prioridad-total.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "218b0c552b9a",
+   "t": "'Anatomy of a G.O.A.T.' review: New doc answers the question as to why Pogačar is so good",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-08T22:48:39.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/anatomy-of-a-g-o-a-t-review-new-doc-answers-the-question-as-to-why-pogacar-is-so-good/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "84697af53c73",
+   "t": "EFGH Singapore Critérium : Del Toro prend le meilleur sur Seixas",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-08T21:00:52.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/actualite/cyclisme/efgh-singapore-criterium-del-toro-prend-le-meilleur-sur-seixas/",
+     "l": "fr"
+    }
+   ]
+  },
   {
    "id": "fc7218db40b7",
    "t": "Thibau Nys sacré champion d’Europe de cyclo-cross",
@@ -249,6 +1019,20 @@
     {
      "n": "Cyclingnews",
      "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/commissaire-who-relegated-marie-schreiber-at-the-european-cyclo-cross-championships-has-a-history-with-her-sd-worx-protime-team/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "5036238b7f30",
+   "t": "'The most ridiculous reaction I have ever heard' – Three-time world champion Sanne Cant blasts UCI jury over Marie Schreiber’s relegation",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-08T15:57:17.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/ridiculous-sanne-cant-marie-schreiber-relegation/",
      "l": "en"
     }
    ]
@@ -1230,1196 +2014,6 @@
      "n": "HLN Wielrennen",
      "u": "https://www.hln.be/veldrijden/achter-de-schermen-van-een-ongezien-veldritdrama-hoe-overijverige-jury-ek-droom-van-marie-schreiber-doorprikte-en-iedereen-als-verliezer-achterliet~a7a2b212/",
      "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "3c9a649f2652",
-   "t": "Tidligere verdensmester raser mod UCI: - Latterligste nogensinde",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T18:00:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/cross/tidligere-verdensmester-raser-mod-uci-latterligste-nogensinde/11346901",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "8820776369ea",
-   "t": "Vijf vragen over de discutabele sprintfase tussen Lucinda Brand en Marie Schreiber in Zeddam",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T17:38:39.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/vijf-vragen-over-de-discutabele-sprintfase-tussen-lucinda-brand-en-marie-schreiber-in-zeddam/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "9f8d3164d85c",
-   "t": "TotalEnergies schafft Last-Minute-Rettung",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T17:30:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147233.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "be76ede9e40c",
-   "t": "‘I Don’t Have Trauma’: Del Toro Ready to Play His Part in UAE’s Audacious New Goal",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T17:26:49.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/dont-have-trauma-del-toro-giro-return/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "6b718812f7ec",
-   "t": "Brand wilde geen protest, woedende Schreiber boycot podium: 'Dit is zo oneerlijk'",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T17:05:05.000Z",
-   "sources": [
-    {
-     "n": "NOS Wielrennen",
-     "u": "https://nos.nl/l/2638470",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "1e900ad64a2a",
-   "t": "Coach Sanne Cant woest op UCI-voorzitter na declassering Marie Schreiber: \"Meest belachelijke reactie die ik al gehoord heb\"",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T16:48:02.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/coach-sanne-cant-woest-op-uci-voorzitter-na-declassering-marie-schreiber-meest-belachelijke-reactie-die-ik-al-gehoord-heb/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "e3e3e68c3680",
-   "t": "Schreiber emotional: “Es ist respektlos“",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T16:45:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147232.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "4326f3351195",
-   "t": "Knust efter kontroversiel afgørelse: - Respektløst",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T16:34:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/cross/knust-efter-kontroversiel-afgoerelse-respektloest/11346859",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "5dc0f4181fe3",
-   "t": "Del Toro kender endnu ikke sin Grand Tour-rolle",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T16:30:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/del-toro-kender-endnu-ikke-sin-grand-tour-rolle/11346632",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "806867266eab",
-   "t": "Emotionele Marie Schreiber voelt zich door jury bestolen van groots moment: \"Het is niet eerlijk\"",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T16:24:18.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/emotionele-marie-schreiber-voelt-zich-door-jury-bestolen-van-groots-moment-het-is-niet-eerlijk/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "3a3ab52a01ad",
-   "t": "POLEMICA AZZURRA AGLI EUROPEI? DAGNONI: «LA CONVOCAZIONE \"IN LOCO\" CONCORDATA CON TUTTI I TEAM»",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T16:15:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/11/07/1794068662/nazionale-italiana-europei-ciclocross-polemica-federale-zeddam",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "ca6bec6ce224",
-   "t": "Cyclo-cross : Lucinda Brand championne d’Europe après le déclassement de Schreiber",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T16:08:40.000Z",
-   "sources": [
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/courses/championnats-deurope-cyclocross/cyclo-cross-lucinda-brand-championne-deurope-apres-le-declassement-de-schreiber/",
-     "l": "fr"
-    }
-   ]
-  },
-  {
-   "id": "71fb457ff50e",
-   "t": "EK veldrijden 2026 in Zeddam: Ceylin Alvarado met pijnlijke hand naar ziekenhuis na val",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T16:08:03.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/ek-veldrijden-2026-in-zeddam-ceylin-alvarado-met-pijnlijke-hand-naar-ziekenhuis-na-val/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "41996dd7c78e",
-   "t": "“Respectloos om het grootste moment in mijn carrière van me af te nemen”: Marie Schreiber in tranen nadat ze Europese titel moet afgeven aan Lucinda Brand",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T16:01:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/veldrijden/respectloos-om-het-grootste-moment-in-mijn-carriere-van-me-af-te-nemen-marie-schreiber-in-tranen-nadat-ze-europese-titel-moet-afgeven-aan-lucinda-brand~ad0c605a4/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "55e181ab57eb",
-   "t": "Vanthourenhout entschuldigt sich nach Auseinandersetzung",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T16:00:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147231.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "036472a08266",
-   "t": "Marie Schreiber komt niet naar podiumceremonie na declassering: \"Ben ze niets verschuldigd\"",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T15:56:47.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/ek-veldrijden-2026-in-zeddam-marie-schreiber-komt-niet-naar-podiumceremonie-na-declassering/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "fd45b8d7effc",
-   "t": "“Zéér discutabel”: Sven Nys is het niet eens met Europese titel van “zijn” Lucinda Brand nadat Marie Schreiber na licht manoeuvre gedeclasseerd wordt",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T15:51:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/veldrijden/zeer-discutabel-sven-nys-is-het-niet-eens-met-europese-titel-van-zijn-lucinda-brand-nadat-marie-schreiber-na-licht-manoeuvre-gedeclasseerd-wordt~a2a87d6d1/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "188aedb64a7a",
-   "t": "EK veldrijden 2026 in Zeddam: Is Marie Schreiber terecht gedeclasseerd?",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T15:45:57.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/ek-veldrijden-2026-in-zeddam-is-marie-schreiber-terecht-gedeclasseerd/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "40dfe2326e70",
-   "t": "Europamester efter deklassering: - En mærkelig titel",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T15:44:27.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/cross/europamester-efter-deklassering-en-maerkelig-titel/11346794",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "858d697bad8e",
-   "t": "Two helmets: Baptiste Veistroffer on breakaways and bikepacking",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T15:42:22.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/two-helmets-baptiste-veistroffer-on-breakaways-and-bikepacking/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "8f5b19f3a518",
-   "t": "Lucinda Brand is Europees kampioen na declassering Marie Schreiber: \"Een beetje een vreemde titel\"",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T15:38:03.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/lucinda-brand-is-europees-kampioen-na-declassering-marie-schreiber-een-beetje-een-vreemde-titel/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "a0e0f7c5ab63",
-   "t": "Muted celebrations for Brand at CX Euros after Schreiber's relegation for sprint deviation",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T15:32:31.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/muted-celebrations-for-brand-at-cx-euros-after-schreibers-relegation-for-sprint-deviation/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "9cba925ba663",
-   "t": "Brand erobert Europameistertitel am Grünen Tisch",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T15:15:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147230.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "ade313c74a78",
-   "t": "European Cyclo-cross Championships: Lucinda Brand wins elite women's title after Marie Schreiber is disqualified",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T15:02:10.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/european-cyclo-cross-championships-elite-women-marie-schreiber-surges-to-stunning-victory-to-deny-dutch-on-home-soil/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "a900f3ae8ddb",
-   "t": "Brand krijgt alsnog Europese titel veldrijden na straf Luxemburgse Schreiber",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T15:01:30.000Z",
-   "sources": [
-    {
-     "n": "NOS Wielrennen",
-     "u": "https://nos.nl/l/2638443",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "705306d469bc",
-   "t": "Stort drama: EM-vinder bliver deklasseret og dropper podiet",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T15:00:58.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/cross/stort-drama-em-vinder-bliver-deklasseret-og-dropper-podiet/11346731",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "394d989a087f",
-   "t": "EUROPEI ZEDDAM. SCHREIBER RETROCESSA, TITOLO ALLA BRAND: BRAMATI DECIMA",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T14:58:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/11/07/1794063662/ciclocross-campionato-europeo-marie-schreiber-vince-ma-e-declassata-donne-elite-volata",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "5d416e28cc43",
-   "t": "EK veldrijden 2026 in Zeddam: Lucinda Brand pakt Europese titel na declassering Marie Schreiber",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T14:54:48.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/ek-veldrijden-2026-in-zeddam-marie-schreiber-troeft-topfavoriet-lucinda-brand-af-na-zinderende-titelstrijd/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "b8e917e29f5f",
-   "t": "Rune Herregodts va rejoindre la Movistar",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T14:24:55.000Z",
-   "sources": [
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/actualite/cyclisme/transferts/rune-herregodts-va-rejoindre-la-movistar/",
-     "l": "fr"
-    }
-   ]
-  },
-  {
-   "id": "bce14ec8fc27",
-   "t": "LIVE. Lucinda Brand maakt na slipper opnieuw de aansluiting bij koplopers Alvarado en Schreiber",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T14:24:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/veldrijden/live-lucinda-brand-maakt-na-slipper-opnieuw-de-aansluiting-bij-koplopers-alvarado-en-schreiber~ad0c605a4/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "e6203cfccd5c",
-   "t": "European Cyclo-cross Championships: Aubin Sparfel outsprints Belgian pair to seal under-23 men's title for France",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T14:06:59.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/racing/european-cyclo-cross-championships-aubin-sparfel-outsprints-belgian-pair-to-seal-under-23-mens-title-for-france/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "a0dd199ded7d",
-   "t": "“Op en na de trap was het telkens naar adem happen”: waarom Belgische beloften zichzelf niets te verwijten hebben na goud voor Aubin Sparfel",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T14:06:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/veldrijden/op-en-na-de-trap-was-het-telkens-naar-adem-happen-waarom-belgische-beloften-zichzelf-niets-te-verwijten-hebben-na-goud-voor-aubin-sparfel~a75f6f3b/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "6acd212775be",
-   "t": "European Cyclo-cross Championships: Lentel Huys takes glory for Belgium in junior women's race",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T13:58:31.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/european-cyclo-cross-championships-lentel-huys-takes-glory-for-belgium-in-junior-womens-race/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "9a56db5975ae",
-   "t": "Cyclo-cross : Aubin Sparfel champion d’Europe Espoirs",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T13:56:32.000Z",
-   "sources": [
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/courses/championnats-deurope-cyclocross/aubin-sparfel-champion-deurope-cyclo-cross-chez-les-espoirs/",
-     "l": "fr"
-    }
-   ]
-  },
-  {
-   "id": "d6357f9108a6",
-   "t": "Viktor Vandenberghe probeert met leger Belgen Aubin Sparfel te vloeren: “Als blok waren we zeer sterk”",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T13:56:06.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/viktor-vandenberghe-probeert-met-leger-belgen-aubin-sparfel-te-vloeren-als-blok-waren-we-zeer-sterk/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "f9514dd751ca",
-   "t": "'A one-sided story has been told' - Picnic PostNL team owner Iwan Spekenbrink responds to allegations of 'culture of fear' within team",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T13:54:46.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/a-one-sided-story-has-been-told-picnic-postnl-team-owner-ivan-spekenbrink-responds-to-allegations-of-culture-of-fear-within-team/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "e8102794b6ad",
-   "t": "Toptalent Aubin Sparfel dolgelukkig met Europese titel in Zeddam: \"Dit is heel emotioneel\"",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T13:49:01.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/toptalent-aubin-sparfel-dolgelukkig-met-europese-titel-in-zeddam-dit-is-heel-emotioneel/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "ae3346768526",
-   "t": "Piepjonge Giel Lejeune kan leven met tweede plaats op EK veldrijden: \"Het is pas mijn eerste jaar\"",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T13:39:09.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/piepjonge-giel-lejeune-kan-leven-met-tweede-plaats-op-ek-veldrijden-het-is-pas-mijn-eerste-jaar/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "762795caa8c7",
-   "t": "EK veldrijden 2026 in Zeddam: Voorbeschouwing vrouwen - Lucinda Brand tegen sterk kransje buitenlanders",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T13:30:10.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/ek-veldrijden-2026-in-zeddam-voorbeschouwing-vrouwen-lucinda-brand-tegen-sterk-kransje-buitenlanders/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "88d01400a889",
-   "t": "Kryptisk Changizi forlænger",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T13:07:21.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/kryptisk-changizi-forlaenger/11346597",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "019c9a1132f2",
-   "t": "Toptalent Sparfel macht Favoritenrolle in Zeddam wahr",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T13:01:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147229.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "eb01251586ff",
-   "t": "EK veldrijden 2026 in Zeddam: Programma en uitslagen",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T13:00:13.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/ek-veldrijden-2026-in-zeddam-programma-en-uitslagen/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "fb7040d6b3a5",
-   "t": "EK veldrijden 2026 in Zeddam: Topfavoriet Aubin Sparfel is Belgen de baas in een sprint",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T12:52:25.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/ek-veldrijden-2026-in-zeddam-topfavoriet-aubin-sparfel-is-belgen-de-baas-in-een-sprint/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "c6c66adb382c",
-   "t": "EUROPEI ZEDDAM. SPARFEL CONQUISTA L'ORO TRA GLI U23. GRIGOLINI E VIEZZI AI PIEDI DEL PODIO",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T12:52:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/11/07/1794055994/ciclocross-sparfel-campionato-europeo-under-23-decathlon-cma-cgm",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "d1a3d390f28f",
-   "t": "Hvad tænker Pogacar på, når han angriber langt udefra?",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T12:45:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/hvad-taenker-pogacar-paa-naar-han-angriber-langt-udefra/11346495",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "96f39a6ce4c2",
-   "t": "Thibau Nys trains for CX Euros on the stairs at local Lidl supermarket",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T12:21:49.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/thibau-nys-trains-for-cx-euros-on-the-stairs-at-local-lidl-supermarket/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "c4601877dc55",
-   "t": "Scary stuff: Toon Aerts worried about losing his leg after serious knee infection",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T12:12:51.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/sections/news/scary-stuff-toon-aerts-worried-about-losing-his-leg-after-serious-knee-infection/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "5c4d30c011b2",
-   "t": "“Aan tafel zitten met Thibau Nys, het doet haar niets”: Lentel Huys bezorgt Belgisch vrouwenveldrijden een broodnodige boost met Europese titel",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T12:07:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/veldrijden/aan-tafel-zitten-met-thibau-nys-het-doet-haar-niets-lentel-huys-bezorgt-belgisch-vrouwenveldrijden-een-broodnodige-boost-met-europese-titel~a55b6f35/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "3adc86991c13",
-   "t": "Velo Poll: What’s Your Verdict on the 2027 Tour de France and Giro d’Italia Routes?",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T12:01:18.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-racing/velo-poll-2027-grand-tour-routes/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "9fef7a2b4af2",
-   "t": "Van der Poel, Van Aert en meer: deze toppers ontbreken op het EK veldrijden 2026 in Zeddam",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T11:54:10.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/van-der-poel-van-aert-en-meer-deze-toppers-ontbreken-op-het-ek-veldrijden-2026-in-zeddam/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "0ff3c74815c9",
-   "t": "EM-live: Verdensmesteren tilbage efter fejl!",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T11:50:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/live/em-live-verdensmesteren-tilbage-efter-fejl/11343270",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "bc9f2f9a26cf",
-   "t": "EM-live: Sådan blev EM-titler fordelt!",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T11:50:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/live/em-live-saadan-blev-em-titler-fordelt/11343270",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "2d42e8c2ea34",
-   "t": "Belgisk profil frygtede amputation efter styrt i Danmark",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T11:45:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/belgisk-profil-frygtede-amputation-efter-styrt-i-danmark/11346514",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "4a6a3ae05955",
-   "t": "LAATSTE KANS: Alleen dit weekend nog gratis verzending bij aankoop Wintergids van Wielerflits Magazine",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T11:00:04.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/laatste-kans-alleen-dit-weekend-nog-gratis-verzending-bij-aankoop-wintergids-van-wielerflits-magazine/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "1ca1d3916aa8",
-   "t": "Toon Aerts op de weg terug na zware knieblessure: \"Ik heb even gevreesd voor een amputatie\"",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T10:55:00.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/toon-aerts-op-de-weg-terug-na-zware-knieblessure-ik-heb-even-gevreesd-voor-een-amputatie/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "f4b2c980a261",
-   "t": "EK veldrijden 2026: Lentel Huys Europees kampioene bij junioren, Nynke Jochems grijpt naast zilver",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T10:52:21.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/ek-veldrijden-2026-lentel-huys-europees-kampioene-bij-junioren-nynke-jochems-grijpt-naast-zilver/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "6a57930f25e7",
-   "t": "Huys schlägt Huber beim EM-Auftakt in Zeddam",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T10:52:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147228.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "cff43aa8e7a1",
-   "t": "Contador sendte Vingegaard særlig besked",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T10:45:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/contador-sendte-vingegaard-saerlig-besked/11344720",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "ea3414faa811",
-   "t": "“Je moet al veel kaders verkopen om 5 miljoen euro terug te verdienen”: analist Jan Bakelants fileert de financiële crisis in de fietsindustrie",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T10:42:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/je-moet-al-veel-kaders-verkopen-om-5-miljoen-euro-terug-te-verdienen-analist-jan-bakelants-fileert-de-financiele-crisis-in-de-fietsindustrie~a93bdeac/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "c93fde874d0d",
-   "t": "DOMANI LA FESTA PER I 50 ANNI DI ATTIVITA’ DELLE GLORIE DEL CICLISMO TRIVENETO NEL RICORDO DI ALCIDE CERATO",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T10:40:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/11/07/1794048160/ciclismo-triveneto-storia-del-ciclismo-raduno-ciclistico-glorie-del-ciclismo",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "5e7079e84b0c",
-   "t": "EUROPEI ZEDDAM. PRIMO TITOLO ALLA BELGA HUYS. NICOLE RIGHETTO CHIUDE NONA",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T10:37:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/11/07/1794047855/ciclocross-campionati-europei-lentel-huys-juniores-ciclismo",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "21774c801ee1",
-   "t": "Del Toro: \"¿Por qué un mexicano no va a poder ganar el Tour? Tenemos dos piernas, dos brazos, una cabeza; no lo veo lejano ni imposible\"",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T10:11:18.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/11/07/toro-mexicano-ganar-tour-dos-piernas-dos-brazos-cabeza-veo-lejano-imposible.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "6dd3030834e9",
-   "t": "Thibau Nys klaar voor EK veldrijden na bijzondere voorbereiding: \"Denk niet dat er een specialist trappenlopen zal opstaan\"",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T10:07:18.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/thibau-nys-klaar-voor-ek-veldrijden-na-bijzondere-voorbereiding-denk-niet-dat-er-een-specialist-trappenlopen-zal-opstaan/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "02102ed982db",
-   "t": "ALE CX TEAM. EUROPEI PER CARRETTA E BERTOLINI, LA SQUADRA A CASALECCHIO DI RENO",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T10:05:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/11/07/1794046115/ciclocross-ale-cx-team-campionati-europei-master-cross-emilia-romagna-casalecchio-di-reno",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "8324b04a89fb",
-   "t": "How one rider on a Bowhead started Gravel Burn’s adaptive category",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T10:03:07.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/how-one-rider-on-a-bowhead-started-gravel-burns-adaptive-category/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "7a7ea9a5bd69",
-   "t": "Spekenbrink: “Das Bild ist irreführend“",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T10:00:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147227.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "70115803ad29",
-   "t": "'The image is misleading' – Spekenbrink reacts to Picnic-PostNL culture reports",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T09:59:55.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/the-image-is-misleading-spekenbrink-reacts-to-picnic-postnl-culture-reports/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "b24ad288a5fa",
-   "t": "Ny Pogacar-dokumentar: - De har skabt et uhyre",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T09:52:43.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/ny-pogacar-dokumentar-de-har-skabt-et-uhyre/11346430",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "4943420abdb6",
-   "t": "IL CICLISMO MARCHIGIANIO PIANGE EMANUELE SENZACQUA, GIUDICE DI GARA E ORGANIZZATORE APPASSIONATO",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T09:37:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/11/07/1794047981/ciclismo-lutto-fci-marche-giudici-di-gara-petritoli",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "67eab823fdc6",
-   "t": "Holdleder afviser 'frygtkultur': - Misvisende",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T09:29:51.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/holdleder-afviser-frygtkultur-misvisende/11346404",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "e361e379c9fc",
-   "t": "Schreiber plant umfassendes Cross-Programm",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T09:15:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147226.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "c80c47ae54a9",
-   "t": "Ekspert: Giroen passer Vingegaard rigtig godt",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T09:04:49.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/ekspert-giroen-passer-vingegaard-rigtig-godt/11346125",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "2c9a1520dafd",
-   "t": "ANATOMY OF A G.O.A.T., VIAGGIO NEI NUMERI E NEI SEGRETI DI TADEJ POGACAR",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T08:28:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/11/07/1794040580/tadej-pogacar-eurosport-documentario-fisiologia-tour-de-france",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "e2edea349d08",
-   "t": "SEIXAS-DEL TORO, LA SFIDA SI RINNOVA AL CRITERIUM DI SINGAPORE",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T07:30:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/11/07/1793986302/tour-de-france-criterium-singapore-paul-seixas-isaac-del-toro",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "4898101f82f5",
-   "t": "LILHOLT E QUEL DOPPIO TITOLO MONDIALE (CON FANINI) CHE GLI HA APERTO LE PORTE DELLA STORIA IN DANIMARCA. GALLERY",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T07:25:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/11/07/1793834886/soren-lilholt-ivano-fanini-ciclismo-danese-etica-nello-sport",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "b25ef3162bfd",
-   "t": "EFFETTO KIGALI, CRESCE IN AFRICA IL NUMERO DELLE CORSE UCI PER IL 2027",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T07:16:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/11/07/1793971608/africa-tour-uci-sviluppo-ciclistico-africano-tour-du-rwanda-rwanda-2025",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "ec39846f56cc",
-   "t": "ANDREA BIANCALANI, TRE TITOLI MONDIALI E UN SOGNO CHIAMATO OLIMPIADI",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T07:10:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/11/07/1793981262/andrea-biancalani-paraciclismo-mondiali-collare-d-oro-coni",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "863a762c4c70",
-   "t": "Hoe AC/DC in het veldrijden Led Zeppelin overbluft: deze trap van 99 treden is de grote scherprechter van het EK veldrijden in Zeddam",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T07:00:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/veldrijden/hoe-ac-dc-in-het-veldrijden-led-zeppelin-overbluft-deze-trap-van-99-treden-is-de-grote-scherprechter-van-het-ek-veldrijden-in-zeddam~aec8b1ea/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "5eca5c435ae7",
-   "t": "Landstræner vil ikke være tilfreds med andet end guld",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T07:00:00.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/cross/landstraener-vil-ikke-vaere-tilfreds-med-andet-end-guld/11346081",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "c513f8a101d7",
-   "t": "LA CASTELLINA. SI AVVICINA IL PROSSIMO PREMIO “CORAGGIO E AVANTI\": CI SARANNO MOTTA, TONKOV, ZANINI E BALLAN",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T07:00:00.000Z",
-   "sources": [
-    {
-     "n": "TuttoBiciWeb",
-     "u": "https://www.tuttobiciweb.it/article/2026/11/07/1793980957/ciclismo-premi-ciclismo-campioni-santa-lucia-alla-castellina-professionisti",
-     "l": "it"
-    }
-   ]
-  },
-  {
-   "id": "ece64ddf8240",
-   "t": "99 treden pijn lijden voor Europese veldrittitel: 'De trap hoort bij Zeddam'",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T05:00:02.000Z",
-   "sources": [
-    {
-     "n": "NOS Wielrennen",
-     "u": "https://nos.nl/l/2638386",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "8a73d5c95bb2",
-   "t": "Rune Herregodts firma tres temporadas con Movistar Team",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-07T02:49:41.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/11/07/rune-herregodts-firma-tres-temporadas-movistar-team.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "e4f6bed6c761",
-   "t": "Mark Lynskey Opens Up About the Tragic Toll Behind the Bankruptcy",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-06T23:35:03.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/road/road-gear/lynskey-performance-bankruptcy/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "f2afe3a7b41e",
-   "t": "Ultra-Wide and Coming in 29, 30.5, and 32 Sizes: The Newmen Streem G.48 CS",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-06T22:58:27.000Z",
-   "sources": [
-    {
-     "n": "Velo",
-     "u": "https://velo.outsideonline.com/gravel/gravel-gear/newmen-streem-g48-cs-gravel-wheelset/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "01989912b78d",
-   "t": "Amani is shutting down its men's road team to focus on its women's squad, with a big sponsor boost",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-06T22:23:41.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/amani-is-shutting-down-its-mens-continental-team-to-focus-on-its-womens-squad-with-a-big-sponsor-boost/",
-     "l": "en"
     }
    ]
   }
