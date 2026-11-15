@@ -1,6 +1,412 @@
 {
- "updated": "2026-11-15T15:09:27.733Z",
+ "updated": "2026-11-15T21:25:31.765Z",
  "groups": [
+  {
+   "id": "21abdac78f2e",
+   "t": "Lidl-Trek unveils new cyclo-cross team but Thibau Nys stays with father’s squad",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-15T19:02:47.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/lidl-trek-unveils-new-cyclo-cross-team-but-thibau-nys-stays-with-fathers-squad/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "9bc32178334a",
+   "t": "Off Season for Pogačar: MTB Rides, Guinness Sampling and an Irish Wedding",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-15T18:48:07.000Z",
+   "sources": [
+    {
+     "n": "Velo",
+     "u": "https://velo.outsideonline.com/road/road-racing/off-season-for-pogacar-mtb-rides-guinness-sampling-and-an-irish-wedding/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "5a48c617e360",
+   "t": "Matthews afslører: Overvejede karrierestop",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-15T18:48:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/matthews-afsloerer-overvejede-karrierestop/11354859",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "ec6939772abd",
+   "t": "Cyclisme : le tableau des transferts 2026-2027",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-15T18:37:59.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/actualite/cyclisme/transferts/cyclisme-le-tableau-des-transferts-2026-2027/",
+     "l": "fr"
+    }
+   ]
+  },
+  {
+   "id": "ca0c08fac353",
+   "t": "FIORI D'ARANCIO IN ARRIVO, VAN DER POEL HA CHIESTO ALLA SUA ROXANNE DI SPOSARLO",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-15T18:16:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/11/15/1794766775/mathieu-van-der-poel-matrimonio-ciclismo-vita-privata-proposta-di-matrimonio",
+     "l": "it"
+    }
+   ]
+  },
+  {
+   "id": "b0ba6dd4d3ab",
+   "t": "Bahrain-klatrer stopper karrieren",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-15T18:10:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/bahrain-klatrer-stopper-karrieren/11354851",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "a78f2d87e265",
+   "t": "X2O Badkamers Trofee Hamme : Thibau Nys vainqueur",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-15T17:54:57.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/courses/x2o-trophy/x2o-badkamers-trofee-hamme-brand-et-nys-vainqueurs/",
+     "l": "fr"
+    }
+   ]
+  },
+  {
+   "id": "5b00e74163df",
+   "t": "“Ik wil op zoek naar dat flitsende gevoel”: waarom Thibau Nys, ondanks drie zeges op rij, geen vrede neemt met deze versie van zichzelf",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-15T17:42:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/veldrijden/ik-wil-op-zoek-naar-dat-flitsende-gevoel-waarom-thibau-nys-ondanks-drie-zeges-op-rij-geen-vrede-neemt-met-deze-versie-van-zichzelf~ac4c1de8/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "6179e804538a",
+   "t": "Thibau Nys voelt zich helemaal niet dominant: \"Misschien heb ik mezelf te veel in slaap gewiegd\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-15T17:32:00.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/thibau-nys-voelt-zich-helemaal-niet-dominant-misschien-heb-ik-mezelf-te-veel-in-slaap-gewiegd/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "5ac5597a1df5",
+   "t": "Brinkmann benovet over Vingegaard: - Et forbillede",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-15T17:26:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/brinkmann-benovet-over-vingegaard-et-forbillede/11354833",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "f4da0b2fab01",
+   "t": "Saitama Criterium : Paul Seixas conclut en beauté",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-15T17:25:51.000Z",
+   "sources": [
+    {
+     "n": "Vélo 101",
+     "u": "https://www.velo101.com/actualite/cyclisme/saitama-criterium-paul-seixas-conclut-en-beaute/",
+     "l": "fr"
+    }
+   ]
+  },
+  {
+   "id": "6dfaab49ad02",
+   "t": "Stor lykke: Van der Poel skal giftes",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-15T17:09:21.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/stor-lykke-van-der-poel-skal-giftes/11354893",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "ab6353f24125",
+   "t": "Paula Blasi back on the bike eight days after fracturing elbow during grocery run",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-15T17:05:32.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/paula-blasi-back-on-the-bike-eight-days-after-fracturing-elbow-during-grocery-run/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "7c862add9a7d",
+   "t": "Mathieu van der Poel en Roxanne Bertels gaan trouwen",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-15T16:34:49.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/mathieu-van-der-poel-en-roxanne-bertels-gaan-trouwen/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "717c378a710f",
+   "t": "McNulty: Pogacar kommer tilbage på samme niveau",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-15T16:33:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/mcnulty-pogacar-kommer-tilbage-paa-samme-niveau/11354824",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "34c7078cca04",
+   "t": "“Een miljoen keer ja”: Mathieu van der Poel vraagt Vlaamse vriendin Roxanne ten huwelijk",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-15T16:31:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/een-miljoen-keer-ja-mathieu-van-der-poel-vraagt-vlaamse-vriendin-roxanne-ten-huwelijk~abff88e7/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "027fe8f6b2c9",
+   "t": "Waarom Thibau Nys (voorlopig) niet voor het nieuwe veldritproject van Lidl-Trek crost",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-15T16:29:33.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/waarom-thibau-nys-voorlopig-niet-voor-het-nieuwe-veldritproject-van-lidl-trek-crost/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "ab94c590efa0",
+   "t": "'I'd like the team to think less about points' – Scaroni on Astana ahead of 2027",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-15T16:24:56.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/id-like-the-team-to-think-less-about-points-scaroni-on-astana-ahead-of-2027/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "ea7f77b4c2bf",
+   "t": "Thibau Nys en Lucinda Brand voeren X2O Badkamers Trofee aan",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-15T16:07:07.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/thibau-nys-en-lucinda-brand-voeren-x2o-badkamers-trofee-aan/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "c8360959cb2c",
+   "t": "Gallery: The retiring class of 2026, from Julian Alaphilippe to Amanda Spratt",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-15T15:55:20.000Z",
+   "sources": [
+    {
+     "n": "Escape Collective",
+     "u": "https://escapecollective.com/gallery-the-retiring-class-of-2026-from-julian-alaphilippe-to-amanda-spratt/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "bd2a136a82a3",
+   "t": "Michael Vanthourenhout bikkelt mee om de zege: \"Had ik na gisteren niet verwacht\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-15T15:55:09.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/michael-vanthourenhout-bikkelt-mee-om-de-zege-had-ik-na-gisteren-niet-verwacht/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "b8a043ea6c99",
+   "t": "“Lang genoeg om mee te starten”: Remco Evenepoel trapt voorbereiding op wielerseizoen af met ritje van 40 kilometer in eigen land",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-15T15:55:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/wielrennen/lang-genoeg-om-mee-te-starten-remco-evenepoel-trapt-voorbereiding-op-wielerseizoen-af-met-ritje-van-40-kilometer-in-eigen-land~a98ef736/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "335a5350fdd5",
+   "t": "Thibau Nys se impone al esprint en el Trofeo X20 Badkamers y Orts acaba octavo",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-15T15:44:40.000Z",
+   "sources": [
+    {
+     "n": "Marca Ciclismo",
+     "u": "https://www.marca.com/ciclismo/2026/11/15/thibau-nys-impone-esprint-trofeo-x20-badkamers-orts-acaba-octavo.html",
+     "l": "es"
+    }
+   ]
+  },
+  {
+   "id": "a07f53cfdb8e",
+   "t": "Nys tager første sejr i europamestertrøjen",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-15T15:37:12.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/cross/nys-tager-foerste-sejr-i-europamestertroejen/11354829",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "a0164f96a543",
+   "t": "Thibau Nys stikkapot na zege: \"Kan me niet herinneren dat ik nog zo diep ben gegaan\"",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-15T15:37:00.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/thibau-nys-stikkapot-na-zege-kan-me-niet-herinneren-dat-ik-nog-zo-diep-ben-gegaan/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "4a4928c47a91",
+   "t": "X2O Trofee Hamme-Zogge: Thibau Nys powers to victory in four-way battle at tactical fast Bollekescross",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-15T15:24:38.000Z",
+   "sources": [
+    {
+     "n": "Cyclingnews",
+     "u": "https://www.cyclingnews.com/pro-cycling/racing/x2o-trofee-hamme-zogge-thibau-nys-powers-to-victory-in-four-way-battle-at-tactical-fast-bollekescross/",
+     "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "12b08c6c2b67",
+   "t": "Stjerneagent i opråb: Sådan styrker man sikkerheden",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-15T15:21:00.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/incoming/stjerneagent-i-opraab-saadan-styrker-man-sikkerheden/11354806",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "7a2b23ca8be3",
+   "t": "Danny van Lierop maakt favorietenrol waar in VAM-berg Cross",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-15T15:18:43.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/danny-van-lierop-maakt-favorietenrol-waar-in-vam-berg-cross/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
+   "id": "c0cdf302a08c",
+   "t": "HAMME ZOGGE. NYS REGOLA VANDEPUTTE E VANTHOURENHOUT E BISSA IL SUCCESSO DEL 2025",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-15T15:07:00.000Z",
+   "sources": [
+    {
+     "n": "TuttoBiciWeb",
+     "u": "https://www.tuttobiciweb.it/article/2026/11/15/1794755456/ciclocross-thibau-nys-trofeo-dvv-belgio-elite",
+     "l": "it"
+    }
+   ]
+  },
   {
    "id": "9d86940d6b83",
    "t": "Thibau Nys sprint na razendspannende slotronde naar zege in X2O Trofee Hamme-Zogge",
@@ -44,6 +450,20 @@
    ]
   },
   {
+   "id": "96bc39eb5622",
+   "t": "“Halfweg koers geloofde ik er niet meer in”: Thibau Nys “moest écht heel diep gaan”, maar slaat op juiste moment toe op weg naar derde seizoenszege",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-15T15:00:00.000Z",
+   "sources": [
+    {
+     "n": "HLN Wielrennen",
+     "u": "https://www.hln.be/veldrijden/halfweg-koers-geloofde-ik-er-niet-meer-in-thibau-nys-moest-echt-heel-diep-gaan-maar-slaat-op-juiste-moment-toe-op-weg-naar-derde-seizoenszege~a707e9f0b/",
+     "l": "nl"
+    }
+   ]
+  },
+  {
    "id": "f14ed807f343",
    "t": "Stjerne styrtede på vej til supermarkedet og brækkede albuen",
    "s": "",
@@ -67,6 +487,20 @@
     {
      "n": "Feltet.dk",
      "u": "https://feltet.dk/landevej/ikonisk-evenepoel-praestation-foreviggjort-paa-alpebjerg/11354780",
+     "l": "da"
+    }
+   ]
+  },
+  {
+   "id": "03c2b3d8dfd4",
+   "t": "Ikonisk Evenepoel-præstation foreviggjort",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-15T14:19:32.000Z",
+   "sources": [
+    {
+     "n": "Feltet.dk",
+     "u": "https://feltet.dk/landevej/ikonisk-evenepoel-praestation-foreviggjort/11354780",
      "l": "da"
     }
    ]
@@ -278,6 +712,20 @@
      "n": "Cyclingnews",
      "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/expectations-are-sky-high-annemiek-van-vleuten-warns-demi-vollering-that-her-successful-2026-could-be-hard-to-match/",
      "l": "en"
+    }
+   ]
+  },
+  {
+   "id": "5cfeff4f3243",
+   "t": "Voorbeschouwing: X2O Trofee Hamme-Zogge 2026 - Thibau Nys debuteert in Europese trui in Bollekescross",
+   "s": "",
+   "c": "other",
+   "date": "2026-11-15T12:30:10.000Z",
+   "sources": [
+    {
+     "n": "Wielerflits",
+     "u": "https://www.wielerflits.nl/nieuws/voorbeschouwing-x2o-trofee-hamme-zogge-thibau-nys-debuteert-in-europese-trui-in-bollekescross/",
+     "l": "nl"
     }
    ]
   },
@@ -2140,524 +2588,6 @@
      "n": "Cyclingnews",
      "u": "https://www.cyclingnews.com/cycling-kit-accessories/clothing-shoes/the-le-col-black-friday-sale-is-live-i-built-a-winter-cycling-outfit-and-saved-over-usd435-heres-what-i-picked/",
      "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "bb71f56fd766",
-   "t": "Some more bike lane drama in Montreal bike lanes",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T20:15:10.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/sections/news/some-more-bike-lane-drama-in-montreal-bike-lanes/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "964502f1f375",
-   "t": "Cycling broke my pelvis but it hasn't yet broken my trust",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T19:55:09.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/cycling-broke-my-pelvis-but-it-hasnt-yet-broken-my-trust/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "0b5d604283d5",
-   "t": "Les huit jeunes coureurs à suivre en 2027",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T18:34:24.000Z",
-   "sources": [
-    {
-     "n": "Vélo 101",
-     "u": "https://www.velo101.com/actualite/cyclisme/les-huit-jeunes-coureurs-a-suivre-en-2027/",
-     "l": "fr"
-    }
-   ]
-  },
-  {
-   "id": "b7f454f59e00",
-   "t": "Merckx actualiza su estado de salud a los 81 años: \"Sigo en rehabilitación, pero voy bastante bien\"",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T18:33:51.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/11/13/merckx-actualiza-salud-81-anos-sigo-rehabilitacion-bien.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "c964b16f8901",
-   "t": "La 'Superliga' ciclista vuelve a rodar: 17 empresas unen a 26 equipos para tomar el control del ciclismo",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T18:25:32.000Z",
-   "sources": [
-    {
-     "n": "Marca Ciclismo",
-     "u": "https://www.marca.com/ciclismo/2026/11/13/superliga-ciclista-vuelve-rodar-17-empresas-unen-26-equipos-tomar-control-ciclismo.html",
-     "l": "es"
-    }
-   ]
-  },
-  {
-   "id": "7394ca6c788d",
-   "t": "Behind the Curtain at CeramicSpeed",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T18:22:01.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/behind-the-curtain-at-ceramicspeed/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "fa2a1face914",
-   "t": "EVOC Bikepacking Gets Storage Upgrade in New 9-15L Seat Pack BOA WP Bags",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T18:20:45.000Z",
-   "sources": [
-    {
-     "n": "Bikerumor",
-     "u": "https://bikerumor.com/evoc-bikepacking-gets-storage-upgrade-in-new-9-15l-seat-pack-boa-wp-bags/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "e5425426d1aa",
-   "t": "Als een volleerd circusartieste: Puck Pieterse kruipt omgekeerd op fiets (en ook helm en bril zijn in ‘thema’)",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T18:20:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/als-een-volleerd-circusartieste-puck-pieterse-kruipt-omgekeerd-op-fiets-en-ook-helm-en-bril-zijn-in-thema~a98ef736/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "c6fc2c1766bc",
-   "t": "'I'm happy I'm still alive and able to continue to try to live my dream of a WorldTour career' – Ex-Ineos talent Theodor Storm signs for new team after nightmare three years",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T18:01:27.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/im-happy-im-still-alive-and-able-to-continue-to-try-to-live-my-dream-of-a-worldtour-career-ex-ineos-talent-theodor-storm-signs-for-new-team-after-nightmare-three-years/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "5cfeff4f3243",
-   "t": "Voorbeschouwing: X2O Trofee Hamme-Zogge 2026 - Thibau Nys debuteert in Europese trui in Bollekescross",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T18:00:07.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/voorbeschouwing-x2o-trofee-hamme-zogge-thibau-nys-debuteert-in-europese-trui-in-bollekescross/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "3be32f892915",
-   "t": "Nys kæmpede med selvtilliden før comeback",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T17:45:07.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/cross/nys-kaempede-med-selvtilliden-foer-comeback/11353594",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "84022baafe18",
-   "t": "Sweeck Dreams en Mostoja Rockets verdedigen hun leiderspositie in Wielerflits Fantasy Game tijdens dubbel crossweekend",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T17:45:00.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/sweeck-dreams-en-mostoja-rockets-verdedigen-hun-leiderspositie-in-wielerflits-fantasy-game-tijdens-dubbel-crossweekend/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "400efc5ef77c",
-   "t": "Michael Vanthourenhout verliest miljoenen, Nieuwenhuis en Bakker schieten omhoog in Wielerflits Fantasy Game",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T17:42:03.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/michael-vanthourenhout-verliest-miljoenen-nieuwenhuis-en-bakker-schieten-omhoog-in-wielerflits-fantasy-game/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "61e12c0a5759",
-   "t": "Beste vriend en persoonlijk verzorger Tadej Pogačar voorspelde zijn succes: “Ik wist het toen al”",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T17:30:00.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/beste-vriend-en-persoonlijk-verzorger-tadej-pogacar-voorspelde-zijn-succes-ik-wist-het-toen-al/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "9665b014a23d",
-   "t": "Canyon dropped one of their best deals just in time for Black Friday",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T17:22:58.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/sections/news/canyon-dropped-one-of-their-best-deals-just-in-time-for-black-friday/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "515daf10f70c",
-   "t": "Lighter, stiffer, but is it more aero? We wind tunnel tested the Giant Propel",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T16:59:52.000Z",
-   "sources": [
-    {
-     "n": "Cyclingnews",
-     "u": "https://www.cyclingnews.com/bikes/road/lighter-stiffer-but-is-it-more-aero-we-wind-tunnel-tested-the-giant-propel/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "693b02871904",
-   "t": "Van der Poel om vanvittig afslutning: - Jeg husker ikke meget",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T16:56:20.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/van-der-poel-om-vanvittig-afslutning-jeg-husker-ikke-meget/11353552",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "bd0befd1d06d",
-   "t": "The Best Cycling Deals From REI’s Holiday Sale",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T16:55:42.000Z",
-   "sources": [
-    {
-     "n": "Bikerumor",
-     "u": "https://bikerumor.com/the-best-cycling-deals-from-reis-holiday-sale/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "9ff9e2fddfe0",
-   "t": "Nederlands talent jaagt op UCI-punten in tweede editie VAM-berg Cross",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T16:36:37.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/nederlands-talent-jaagt-op-uci-punten-in-tweede-editie-vam-berg-cross/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "61b1b7a20923",
-   "t": "32″ Ventum Aura Gets Official, First MTB to Launch February 13",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T16:36:09.000Z",
-   "sources": [
-    {
-     "n": "Bikerumor",
-     "u": "https://bikerumor.com/ventum-may-bet-on-a-32-wheel-to-win-the-32nd-leadville-100-with-their-first-mtb/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "8ab260fe780d",
-   "t": "De donkerste nacht in de geschiedenis van de Zesdaagse: “4.000 man in het Kuipke werd stil. Het enige wat je hoorde, waren de dokters”",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T16:35:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/de-donkerste-nacht-in-de-geschiedenis-van-de-zesdaagse-4-000-man-in-het-kuipke-werd-stil-het-enige-wat-je-hoorde-waren-de-dokters~ae753c6d/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "5009603823e2",
-   "t": "Cyclist Magazine Podcast: Sean Yates on Wiggins, Lance and falling off ladders",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T16:33:43.000Z",
-   "sources": [
-    {
-     "n": "Cyclist (cyclist.co.uk)",
-     "u": "https://www.cyclist.co.uk/news/sean-yates-podcast-2026",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "30ee7069c8eb",
-   "t": "Diese WorldTour-Profis sind für 2027 offiziell noch ohne Vertrag",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T16:30:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147166.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "91834098537f",
-   "t": "UCI Gravel World Series sluit 2026 af in Thailand en Griekenland: twee bekende(re) namen aan de start",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T16:26:43.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/uci-gravel-world-series-sluit-2026-af-in-thailand-en-griekenland-twee-bekende-re-namen-aan-de-start/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "3cf5414ff8c3",
-   "t": "We’ll have to wait even longer for Wout van Aert’s worlds decision",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T16:25:11.000Z",
-   "sources": [
-    {
-     "n": "Canadian Cycling Magazine",
-     "u": "https://cyclingmagazine.ca/sections/news/well-have-to-wait-even-longer-for-wout-van-aerts-worlds-decision/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "356d279ad0ff",
-   "t": "Life Time increases Grand Prix purse to US$800,000",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T16:19:19.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/life-time-increases-grand-prix-purse-to-us-800-000/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "a0fbdfc815fd",
-   "t": "Alaphilippe: - Jeg har fået nok af rampelyset",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T16:12:36.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/alaphilippe-jeg-har-faaet-nok-af-rampelyset/11353506",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "81657251e606",
-   "t": "Bund fördert die deutsche Tour-Bewerbung 2029",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T16:12:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147282.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "e135ed151e80",
-   "t": "Alaphilippe: 'I was getting less and less enjoyment from modern cycling'",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T15:58:38.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/alaphilippe-i-was-getting-less-and-less-enjoyment-from-modern-cycling/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "093694b321aa",
-   "t": "The Leather Wolvhammer is Back. Updated 45NRTH Winter Boots Land Just in Time for Winter",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T15:53:12.000Z",
-   "sources": [
-    {
-     "n": "Bikerumor",
-     "u": "https://bikerumor.com/the-leather-wolvhammer-is-back-updated-45nrth-winter-boots-land-just-in-time-for-winter/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "b8e91804fef8",
-   "t": "Landstræner afslører: - Her starter Van Aert sin cross-sæson",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T15:45:05.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/cross/landstraener-afsloerer-her-starter-van-aert-sin-cross-saeson/11353485",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "51b99058c70e",
-   "t": "Pinarello-Q36.5 verwacht geen botsing tussen 'temperamentvolle' Pidcock en Ciccone: \"Moeten allebei de positieve kant zien\"",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T15:43:57.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/pinarello-q36-5-verwacht-geen-botsing-tussen-temperamentvolle-pidcock-en-ciccone-moeten-allebei-de-positieve-kant-zien/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "65bfa3959933",
-   "t": "Evenepoel: Securing the 'double World Championship' is the 'next ultimate goal'",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T15:38:37.000Z",
-   "sources": [
-    {
-     "n": "Escape Collective",
-     "u": "https://escapecollective.com/evenepoel-securing-the-double-world-championship-is-the-next-ultimate-goal/",
-     "l": "en"
-    }
-   ]
-  },
-  {
-   "id": "a4b969798a28",
-   "t": "Kyllingen om Vingegaards tilgang: En stor misforståelse",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T15:32:01.000Z",
-   "sources": [
-    {
-     "n": "Feltet.dk",
-     "u": "https://feltet.dk/landevej/kyllingen-om-vingegaards-tilgang-en-stor-misforstaaelse/11353359",
-     "l": "da"
-    }
-   ]
-  },
-  {
-   "id": "926759e91600",
-   "t": "Zwei Routiniers, ein WT-Aufsteiger und mehrere nationale Sieger",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T15:30:00.000Z",
-   "sources": [
-    {
-     "n": "Radsport-News",
-     "u": "\r\n      http://www.radsport-news.com/sport/sportnews_147276.htm",
-     "l": "de"
-    }
-   ]
-  },
-  {
-   "id": "c64071274828",
-   "t": "‘Er ging een zucht van verlichting door het peloton toen Pogacar niet meedeed’",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T15:25:25.000Z",
-   "sources": [
-    {
-     "n": "Wielerflits",
-     "u": "https://www.wielerflits.nl/nieuws/er-ging-een-zucht-van-verlichting-door-het-peloton-toen-pogacar-niet-meedeed/",
-     "l": "nl"
-    }
-   ]
-  },
-  {
-   "id": "da72df364106",
-   "t": "Lucinda Brand start ondanks voetblessure in Merksplas en Hamme-Zogge, Ceylin Alvarado blijft nog even aan de kant",
-   "s": "",
-   "c": "other",
-   "date": "2026-11-13T15:16:00.000Z",
-   "sources": [
-    {
-     "n": "HLN Wielrennen",
-     "u": "https://www.hln.be/wielrennen/lucinda-brand-start-ondanks-voetblessure-in-merksplas-en-hamme-zogge-ceylin-alvarado-blijft-nog-even-aan-de-kant~a98ef736/",
-     "l": "nl"
     }
    ]
   }
